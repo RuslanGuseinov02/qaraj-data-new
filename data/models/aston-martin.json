@@ -1,0 +1,247 @@
+{
+    "make": {
+        "slug": "aston-martin",
+        "name": "Aston Martin"
+    },
+    "data": [
+        {
+            "slug": "amv8",
+            "name": "AMV8",
+            "year_start": 1972,
+            "year_end": 1989,
+            "generation_count": 1
+        },
+        {
+            "slug": "bulldog",
+            "name": "Bulldog",
+            "year_start": 1979,
+            "year_end": 1982,
+            "generation_count": 1
+        },
+        {
+            "slug": "cygnet",
+            "name": "Cygnet",
+            "year_start": 2011,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "db11",
+            "name": "DB11",
+            "year_start": 2016,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "db12",
+            "name": "DB12",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "db7",
+            "name": "DB7",
+            "year_start": 1994,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "db7-vantage",
+            "name": "DB7 Vantage",
+            "year_start": 1999,
+            "year_end": 2004,
+            "generation_count": 1
+        },
+        {
+            "slug": "db9",
+            "name": "DB9",
+            "year_start": 2004,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "dbs",
+            "name": "DBS",
+            "year_start": 1967,
+            "year_end": 2012,
+            "generation_count": 2
+        },
+        {
+            "slug": "dbs-770-ultimate",
+            "name": "DBS 770 Ultimate",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "dbs-superleggera",
+            "name": "DBS Superleggera",
+            "year_start": 2018,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "dbx",
+            "name": "DBX",
+            "year_start": 2020,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "lagonda",
+            "name": "Lagonda",
+            "year_start": 1974,
+            "year_end": 1990,
+            "generation_count": 1
+        },
+        {
+            "slug": "dbx-s",
+            "name": "Martin DBX S",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "dbx707",
+            "name": "Martin DBX707",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "valhalla",
+            "name": "Martin Valhalla",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "vanquish",
+            "name": "Martin Vanquish",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "one-77",
+            "name": "One-77",
+            "year_start": 2009,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "rapide",
+            "name": "Rapide",
+            "year_start": 2010,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "rapide-amr",
+            "name": "Rapide AMR",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "rapide-s",
+            "name": "Rapide S",
+            "year_start": 2013,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "v12-vanquish",
+            "name": "V12 Vanquish",
+            "year_start": 2001,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "v12-vantage",
+            "name": "V12 Vantage",
+            "year_start": 2008,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "v12-zagato",
+            "name": "V12 Zagato",
+            "year_start": 2011,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "v8",
+            "name": "V8",
+            "year_start": 1974,
+            "year_end": 2000,
+            "generation_count": 2
+        },
+        {
+            "slug": "v8-vantage",
+            "name": "V8 Vantage",
+            "year_start": 1977,
+            "year_end": 2017,
+            "generation_count": 3
+        },
+        {
+            "slug": "v8-virage",
+            "name": "V8 Virage",
+            "year_start": 1988,
+            "year_end": 1996,
+            "generation_count": 1
+        },
+        {
+            "slug": "v8-zagato",
+            "name": "V8 Zagato",
+            "year_start": 1986,
+            "year_end": 1989,
+            "generation_count": 1
+        },
+        {
+            "slug": "valkyrie",
+            "name": "Valkyrie",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "valour",
+            "name": "Valour",
+            "year_start": 2023,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "vanquish-s",
+            "name": "Vanquish S",
+            "year_start": 2004,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "vantage",
+            "name": "Vantage",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "vantage-s",
+            "name": "Vantage S",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "virage",
+            "name": "Virage",
+            "year_start": 1988,
+            "year_end": 2012,
+            "generation_count": 2
+        }
+    ],
+    "total": 34
+}
