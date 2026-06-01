@@ -1,0 +1,177 @@
+{
+    "make": {
+        "slug": "acura",
+        "name": "Acura"
+    },
+    "data": [
+        {
+            "slug": "adx",
+            "name": "ADX",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "cdx",
+            "name": "CDX",
+            "year_start": 2016,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "cl",
+            "name": "CL",
+            "year_start": 1997,
+            "year_end": 2003,
+            "generation_count": 2
+        },
+        {
+            "slug": "cl-type-s",
+            "name": "CL Type-S",
+            "year_start": 2001,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "csx",
+            "name": "CSX",
+            "year_start": 2005,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "el",
+            "name": "EL",
+            "year_start": 1997,
+            "year_end": 2005,
+            "generation_count": 2
+        },
+        {
+            "slug": "ilx",
+            "name": "ILX",
+            "year_start": 2012,
+            "year_end": 2022,
+            "generation_count": 3
+        },
+        {
+            "slug": "integra",
+            "name": "Integra",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "integra-type-r",
+            "name": "Integra Type-R",
+            "year_start": 1997,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "integra-type-s",
+            "name": "Integra Type-S",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "legend",
+            "name": "Legend",
+            "year_start": 1986,
+            "year_end": 1996,
+            "generation_count": 2
+        },
+        {
+            "slug": "mdx",
+            "name": "MDX",
+            "year_start": 2001,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "nsx",
+            "name": "NSX",
+            "year_start": 1991,
+            "year_end": 2023,
+            "generation_count": 3
+        },
+        {
+            "slug": "rdx",
+            "name": "RDX",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "rl",
+            "name": "RL",
+            "year_start": 1996,
+            "year_end": 2013,
+            "generation_count": 3
+        },
+        {
+            "slug": "rlx",
+            "name": "RLX",
+            "year_start": 2013,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "rsx",
+            "name": "RSX",
+            "year_start": 2002,
+            "year_end": 2006,
+            "generation_count": 2
+        },
+        {
+            "slug": "slx",
+            "name": "SLX",
+            "year_start": 1995,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "tl",
+            "name": "TL",
+            "year_start": 1995,
+            "year_end": 2014,
+            "generation_count": 5
+        },
+        {
+            "slug": "tlx",
+            "name": "TLX",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "tlx-l",
+            "name": "TLX-L",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "tsx",
+            "name": "TSX",
+            "year_start": 2003,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "vigor",
+            "name": "Vigor",
+            "year_start": 1991,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "zdx",
+            "name": "ZDX",
+            "year_start": 2009,
+            "year_end": null,
+            "generation_count": 2
+        }
+    ],
+    "total": 24
+}
