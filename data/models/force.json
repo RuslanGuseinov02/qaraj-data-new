@@ -1,0 +1,58 @@
+{
+    "make": {
+        "slug": "force",
+        "name": "Force"
+    },
+    "data": [
+        {
+            "slug": "citiline",
+            "name": "Citiline",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "gurkha",
+            "name": "Gurkha",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "kargo-king",
+            "name": "Kargo King",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "one",
+            "name": "One",
+            "year_start": 2011,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "traveller",
+            "name": "Traveller",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "trax",
+            "name": "Trax",
+            "year_start": 2011,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "urbania",
+            "name": "Urbania",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 7
+}
