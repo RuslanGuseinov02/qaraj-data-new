@@ -1,0 +1,72 @@
+{
+    "make": {
+        "slug": "exeed",
+        "name": "Exeed"
+    },
+    "data": [
+        {
+            "slug": "exlantix-es",
+            "name": "Exlantix ES",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "exlantix-et",
+            "name": "Exlantix ET",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "lx",
+            "name": "LX",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "rx",
+            "name": "RX",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sterra-es",
+            "name": "Sterra ES",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sterra-et",
+            "name": "Sterra ET",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tx",
+            "name": "TX",
+            "year_start": 2019,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "txl",
+            "name": "TXL",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "vx",
+            "name": "VX",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 3
+        }
+    ],
+    "total": 9
+}
