@@ -1,0 +1,303 @@
+{
+    "make": {
+        "slug": "cadillac",
+        "name": "Cadillac"
+    },
+    "data": [
+        {
+            "slug": "ats",
+            "name": "ATS",
+            "year_start": 2013,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "ats-l",
+            "name": "ATS-L",
+            "year_start": 2014,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "ats-v",
+            "name": "ATS-V",
+            "year_start": 2016,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "allante",
+            "name": "Allante",
+            "year_start": 1987,
+            "year_end": 1993,
+            "generation_count": 1
+        },
+        {
+            "slug": "bls",
+            "name": "BLS",
+            "year_start": 2005,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "brougham",
+            "name": "Brougham",
+            "year_start": 1987,
+            "year_end": 1992,
+            "generation_count": 1
+        },
+        {
+            "slug": "ct4",
+            "name": "CT4",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ct4-v",
+            "name": "CT4-V",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ct5",
+            "name": "CT5",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "ct5-v",
+            "name": "CT5-V",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "ct6",
+            "name": "CT6",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "ct6-v",
+            "name": "CT6-V",
+            "year_start": 2019,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "cts",
+            "name": "CTS",
+            "year_start": 2002,
+            "year_end": 2019,
+            "generation_count": 3
+        },
+        {
+            "slug": "cts-v",
+            "name": "CTS-V",
+            "year_start": 2004,
+            "year_end": 2019,
+            "generation_count": 3
+        },
+        {
+            "slug": "catera",
+            "name": "Catera",
+            "year_start": 1997,
+            "year_end": 2001,
+            "generation_count": 2
+        },
+        {
+            "slug": "celestiq",
+            "name": "Celestiq",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "dts",
+            "name": "DTS",
+            "year_start": 2006,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "deville",
+            "name": "DeVille",
+            "year_start": 1971,
+            "year_end": 2005,
+            "generation_count": 5
+        },
+        {
+            "slug": "elr",
+            "name": "ELR",
+            "year_start": 2014,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "eldorado",
+            "name": "Eldorado",
+            "year_start": 1953,
+            "year_end": 2002,
+            "generation_count": 10
+        },
+        {
+            "slug": "escalade",
+            "name": "Escalade",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "escalade-iq",
+            "name": "Escalade IQ",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "escalade-v",
+            "name": "Escalade-V",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "fleetwood",
+            "name": "Fleetwood",
+            "year_start": 1985,
+            "year_end": 1996,
+            "generation_count": 2
+        },
+        {
+            "slug": "fleetwood-brougham",
+            "name": "Fleetwood Brougham",
+            "year_start": 1977,
+            "year_end": 1986,
+            "generation_count": 1
+        },
+        {
+            "slug": "gt4",
+            "name": "GT4",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "lyriq",
+            "name": "Lyriq",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "lyriq-v",
+            "name": "Lyriq-V",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "optiq",
+            "name": "Optiq",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "optiq-v",
+            "name": "Optiq-V",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sls",
+            "name": "SLS",
+            "year_start": 2007,
+            "year_end": 2013,
+            "generation_count": 2
+        },
+        {
+            "slug": "srx",
+            "name": "SRX",
+            "year_start": 2004,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "sts",
+            "name": "STS",
+            "year_start": 2004,
+            "year_end": 2012,
+            "generation_count": 2
+        },
+        {
+            "slug": "sts-v",
+            "name": "STS-V",
+            "year_start": 2005,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "seville",
+            "name": "Seville",
+            "year_start": 1975,
+            "year_end": 2004,
+            "generation_count": 5
+        },
+        {
+            "slug": "vistiq",
+            "name": "Vistiq",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "xlr",
+            "name": "XLR",
+            "year_start": 2004,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "xlr-v",
+            "name": "XLR-V",
+            "year_start": 2006,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "xt4",
+            "name": "XT4",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "xt5",
+            "name": "XT5",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "xt6",
+            "name": "XT6",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "xts",
+            "name": "XTS",
+            "year_start": 2013,
+            "year_end": 2019,
+            "generation_count": 2
+        }
+    ],
+    "total": 42
+}
