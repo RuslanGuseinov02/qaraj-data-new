@@ -1,0 +1,121 @@
+{
+    "make": {
+        "slug": "dacia",
+        "name": "Dacia"
+    },
+    "data": [
+        {
+            "slug": "bigster",
+            "name": "Bigster",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "dokker",
+            "name": "Dokker",
+            "year_start": 2012,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "dokker-express",
+            "name": "Dokker Express",
+            "year_start": 2012,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "dokker-stepway",
+            "name": "Dokker Stepway",
+            "year_start": 2017,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "duster",
+            "name": "Duster",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "jogger",
+            "name": "Jogger",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "lodgy",
+            "name": "Lodgy",
+            "year_start": 2012,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "lodgy-stepway",
+            "name": "Lodgy Stepway",
+            "year_start": 2014,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "logan",
+            "name": "Logan",
+            "year_start": 2004,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "logan-mcv",
+            "name": "Logan MCV",
+            "year_start": 2006,
+            "year_end": 2021,
+            "generation_count": 4
+        },
+        {
+            "slug": "logan-mcv-stepway",
+            "name": "Logan MCV Stepway",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "sandero",
+            "name": "Sandero",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "sandero-stepway",
+            "name": "Sandero Stepway",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "solenza",
+            "name": "Solenza",
+            "year_start": 2003,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "spring",
+            "name": "Spring",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "supernova",
+            "name": "SupeRNova",
+            "year_start": 2000,
+            "year_end": 2003,
+            "generation_count": 1
+        }
+    ],
+    "total": 16
+}
