@@ -1,0 +1,212 @@
+{
+    "make": {
+        "slug": "gmc",
+        "name": "GMC"
+    },
+    "data": [
+        {
+            "slug": "acadia",
+            "name": "Acadia",
+            "year_start": 2006,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "acadia-limited",
+            "name": "Acadia Limited",
+            "year_start": 2017,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "canyon",
+            "name": "Canyon",
+            "year_start": 2004,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "envoy",
+            "name": "Envoy",
+            "year_start": 1998,
+            "year_end": 2009,
+            "generation_count": 2
+        },
+        {
+            "slug": "hummer-ev",
+            "name": "Hummer EV",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "jimmy",
+            "name": "Jimmy",
+            "year_start": 1982,
+            "year_end": 2004,
+            "generation_count": 3
+        },
+        {
+            "slug": "jimmy-full-size",
+            "name": "Jimmy K5",
+            "year_start": 1969,
+            "year_end": 1991,
+            "generation_count": 3
+        },
+        {
+            "slug": "safari",
+            "name": "Safari",
+            "year_start": 1985,
+            "year_end": 2005,
+            "generation_count": 2
+        },
+        {
+            "slug": "savana-1500",
+            "name": "Savana 1500",
+            "year_start": 1996,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "savana-2500",
+            "name": "Savana 2500",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "savana-3500",
+            "name": "Savana 3500",
+            "year_start": 1996,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "sierra-1500",
+            "name": "Sierra 1500",
+            "year_start": 1988,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "sierra-1500-classic",
+            "name": "Sierra 1500 Classic",
+            "year_start": 2007,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "sierra-1500-limited",
+            "name": "Sierra 1500 Limited",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "sierra-2500",
+            "name": "Sierra 2500HD",
+            "year_start": 1999,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "sierra-2500hd-classic",
+            "name": "Sierra 2500HD Classic",
+            "year_start": 2007,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "sierra-3500-classic",
+            "name": "Sierra 3500 Classic",
+            "year_start": 2007,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "sierra-3500",
+            "name": "Sierra 3500HD",
+            "year_start": 1999,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "sierra-ev",
+            "name": "Sierra EV",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sonoma",
+            "name": "Sonoma",
+            "year_start": 1982,
+            "year_end": 2004,
+            "generation_count": 2
+        },
+        {
+            "slug": "suburban-1500",
+            "name": "Suburban 1500",
+            "year_start": 1973,
+            "year_end": 2006,
+            "generation_count": 3
+        },
+        {
+            "slug": "suburban-2500",
+            "name": "Suburban 2500",
+            "year_start": 1973,
+            "year_end": 2006,
+            "generation_count": 3
+        },
+        {
+            "slug": "syclone",
+            "name": "Syclone",
+            "year_start": 1991,
+            "year_end": 1992,
+            "generation_count": 1
+        },
+        {
+            "slug": "terrain",
+            "name": "Terrain",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "typhoon",
+            "name": "Typhoon",
+            "year_start": 1992,
+            "year_end": 1993,
+            "generation_count": 1
+        },
+        {
+            "slug": "yukon",
+            "name": "Yukon",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "yukon-xl",
+            "name": "Yukon XL",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "yukon-xl-1500",
+            "name": "Yukon XL 1500",
+            "year_start": 2000,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "yukon-xl-2500",
+            "name": "Yukon XL 2500",
+            "year_start": 2000,
+            "year_end": 2013,
+            "generation_count": 2
+        }
+    ],
+    "total": 29
+}
