@@ -1,0 +1,30 @@
+{
+    "make": {
+        "slug": "hindustan",
+        "name": "Hindustan"
+    },
+    "data": [
+        {
+            "slug": "ambassador",
+            "name": "Ambassador",
+            "year_start": 1957,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "contessa",
+            "name": "Contessa",
+            "year_start": 1984,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "winner",
+            "name": "Winner",
+            "year_start": 2008,
+            "year_end": 2018,
+            "generation_count": 1
+        }
+    ],
+    "total": 3
+}
