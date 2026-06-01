@@ -1,0 +1,51 @@
+{
+    "make": {
+        "slug": "cupra",
+        "name": "Cupra"
+    },
+    "data": [
+        {
+            "slug": "ateca",
+            "name": "Ateca",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "born",
+            "name": "Born",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "formentor",
+            "name": "Formentor",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "leon",
+            "name": "Leon",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "tavascan",
+            "name": "Tavascan",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "terramar",
+            "name": "Terramar",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 6
+}
