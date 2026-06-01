@@ -1,0 +1,37 @@
+{
+    "make": {
+        "slug": "hummer",
+        "name": "Hummer"
+    },
+    "data": [
+        {
+            "slug": "h1",
+            "name": "H1",
+            "year_start": 1992,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "h2",
+            "name": "H2",
+            "year_start": 2002,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "h3",
+            "name": "H3",
+            "year_start": 2005,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "h3t",
+            "name": "H3T",
+            "year_start": 2009,
+            "year_end": 2010,
+            "generation_count": 1
+        }
+    ],
+    "total": 4
+}
