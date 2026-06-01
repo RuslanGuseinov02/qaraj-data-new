@@ -1,0 +1,72 @@
+{
+    "make": {
+        "slug": "elaris",
+        "name": "Elaris"
+    },
+    "data": [
+        {
+            "slug": "beo",
+            "name": "Beo",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "caro",
+            "name": "Caro",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "caro-s",
+            "name": "Caro S",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "dyo",
+            "name": "DYO",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "finn",
+            "name": "Finn",
+            "year_start": 2021,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "jaco",
+            "name": "Jaco",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "lenn",
+            "name": "Lenn",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "leo",
+            "name": "Leo",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "pio",
+            "name": "Pio",
+            "year_start": 2021,
+            "year_end": 2023,
+            "generation_count": 1
+        }
+    ],
+    "total": 9
+}
