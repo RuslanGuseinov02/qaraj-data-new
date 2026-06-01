@@ -1,0 +1,268 @@
+{
+    "make": {
+        "slug": "gac",
+        "name": "GAC"
+    },
+    "data": [
+        {
+            "slug": "trumpchi-e8",
+            "name": "E8",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "trumpchi-e9",
+            "name": "E9",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "trumpchi-es9",
+            "name": "ES9",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "emkoo",
+            "name": "Emkoo",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "empow",
+            "name": "Empow",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "emzoom",
+            "name": "Emzoom",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "trumpchi-ga3",
+            "name": "GA3",
+            "year_start": 2013,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "trumpchi-ga3s",
+            "name": "GA3S",
+            "year_start": 2014,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "trumpchi-ga4",
+            "name": "GA4",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ga4-plus",
+            "name": "GA4 Plus",
+            "year_start": 2021,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "trumpchi-ga5",
+            "name": "GA5",
+            "year_start": 2011,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "trumpchi-ga6",
+            "name": "GA6",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "trumpchi-ga8",
+            "name": "GA8",
+            "year_start": 2016,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "trumpchi-ge3",
+            "name": "GE3",
+            "year_start": 2017,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "trumpchi-gm8",
+            "name": "GM8",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "gn6",
+            "name": "GN6",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "gn8",
+            "name": "GN8",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "trumpchi-gs3",
+            "name": "GS3",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "gs3-power",
+            "name": "GS3 Power",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "trumpchi-gs4",
+            "name": "GS4",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "gs4-coupe",
+            "name": "GS4 Coupe",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "gs4-plus",
+            "name": "GS4 Plus",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "gs4-power",
+            "name": "GS4 Power",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "trumpchi-gs5",
+            "name": "GS5",
+            "year_start": 2011,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "trumpchi-gs5-sport",
+            "name": "GS5 Sport",
+            "year_start": 2015,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "trumpchi-gs5-super",
+            "name": "GS5 Super",
+            "year_start": 2016,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "trumpchi-gs7",
+            "name": "GS7",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "trumpchi-gs8",
+            "name": "GS8",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "gs8s",
+            "name": "GS8S",
+            "year_start": 2020,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "m6",
+            "name": "M6",
+            "year_start": 2020,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "m6-max",
+            "name": "M6 Max",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "m6-pro",
+            "name": "M6 Pro",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "m8",
+            "name": "M8",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "qizhi",
+            "name": "Qizhi",
+            "year_start": 2018,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "trumpchi-gs4-max",
+            "name": "Trumpchi GS4 Max",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "trumpchi-s7",
+            "name": "Trumpchi S7",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ia5",
+            "name": "iA5",
+            "year_start": 2019,
+            "year_end": 2023,
+            "generation_count": 2
+        }
+    ],
+    "total": 37
+}
