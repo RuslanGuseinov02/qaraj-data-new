@@ -1,0 +1,135 @@
+{
+    "make": {
+        "slug": "dr",
+        "name": "DR"
+    },
+    "data": [
+        {
+            "slug": "1-0",
+            "name": "1.0",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "3-0",
+            "name": "3.0",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "4-0",
+            "name": "4.0",
+            "year_start": 2021,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "5-0",
+            "name": "5.0",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "6-0",
+            "name": "6.0",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "7-0",
+            "name": "7.0",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "city-cross",
+            "name": "City Cross",
+            "year_start": 2013,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "dr1",
+            "name": "DR1",
+            "year_start": 2009,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "dr2",
+            "name": "DR2",
+            "year_start": 2010,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "dr3",
+            "name": "DR3",
+            "year_start": 2016,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "dr4",
+            "name": "DR4",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "dr5",
+            "name": "DR5",
+            "year_start": 2007,
+            "year_end": 2017,
+            "generation_count": 3
+        },
+        {
+            "slug": "dr6",
+            "name": "DR6",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "evo",
+            "name": "Evo",
+            "year_start": 2020,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "evo5",
+            "name": "Evo5",
+            "year_start": 2018,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "f35",
+            "name": "F35",
+            "year_start": 2020,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "pk8",
+            "name": "PK8",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "zero",
+            "name": "Zero",
+            "year_start": 2015,
+            "year_end": 2019,
+            "generation_count": 1
+        }
+    ],
+    "total": 18
+}
