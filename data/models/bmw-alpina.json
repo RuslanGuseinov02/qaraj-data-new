@@ -1,0 +1,128 @@
+{
+    "make": {
+        "slug": "bmw-alpina",
+        "name": "BMW Alpina"
+    },
+    "data": [
+        {
+            "slug": "b3",
+            "name": "Alpina B3",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 10
+        },
+        {
+            "slug": "b4",
+            "name": "Alpina B4",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "b8",
+            "name": "Alpina B8",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "xb7",
+            "name": "Alpina XB7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "b10",
+            "name": "B10",
+            "year_start": 1988,
+            "year_end": 2004,
+            "generation_count": 2
+        },
+        {
+            "slug": "b11",
+            "name": "B11",
+            "year_start": 1987,
+            "year_end": 1994,
+            "generation_count": 1
+        },
+        {
+            "slug": "b12",
+            "name": "B12",
+            "year_start": 1988,
+            "year_end": 2001,
+            "generation_count": 3
+        },
+        {
+            "slug": "b5",
+            "name": "B5",
+            "year_start": 2005,
+            "year_end": 2024,
+            "generation_count": 5
+        },
+        {
+            "slug": "b6",
+            "name": "B6",
+            "year_start": 1983,
+            "year_end": 2019,
+            "generation_count": 6
+        },
+        {
+            "slug": "b7",
+            "name": "B7",
+            "year_start": 2003,
+            "year_end": 2022,
+            "generation_count": 6
+        },
+        {
+            "slug": "d10",
+            "name": "D10",
+            "year_start": 2000,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "d3",
+            "name": "D3",
+            "year_start": 2007,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "d4",
+            "name": "D4",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "d5",
+            "name": "D5",
+            "year_start": 2011,
+            "year_end": 2024,
+            "generation_count": 4
+        },
+        {
+            "slug": "roadster",
+            "name": "Roadster",
+            "year_start": 2002,
+            "year_end": 2006,
+            "generation_count": 2
+        },
+        {
+            "slug": "xd3",
+            "name": "XD3",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "xd4",
+            "name": "XD4",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 2
+        }
+    ],
+    "total": 17
+}
