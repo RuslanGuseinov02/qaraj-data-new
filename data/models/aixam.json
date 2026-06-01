@@ -1,0 +1,65 @@
+{
+    "make": {
+        "slug": "aixam",
+        "name": "Aixam"
+    },
+    "data": [
+        {
+            "slug": "city",
+            "name": "City",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "coupe",
+            "name": "Coupe",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "crossline",
+            "name": "Crossline",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "crossover",
+            "name": "Crossover",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "d-truck",
+            "name": "D-Truck",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "e-scouty",
+            "name": "E-Scouty",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-truck",
+            "name": "E-Truck",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "minauto",
+            "name": "Minauto",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        }
+    ],
+    "total": 8
+}
