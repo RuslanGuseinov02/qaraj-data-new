@@ -1,0 +1,86 @@
+{
+    "make": {
+        "slug": "arcfox",
+        "name": "Arcfox"
+    },
+    "data": [
+        {
+            "slug": "as",
+            "name": "Alpha-S",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "as-hi",
+            "name": "Alpha-S HI",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "as-pro",
+            "name": "Alpha-S PRO",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "as5",
+            "name": "Alpha-S5",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "as6",
+            "name": "Alpha-S6",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "at",
+            "name": "Alpha-T",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "at-pro",
+            "name": "Alpha-T PRO",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "at5",
+            "name": "Alpha-T5",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "at6",
+            "name": "Alpha-T6",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "kaola",
+            "name": "Kaola",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "kaola-s",
+            "name": "Kaola S",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 11
+}
