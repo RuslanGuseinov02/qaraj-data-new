@@ -1,0 +1,1388 @@
+{
+    "make": {
+        "slug": "chevrolet",
+        "name": "Chevrolet"
+    },
+    "data": [
+        {
+            "slug": "agile",
+            "name": "Agile",
+            "year_start": 2009,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "alero",
+            "name": "Alero",
+            "year_start": 1999,
+            "year_end": 2004,
+            "generation_count": 1
+        },
+        {
+            "slug": "astra",
+            "name": "Astra",
+            "year_start": 1998,
+            "year_end": 2011,
+            "generation_count": 2
+        },
+        {
+            "slug": "astro",
+            "name": "Astro",
+            "year_start": 1985,
+            "year_end": 2005,
+            "generation_count": 2
+        },
+        {
+            "slug": "avalanche",
+            "name": "Avalanche",
+            "year_start": 2007,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "avalanche-1500",
+            "name": "Avalanche 1500",
+            "year_start": 2002,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "avalanche-2500",
+            "name": "Avalanche 2500",
+            "year_start": 2002,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "aveo",
+            "name": "Aveo",
+            "year_start": 2002,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "aveo-family",
+            "name": "Aveo Family",
+            "year_start": 2004,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "aveo-u-va",
+            "name": "Aveo U-VA",
+            "year_start": 2006,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "aveo5",
+            "name": "Aveo5",
+            "year_start": 2006,
+            "year_end": 2011,
+            "generation_count": 2
+        },
+        {
+            "slug": "beat",
+            "name": "Beat",
+            "year_start": 2010,
+            "year_end": 2022,
+            "generation_count": 3
+        },
+        {
+            "slug": "beat-nb",
+            "name": "Beat NB",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "bel-air",
+            "name": "Bel Air",
+            "year_start": 1955,
+            "year_end": 1970,
+            "generation_count": 7
+        },
+        {
+            "slug": "beretta",
+            "name": "Beretta",
+            "year_start": 1987,
+            "year_end": 1996,
+            "generation_count": 1
+        },
+        {
+            "slug": "biscayne",
+            "name": "Biscayne",
+            "year_start": 1958,
+            "year_end": 1964,
+            "generation_count": 3
+        },
+        {
+            "slug": "blazer",
+            "name": "Blazer",
+            "year_start": 1969,
+            "year_end": null,
+            "generation_count": 9
+        },
+        {
+            "slug": "blazer-ev",
+            "name": "Blazer EV",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "bolt-euv",
+            "name": "Bolt EUV",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "bolt",
+            "name": "Bolt EV",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "brightdrop",
+            "name": "BrightDrop",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "c10",
+            "name": "C10",
+            "year_start": 1967,
+            "year_end": 1987,
+            "generation_count": 3
+        },
+        {
+            "slug": "c1500",
+            "name": "C1500",
+            "year_start": 1988,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "c1500-suburban",
+            "name": "C1500 Suburban",
+            "year_start": 1992,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "c20",
+            "name": "C20",
+            "year_start": 1976,
+            "year_end": 1986,
+            "generation_count": 2
+        },
+        {
+            "slug": "suburban-c20",
+            "name": "C20 Suburban",
+            "year_start": 1976,
+            "year_end": 1986,
+            "generation_count": 1
+        },
+        {
+            "slug": "c2500",
+            "name": "C2500",
+            "year_start": 1988,
+            "year_end": 2000,
+            "generation_count": 1
+        },
+        {
+            "slug": "c2500-suburban",
+            "name": "C2500 Suburban",
+            "year_start": 1992,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "c30",
+            "name": "C30",
+            "year_start": 1964,
+            "year_end": 1964,
+            "generation_count": 1
+        },
+        {
+            "slug": "c3500",
+            "name": "C3500",
+            "year_start": 1988,
+            "year_end": 2004,
+            "generation_count": 1
+        },
+        {
+            "slug": "camaro",
+            "name": "Camaro",
+            "year_start": 1967,
+            "year_end": 2024,
+            "generation_count": 9
+        },
+        {
+            "slug": "caprice",
+            "name": "Caprice",
+            "year_start": 1972,
+            "year_end": 2017,
+            "generation_count": 6
+        },
+        {
+            "slug": "captiva",
+            "name": "Captiva",
+            "year_start": 2006,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "captiva-sport",
+            "name": "Captiva Sport",
+            "year_start": 2008,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "cavalier",
+            "name": "Cavalier",
+            "year_start": 1982,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "celebrity",
+            "name": "Celebrity",
+            "year_start": 1982,
+            "year_end": 1990,
+            "generation_count": 1
+        },
+        {
+            "slug": "celta",
+            "name": "Celta",
+            "year_start": 2000,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "chevelle",
+            "name": "Chevelle",
+            "year_start": 1964,
+            "year_end": 1972,
+            "generation_count": 2
+        },
+        {
+            "slug": "chevy",
+            "name": "Chevy",
+            "year_start": 1994,
+            "year_end": 2012,
+            "generation_count": 3
+        },
+        {
+            "slug": "chevy-2",
+            "name": "Chevy II",
+            "year_start": 1962,
+            "year_end": 1967,
+            "generation_count": 2
+        },
+        {
+            "slug": "chevy-2-nova",
+            "name": "Chevy II Nova",
+            "year_start": 1962,
+            "year_end": 1967,
+            "generation_count": 2
+        },
+        {
+            "slug": "chevy-pickup",
+            "name": "Chevy Pickup",
+            "year_start": 1999,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "cheyenne",
+            "name": "Cheyenne",
+            "year_start": 2007,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "city-express",
+            "name": "City Express",
+            "year_start": 2015,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "classic",
+            "name": "Classic",
+            "year_start": 2003,
+            "year_end": 2016,
+            "generation_count": 3
+        },
+        {
+            "slug": "cobalt",
+            "name": "Cobalt",
+            "year_start": 2005,
+            "year_end": 2023,
+            "generation_count": 4
+        },
+        {
+            "slug": "colorado",
+            "name": "Colorado",
+            "year_start": 2004,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "corsa",
+            "name": "Corsa",
+            "year_start": 1994,
+            "year_end": 2012,
+            "generation_count": 2
+        },
+        {
+            "slug": "corsa-classic",
+            "name": "Corsa Classic",
+            "year_start": 2003,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "corsica",
+            "name": "Corsica",
+            "year_start": 1987,
+            "year_end": 1996,
+            "generation_count": 1
+        },
+        {
+            "slug": "corvair",
+            "name": "Corvair",
+            "year_start": 1960,
+            "year_end": 1969,
+            "generation_count": 2
+        },
+        {
+            "slug": "corvette",
+            "name": "Corvette",
+            "year_start": 1953,
+            "year_end": null,
+            "generation_count": 10
+        },
+        {
+            "slug": "cruze",
+            "name": "Cruze",
+            "year_start": 2001,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "cruze-limited",
+            "name": "Cruze Limited",
+            "year_start": 2016,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "cruze-rs",
+            "name": "Cruze Sport6 RS",
+            "year_start": 2020,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "d-max",
+            "name": "D-Max",
+            "year_start": 2005,
+            "year_end": 2021,
+            "generation_count": 4
+        },
+        {
+            "slug": "damas",
+            "name": "Damas",
+            "year_start": 2005,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "el-camino",
+            "name": "El Camino",
+            "year_start": 1964,
+            "year_end": 1987,
+            "generation_count": 5
+        },
+        {
+            "slug": "enjoy",
+            "name": "Enjoy",
+            "year_start": 2013,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "epica",
+            "name": "Epica",
+            "year_start": 2004,
+            "year_end": 2012,
+            "generation_count": 2
+        },
+        {
+            "slug": "equinox",
+            "name": "Equinox",
+            "year_start": 2004,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "equinox-ev",
+            "name": "Equinox EV",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "equinox-plus",
+            "name": "Equinox Plus",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "evanda",
+            "name": "Evanda",
+            "year_start": 2003,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "express-1500",
+            "name": "Express 1500",
+            "year_start": 1996,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "express-2500",
+            "name": "Express 2500",
+            "year_start": 1996,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "express-3500",
+            "name": "Express 3500",
+            "year_start": 1996,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "express-cargo",
+            "name": "Express Cargo",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "express-max",
+            "name": "Express Max",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "express-pasajeros",
+            "name": "Express Pasajeros",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "g10",
+            "name": "G10 Van",
+            "year_start": 1971,
+            "year_end": 1996,
+            "generation_count": 2
+        },
+        {
+            "slug": "g20",
+            "name": "G20 Van",
+            "year_start": 1971,
+            "year_end": 1996,
+            "generation_count": 2
+        },
+        {
+            "slug": "g30",
+            "name": "G30 Van",
+            "year_start": 1971,
+            "year_end": 1996,
+            "generation_count": 2
+        },
+        {
+            "slug": "groove",
+            "name": "Groove",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "hhr",
+            "name": "HHR",
+            "year_start": 2006,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "hhr-ss",
+            "name": "HHR SS",
+            "year_start": 2008,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "impala",
+            "name": "Impala",
+            "year_start": 1958,
+            "year_end": 2020,
+            "generation_count": 8
+        },
+        {
+            "slug": "impala-limited",
+            "name": "Impala Limited",
+            "year_start": 2014,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "joy",
+            "name": "Joy",
+            "year_start": 2019,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "joy-plus",
+            "name": "Joy Plus",
+            "year_start": 2019,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "k10",
+            "name": "K10",
+            "year_start": 1975,
+            "year_end": 1987,
+            "generation_count": 2
+        },
+        {
+            "slug": "k1500",
+            "name": "K1500",
+            "year_start": 1988,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "k1500-suburban",
+            "name": "K1500 Suburban",
+            "year_start": 1992,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "k20",
+            "name": "K20",
+            "year_start": 1975,
+            "year_end": 1987,
+            "generation_count": 2
+        },
+        {
+            "slug": "k2500",
+            "name": "K2500",
+            "year_start": 1988,
+            "year_end": 2000,
+            "generation_count": 1
+        },
+        {
+            "slug": "k2500-suburban",
+            "name": "K2500 Suburban",
+            "year_start": 1992,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "k3500",
+            "name": "K3500",
+            "year_start": 1988,
+            "year_end": 2000,
+            "generation_count": 1
+        },
+        {
+            "slug": "kadett",
+            "name": "Kadett",
+            "year_start": 1989,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "kalos",
+            "name": "Kalos",
+            "year_start": 2005,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "luv",
+            "name": "LUV",
+            "year_start": 1997,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "labo",
+            "name": "Labo",
+            "year_start": 2005,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "lacetti",
+            "name": "Lacetti",
+            "year_start": 2003,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "lanos",
+            "name": "Lanos",
+            "year_start": 2005,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "lova",
+            "name": "Lova",
+            "year_start": 2006,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "lova-rv",
+            "name": "Lova RV",
+            "year_start": 2016,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "lumina",
+            "name": "Lumina",
+            "year_start": 1990,
+            "year_end": 2001,
+            "generation_count": 2
+        },
+        {
+            "slug": "lumina-apv",
+            "name": "Lumina APV",
+            "year_start": 1990,
+            "year_end": 1996,
+            "generation_count": 2
+        },
+        {
+            "slug": "lumina-van",
+            "name": "Lumina Van",
+            "year_start": 1995,
+            "year_end": 1996,
+            "generation_count": 1
+        },
+        {
+            "slug": "mw",
+            "name": "MW",
+            "year_start": 2000,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "malibu",
+            "name": "Malibu",
+            "year_start": 1964,
+            "year_end": null,
+            "generation_count": 11
+        },
+        {
+            "slug": "malibu-limited",
+            "name": "Malibu Limited",
+            "year_start": 2016,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "malibu-maxx",
+            "name": "Malibu Maxx",
+            "year_start": 2004,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "malibu-xl",
+            "name": "Malibu XL",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "matiz",
+            "name": "Matiz",
+            "year_start": 2004,
+            "year_end": 2015,
+            "generation_count": 4
+        },
+        {
+            "slug": "menlo",
+            "name": "Menlo",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "meriva",
+            "name": "Meriva",
+            "year_start": 2002,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "metro",
+            "name": "Metro",
+            "year_start": 1998,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "montana",
+            "name": "Montana",
+            "year_start": 2003,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "monte-carlo",
+            "name": "Monte Carlo",
+            "year_start": 1970,
+            "year_end": 2007,
+            "generation_count": 8
+        },
+        {
+            "slug": "monza",
+            "name": "Monza",
+            "year_start": 1991,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "move",
+            "name": "Move N300",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "n300",
+            "name": "N300",
+            "year_start": 2012,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "n400",
+            "name": "N400",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "nexia",
+            "name": "Nexia",
+            "year_start": 2020,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "niva",
+            "name": "Niva",
+            "year_start": 2002,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "nova",
+            "name": "Nova",
+            "year_start": 1968,
+            "year_end": 1979,
+            "generation_count": 2
+        },
+        {
+            "slug": "nubira",
+            "name": "Nubira",
+            "year_start": 2003,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "omega",
+            "name": "Omega",
+            "year_start": 1992,
+            "year_end": 2012,
+            "generation_count": 5
+        },
+        {
+            "slug": "onix",
+            "name": "Onix",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "onix-activ",
+            "name": "Onix Activ",
+            "year_start": 2017,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "onix-joy",
+            "name": "Onix Joy",
+            "year_start": 2017,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "onix-plus",
+            "name": "Onix Plus",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "optra",
+            "name": "Optra",
+            "year_start": 2004,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "orlando",
+            "name": "Orlando",
+            "year_start": 2011,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "prisma",
+            "name": "Prisma",
+            "year_start": 2006,
+            "year_end": 2019,
+            "generation_count": 3
+        },
+        {
+            "slug": "prisma-joy",
+            "name": "Prisma Joy",
+            "year_start": 2017,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "prizm",
+            "name": "Prizm",
+            "year_start": 1998,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "r1500-suburban",
+            "name": "R1500 Suburban",
+            "year_start": 1989,
+            "year_end": 1991,
+            "generation_count": 1
+        },
+        {
+            "slug": "suburban-r20",
+            "name": "R20 Suburban",
+            "year_start": 1987,
+            "year_end": 1988,
+            "generation_count": 1
+        },
+        {
+            "slug": "r2500-suburban",
+            "name": "R2500 Suburban",
+            "year_start": 1989,
+            "year_end": 1991,
+            "generation_count": 1
+        },
+        {
+            "slug": "rezzo",
+            "name": "Rezzo",
+            "year_start": 2004,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "s10",
+            "name": "S10",
+            "year_start": 1982,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "s10-blazer",
+            "name": "S10 Blazer",
+            "year_start": 1983,
+            "year_end": 1994,
+            "generation_count": 1
+        },
+        {
+            "slug": "s10-max",
+            "name": "S10 Max",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ss",
+            "name": "SS",
+            "year_start": 2014,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "ssr",
+            "name": "SSR",
+            "year_start": 2003,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "sail",
+            "name": "Sail",
+            "year_start": 2005,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "sail-life",
+            "name": "Sail Life",
+            "year_start": 2019,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "sail3",
+            "name": "Sail3",
+            "year_start": 2015,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "savana",
+            "name": "Savana",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "seeker",
+            "name": "Seeker",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "silverado",
+            "name": "Silverado",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "silverado-1500",
+            "name": "Silverado 1500",
+            "year_start": 1999,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "silverado-1500-classic",
+            "name": "Silverado 1500 Classic",
+            "year_start": 2007,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "silverado-1500-hd",
+            "name": "Silverado 1500 HD",
+            "year_start": 2001,
+            "year_end": 2006,
+            "generation_count": 2
+        },
+        {
+            "slug": "silverado-1500-hd-classic",
+            "name": "Silverado 1500 HD Classic",
+            "year_start": 2007,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "silverado-1500-ld",
+            "name": "Silverado 1500 LD",
+            "year_start": 2018,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "silverado-1500-limited",
+            "name": "Silverado 1500 Limited",
+            "year_start": 2022,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "silverado-2500",
+            "name": "Silverado 2500",
+            "year_start": 1999,
+            "year_end": 2018,
+            "generation_count": 5
+        },
+        {
+            "slug": "silverado-2500-hd",
+            "name": "Silverado 2500 HD",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "silverado-2500-hd-classic",
+            "name": "Silverado 2500 HD Classic",
+            "year_start": 2007,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "silverado-3500",
+            "name": "Silverado 3500",
+            "year_start": 2001,
+            "year_end": 2018,
+            "generation_count": 4
+        },
+        {
+            "slug": "silverado-3500-classic",
+            "name": "Silverado 3500 Classic",
+            "year_start": 2007,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "silverado-3500-hd",
+            "name": "Silverado 3500 HD",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "silverado-ev",
+            "name": "Silverado EV",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "silverado-ld",
+            "name": "Silverado LD",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "sonic",
+            "name": "Sonic",
+            "year_start": 2012,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "sonora",
+            "name": "Sonora",
+            "year_start": 2000,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "spark",
+            "name": "Spark",
+            "year_start": 2005,
+            "year_end": 2023,
+            "generation_count": 6
+        },
+        {
+            "slug": "spark-activ",
+            "name": "Spark Activ",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "spark-classic",
+            "name": "Spark Classic",
+            "year_start": 2016,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "spark-euv",
+            "name": "Spark EUV",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "spark-ev",
+            "name": "Spark EV",
+            "year_start": 2014,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "spark-gt",
+            "name": "Spark GT",
+            "year_start": 2010,
+            "year_end": 2021,
+            "generation_count": 3
+        },
+        {
+            "slug": "spark-gt-activ",
+            "name": "Spark GT Activ",
+            "year_start": 2019,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "spark-life",
+            "name": "Spark Life",
+            "year_start": 2011,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "spin",
+            "name": "Spin",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "spin-activ",
+            "name": "Spin Activ",
+            "year_start": 2015,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "sprint",
+            "name": "Sprint",
+            "year_start": 1985,
+            "year_end": 1988,
+            "generation_count": 1
+        },
+        {
+            "slug": "suburban",
+            "name": "Suburban",
+            "year_start": 2007,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "suburban-1500",
+            "name": "Suburban 1500",
+            "year_start": 1992,
+            "year_end": 2014,
+            "generation_count": 3
+        },
+        {
+            "slug": "suburban-2500",
+            "name": "Suburban 2500",
+            "year_start": 2000,
+            "year_end": 2013,
+            "generation_count": 2
+        },
+        {
+            "slug": "t-series",
+            "name": "T-Series",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tacuma",
+            "name": "Tacuma",
+            "year_start": 2004,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "tahoe",
+            "name": "Tahoe",
+            "year_start": 1995,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "tavera",
+            "name": "Tavera",
+            "year_start": 2004,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "tigra",
+            "name": "Tigra",
+            "year_start": 1998,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "tornado",
+            "name": "Tornado",
+            "year_start": 2004,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "tornado-van",
+            "name": "Tornado Van",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tracker",
+            "name": "Tracker",
+            "year_start": 1989,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "tracker-rs",
+            "name": "Tracker RS",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "trailblazer",
+            "name": "TrailBlazer",
+            "year_start": 2001,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "trailblazer-ext",
+            "name": "TrailBlazer EXT",
+            "year_start": 2002,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "trans-sport",
+            "name": "Trans Sport",
+            "year_start": 1996,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "traverse",
+            "name": "Traverse",
+            "year_start": 2009,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "traverse-limited",
+            "name": "Traverse Limited",
+            "year_start": 2024,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "trax",
+            "name": "Trax",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "uplander",
+            "name": "Uplander",
+            "year_start": 2005,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "utility",
+            "name": "Utility",
+            "year_start": 2011,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "v1500-suburban",
+            "name": "V1500 Suburban",
+            "year_start": 1989,
+            "year_end": 1991,
+            "generation_count": 1
+        },
+        {
+            "slug": "v2500-suburban",
+            "name": "V2500 Suburban",
+            "year_start": 1989,
+            "year_end": 1991,
+            "generation_count": 1
+        },
+        {
+            "slug": "vectra",
+            "name": "Vectra",
+            "year_start": 1994,
+            "year_end": 2011,
+            "generation_count": 5
+        },
+        {
+            "slug": "venture",
+            "name": "Venture",
+            "year_start": 1997,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "viva",
+            "name": "Viva",
+            "year_start": 2004,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "vivant",
+            "name": "Vivant",
+            "year_start": 2003,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "volt",
+            "name": "Volt",
+            "year_start": 2010,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "zafira",
+            "name": "Zafira",
+            "year_start": 2001,
+            "year_end": 2012,
+            "generation_count": 4
+        }
+    ],
+    "total": 197
+}
