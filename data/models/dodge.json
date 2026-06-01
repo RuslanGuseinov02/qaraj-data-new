@@ -1,0 +1,338 @@
+{
+    "make": {
+        "slug": "dodge",
+        "name": "Dodge"
+    },
+    "data": [
+        {
+            "slug": "aries",
+            "name": "Aries",
+            "year_start": 1981,
+            "year_end": 1989,
+            "generation_count": 1
+        },
+        {
+            "slug": "attitude",
+            "name": "Attitude",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "avenger",
+            "name": "Avenger",
+            "year_start": 1994,
+            "year_end": 2014,
+            "generation_count": 3
+        },
+        {
+            "slug": "caliber",
+            "name": "Caliber",
+            "year_start": 2006,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "caliber-srt-4",
+            "name": "Caliber SRT",
+            "year_start": 2007,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "caravan",
+            "name": "Caravan",
+            "year_start": 1984,
+            "year_end": 2007,
+            "generation_count": 4
+        },
+        {
+            "slug": "challenger",
+            "name": "Challenger",
+            "year_start": 1970,
+            "year_end": 2024,
+            "generation_count": 3
+        },
+        {
+            "slug": "challenger-srt-8",
+            "name": "Challenger SRT",
+            "year_start": 2008,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "charger",
+            "name": "Charger",
+            "year_start": 1966,
+            "year_end": null,
+            "generation_count": 9
+        },
+        {
+            "slug": "charger-pursuit",
+            "name": "Charger Pursuit",
+            "year_start": 2011,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "charger-srt",
+            "name": "Charger SRT",
+            "year_start": 2007,
+            "year_end": 2024,
+            "generation_count": 3
+        },
+        {
+            "slug": "colt",
+            "name": "Colt",
+            "year_start": 1989,
+            "year_end": 1994,
+            "generation_count": 2
+        },
+        {
+            "slug": "d150",
+            "name": "D150",
+            "year_start": 1961,
+            "year_end": 1980,
+            "generation_count": 3
+        },
+        {
+            "slug": "dakota",
+            "name": "Dakota",
+            "year_start": 1987,
+            "year_end": 2011,
+            "generation_count": 3
+        },
+        {
+            "slug": "dart",
+            "name": "Dart",
+            "year_start": 1963,
+            "year_end": 2016,
+            "generation_count": 4
+        },
+        {
+            "slug": "durango",
+            "name": "Durango",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "durango-srt",
+            "name": "Durango SRT",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "dynasty",
+            "name": "Dynasty",
+            "year_start": 1988,
+            "year_end": 1993,
+            "generation_count": 1
+        },
+        {
+            "slug": "forza",
+            "name": "Forza",
+            "year_start": 2013,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "grand-caravan",
+            "name": "Grand Caravan",
+            "year_start": 1987,
+            "year_end": 2020,
+            "generation_count": 7
+        },
+        {
+            "slug": "hornet",
+            "name": "Hornet",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "intrepid",
+            "name": "Intrepid",
+            "year_start": 1993,
+            "year_end": 2004,
+            "generation_count": 2
+        },
+        {
+            "slug": "jc",
+            "name": "JC",
+            "year_start": 2009,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "journey",
+            "name": "Journey",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "magnum",
+            "name": "Magnum",
+            "year_start": 2004,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "magnum-srt-8",
+            "name": "Magnum SRT",
+            "year_start": 2006,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "monaco",
+            "name": "Monaco",
+            "year_start": 1974,
+            "year_end": 1992,
+            "generation_count": 3
+        },
+        {
+            "slug": "neon",
+            "name": "Neon",
+            "year_start": 1995,
+            "year_end": 2020,
+            "generation_count": 3
+        },
+        {
+            "slug": "neon-srt-4",
+            "name": "Neon SRT",
+            "year_start": 2003,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "nitro",
+            "name": "Nitro",
+            "year_start": 2007,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "ram-1500",
+            "name": "Ram 1500",
+            "year_start": 1994,
+            "year_end": 2010,
+            "generation_count": 4
+        },
+        {
+            "slug": "ram-2500",
+            "name": "Ram 2500",
+            "year_start": 1994,
+            "year_end": 2010,
+            "generation_count": 4
+        },
+        {
+            "slug": "ram-3500",
+            "name": "Ram 3500",
+            "year_start": 1994,
+            "year_end": 2010,
+            "generation_count": 4
+        },
+        {
+            "slug": "ram-srt-10",
+            "name": "Ram SRT",
+            "year_start": 2004,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "b150",
+            "name": "Ram Van B150",
+            "year_start": 1981,
+            "year_end": 1994,
+            "generation_count": 1
+        },
+        {
+            "slug": "van-1500",
+            "name": "Ram Van B1500",
+            "year_start": 1994,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "b250",
+            "name": "Ram Van B250",
+            "year_start": 1981,
+            "year_end": 1994,
+            "generation_count": 1
+        },
+        {
+            "slug": "van-2500",
+            "name": "Ram Van B2500",
+            "year_start": 1994,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "b350",
+            "name": "Ram Van B350",
+            "year_start": 1981,
+            "year_end": 1994,
+            "generation_count": 1
+        },
+        {
+            "slug": "van-3500",
+            "name": "Ram Van B3500",
+            "year_start": 1994,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "royal-monaco",
+            "name": "Royal Monaco",
+            "year_start": 1975,
+            "year_end": 1978,
+            "generation_count": 1
+        },
+        {
+            "slug": "spirit",
+            "name": "Spirit",
+            "year_start": 1988,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "sprinter",
+            "name": "Sprinter",
+            "year_start": 2002,
+            "year_end": 2009,
+            "generation_count": 2
+        },
+        {
+            "slug": "stealth",
+            "name": "Stealth",
+            "year_start": 1990,
+            "year_end": 1997,
+            "generation_count": 1
+        },
+        {
+            "slug": "stratus",
+            "name": "Stratus",
+            "year_start": 1995,
+            "year_end": 2006,
+            "generation_count": 2
+        },
+        {
+            "slug": "viper",
+            "name": "Viper",
+            "year_start": 1992,
+            "year_end": 2017,
+            "generation_count": 5
+        },
+        {
+            "slug": "vision",
+            "name": "Vision",
+            "year_start": 2015,
+            "year_end": 2018,
+            "generation_count": 1
+        }
+    ],
+    "total": 47
+}
