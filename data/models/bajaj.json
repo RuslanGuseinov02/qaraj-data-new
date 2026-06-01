@@ -1,0 +1,16 @@
+{
+    "make": {
+        "slug": "bajaj",
+        "name": "Bajaj"
+    },
+    "data": [
+        {
+            "slug": "qute",
+            "name": "Qute",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 1
+}
