@@ -1,0 +1,23 @@
+{
+    "make": {
+        "slug": "aiways",
+        "name": "Aiways"
+    },
+    "data": [
+        {
+            "slug": "u5",
+            "name": "U5",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "u6",
+            "name": "U6",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 2
+}
