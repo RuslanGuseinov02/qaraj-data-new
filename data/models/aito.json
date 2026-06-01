@@ -1,0 +1,44 @@
+{
+    "make": {
+        "slug": "aito",
+        "name": "Aito"
+    },
+    "data": [
+        {
+            "slug": "m5",
+            "name": "M5",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "m5-ultra",
+            "name": "M5 Ultra",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "m7",
+            "name": "M7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "m8",
+            "name": "M8",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "m9",
+            "name": "M9",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 5
+}
