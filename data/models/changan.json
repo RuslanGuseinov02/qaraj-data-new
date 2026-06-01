@@ -1,0 +1,429 @@
+{
+    "make": {
+        "slug": "changan",
+        "name": "Changan"
+    },
+    "data": [
+        {
+            "slug": "a800",
+            "name": "A800",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "alsvin",
+            "name": "Alsvin",
+            "year_start": 2009,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "alsvin-v3",
+            "name": "Alsvin V3",
+            "year_start": 2012,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "alsvin-v5",
+            "name": "Alsvin V5",
+            "year_start": 2012,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "alsvin-v7",
+            "name": "Alsvin V7",
+            "year_start": 2015,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "benni",
+            "name": "Benni",
+            "year_start": 2006,
+            "year_end": 2024,
+            "generation_count": 3
+        },
+        {
+            "slug": "benni-love",
+            "name": "Benni Love",
+            "year_start": 2010,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "benni-mini",
+            "name": "Benni Mini",
+            "year_start": 2010,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "cs1",
+            "name": "CS1",
+            "year_start": 2014,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "cs15",
+            "name": "CS15",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "cs15ev",
+            "name": "CS15EV",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "cs35",
+            "name": "CS35",
+            "year_start": 2012,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "cs35-plus",
+            "name": "CS35 Plus",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "cs55",
+            "name": "CS55",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "cs55-plus",
+            "name": "CS55 Plus",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "cs75",
+            "name": "CS75",
+            "year_start": 2013,
+            "year_end": 2024,
+            "generation_count": 3
+        },
+        {
+            "slug": "cs75-plus",
+            "name": "CS75 Plus",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "cs75-pro",
+            "name": "CS75 Pro",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "cs85-coupe",
+            "name": "CS85 Coupe",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "cs95",
+            "name": "CS95",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "cs95-plus",
+            "name": "CS95 Plus",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "cx20",
+            "name": "CX20",
+            "year_start": 2011,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "cx30",
+            "name": "CX30",
+            "year_start": 2010,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "cx70",
+            "name": "CX70",
+            "year_start": 2016,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "cx70t",
+            "name": "CX70T",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "eado",
+            "name": "Eado",
+            "year_start": 2011,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "eado-dt",
+            "name": "Eado DT",
+            "year_start": 2018,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "eado-et",
+            "name": "Eado ET",
+            "year_start": 2019,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "eado-ev",
+            "name": "Eado EV",
+            "year_start": 2015,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "eado-plus",
+            "name": "Eado Plus",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "eado-xt",
+            "name": "Eado XT",
+            "year_start": 2013,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "explorer",
+            "name": "Explorer",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "f70",
+            "name": "F70 Blue Whale",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "g10",
+            "name": "G10",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "honor",
+            "name": "Honor",
+            "year_start": 2012,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "honor-s",
+            "name": "Honor S",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "hunter",
+            "name": "Hunter",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "hunter-plus",
+            "name": "Hunter Plus",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "lamore",
+            "name": "Lamore",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "linmax",
+            "name": "Linmax",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "lumin",
+            "name": "Lumin",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "qiyuan-a05",
+            "name": "Nevo A05",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "qiyuan-a07",
+            "name": "Nevo A07",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "qiyuan-q05",
+            "name": "Nevo Q05",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "oshan",
+            "name": "Oshan",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "x7",
+            "name": "Oshan X7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "raeton",
+            "name": "Raeton",
+            "year_start": 2013,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "raeton-cc",
+            "name": "Raeton CC",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "raeton-plus",
+            "name": "Raeton Plus",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "s50",
+            "name": "S50",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "star-5",
+            "name": "Star 5",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "star-9",
+            "name": "Star 9",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "uni-k",
+            "name": "UNI-K",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "uni-s",
+            "name": "UNI-S",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "uni-t",
+            "name": "UNI-T",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "uni-v",
+            "name": "UNI-V",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "uni-z",
+            "name": "UNI-Z",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x5-plus",
+            "name": "X5 Plus",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x7-plus",
+            "name": "X7 Plus",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "z-shine",
+            "name": "Z-Shine",
+            "year_start": 2008,
+            "year_end": 2009,
+            "generation_count": 1
+        }
+    ],
+    "total": 60
+}
