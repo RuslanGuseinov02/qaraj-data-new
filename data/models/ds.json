@@ -1,0 +1,86 @@
+{
+    "make": {
+        "slug": "ds",
+        "name": "DS"
+    },
+    "data": [
+        {
+            "slug": "ds-3",
+            "name": "DS 3",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "ds-3-crossback",
+            "name": "DS 3 Crossback",
+            "year_start": 2018,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "ds-4",
+            "name": "DS 4",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "ds-4-crossback",
+            "name": "DS 4 Crossback",
+            "year_start": 2016,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "ds-4s",
+            "name": "DS 4S",
+            "year_start": 2016,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "ds-5",
+            "name": "DS 5",
+            "year_start": 2015,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "ds-5ls",
+            "name": "DS 5LS",
+            "year_start": 2014,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "ds-6",
+            "name": "DS 6",
+            "year_start": 2014,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "ds-7",
+            "name": "DS 7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "ds-7-crossback",
+            "name": "DS 7 Crossback",
+            "year_start": 2017,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "ds-9",
+            "name": "DS 9",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 11
+}
