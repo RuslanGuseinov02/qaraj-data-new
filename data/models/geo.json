@@ -1,0 +1,51 @@
+{
+    "make": {
+        "slug": "geo",
+        "name": "GEO"
+    },
+    "data": [
+        {
+            "slug": "metro",
+            "name": "Metro",
+            "year_start": 1989,
+            "year_end": 2001,
+            "generation_count": 2
+        },
+        {
+            "slug": "prizm",
+            "name": "Prizm",
+            "year_start": 1989,
+            "year_end": 2002,
+            "generation_count": 3
+        },
+        {
+            "slug": "spectrum",
+            "name": "Spectrum",
+            "year_start": 1985,
+            "year_end": 1990,
+            "generation_count": 1
+        },
+        {
+            "slug": "storm",
+            "name": "Storm",
+            "year_start": 1990,
+            "year_end": 1993,
+            "generation_count": 1
+        },
+        {
+            "slug": "storm-gci",
+            "name": "Storm GCI",
+            "year_start": 1990,
+            "year_end": 1993,
+            "generation_count": 1
+        },
+        {
+            "slug": "tracker",
+            "name": "Tracker",
+            "year_start": 1989,
+            "year_end": 1998,
+            "generation_count": 1
+        }
+    ],
+    "total": 6
+}
