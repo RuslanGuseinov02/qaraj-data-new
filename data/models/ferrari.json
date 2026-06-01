@@ -1,0 +1,478 @@
+{
+    "make": {
+        "slug": "ferrari",
+        "name": "Ferrari"
+    },
+    "data": [
+        {
+            "slug": "12cilindri",
+            "name": "12Cilindri",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "12cilindri-spider",
+            "name": "12Cilindri Spider",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "296-gt3",
+            "name": "296 GT3",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "296-gtb",
+            "name": "296 GTB",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "296-gts",
+            "name": "296 GTS",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "296-speciale",
+            "name": "296 Speciale",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "296-speciale-a",
+            "name": "296 Speciale A",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "348-gtb",
+            "name": "348 GTB",
+            "year_start": 1993,
+            "year_end": 1994,
+            "generation_count": 1
+        },
+        {
+            "slug": "348-gts",
+            "name": "348 GTS",
+            "year_start": 1993,
+            "year_end": 1994,
+            "generation_count": 1
+        },
+        {
+            "slug": "348-spider",
+            "name": "348 Spider",
+            "year_start": 1993,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "348-tb",
+            "name": "348 tb",
+            "year_start": 1989,
+            "year_end": 1993,
+            "generation_count": 1
+        },
+        {
+            "slug": "348-ts",
+            "name": "348 ts",
+            "year_start": 1989,
+            "year_end": 1993,
+            "generation_count": 1
+        },
+        {
+            "slug": "360-challenge-stradale",
+            "name": "360 Challenge Stradale",
+            "year_start": 2003,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "360-modena",
+            "name": "360 Modena",
+            "year_start": 1999,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "360-spider",
+            "name": "360 Spider",
+            "year_start": 2000,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "456",
+            "name": "456",
+            "year_start": 1993,
+            "year_end": 2004,
+            "generation_count": 2
+        },
+        {
+            "slug": "458-italia",
+            "name": "458 Italia",
+            "year_start": 2009,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "458-speciale",
+            "name": "458 Speciale",
+            "year_start": 2013,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "458-speciale-a",
+            "name": "458 Speciale A",
+            "year_start": 2014,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "458-spider",
+            "name": "458 Spider",
+            "year_start": 2011,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "488-gtb",
+            "name": "488 GTB",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "488-pista",
+            "name": "488 Pista",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "488-pista-spider",
+            "name": "488 Pista Spider",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "488-spider",
+            "name": "488 Spider",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "512-tr",
+            "name": "512 TR",
+            "year_start": 1992,
+            "year_end": 1994,
+            "generation_count": 1
+        },
+        {
+            "slug": "550-barchetta-pininfarina",
+            "name": "550 Barchetta Pininfarina",
+            "year_start": 2000,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "550-maranello",
+            "name": "550 Maranello",
+            "year_start": 1996,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "575m-maranello",
+            "name": "575M Maranello",
+            "year_start": 2002,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "575m-superamerica",
+            "name": "575M Superamerica",
+            "year_start": 2005,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "599-gtb-fiorano",
+            "name": "599 GTB Fiorano",
+            "year_start": 2006,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "612-scaglietti",
+            "name": "612 Scaglietti",
+            "year_start": 2004,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "812-competizione",
+            "name": "812 Competizione",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "812-competizione-a",
+            "name": "812 Competizione A",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "812-gts",
+            "name": "812 GTS",
+            "year_start": 2019,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "812-superfast",
+            "name": "812 Superfast",
+            "year_start": 2017,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "849-testarossa",
+            "name": "849 Testarossa",
+            "year_start": 2026,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "amalfi",
+            "name": "Amalfi",
+            "year_start": 2026,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "california",
+            "name": "California",
+            "year_start": 2008,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "california-t",
+            "name": "California T",
+            "year_start": 2014,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "daytona-sp3",
+            "name": "Daytona SP3",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "enzo",
+            "name": "Enzo",
+            "year_start": 2002,
+            "year_end": 2004,
+            "generation_count": 1
+        },
+        {
+            "slug": "f12berlinetta",
+            "name": "F12 Berlinetta",
+            "year_start": 2012,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "f12tdf",
+            "name": "F12tdf",
+            "year_start": 2015,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "f355-berlinetta",
+            "name": "F355 Berlinetta",
+            "year_start": 1994,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "f355-gts",
+            "name": "F355 GTS",
+            "year_start": 1995,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "f355-spider",
+            "name": "F355 Spider",
+            "year_start": 1995,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "f430",
+            "name": "F430",
+            "year_start": 2004,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "f430-spider",
+            "name": "F430 Spider",
+            "year_start": 2005,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "f512-m",
+            "name": "F512 M",
+            "year_start": 1994,
+            "year_end": 1996,
+            "generation_count": 1
+        },
+        {
+            "slug": "f8-spider",
+            "name": "F8 Spider",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "f8-tributo",
+            "name": "F8 Tributo",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "f80",
+            "name": "F80",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ff",
+            "name": "FF",
+            "year_start": 2011,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "gtc4-lusso",
+            "name": "GTC4Lusso",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "laferrari",
+            "name": "LaFerrari",
+            "year_start": 2013,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "laferrari-aperta",
+            "name": "LaFerrari Aperta",
+            "year_start": 2016,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "monza-sp1",
+            "name": "Monza SP1",
+            "year_start": 2019,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "monza-sp2",
+            "name": "Monza SP2",
+            "year_start": 2019,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "portofino",
+            "name": "Portofino",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "portofino-m",
+            "name": "Portofino M",
+            "year_start": 2020,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "purosangue",
+            "name": "Purosangue",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "roma",
+            "name": "Roma",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "roma-spider",
+            "name": "Roma Spider",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sf90-spider",
+            "name": "SF90 Spider",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sf90-stradale",
+            "name": "SF90 Stradale",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sf90-xx-spider",
+            "name": "SF90 XX Spider",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sf90-xx-stradale",
+            "name": "SF90 XX Stradale",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 67
+}
