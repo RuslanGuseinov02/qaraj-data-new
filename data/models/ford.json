@@ -1,0 +1,835 @@
+{
+    "make": {
+        "slug": "ford",
+        "name": "Ford"
+    },
+    "data": [
+        {
+            "slug": "aerostar",
+            "name": "Aerostar",
+            "year_start": 1985,
+            "year_end": 1997,
+            "generation_count": 1
+        },
+        {
+            "slug": "aspire",
+            "name": "Aspire",
+            "year_start": 1994,
+            "year_end": 2022,
+            "generation_count": 4
+        },
+        {
+            "slug": "b-max",
+            "name": "B-MAX",
+            "year_start": 2012,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "bronco",
+            "name": "Bronco",
+            "year_start": 1966,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "bronco-2",
+            "name": "Bronco II",
+            "year_start": 1984,
+            "year_end": 1990,
+            "generation_count": 2
+        },
+        {
+            "slug": "bronco-sport",
+            "name": "Bronco Sport",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "c-max",
+            "name": "C-MAX",
+            "year_start": 2007,
+            "year_end": 2019,
+            "generation_count": 4
+        },
+        {
+            "slug": "capri",
+            "name": "Capri",
+            "year_start": 1969,
+            "year_end": 1994,
+            "generation_count": 4
+        },
+        {
+            "slug": "capri-ev",
+            "name": "Capri EV",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "classic",
+            "name": "Classic",
+            "year_start": 2012,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "club-wagon",
+            "name": "Club Wagon",
+            "year_start": 1993,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "contour",
+            "name": "Contour",
+            "year_start": 1995,
+            "year_end": 2000,
+            "generation_count": 2
+        },
+        {
+            "slug": "cortina",
+            "name": "Cortina",
+            "year_start": 1968,
+            "year_end": 1970,
+            "generation_count": 1
+        },
+        {
+            "slug": "cougar",
+            "name": "Cougar",
+            "year_start": 1998,
+            "year_end": 2004,
+            "generation_count": 3
+        },
+        {
+            "slug": "courier",
+            "name": "Courier",
+            "year_start": 1996,
+            "year_end": 2013,
+            "generation_count": 4
+        },
+        {
+            "slug": "crown-victoria",
+            "name": "Crown Victoria",
+            "year_start": 1992,
+            "year_end": 2011,
+            "generation_count": 2
+        },
+        {
+            "slug": "e-150-van",
+            "name": "E-150 Econoline",
+            "year_start": 1992,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "e-250-van",
+            "name": "E-250 Econoline",
+            "year_start": 1992,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "e-350-van",
+            "name": "E-350 Econoline",
+            "year_start": 1992,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "e-transit",
+            "name": "E-Transit",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ecosport",
+            "name": "EcoSport",
+            "year_start": 2003,
+            "year_end": 2023,
+            "generation_count": 4
+        },
+        {
+            "slug": "edge",
+            "name": "Edge",
+            "year_start": 2006,
+            "year_end": 2024,
+            "generation_count": 4
+        },
+        {
+            "slug": "edge-l",
+            "name": "Edge L",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "edge-plus",
+            "name": "Edge Plus",
+            "year_start": 2020,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "endeavour",
+            "name": "Endeavour",
+            "year_start": 2003,
+            "year_end": 2022,
+            "generation_count": 5
+        },
+        {
+            "slug": "endura",
+            "name": "Endura",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "equator",
+            "name": "Equator",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "equator-sport",
+            "name": "Equator Sport",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "escape",
+            "name": "Escape",
+            "year_start": 2001,
+            "year_end": null,
+            "generation_count": 10
+        },
+        {
+            "slug": "escort",
+            "name": "Escort",
+            "year_start": 1968,
+            "year_end": 2024,
+            "generation_count": 13
+        },
+        {
+            "slug": "escort-zx2",
+            "name": "Escort ZX2",
+            "year_start": 1998,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "everest",
+            "name": "Everest",
+            "year_start": 2003,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "evos",
+            "name": "Evos",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "excursion",
+            "name": "Excursion",
+            "year_start": 1999,
+            "year_end": 2005,
+            "generation_count": 2
+        },
+        {
+            "slug": "expedition",
+            "name": "Expedition",
+            "year_start": 1996,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "explorer",
+            "name": "Explorer",
+            "year_start": 1990,
+            "year_end": null,
+            "generation_count": 10
+        },
+        {
+            "slug": "explorer-ev",
+            "name": "Explorer EV",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "explorer-sport-trac",
+            "name": "Explorer Sport Trac",
+            "year_start": 2001,
+            "year_end": 2010,
+            "generation_count": 2
+        },
+        {
+            "slug": "f-100",
+            "name": "F-100",
+            "year_start": 1953,
+            "year_end": 1983,
+            "generation_count": 14
+        },
+        {
+            "slug": "f-150",
+            "name": "F-150",
+            "year_start": 1987,
+            "year_end": null,
+            "generation_count": 9
+        },
+        {
+            "slug": "f-150-lightning",
+            "name": "F-150 Lightning",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "f-250",
+            "name": "F-250",
+            "year_start": 1973,
+            "year_end": null,
+            "generation_count": 13
+        },
+        {
+            "slug": "f-350",
+            "name": "F-350",
+            "year_start": 1967,
+            "year_end": null,
+            "generation_count": 15
+        },
+        {
+            "slug": "f-450-super-duty",
+            "name": "F-450 Super Duty",
+            "year_start": 1999,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "fairlane",
+            "name": "Fairlane",
+            "year_start": 1962,
+            "year_end": 2007,
+            "generation_count": 9
+        },
+        {
+            "slug": "fairmont",
+            "name": "Fairmont",
+            "year_start": 1996,
+            "year_end": 2008,
+            "generation_count": 5
+        },
+        {
+            "slug": "falcon",
+            "name": "Falcon",
+            "year_start": 1960,
+            "year_end": 2017,
+            "generation_count": 28
+        },
+        {
+            "slug": "festiva",
+            "name": "Festiva",
+            "year_start": 1986,
+            "year_end": 2003,
+            "generation_count": 5
+        },
+        {
+            "slug": "fiesta",
+            "name": "Fiesta",
+            "year_start": 1976,
+            "year_end": 2024,
+            "generation_count": 15
+        },
+        {
+            "slug": "fiesta-active",
+            "name": "Fiesta Active",
+            "year_start": 2018,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "fiesta-classic",
+            "name": "Fiesta Classic",
+            "year_start": 1995,
+            "year_end": 2012,
+            "generation_count": 2
+        },
+        {
+            "slug": "fiesta-ikon",
+            "name": "Fiesta Ikon",
+            "year_start": 2001,
+            "year_end": 2012,
+            "generation_count": 2
+        },
+        {
+            "slug": "figo",
+            "name": "Figo",
+            "year_start": 2010,
+            "year_end": 2023,
+            "generation_count": 4
+        },
+        {
+            "slug": "five-hundred",
+            "name": "Five Hundred",
+            "year_start": 2005,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "flex",
+            "name": "Flex",
+            "year_start": 2008,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "focus",
+            "name": "Focus",
+            "year_start": 1998,
+            "year_end": null,
+            "generation_count": 9
+        },
+        {
+            "slug": "focus-active",
+            "name": "Focus Active",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "focus-c-max",
+            "name": "Focus C-MAX",
+            "year_start": 2003,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "focus-electric",
+            "name": "Focus Electric",
+            "year_start": 2012,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "focus-shooting-brake",
+            "name": "Focus Shooting Brake",
+            "year_start": 2021,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "freestar",
+            "name": "Freestar",
+            "year_start": 2004,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "freestyle",
+            "name": "Freestyle",
+            "year_start": 2004,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "fusion",
+            "name": "Fusion",
+            "year_start": 2002,
+            "year_end": 2021,
+            "generation_count": 7
+        },
+        {
+            "slug": "gt",
+            "name": "GT",
+            "year_start": 2005,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "galaxie-500",
+            "name": "Galaxie 500",
+            "year_start": 1962,
+            "year_end": 1974,
+            "generation_count": 3
+        },
+        {
+            "slug": "galaxy",
+            "name": "Galaxy",
+            "year_start": 1995,
+            "year_end": 2023,
+            "generation_count": 6
+        },
+        {
+            "slug": "gran-torino",
+            "name": "Gran Torino",
+            "year_start": 1972,
+            "year_end": 1976,
+            "generation_count": 1
+        },
+        {
+            "slug": "granada",
+            "name": "Granada",
+            "year_start": 1977,
+            "year_end": 1985,
+            "generation_count": 1
+        },
+        {
+            "slug": "grand-c-max",
+            "name": "Grand C-MAX",
+            "year_start": 2010,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "ikon",
+            "name": "Ikon",
+            "year_start": 1999,
+            "year_end": 2015,
+            "generation_count": 4
+        },
+        {
+            "slug": "ka",
+            "name": "Ka",
+            "year_start": 1996,
+            "year_end": 2021,
+            "generation_count": 6
+        },
+        {
+            "slug": "ka-freestyle",
+            "name": "Ka Freestyle",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "ka-plus",
+            "name": "Ka+",
+            "year_start": 2015,
+            "year_end": 2021,
+            "generation_count": 4
+        },
+        {
+            "slug": "ka-plus-active",
+            "name": "Ka+ Active",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "kuga",
+            "name": "Kuga",
+            "year_start": 2008,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "ltd",
+            "name": "LTD",
+            "year_start": 1965,
+            "year_end": 2007,
+            "generation_count": 8
+        },
+        {
+            "slug": "laser",
+            "name": "Laser",
+            "year_start": 1999,
+            "year_end": 2002,
+            "generation_count": 2
+        },
+        {
+            "slug": "lobo",
+            "name": "Lobo",
+            "year_start": 1997,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "maverick",
+            "name": "Maverick",
+            "year_start": 1969,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "mondeo",
+            "name": "Mondeo",
+            "year_start": 1993,
+            "year_end": null,
+            "generation_count": 9
+        },
+        {
+            "slug": "mondeo-sport",
+            "name": "Mondeo Sport",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "mustang",
+            "name": "Mustang",
+            "year_start": 1964,
+            "year_end": null,
+            "generation_count": 12
+        },
+        {
+            "slug": "mustang-boss-302",
+            "name": "Mustang Boss 302",
+            "year_start": 1969,
+            "year_end": 2013,
+            "generation_count": 3
+        },
+        {
+            "slug": "mustang-cobra",
+            "name": "Mustang Cobra",
+            "year_start": 1993,
+            "year_end": 2004,
+            "generation_count": 4
+        },
+        {
+            "slug": "mustang-mach-1",
+            "name": "Mustang Mach 1",
+            "year_start": 1969,
+            "year_end": 2023,
+            "generation_count": 6
+        },
+        {
+            "slug": "mustang-mach-e",
+            "name": "Mustang Mach-E",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "mustang-shelby-gt350",
+            "name": "Mustang Shelby GT350",
+            "year_start": 1965,
+            "year_end": 2018,
+            "generation_count": 5
+        },
+        {
+            "slug": "mustang-shelby-gt500",
+            "name": "Mustang Shelby GT500",
+            "year_start": 1967,
+            "year_end": 2023,
+            "generation_count": 6
+        },
+        {
+            "slug": "orion",
+            "name": "Orion",
+            "year_start": 1983,
+            "year_end": 1993,
+            "generation_count": 3
+        },
+        {
+            "slug": "p100",
+            "name": "P100",
+            "year_start": 1981,
+            "year_end": 1995,
+            "generation_count": 2
+        },
+        {
+            "slug": "probe",
+            "name": "Probe",
+            "year_start": 1989,
+            "year_end": 1998,
+            "generation_count": 2
+        },
+        {
+            "slug": "puma",
+            "name": "Puma",
+            "year_start": 1997,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "ranchero",
+            "name": "Ranchero",
+            "year_start": 1970,
+            "year_end": 1979,
+            "generation_count": 3
+        },
+        {
+            "slug": "ranger",
+            "name": "Ranger",
+            "year_start": 1982,
+            "year_end": null,
+            "generation_count": 15
+        },
+        {
+            "slug": "s-max",
+            "name": "S-MAX",
+            "year_start": 2006,
+            "year_end": 2023,
+            "generation_count": 4
+        },
+        {
+            "slug": "scorpio",
+            "name": "Scorpio",
+            "year_start": 1985,
+            "year_end": 1998,
+            "generation_count": 2
+        },
+        {
+            "slug": "sierra",
+            "name": "Sierra",
+            "year_start": 1982,
+            "year_end": 1993,
+            "generation_count": 2
+        },
+        {
+            "slug": "sportka",
+            "name": "SportKa",
+            "year_start": 2003,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "streetka",
+            "name": "StreetKa",
+            "year_start": 2003,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "taurus",
+            "name": "Taurus",
+            "year_start": 1986,
+            "year_end": null,
+            "generation_count": 11
+        },
+        {
+            "slug": "taurus-sho",
+            "name": "Taurus SHO",
+            "year_start": 1989,
+            "year_end": 2019,
+            "generation_count": 5
+        },
+        {
+            "slug": "taurus-x",
+            "name": "Taurus X",
+            "year_start": 2008,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "territory",
+            "name": "Territory",
+            "year_start": 2004,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "thunderbird",
+            "name": "Thunderbird",
+            "year_start": 1955,
+            "year_end": 2005,
+            "generation_count": 11
+        },
+        {
+            "slug": "tourneo",
+            "name": "Tourneo",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "tourneo-connect",
+            "name": "Tourneo Connect",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "tourneo-courier",
+            "name": "Tourneo Courier",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "tourneo-custom",
+            "name": "Tourneo Custom",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "transit",
+            "name": "Transit",
+            "year_start": 1965,
+            "year_end": null,
+            "generation_count": 10
+        },
+        {
+            "slug": "transit-150",
+            "name": "Transit 150",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "transit-250",
+            "name": "Transit 250",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "transit-350",
+            "name": "Transit 350",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "transit-350-hd",
+            "name": "Transit 350 HD",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "transit-connect",
+            "name": "Transit Connect",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "transit-courier",
+            "name": "Transit Courier",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "transit-custom",
+            "name": "Transit Custom",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "transit-t8",
+            "name": "Transit T8",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "windstar",
+            "name": "Windstar",
+            "year_start": 1994,
+            "year_end": 2003,
+            "generation_count": 2
+        }
+    ],
+    "total": 118
+}
