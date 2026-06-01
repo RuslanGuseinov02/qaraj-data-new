@@ -1,0 +1,58 @@
+{
+    "make": {
+        "slug": "evo",
+        "name": "EVO"
+    },
+    "data": [
+        {
+            "slug": "3",
+            "name": "3",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "4",
+            "name": "4",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "5",
+            "name": "5",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "6",
+            "name": "6",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "7",
+            "name": "7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "cross-4",
+            "name": "Cross 4",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "electric",
+            "name": "Electric",
+            "year_start": 2020,
+            "year_end": 2020,
+            "generation_count": 1
+        }
+    ],
+    "total": 7
+}
