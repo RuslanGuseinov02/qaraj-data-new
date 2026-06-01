@@ -1,0 +1,499 @@
+{
+    "make": {
+        "slug": "daihatsu",
+        "name": "Daihatsu"
+    },
+    "data": [
+        {
+            "slug": "altis",
+            "name": "Altis",
+            "year_start": 2000,
+            "year_end": 2023,
+            "generation_count": 9
+        },
+        {
+            "slug": "applause",
+            "name": "Applause",
+            "year_start": 1989,
+            "year_end": 2000,
+            "generation_count": 3
+        },
+        {
+            "slug": "atrai",
+            "name": "Atrai",
+            "year_start": 1986,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "atrai-7",
+            "name": "Atrai 7",
+            "year_start": 2000,
+            "year_end": 2004,
+            "generation_count": 1
+        },
+        {
+            "slug": "atrai-wagon",
+            "name": "Atrai Wagon",
+            "year_start": 1999,
+            "year_end": 2021,
+            "generation_count": 4
+        },
+        {
+            "slug": "ayla",
+            "name": "Ayla",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "be-go",
+            "name": "Be-Go",
+            "year_start": 2006,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "boon",
+            "name": "Boon",
+            "year_start": 2004,
+            "year_end": 2023,
+            "generation_count": 6
+        },
+        {
+            "slug": "boon-luminas",
+            "name": "Boon Luminas",
+            "year_start": 2008,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "cast-activa",
+            "name": "Cast Activa",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "cast-sport",
+            "name": "Cast Sport",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "cast-style",
+            "name": "Cast Style",
+            "year_start": 2015,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "charade",
+            "name": "Charade",
+            "year_start": 1977,
+            "year_end": 2013,
+            "generation_count": 7
+        },
+        {
+            "slug": "coo",
+            "name": "Coo",
+            "year_start": 2006,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "copen",
+            "name": "Copen",
+            "year_start": 2002,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "cuore",
+            "name": "Cuore",
+            "year_start": 1980,
+            "year_end": 2011,
+            "generation_count": 7
+        },
+        {
+            "slug": "dario-terios",
+            "name": "Dario Terios",
+            "year_start": 2003,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "delta-wagon",
+            "name": "Delta Wagon",
+            "year_start": 1996,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "delta-wide",
+            "name": "Delta Wide",
+            "year_start": 1985,
+            "year_end": 1996,
+            "generation_count": 3
+        },
+        {
+            "slug": "esse",
+            "name": "Esse",
+            "year_start": 2005,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "feroza",
+            "name": "Feroza",
+            "year_start": 1987,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "gran-max",
+            "name": "Gran Max",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "gran-move",
+            "name": "Gran Move",
+            "year_start": 1996,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "hi-max",
+            "name": "Hi-Max",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "hijet",
+            "name": "Hijet",
+            "year_start": 1987,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "hijet-caddie",
+            "name": "Hijet Caddie",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "hijet-truck",
+            "name": "Hijet Truck",
+            "year_start": 2004,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "leeza",
+            "name": "Leeza",
+            "year_start": 1986,
+            "year_end": 1993,
+            "generation_count": 1
+        },
+        {
+            "slug": "luxio",
+            "name": "Luxio",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "materia",
+            "name": "Materia",
+            "year_start": 2006,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "max",
+            "name": "Max",
+            "year_start": 2001,
+            "year_end": 2005,
+            "generation_count": 2
+        },
+        {
+            "slug": "mebius",
+            "name": "Mebius",
+            "year_start": 2013,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "mira",
+            "name": "Mira",
+            "year_start": 1980,
+            "year_end": 2018,
+            "generation_count": 7
+        },
+        {
+            "slug": "mira-avy",
+            "name": "Mira Avy",
+            "year_start": 2002,
+            "year_end": 2006,
+            "generation_count": 2
+        },
+        {
+            "slug": "mira-cocoa",
+            "name": "Mira Cocoa",
+            "year_start": 2009,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "mira-custom",
+            "name": "Mira Custom",
+            "year_start": 2006,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "mira-gino",
+            "name": "Mira Gino",
+            "year_start": 1999,
+            "year_end": 2009,
+            "generation_count": 2
+        },
+        {
+            "slug": "mira-gino-1000",
+            "name": "Mira Gino 1000",
+            "year_start": 2002,
+            "year_end": 2004,
+            "generation_count": 1
+        },
+        {
+            "slug": "mira-tocot",
+            "name": "Mira Tocot",
+            "year_start": 2018,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "mira-es",
+            "name": "Mira e:S",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "move",
+            "name": "Move",
+            "year_start": 1995,
+            "year_end": null,
+            "generation_count": 11
+        },
+        {
+            "slug": "move-canbus",
+            "name": "Move Canbus",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "move-conte",
+            "name": "Move Conte",
+            "year_start": 2008,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "move-conte-custom",
+            "name": "Move Conte Custom",
+            "year_start": 2008,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "move-custom",
+            "name": "Move Custom",
+            "year_start": 1997,
+            "year_end": 2023,
+            "generation_count": 9
+        },
+        {
+            "slug": "move-latte",
+            "name": "Move Latte",
+            "year_start": 2004,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "naked",
+            "name": "Naked",
+            "year_start": 1999,
+            "year_end": 2003,
+            "generation_count": 2
+        },
+        {
+            "slug": "opti",
+            "name": "Opti",
+            "year_start": 1992,
+            "year_end": 2002,
+            "generation_count": 2
+        },
+        {
+            "slug": "pyzar",
+            "name": "Pyzar",
+            "year_start": 1996,
+            "year_end": 2002,
+            "generation_count": 3
+        },
+        {
+            "slug": "rocky",
+            "name": "Rocky",
+            "year_start": 1987,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "rugger",
+            "name": "Rugger",
+            "year_start": 1984,
+            "year_end": 2002,
+            "generation_count": 2
+        },
+        {
+            "slug": "sigra",
+            "name": "Sigra",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "sirion",
+            "name": "Sirion",
+            "year_start": 1998,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "sonica",
+            "name": "Sonica",
+            "year_start": 2006,
+            "year_end": 2009,
+            "generation_count": 2
+        },
+        {
+            "slug": "storia",
+            "name": "Storia",
+            "year_start": 1998,
+            "year_end": 2004,
+            "generation_count": 3
+        },
+        {
+            "slug": "taft",
+            "name": "Taft",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tanto",
+            "name": "Tanto",
+            "year_start": 2003,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "tanto-custom",
+            "name": "Tanto Custom",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "tanto-exe",
+            "name": "Tanto Exe",
+            "year_start": 2009,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "tanto-exe-custom",
+            "name": "Tanto Exe Custom",
+            "year_start": 2009,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "tanto-funcross",
+            "name": "Tanto FunCross",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "terios",
+            "name": "Terios",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "terios-kid",
+            "name": "Terios Kid",
+            "year_start": 1998,
+            "year_end": 2012,
+            "generation_count": 3
+        },
+        {
+            "slug": "terios-lucia",
+            "name": "Terios Lucia",
+            "year_start": 2002,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "thor",
+            "name": "Thor",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "thor-custom",
+            "name": "Thor Custom",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "trevis",
+            "name": "Trevis",
+            "year_start": 2006,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "wake",
+            "name": "Wake",
+            "year_start": 2014,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "xenia",
+            "name": "Xenia",
+            "year_start": 2003,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "yrv",
+            "name": "YRV",
+            "year_start": 2000,
+            "year_end": 2006,
+            "generation_count": 1
+        }
+    ],
+    "total": 70
+}
