@@ -1,0 +1,44 @@
+{
+    "make": {
+        "slug": "eagle",
+        "name": "Eagle"
+    },
+    "data": [
+        {
+            "slug": "premier",
+            "name": "Premier",
+            "year_start": 1987,
+            "year_end": 1991,
+            "generation_count": 1
+        },
+        {
+            "slug": "summit",
+            "name": "Summit",
+            "year_start": 1989,
+            "year_end": 1996,
+            "generation_count": 2
+        },
+        {
+            "slug": "talon",
+            "name": "Talon",
+            "year_start": 1990,
+            "year_end": 1998,
+            "generation_count": 2
+        },
+        {
+            "slug": "vision",
+            "name": "Vision",
+            "year_start": 1993,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "wagon",
+            "name": "Wagon",
+            "year_start": 1980,
+            "year_end": 1989,
+            "generation_count": 1
+        }
+    ],
+    "total": 5
+}
