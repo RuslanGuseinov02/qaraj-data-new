@@ -1,0 +1,51 @@
+{
+    "make": {
+        "slug": "borgward",
+        "name": "Borgward"
+    },
+    "data": [
+        {
+            "slug": "bx3",
+            "name": "BX3",
+            "year_start": 2020,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "bx5",
+            "name": "BX5",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "bx6",
+            "name": "BX6",
+            "year_start": 2018,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "bx7",
+            "name": "BX7",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "bx7-ts",
+            "name": "BX7 TS",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "bxi7",
+            "name": "BXi7",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        }
+    ],
+    "total": 6
+}
