@@ -1,0 +1,261 @@
+{
+    "make": {
+        "slug": "holden",
+        "name": "Holden"
+    },
+    "data": [
+        {
+            "slug": "acadia",
+            "name": "Acadia",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "adventra",
+            "name": "Adventra",
+            "year_start": 2003,
+            "year_end": 2006,
+            "generation_count": 2
+        },
+        {
+            "slug": "apollo",
+            "name": "Apollo",
+            "year_start": 1989,
+            "year_end": 1996,
+            "generation_count": 2
+        },
+        {
+            "slug": "astra",
+            "name": "Astra",
+            "year_start": 1998,
+            "year_end": 2021,
+            "generation_count": 4
+        },
+        {
+            "slug": "astra-gtc",
+            "name": "Astra GTC",
+            "year_start": 2015,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "astra-vxr",
+            "name": "Astra VXR",
+            "year_start": 2015,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "barina",
+            "name": "Barina",
+            "year_start": 1994,
+            "year_end": 2018,
+            "generation_count": 6
+        },
+        {
+            "slug": "barina-spark",
+            "name": "Barina Spark",
+            "year_start": 2010,
+            "year_end": 2015,
+            "generation_count": 2
+        },
+        {
+            "slug": "caprice",
+            "name": "Caprice",
+            "year_start": 1990,
+            "year_end": 2017,
+            "generation_count": 8
+        },
+        {
+            "slug": "captiva",
+            "name": "Captiva",
+            "year_start": 2006,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "captiva-5",
+            "name": "Captiva 5",
+            "year_start": 2009,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "captiva-7",
+            "name": "Captiva 7",
+            "year_start": 2006,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "cascada",
+            "name": "Cascada",
+            "year_start": 2014,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "colorado",
+            "name": "Colorado",
+            "year_start": 2008,
+            "year_end": 2021,
+            "generation_count": 3
+        },
+        {
+            "slug": "colorado-7",
+            "name": "Colorado 7",
+            "year_start": 2012,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "commodore",
+            "name": "Commodore",
+            "year_start": 1984,
+            "year_end": 2021,
+            "generation_count": 13
+        },
+        {
+            "slug": "crewman",
+            "name": "Crewman",
+            "year_start": 2003,
+            "year_end": 2007,
+            "generation_count": 2
+        },
+        {
+            "slug": "cruze",
+            "name": "Cruze",
+            "year_start": 2001,
+            "year_end": 2016,
+            "generation_count": 4
+        },
+        {
+            "slug": "equinox",
+            "name": "Equinox",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "frontera",
+            "name": "Frontera",
+            "year_start": 1995,
+            "year_end": 2003,
+            "generation_count": 2
+        },
+        {
+            "slug": "insignia-vxr",
+            "name": "Insignia VXR",
+            "year_start": 2015,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "jackaroo",
+            "name": "Jackaroo",
+            "year_start": 1985,
+            "year_end": 2004,
+            "generation_count": 2
+        },
+        {
+            "slug": "malibu",
+            "name": "Malibu",
+            "year_start": 2013,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "monaro",
+            "name": "Monaro",
+            "year_start": 2001,
+            "year_end": 2006,
+            "generation_count": 2
+        },
+        {
+            "slug": "one-tonner",
+            "name": "One Tonner",
+            "year_start": 2003,
+            "year_end": 2007,
+            "generation_count": 2
+        },
+        {
+            "slug": "rodeo",
+            "name": "Rodeo",
+            "year_start": 1998,
+            "year_end": 2008,
+            "generation_count": 3
+        },
+        {
+            "slug": "spark",
+            "name": "Spark",
+            "year_start": 2016,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "suburban",
+            "name": "Suburban",
+            "year_start": 1997,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "tigra",
+            "name": "Tigra",
+            "year_start": 2005,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "trailblazer",
+            "name": "Trailblazer",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "trax",
+            "name": "Trax",
+            "year_start": 2013,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "ute",
+            "name": "Ute",
+            "year_start": 2000,
+            "year_end": 2017,
+            "generation_count": 5
+        },
+        {
+            "slug": "vectra",
+            "name": "Vectra",
+            "year_start": 1997,
+            "year_end": 2006,
+            "generation_count": 3
+        },
+        {
+            "slug": "viva",
+            "name": "Viva",
+            "year_start": 2005,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "volt",
+            "name": "Volt",
+            "year_start": 2012,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "zafira",
+            "name": "Zafira",
+            "year_start": 2001,
+            "year_end": 2005,
+            "generation_count": 1
+        }
+    ],
+    "total": 36
+}
