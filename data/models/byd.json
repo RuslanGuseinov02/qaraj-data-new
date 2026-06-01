@@ -1,0 +1,513 @@
+{
+    "make": {
+        "slug": "byd",
+        "name": "BYD"
+    },
+    "data": [
+        {
+            "slug": "atto-1",
+            "name": "Atto 1",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "atto-2",
+            "name": "Atto 2",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "atto-3",
+            "name": "Atto 3",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "d1",
+            "name": "D1",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "destroyer-05",
+            "name": "Destroyer 05",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "dolphin",
+            "name": "Dolphin",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "dolphin-plus",
+            "name": "Dolphin Plus",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "dolphin-mini",
+            "name": "Dolphin mini",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "f0",
+            "name": "F0",
+            "year_start": 2008,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "f3",
+            "name": "F3",
+            "year_start": 2005,
+            "year_end": 2022,
+            "generation_count": 3
+        },
+        {
+            "slug": "f3r",
+            "name": "F3R",
+            "year_start": 2007,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "f5",
+            "name": "F5",
+            "year_start": 2012,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "f6",
+            "name": "F6",
+            "year_start": 2008,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "f7",
+            "name": "F7",
+            "year_start": 2013,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "flyer",
+            "name": "Flyer",
+            "year_start": 2003,
+            "year_end": 2008,
+            "generation_count": 2
+        },
+        {
+            "slug": "frigate-07",
+            "name": "Frigate 07",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "g3",
+            "name": "G3",
+            "year_start": 2010,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "g3r",
+            "name": "G3R",
+            "year_start": 2011,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "g5",
+            "name": "G5",
+            "year_start": 2014,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "g6",
+            "name": "G6",
+            "year_start": 2011,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "han",
+            "name": "Han",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "han-l",
+            "name": "Han L",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "king",
+            "name": "King",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "l3",
+            "name": "L3",
+            "year_start": 2010,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "m3",
+            "name": "M3",
+            "year_start": 2015,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "m6",
+            "name": "M6",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "qin",
+            "name": "Qin",
+            "year_start": 2014,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "qin-l",
+            "name": "Qin L",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "qin-plus",
+            "name": "Qin Plus",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "qin-pro",
+            "name": "Qin Pro",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "s2",
+            "name": "S2",
+            "year_start": 2019,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "s3",
+            "name": "S3",
+            "year_start": 2016,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "s5",
+            "name": "S5",
+            "year_start": 2016,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "s6",
+            "name": "S6",
+            "year_start": 2011,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "s7",
+            "name": "S7",
+            "year_start": 2015,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "s8",
+            "name": "S8",
+            "year_start": 2009,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "sea-lion-05",
+            "name": "Sea Lion 05",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "sea-lion-07",
+            "name": "Sea Lion 07",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "seagull",
+            "name": "Seagull",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "seal",
+            "name": "Seal",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "seal-05",
+            "name": "Seal 05",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "seal-o6",
+            "name": "Seal 06",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "seal-06-gt",
+            "name": "Seal 06 GT",
+            "year_start": 2024,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "seal-07",
+            "name": "Seal 07",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "seal-u",
+            "name": "Seal U",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sealion-5",
+            "name": "Sealion 5",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sea-lion-6",
+            "name": "Sealion 6",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sealion-7",
+            "name": "Sealion 7",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "shark",
+            "name": "Shark",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "shark-6",
+            "name": "Shark 6",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sirui",
+            "name": "Sirui",
+            "year_start": 2012,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "song",
+            "name": "Song",
+            "year_start": 2015,
+            "year_end": 2023,
+            "generation_count": 3
+        },
+        {
+            "slug": "song-l",
+            "name": "Song L",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "song-max",
+            "name": "Song MAX",
+            "year_start": 2017,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "song-plus",
+            "name": "Song Plus",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "song-pro",
+            "name": "Song Pro",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "t3",
+            "name": "T3",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tan",
+            "name": "Tan",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tang",
+            "name": "Tang",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "tang-l",
+            "name": "Tang L",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "xia",
+            "name": "Xia",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "yangwang-u8",
+            "name": "Yangwang U8",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "yuan",
+            "name": "Yuan",
+            "year_start": 2016,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "yuan-ev",
+            "name": "Yuan EV",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "yuan-plus",
+            "name": "Yuan Plus",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "yuan-pro",
+            "name": "Yuan Pro",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "yuan-up",
+            "name": "Yuan Up",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e1",
+            "name": "e1",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "e2",
+            "name": "e2",
+            "year_start": 2019,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "e3",
+            "name": "e3",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "e5",
+            "name": "e5",
+            "year_start": 2016,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "e6",
+            "name": "e6",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 2
+        }
+    ],
+    "total": 72
+}
