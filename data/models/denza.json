@@ -1,0 +1,86 @@
+{
+    "make": {
+        "slug": "denza",
+        "name": "Denza"
+    },
+    "data": [
+        {
+            "slug": "400",
+            "name": "400",
+            "year_start": 2014,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "500",
+            "name": "500",
+            "year_start": 2018,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "b5",
+            "name": "B5",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "b8",
+            "name": "B8",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "d9",
+            "name": "D9",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "n7",
+            "name": "N7",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "n8",
+            "name": "N8",
+            "year_start": 2023,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "n9",
+            "name": "N9",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x",
+            "name": "X",
+            "year_start": 2020,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "z9",
+            "name": "Z9",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "z9-gt",
+            "name": "Z9 GT",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 11
+}
