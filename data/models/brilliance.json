@@ -1,0 +1,149 @@
+{
+    "make": {
+        "slug": "brilliance",
+        "name": "Brilliance"
+    },
+    "data": [
+        {
+            "slug": "bs4",
+            "name": "BS4",
+            "year_start": 2008,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "bs6",
+            "name": "BS6",
+            "year_start": 2007,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "dolphin",
+            "name": "Dolphin",
+            "year_start": 2015,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "frv",
+            "name": "FRV",
+            "year_start": 2008,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "frv-cross",
+            "name": "FRV Cross",
+            "year_start": 2009,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "fsv",
+            "name": "FSV",
+            "year_start": 2009,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "h220",
+            "name": "H220",
+            "year_start": 2014,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "h230",
+            "name": "H230",
+            "year_start": 2012,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "h230ev",
+            "name": "H230EV",
+            "year_start": 2017,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "h3",
+            "name": "H3",
+            "year_start": 2017,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "h320",
+            "name": "H320",
+            "year_start": 2012,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "h330",
+            "name": "H330",
+            "year_start": 2013,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "h530",
+            "name": "H530",
+            "year_start": 2011,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "m1",
+            "name": "M1",
+            "year_start": 2004,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "m2",
+            "name": "M2",
+            "year_start": 2006,
+            "year_end": 2011,
+            "generation_count": 2
+        },
+        {
+            "slug": "m3",
+            "name": "M3",
+            "year_start": 2007,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "v3",
+            "name": "V3",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "v5",
+            "name": "V5",
+            "year_start": 2012,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "v6",
+            "name": "V6",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "v7",
+            "name": "V7",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        }
+    ],
+    "total": 20
+}
