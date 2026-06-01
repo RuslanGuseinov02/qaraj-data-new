@@ -1,0 +1,107 @@
+{
+    "make": {
+        "slug": "aion",
+        "name": "Aion"
+    },
+    "data": [
+        {
+            "slug": "hyper-gt",
+            "name": "Hyper GT",
+            "year_start": 2023,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "hyper-ht",
+            "name": "Hyper HT",
+            "year_start": 2023,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "hyper-ssr",
+            "name": "Hyper SSR",
+            "year_start": 2023,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "lx",
+            "name": "LX",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "lx-plus",
+            "name": "LX Plus",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "rt",
+            "name": "RT",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "s",
+            "name": "S",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "s-max",
+            "name": "S Max",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "s-plus",
+            "name": "S Plus",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ut",
+            "name": "UT",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v",
+            "name": "V",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "v-plus",
+            "name": "V Plus",
+            "year_start": 2021,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "y",
+            "name": "Y",
+            "year_start": 2021,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "y-plus",
+            "name": "Y Plus",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 14
+}
