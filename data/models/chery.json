@@ -1,0 +1,1031 @@
+{
+    "make": {
+        "slug": "chery",
+        "name": "Chery"
+    },
+    "data": [
+        {
+            "slug": "a1",
+            "name": "A1",
+            "year_start": 2007,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "a113",
+            "name": "A113",
+            "year_start": 2007,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "a13",
+            "name": "A13",
+            "year_start": 2008,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "a3",
+            "name": "A3",
+            "year_start": 2008,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "a5",
+            "name": "A5",
+            "year_start": 2006,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "aika",
+            "name": "Aika",
+            "year_start": 2013,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "alia",
+            "name": "Alia",
+            "year_start": 2008,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "amulet",
+            "name": "Amulet",
+            "year_start": 2005,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "arauca",
+            "name": "Arauca",
+            "year_start": 2007,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "arrizo-3",
+            "name": "Arrizo 3",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "arrizo-5",
+            "name": "Arrizo 5",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "arrizo-5-gt",
+            "name": "Arrizo 5 GT",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "arrizo-5-plus",
+            "name": "Arrizo 5 Plus",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "arrizo-5e",
+            "name": "Arrizo 5e",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "arrizo-6",
+            "name": "Arrizo 6",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "arrizo-6-pro",
+            "name": "Arrizo 6 Pro",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "arrizo-7",
+            "name": "Arrizo 7",
+            "year_start": 2013,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "arrizo-7e",
+            "name": "Arrizo 7e",
+            "year_start": 2016,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "arrizo-8",
+            "name": "Arrizo 8",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "arrizo-8-pro",
+            "name": "Arrizo 8 Pro",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "arrizo-gx",
+            "name": "Arrizo GX",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "arrizo-m7",
+            "name": "Arrizo M7",
+            "year_start": 2015,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "arrizo-e",
+            "name": "Arrizo e",
+            "year_start": 2020,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "b14",
+            "name": "B14",
+            "year_start": 2006,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "beat",
+            "name": "Beat",
+            "year_start": 2011,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "bonus",
+            "name": "Bonus",
+            "year_start": 2011,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "bonus-3",
+            "name": "Bonus 3",
+            "year_start": 2014,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "campus",
+            "name": "Campus",
+            "year_start": 2011,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "celer",
+            "name": "Celer",
+            "year_start": 2010,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "chance",
+            "name": "Chance",
+            "year_start": 2010,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "cielo",
+            "name": "Cielo",
+            "year_start": 2008,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "cowin",
+            "name": "Cowin",
+            "year_start": 2004,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "cowin1",
+            "name": "Cowin1",
+            "year_start": 2010,
+            "year_end": 2012,
+            "generation_count": 2
+        },
+        {
+            "slug": "cowin2",
+            "name": "Cowin2",
+            "year_start": 2010,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "cowin3",
+            "name": "Cowin3",
+            "year_start": 2010,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "cristal",
+            "name": "Cristal",
+            "year_start": 2012,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "crosseastar",
+            "name": "CrossEastar",
+            "year_start": 2009,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "cruise",
+            "name": "Cruise",
+            "year_start": 2011,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "destiny",
+            "name": "Destiny",
+            "year_start": 2009,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "e3",
+            "name": "E3",
+            "year_start": 2013,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "e5",
+            "name": "E5",
+            "year_start": 2011,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "e8",
+            "name": "E8",
+            "year_start": 2012,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "eastar",
+            "name": "Eastar",
+            "year_start": 2003,
+            "year_end": 2015,
+            "generation_count": 3
+        },
+        {
+            "slug": "ego",
+            "name": "Ego",
+            "year_start": 2010,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "elara",
+            "name": "Elara",
+            "year_start": 2006,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "explore-06",
+            "name": "Explore 06",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "fx",
+            "name": "FX",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "face",
+            "name": "Face",
+            "year_start": 2007,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "fora",
+            "name": "Fora",
+            "year_start": 2006,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "fulwin",
+            "name": "Fulwin",
+            "year_start": 2004,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "fulwin-2",
+            "name": "Fulwin 2",
+            "year_start": 2010,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "grand-tiger",
+            "name": "Grand Tiger",
+            "year_start": 2011,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "grand-tiggo",
+            "name": "Grand Tiggo",
+            "year_start": 2014,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "h5",
+            "name": "H5",
+            "year_start": 2010,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "indis",
+            "name": "IndiS",
+            "year_start": 2011,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "j1",
+            "name": "J1",
+            "year_start": 2011,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "j11",
+            "name": "J11",
+            "year_start": 2011,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "j2",
+            "name": "J2",
+            "year_start": 2010,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "j3",
+            "name": "J3",
+            "year_start": 2011,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "j5",
+            "name": "J5",
+            "year_start": 2008,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "j6",
+            "name": "J6",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "jaggi",
+            "name": "Jaggi",
+            "year_start": 2006,
+            "year_end": 2012,
+            "generation_count": 2
+        },
+        {
+            "slug": "k60",
+            "name": "Karry K60",
+            "year_start": 2017,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "kimo",
+            "name": "Kimo",
+            "year_start": 2008,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "little-ant",
+            "name": "Little Ant",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "m11",
+            "name": "M11",
+            "year_start": 2008,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "maxime",
+            "name": "Maxime",
+            "year_start": 2015,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "nice",
+            "name": "Nice",
+            "year_start": 2011,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "niche",
+            "name": "Niche",
+            "year_start": 2011,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "omoda-5",
+            "name": "Omoda 5",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "omoda-5-gt",
+            "name": "Omoda 5 GT",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "omoda-e5",
+            "name": "Omoda E5",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "orinoco",
+            "name": "Orinoco",
+            "year_start": 2010,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "p10",
+            "name": "P10",
+            "year_start": 2013,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "practivan-karry",
+            "name": "Practivan Karry",
+            "year_start": 2013,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "q",
+            "name": "Q",
+            "year_start": 2013,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "q22",
+            "name": "Q22",
+            "year_start": 2013,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "q22l",
+            "name": "Q22L",
+            "year_start": 2015,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "qq",
+            "name": "QQ",
+            "year_start": 2003,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "qq-ice-cream",
+            "name": "QQ Ice Cream",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "qq3",
+            "name": "QQ3",
+            "year_start": 2004,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "qq6",
+            "name": "QQ6",
+            "year_start": 2006,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "qqme",
+            "name": "QQme",
+            "year_start": 2009,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "s-18",
+            "name": "S-18",
+            "year_start": 2012,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "s21",
+            "name": "S21",
+            "year_start": 2006,
+            "year_end": 2012,
+            "generation_count": 2
+        },
+        {
+            "slug": "s22",
+            "name": "S22",
+            "year_start": 2014,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "skin",
+            "name": "Skin",
+            "year_start": 2010,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "sweet",
+            "name": "Sweet",
+            "year_start": 2005,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "tengo",
+            "name": "Tengo",
+            "year_start": 2010,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo",
+            "name": "Tiggo",
+            "year_start": 2005,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "tiggo-2",
+            "name": "Tiggo 2",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-2-pro",
+            "name": "Tiggo 2 Pro",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-2-pro-max",
+            "name": "Tiggo 2 Pro Max",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-3",
+            "name": "Tiggo 3",
+            "year_start": 2014,
+            "year_end": 2024,
+            "generation_count": 3
+        },
+        {
+            "slug": "tiggo-3-pro",
+            "name": "Tiggo 3 Pro",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-3x",
+            "name": "Tiggo 3x",
+            "year_start": 2017,
+            "year_end": 2024,
+            "generation_count": 3
+        },
+        {
+            "slug": "tiggo-3x-excellence-edition",
+            "name": "Tiggo 3x Excellence Edition",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-3x-plus",
+            "name": "Tiggo 3x Plus",
+            "year_start": 2021,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-3xe",
+            "name": "Tiggo 3xe",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-4",
+            "name": "Tiggo 4",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "tiggo-4-pro",
+            "name": "Tiggo 4 Pro",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "tiggo-5",
+            "name": "Tiggo 5",
+            "year_start": 2014,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "tiggo-5x",
+            "name": "Tiggo 5x",
+            "year_start": 2017,
+            "year_end": 2024,
+            "generation_count": 3
+        },
+        {
+            "slug": "tiggo-5x-excellence-edition",
+            "name": "Tiggo 5x Excellence Edition",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-5x-high-energy",
+            "name": "Tiggo 5x High Energy",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-5x-plus",
+            "name": "Tiggo 5x Plus",
+            "year_start": 2022,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-5x-pro",
+            "name": "Tiggo 5x Pro",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-5x-sport",
+            "name": "Tiggo 5x Sport",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-7",
+            "name": "Tiggo 7",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "tiggo-7-c-dm",
+            "name": "Tiggo 7 C-DM",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-7-excellence-edition",
+            "name": "Tiggo 7 Excellence Edition",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-7-high-energy",
+            "name": "Tiggo 7 High Energy",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-7-plus",
+            "name": "Tiggo 7 Plus",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "tiggo-7-pro",
+            "name": "Tiggo 7 Pro",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "tiggo-7-pro-max",
+            "name": "Tiggo 7 Pro Max",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "tiggo-7l",
+            "name": "Tiggo 7L",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-8",
+            "name": "Tiggo 8",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "tiggo-8-exellence-edition",
+            "name": "Tiggo 8 Excellence Edition",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-8-honor",
+            "name": "Tiggo 8 Honor Edition",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-8-plus",
+            "name": "Tiggo 8 Plus",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "tiggo-8-plus-c-dm",
+            "name": "Tiggo 8 Plus C-DM",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-8-pro",
+            "name": "Tiggo 8 Pro",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "tiggo-8-pro-max",
+            "name": "Tiggo 8 Pro Max",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "tiggo-8l",
+            "name": "Tiggo 8L",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-9",
+            "name": "Tiggo 9",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-9-c-dm",
+            "name": "Tiggo 9 C-DM",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-cross",
+            "name": "Tiggo Cross",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-fl",
+            "name": "Tiggo FL",
+            "year_start": 2013,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiggo-e",
+            "name": "Tiggo e",
+            "year_start": 2019,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "transcab",
+            "name": "Transcab",
+            "year_start": 2013,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "transcar",
+            "name": "Transcar",
+            "year_start": 2013,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "transcom",
+            "name": "Transcom",
+            "year_start": 2010,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "unbounded-pro",
+            "name": "Unbounded Pro",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v5-crossover",
+            "name": "V5 Crossover",
+            "year_start": 2007,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "very",
+            "name": "Very",
+            "year_start": 2011,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "x1",
+            "name": "X1",
+            "year_start": 2011,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "xcross",
+            "name": "XCross",
+            "year_start": 2011,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "yoki",
+            "name": "Yoki",
+            "year_start": 2013,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "yoya",
+            "name": "Yoya",
+            "year_start": 2014,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "yoyo",
+            "name": "Yoyo",
+            "year_start": 2013,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "eq",
+            "name": "eQ",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "eq1",
+            "name": "eQ1",
+            "year_start": 2017,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "eq5",
+            "name": "eQ5",
+            "year_start": 2020,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "eq7",
+            "name": "eQ7",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "icar",
+            "name": "iCar",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "iq",
+            "name": "iQ",
+            "year_start": 2003,
+            "year_end": 2020,
+            "generation_count": 2
+        }
+    ],
+    "total": 146
+}
