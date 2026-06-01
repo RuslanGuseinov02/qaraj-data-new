@@ -1,0 +1,23 @@
+{
+    "make": {
+        "slug": "aro",
+        "name": "ARO"
+    },
+    "data": [
+        {
+            "slug": "10",
+            "name": "10",
+            "year_start": 1980,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "24",
+            "name": "24",
+            "year_start": 1978,
+            "year_end": 2006,
+            "generation_count": 1
+        }
+    ],
+    "total": 2
+}
