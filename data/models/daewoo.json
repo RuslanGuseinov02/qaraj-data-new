@@ -1,0 +1,219 @@
+{
+    "make": {
+        "slug": "daewoo",
+        "name": "Daewoo"
+    },
+    "data": [
+        {
+            "slug": "arcadia",
+            "name": "Arcadia",
+            "year_start": 1994,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "chairman",
+            "name": "Chairman",
+            "year_start": 1997,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "damas",
+            "name": "Damas",
+            "year_start": 1991,
+            "year_end": 2015,
+            "generation_count": 2
+        },
+        {
+            "slug": "espero",
+            "name": "Espero",
+            "year_start": 1990,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "evanda",
+            "name": "Evanda",
+            "year_start": 2003,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "fino",
+            "name": "Fino",
+            "year_start": 1991,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "g2x",
+            "name": "G2X",
+            "year_start": 2007,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "gentra",
+            "name": "Gentra",
+            "year_start": 2005,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "kalos",
+            "name": "Kalos",
+            "year_start": 2002,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "korando",
+            "name": "Korando",
+            "year_start": 1999,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "lacetti",
+            "name": "Lacetti",
+            "year_start": 2002,
+            "year_end": 2011,
+            "generation_count": 2
+        },
+        {
+            "slug": "lanos",
+            "name": "Lanos",
+            "year_start": 1997,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "le-mans",
+            "name": "Le Mans",
+            "year_start": 1986,
+            "year_end": 1994,
+            "generation_count": 1
+        },
+        {
+            "slug": "leganza",
+            "name": "Leganza",
+            "year_start": 1997,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "lublin",
+            "name": "Lublin",
+            "year_start": 1995,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "magnus",
+            "name": "Magnus",
+            "year_start": 2000,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "matiz",
+            "name": "Matiz",
+            "year_start": 1998,
+            "year_end": 2016,
+            "generation_count": 6
+        },
+        {
+            "slug": "musso",
+            "name": "Musso",
+            "year_start": 1999,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "nexia",
+            "name": "Nexia",
+            "year_start": 1995,
+            "year_end": 2015,
+            "generation_count": 2
+        },
+        {
+            "slug": "nubira",
+            "name": "Nubira",
+            "year_start": 1997,
+            "year_end": 2008,
+            "generation_count": 3
+        },
+        {
+            "slug": "prince",
+            "name": "Prince",
+            "year_start": 1991,
+            "year_end": 1997,
+            "generation_count": 1
+        },
+        {
+            "slug": "racer",
+            "name": "Racer",
+            "year_start": 1986,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "rezzo",
+            "name": "Rezzo",
+            "year_start": 2000,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "lanos-sens",
+            "name": "Sens",
+            "year_start": 2002,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "statesman",
+            "name": "Statesman",
+            "year_start": 2003,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "tacuma",
+            "name": "Tacuma",
+            "year_start": 2000,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "tico",
+            "name": "Tico",
+            "year_start": 1991,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "tosca",
+            "name": "Tosca",
+            "year_start": 2006,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "veritas",
+            "name": "Veritas",
+            "year_start": 2008,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "winstorm",
+            "name": "Winstorm",
+            "year_start": 2006,
+            "year_end": 2010,
+            "generation_count": 1
+        }
+    ],
+    "total": 30
+}
