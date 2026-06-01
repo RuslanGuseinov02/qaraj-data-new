@@ -1,0 +1,499 @@
+{
+    "make": {
+        "slug": "fiat",
+        "name": "Fiat"
+    },
+    "data": [
+        {
+            "slug": "124",
+            "name": "124",
+            "year_start": 1966,
+            "year_end": 1985,
+            "generation_count": 1
+        },
+        {
+            "slug": "124-spider",
+            "name": "124 Spider",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "500",
+            "name": "500",
+            "year_start": 1957,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "500c",
+            "name": "500C",
+            "year_start": 2009,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "500l",
+            "name": "500L",
+            "year_start": 2012,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "500x",
+            "name": "500X",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "500e",
+            "name": "500e",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "595",
+            "name": "595",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "600",
+            "name": "600",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "600e",
+            "name": "600e",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "695",
+            "name": "695",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "albea",
+            "name": "Albea",
+            "year_start": 2002,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "argo",
+            "name": "Argo",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "avventura",
+            "name": "Avventura",
+            "year_start": 2014,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "barchetta",
+            "name": "Barchetta",
+            "year_start": 1995,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "brava",
+            "name": "Brava",
+            "year_start": 1995,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "bravo",
+            "name": "Bravo",
+            "year_start": 1995,
+            "year_end": 2015,
+            "generation_count": 2
+        },
+        {
+            "slug": "cinquecento",
+            "name": "Cinquecento",
+            "year_start": 1991,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "coupe",
+            "name": "Coupe",
+            "year_start": 1993,
+            "year_end": 2000,
+            "generation_count": 1
+        },
+        {
+            "slug": "croma",
+            "name": "Croma",
+            "year_start": 1985,
+            "year_end": 2011,
+            "generation_count": 2
+        },
+        {
+            "slug": "cronos",
+            "name": "Cronos",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "doblo",
+            "name": "Doblo",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "ducato",
+            "name": "Ducato",
+            "year_start": 1982,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "e-doblo",
+            "name": "E-Doblo",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "e-ulysse",
+            "name": "E-Ulysse",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "egea",
+            "name": "Egea",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "fastback",
+            "name": "Fastback",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "fiorino",
+            "name": "Fiorino",
+            "year_start": 1977,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "freemont",
+            "name": "Freemont",
+            "year_start": 2011,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "fullback",
+            "name": "Fullback",
+            "year_start": 2016,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "grand-siena",
+            "name": "Grand Siena",
+            "year_start": 2012,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "grande-panda",
+            "name": "Grande Panda",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "grande-punto",
+            "name": "Grande Punto",
+            "year_start": 2005,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "idea",
+            "name": "Idea",
+            "year_start": 2003,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "linea",
+            "name": "Linea",
+            "year_start": 2007,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "marea",
+            "name": "Marea",
+            "year_start": 1996,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "mille",
+            "name": "Mille",
+            "year_start": 1990,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "mobi",
+            "name": "Mobi",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "multipla",
+            "name": "Multipla",
+            "year_start": 1998,
+            "year_end": 2010,
+            "generation_count": 2
+        },
+        {
+            "slug": "ottimo",
+            "name": "Ottimo",
+            "year_start": 2013,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "palio",
+            "name": "Palio",
+            "year_start": 1996,
+            "year_end": 2017,
+            "generation_count": 4
+        },
+        {
+            "slug": "palio-adventure",
+            "name": "Palio Adventure",
+            "year_start": 2003,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "palio-weekend",
+            "name": "Palio Weekend",
+            "year_start": 2003,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "panda",
+            "name": "Panda",
+            "year_start": 1980,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "panda-cross",
+            "name": "Panda Cross",
+            "year_start": 2003,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "pandina",
+            "name": "Pandina",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "pratico",
+            "name": "Pratico",
+            "year_start": 2012,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "pulse",
+            "name": "Pulse",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "pulse-abarth",
+            "name": "Pulse Abarth",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "punto",
+            "name": "Punto",
+            "year_start": 1993,
+            "year_end": 2018,
+            "generation_count": 5
+        },
+        {
+            "slug": "punto-evo",
+            "name": "Punto Evo",
+            "year_start": 2009,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "qubo",
+            "name": "Qubo",
+            "year_start": 2007,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "ritmo",
+            "name": "Ritmo",
+            "year_start": 1978,
+            "year_end": 2010,
+            "generation_count": 2
+        },
+        {
+            "slug": "scudo",
+            "name": "Scudo",
+            "year_start": 1996,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "sedici",
+            "name": "Sedici",
+            "year_start": 2005,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "seicento",
+            "name": "Seicento",
+            "year_start": 1997,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "siena",
+            "name": "Siena",
+            "year_start": 1996,
+            "year_end": 2012,
+            "generation_count": 3
+        },
+        {
+            "slug": "siena-el",
+            "name": "Siena EL",
+            "year_start": 2012,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "stilo",
+            "name": "Stilo",
+            "year_start": 2001,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "strada",
+            "name": "Strada",
+            "year_start": 1996,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "talento",
+            "name": "Talento",
+            "year_start": 1984,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "tempra",
+            "name": "Tempra",
+            "year_start": 1990,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "tipo",
+            "name": "Tipo",
+            "year_start": 1987,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "titano",
+            "name": "Titano",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "topolino",
+            "name": "Topolino",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "toro",
+            "name": "Toro",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ulysse",
+            "name": "Ulysse",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "uno",
+            "name": "Uno",
+            "year_start": 1983,
+            "year_end": 2021,
+            "generation_count": 4
+        },
+        {
+            "slug": "urban-cross",
+            "name": "Urban Cross",
+            "year_start": 2016,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "viaggio",
+            "name": "Viaggio",
+            "year_start": 2012,
+            "year_end": 2017,
+            "generation_count": 1
+        }
+    ],
+    "total": 70
+}
