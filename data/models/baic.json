@@ -1,0 +1,436 @@
+{
+    "make": {
+        "slug": "baic",
+        "name": "BAIC"
+    },
+    "data": [
+        {
+            "slug": "a5",
+            "name": "A5",
+            "year_start": 2013,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "b30-dune",
+            "name": "B30 Dune",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "b40-plus",
+            "name": "B40 Plus",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "b40-ragnar",
+            "name": "B40 Ragnar",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "b60-beaumont",
+            "name": "B60 Beaumont",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "b80",
+            "name": "B80",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "bj20",
+            "name": "BJ20",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "bj30",
+            "name": "BJ30",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "bj40",
+            "name": "BJ40",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "bj40-c",
+            "name": "BJ40 C",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "bj40-plus",
+            "name": "BJ40 Plus",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "bj40-se",
+            "name": "BJ40 SE",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "bj40l",
+            "name": "BJ40L",
+            "year_start": 2016,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "bj80",
+            "name": "BJ80",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "bj90",
+            "name": "BJ90",
+            "year_start": 2016,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "bayanihan-h5",
+            "name": "Bayanihan H5",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "3",
+            "name": "Beijing 3",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "5",
+            "name": "Beijing 5",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "7",
+            "name": "Beijing 7",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "bj60",
+            "name": "Beijing BJ60",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "eu5",
+            "name": "Beijing EU5",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "eu5-plus",
+            "name": "Beijing EU5 Plus",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "eu7",
+            "name": "Beijing EU7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "u5-plus",
+            "name": "Beijing U5 Plus",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "u7",
+            "name": "Beijing U7",
+            "year_start": 2018,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "x3",
+            "name": "Beijing X3",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x5",
+            "name": "Beijing X5",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x55",
+            "name": "Beijing X55",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "x55-plus",
+            "name": "Beijing X55 Plus",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x6",
+            "name": "Beijing X6",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x7",
+            "name": "Beijing X7",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "e-series",
+            "name": "E-Series",
+            "year_start": 2012,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "es210",
+            "name": "ES210",
+            "year_start": 2013,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "eu260",
+            "name": "EU260",
+            "year_start": 2016,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "ev150",
+            "name": "EV150",
+            "year_start": 2013,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "ev200",
+            "name": "EV200",
+            "year_start": 2015,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "ev5",
+            "name": "EV5",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "f40",
+            "name": "F40",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "freedom",
+            "name": "Freedom",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "m20",
+            "name": "M20",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "m50s",
+            "name": "M50S",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "m60",
+            "name": "M60",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "mz40",
+            "name": "MZ40",
+            "year_start": 2014,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "mz45",
+            "name": "MZ45",
+            "year_start": 2014,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "a1",
+            "name": "Senova A1",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "senova-cc",
+            "name": "Senova CC",
+            "year_start": 2015,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "senova-d20",
+            "name": "Senova D20",
+            "year_start": 2015,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "senova-d50",
+            "name": "Senova D50",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "senova-d60",
+            "name": "Senova D60",
+            "year_start": 2014,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "senova-d70",
+            "name": "Senova D70",
+            "year_start": 2013,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "senova-d80",
+            "name": "Senova D80",
+            "year_start": 2015,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "senova-x25",
+            "name": "Senova X25",
+            "year_start": 2015,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "senova-x35",
+            "name": "Senova X35",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "senova-x55",
+            "name": "Senova X55",
+            "year_start": 2015,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "senova-x65",
+            "name": "Senova X65",
+            "year_start": 2015,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "senova-zhixing",
+            "name": "Senova Zhixing",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "u5",
+            "name": "U5",
+            "year_start": 2020,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "x30",
+            "name": "X30",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "x35",
+            "name": "X35",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x424",
+            "name": "X424",
+            "year_start": 2015,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "x75",
+            "name": "X75",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 61
+}
