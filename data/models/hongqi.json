@@ -1,0 +1,163 @@
+{
+    "make": {
+        "slug": "hongqi",
+        "name": "Hongqi"
+    },
+    "data": [
+        {
+            "slug": "e-hs3",
+            "name": "E-HS3",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-hs9",
+            "name": "E-HS9",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-qm5",
+            "name": "E-QM5",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "eh7",
+            "name": "EH7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ehs7",
+            "name": "EHS7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "l5",
+            "name": "Guoli L5",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "guoyao",
+            "name": "Guoyao",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "h5",
+            "name": "H5",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "h6",
+            "name": "H6",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "h7",
+            "name": "H7",
+            "year_start": 2013,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "h9",
+            "name": "H9",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "hq3",
+            "name": "HQ3",
+            "year_start": 2006,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "hq9",
+            "name": "HQ9",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "hs3",
+            "name": "HS3",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "hs5",
+            "name": "HS5",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "hs7",
+            "name": "HS7",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "ls7",
+            "name": "LS7",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "mingshi",
+            "name": "Mingshi",
+            "year_start": 2005,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "ousado",
+            "name": "Ousado",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiangong-05",
+            "name": "Tiangong 05",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiangong-06",
+            "name": "Tiangong 06",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiangong-08",
+            "name": "Tiangong 08",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 22
+}
