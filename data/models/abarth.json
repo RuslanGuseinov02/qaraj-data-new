@@ -1,0 +1,93 @@
+{
+    "make": {
+        "slug": "abarth",
+        "name": "Abarth"
+    },
+    "data": [
+        {
+            "slug": "124-spider",
+            "name": "124 Spider",
+            "year_start": 2016,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "500",
+            "name": "500",
+            "year_start": 2008,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "500c",
+            "name": "500C",
+            "year_start": 2010,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "500e",
+            "name": "500e",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "595",
+            "name": "595",
+            "year_start": 2012,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "595c",
+            "name": "595C",
+            "year_start": 2012,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "600e",
+            "name": "600e",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "695",
+            "name": "695",
+            "year_start": 2014,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "695c",
+            "name": "695C",
+            "year_start": 2017,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "grande-punto",
+            "name": "Grande Punto",
+            "year_start": 2008,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "punto",
+            "name": "Punto",
+            "year_start": 2011,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "punto-evo",
+            "name": "Punto Evo",
+            "year_start": 2010,
+            "year_end": 2011,
+            "generation_count": 1
+        }
+    ],
+    "total": 12
+}
