@@ -1,0 +1,44 @@
+{
+    "make": {
+        "slug": "changan-qiyuan",
+        "name": "Changan Qiyuan Nevo"
+    },
+    "data": [
+        {
+            "slug": "q07",
+            "name": "Q07",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "a05",
+            "name": "Qiyuan Nevo A05",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "a07",
+            "name": "Qiyuan Nevo A07",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e07",
+            "name": "Qiyuan Nevo E07",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "q05",
+            "name": "Qiyuan Nevo Q05",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 5
+}
