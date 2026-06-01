@@ -1,0 +1,1115 @@
+{
+    "make": {
+        "slug": "dongfeng",
+        "name": "Dongfeng"
+    },
+    "data": [
+        {
+            "slug": "a60-max",
+            "name": "A60 MAX",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ace-007",
+            "name": "Ace (Yipai) 007",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ace-008",
+            "name": "Ace (Yipai) 008",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "a30",
+            "name": "Aeolus A30",
+            "year_start": 2014,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "a60",
+            "name": "Aeolus A60",
+            "year_start": 2012,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "a9",
+            "name": "Aeolus A9",
+            "year_start": 2016,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "ax3",
+            "name": "Aeolus AX3",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "ax4",
+            "name": "Aeolus AX4",
+            "year_start": 2017,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "ax5",
+            "name": "Aeolus AX5",
+            "year_start": 2016,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "ax7",
+            "name": "Aeolus AX7",
+            "year_start": 2014,
+            "year_end": 2024,
+            "generation_count": 4
+        },
+        {
+            "slug": "ax7-classic",
+            "name": "Aeolus AX7 Classic",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "ax7-mach",
+            "name": "Aeolus AX7 Mach",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ax7-pro",
+            "name": "Aeolus AX7 Pro",
+            "year_start": 2020,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "e30",
+            "name": "Aeolus E30",
+            "year_start": 2015,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "e70",
+            "name": "Aeolus E70",
+            "year_start": 2016,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "e70-pro",
+            "name": "Aeolus E70 Pro",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "haohan",
+            "name": "Aeolus Haohan",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "haoji",
+            "name": "Aeolus Haoji",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "huge",
+            "name": "Aeolus Huge",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "l7",
+            "name": "Aeolus L7",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "mage",
+            "name": "Aeolus Mage",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "aeolus-yixuan",
+            "name": "Aeolus Shine",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "aeolus-yixuan-gs",
+            "name": "Aeolus Shine GS",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "aeolus-yixuan-max",
+            "name": "Aeolus Shine MAX",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "aeolus-yixuan-mach",
+            "name": "Aeolus Shine Mach Edition",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sky-ev01",
+            "name": "Aeolus Sky EV01",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "df6",
+            "name": "DF6",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "em30-rtt",
+            "name": "EM30-RTT",
+            "year_start": 2018,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "es500",
+            "name": "ES500",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "mx5",
+            "name": "Fengdu MX5",
+            "year_start": 2016,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "mx6",
+            "name": "Fengdu MX6",
+            "year_start": 2015,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "330",
+            "name": "Fengon 330",
+            "year_start": 2013,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "330s",
+            "name": "Fengon 330S",
+            "year_start": 2017,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "360",
+            "name": "Fengon 360",
+            "year_start": 2015,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "370",
+            "name": "Fengon 370",
+            "year_start": 2016,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "380",
+            "name": "Fengon 380",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "500",
+            "name": "Fengon 500",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "580",
+            "name": "Fengon 580",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "580-pro",
+            "name": "Fengon 580 Pro",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "580-red-star",
+            "name": "Fengon 580 Red Star",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e1",
+            "name": "Fengon E1",
+            "year_start": 2019,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "e3",
+            "name": "Fengon E3",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e380",
+            "name": "Fengon E380",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "mini",
+            "name": "Fengon MINI EV",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "s560",
+            "name": "Fengon S560",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "ix5",
+            "name": "Fengon ix5",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ix7",
+            "name": "Fengon ix7",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "s30",
+            "name": "Fengshen S30",
+            "year_start": 2009,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "cm7",
+            "name": "Forthing CM7",
+            "year_start": 2014,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "f600",
+            "name": "Forthing F600",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "friday",
+            "name": "Forthing Friday",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "joyear",
+            "name": "Forthing Joyear",
+            "year_start": 2007,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "joyear-s50",
+            "name": "Forthing Joyear S50",
+            "year_start": 2014,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "joyear-s50ev",
+            "name": "Forthing Joyear S50EV",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "joyear-suv",
+            "name": "Forthing Joyear SUV",
+            "year_start": 2012,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "joyear-x3",
+            "name": "Forthing Joyear X3",
+            "year_start": 2014,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "joyear-x5",
+            "name": "Forthing Joyear X5",
+            "year_start": 2013,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "joyear-x6",
+            "name": "Forthing Joyear X6",
+            "year_start": 2016,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "joyear-xv",
+            "name": "Forthing Joyear XV",
+            "year_start": 2015,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "lingzhi-m3",
+            "name": "Forthing Lingzhi M3",
+            "year_start": 2013,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "lingzhi-m5",
+            "name": "Forthing Lingzhi M5",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "lingzhi-m5-plus",
+            "name": "Forthing Lingzhi Plus",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "lingzhi-v3",
+            "name": "Forthing Lingzhi V3",
+            "year_start": 2013,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "m6",
+            "name": "Forthing M6",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "m7",
+            "name": "Forthing M7",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "s500",
+            "name": "Forthing S500",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "s60ev",
+            "name": "Forthing S60EV",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "sx6",
+            "name": "Forthing SX6",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t1",
+            "name": "Forthing T1",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "t5",
+            "name": "Forthing T5",
+            "year_start": 2018,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "t5-evo",
+            "name": "Forthing T5 EVO",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t5-mach-edition",
+            "name": "Forthing T5 Mach Edition",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t5-prosperity",
+            "name": "Forthing T5 Prosperous Style",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "t5l",
+            "name": "Forthing T5L",
+            "year_start": 2018,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "thunder",
+            "name": "Forthing Thunder",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "m4",
+            "name": "Forthing U-Tour M4 Yacht",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "s7",
+            "name": "Forthing Xinghai S7",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v9",
+            "name": "Forthing Xinghai U-Tour V9",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "h30",
+            "name": "H30",
+            "year_start": 2010,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "h30-cross",
+            "name": "H30 Cross",
+            "year_start": 2010,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "hushi",
+            "name": "Hushi",
+            "year_start": 2012,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "justfor-cv03",
+            "name": "JustFor CV03",
+            "year_start": 2012,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "k17",
+            "name": "K17",
+            "year_start": 2009,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "k32",
+            "name": "K32",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "k33",
+            "name": "K33",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "k39",
+            "name": "K39",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "l60",
+            "name": "L60",
+            "year_start": 2015,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "mengshi",
+            "name": "Mengshi",
+            "year_start": 2007,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "mengshi-917",
+            "name": "Mengshi M-Hero Warrior 917",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "nammi-01",
+            "name": "Nammi 01",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "nammi-06",
+            "name": "Nammi 06",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "box",
+            "name": "Nammi Box",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "nano-box",
+            "name": "Nano BOX",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ex1",
+            "name": "Nano EX1",
+            "year_start": 2019,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "ex1-pro",
+            "name": "Nano EX1 Pro",
+            "year_start": 2022,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "oting",
+            "name": "Oting",
+            "year_start": 2007,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "paladin",
+            "name": "Paladin",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "pickup",
+            "name": "Pickup",
+            "year_start": 2012,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "rich-6",
+            "name": "Rich 6",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "rich-7",
+            "name": "Rich 7",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "rich-pickup",
+            "name": "Rich Pickup",
+            "year_start": 2005,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "rich-suv",
+            "name": "Rich SUV",
+            "year_start": 2010,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "ec31",
+            "name": "Ruichi EC31",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ec31l",
+            "name": "Ruichi EC31L",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ec31s",
+            "name": "Ruichi EC31S",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ec35",
+            "name": "Ruichi EC35",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "ec55",
+            "name": "Ruichi EC55",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "ec71l",
+            "name": "Ruichi EC71L",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ec72",
+            "name": "Ruichi EC72",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ec75",
+            "name": "Ruichi EC75",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ed71",
+            "name": "Ruichi ED71",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ed75",
+            "name": "Ruichi ED75",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ek01s",
+            "name": "Ruichi EK01S",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "es50",
+            "name": "Ruichi ES50",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "r5",
+            "name": "Ruichi R5",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ruilida-v5",
+            "name": "Ruilida V5",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ruilida-v7",
+            "name": "Ruilida V7",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sx5",
+            "name": "SX5",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sx6-pro",
+            "name": "SX6 Pro",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "c31",
+            "name": "Sokon C31",
+            "year_start": 2015,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "c31s",
+            "name": "Sokon C31S",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "c32",
+            "name": "Sokon C32",
+            "year_start": 2015,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "c32s",
+            "name": "Sokon C32S",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "c35",
+            "name": "Sokon C35",
+            "year_start": 2013,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "c36",
+            "name": "Sokon C36",
+            "year_start": 2014,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "c37",
+            "name": "Sokon C37",
+            "year_start": 2012,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "c51",
+            "name": "Sokon C51",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "c51l",
+            "name": "Sokon C51L",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "c52",
+            "name": "Sokon C52",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "c52l",
+            "name": "Sokon C52L",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "c56",
+            "name": "Sokon C56",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "c71",
+            "name": "Sokon C71",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "c72",
+            "name": "Sokon C72",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "d51",
+            "name": "Sokon D51",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "d52",
+            "name": "Sokon D52",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "d71",
+            "name": "Sokon D71",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "d71-plus",
+            "name": "Sokon D71 Plus",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "d72",
+            "name": "Sokon D72",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "d72-plus",
+            "name": "Sokon D72 Plus",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "ec36",
+            "name": "Sokon EC36",
+            "year_start": 2017,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "k01",
+            "name": "Sokon K01",
+            "year_start": 2011,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "k02",
+            "name": "Sokon K02",
+            "year_start": 2011,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "k05-s",
+            "name": "Sokon K05S",
+            "year_start": 2016,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "k06",
+            "name": "Sokon K06",
+            "year_start": 2006,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "k07",
+            "name": "Sokon K07",
+            "year_start": 2012,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "k07-2",
+            "name": "Sokon K07 II",
+            "year_start": 2007,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "k07-s",
+            "name": "Sokon K07S",
+            "year_start": 2013,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "succe",
+            "name": "Succe",
+            "year_start": 2009,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "yufeng",
+            "name": "U-Vane",
+            "year_start": 2012,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "yufeng-v9plus",
+            "name": "U-Vane V9+",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v07-s",
+            "name": "V07 S",
+            "year_start": 2011,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "v21",
+            "name": "V21",
+            "year_start": 2011,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "v22",
+            "name": "V22",
+            "year_start": 2011,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "v27",
+            "name": "V27",
+            "year_start": 2011,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "v29",
+            "name": "V29",
+            "year_start": 2012,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "p16",
+            "name": "Yufeng P16",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "s16",
+            "name": "Yufeng S16",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "yumsun",
+            "name": "Yumsun",
+            "year_start": 2007,
+            "year_end": 2014,
+            "generation_count": 2
+        }
+    ],
+    "total": 158
+}
