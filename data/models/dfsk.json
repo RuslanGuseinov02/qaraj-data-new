@@ -1,0 +1,240 @@
+{
+    "make": {
+        "slug": "dfsk",
+        "name": "DFSK"
+    },
+    "data": [
+        {
+            "slug": "c31",
+            "name": "C31",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "c32",
+            "name": "C32",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "c35",
+            "name": "C35",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "c37",
+            "name": "C37",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "candy",
+            "name": "Candy",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "d1",
+            "name": "D1",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "d71",
+            "name": "D71",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "d72",
+            "name": "D72",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e5",
+            "name": "E5",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e5-plus",
+            "name": "E5 Plus",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ec31",
+            "name": "EC31",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ec35",
+            "name": "EC35",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "ec75",
+            "name": "EC75",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "fengon-5",
+            "name": "Fengon 5",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "fengon-500",
+            "name": "Fengon 500",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "fengon-580",
+            "name": "Fengon 580",
+            "year_start": 2020,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "fengon-600",
+            "name": "Fengon 600",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "fengon-7",
+            "name": "Fengon 7",
+            "year_start": 2020,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "gelora",
+            "name": "Gelora",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "330",
+            "name": "Glory 330",
+            "year_start": 2014,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "330s",
+            "name": "Glory 330S",
+            "year_start": 2017,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "500",
+            "name": "Glory 500",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "560",
+            "name": "Glory 560",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "580",
+            "name": "Glory 580",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "600",
+            "name": "Glory 600",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e3",
+            "name": "Glory E3",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "glory-i-auto",
+            "name": "Glory i-Auto",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ix5",
+            "name": "Glory ix5",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ix7",
+            "name": "Glory ix7",
+            "year_start": 2020,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "k01h",
+            "name": "K01H",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e1",
+            "name": "Seres E1",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "super-cab",
+            "name": "Super cab",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "z9",
+            "name": "Z9",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 33
+}
