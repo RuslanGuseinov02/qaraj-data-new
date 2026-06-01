@@ -1,0 +1,177 @@
+{
+    "make": {
+        "slug": "haima",
+        "name": "Haima"
+    },
+    "data": [
+        {
+            "slug": "6p",
+            "name": "6P",
+            "year_start": 2021,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "7",
+            "name": "7",
+            "year_start": 2010,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "7x",
+            "name": "7X",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "7x-e",
+            "name": "7X-E",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "8s",
+            "name": "8S",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "aishang-ev",
+            "name": "Aishang EV",
+            "year_start": 2017,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "e3",
+            "name": "E3",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "f5",
+            "name": "F5",
+            "year_start": 2018,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "f7",
+            "name": "F7",
+            "year_start": 2017,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "freema",
+            "name": "Freema",
+            "year_start": 2004,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "haima2",
+            "name": "Haima2",
+            "year_start": 2010,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "haima3",
+            "name": "Haima3",
+            "year_start": 2007,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "happin",
+            "name": "Happin",
+            "year_start": 2004,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "huandong",
+            "name": "Huandong",
+            "year_start": 2009,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "m1",
+            "name": "M1",
+            "year_start": 2010,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "m11",
+            "name": "M11",
+            "year_start": 2012,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "m3",
+            "name": "M3",
+            "year_start": 2013,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "m5",
+            "name": "M5",
+            "year_start": 2006,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "m6",
+            "name": "M6",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "m8",
+            "name": "M8",
+            "year_start": 2013,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "s5",
+            "name": "S5",
+            "year_start": 2014,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "s7",
+            "name": "S7",
+            "year_start": 2013,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "v70",
+            "name": "V70",
+            "year_start": 2016,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "z1",
+            "name": "Z1",
+            "year_start": 2009,
+            "year_end": 2014,
+            "generation_count": 1
+        }
+    ],
+    "total": 24
+}
