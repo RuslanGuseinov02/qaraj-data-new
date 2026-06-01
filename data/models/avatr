@@ -1,0 +1,37 @@
+{
+    "make": {
+        "slug": "avatr",
+        "name": "Avatr"
+    },
+    "data": [
+        {
+            "slug": "011",
+            "name": "011",
+            "year_start": 2022,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "07",
+            "name": "07",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "11",
+            "name": "11",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "12",
+            "name": "12",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 4
+}
