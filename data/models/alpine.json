@@ -1,0 +1,65 @@
+{
+    "make": {
+        "slug": "alpine",
+        "name": "Alpine"
+    },
+    "data": [
+        {
+            "slug": "106",
+            "name": "A106",
+            "year_start": 1955,
+            "year_end": 1961,
+            "generation_count": 1
+        },
+        {
+            "slug": "a108",
+            "name": "A108",
+            "year_start": 1958,
+            "year_end": 1965,
+            "generation_count": 1
+        },
+        {
+            "slug": "a110",
+            "name": "A110",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "a290",
+            "name": "A290",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "a310",
+            "name": "A310",
+            "year_start": 1971,
+            "year_end": 1985,
+            "generation_count": 1
+        },
+        {
+            "slug": "a390",
+            "name": "A390",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "a610",
+            "name": "A610",
+            "year_start": 1991,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "gta",
+            "name": "GTA",
+            "year_start": 1985,
+            "year_end": 1991,
+            "generation_count": 1
+        }
+    ],
+    "total": 8
+}
