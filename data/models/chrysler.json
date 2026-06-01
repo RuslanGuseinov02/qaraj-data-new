@@ -1,0 +1,184 @@
+{
+    "make": {
+        "slug": "chrysler",
+        "name": "Chrysler"
+    },
+    "data": [
+        {
+            "slug": "200",
+            "name": "200",
+            "year_start": 2010,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "300",
+            "name": "300",
+            "year_start": 2004,
+            "year_end": 2024,
+            "generation_count": 3
+        },
+        {
+            "slug": "300c",
+            "name": "300C",
+            "year_start": 2004,
+            "year_end": 2021,
+            "generation_count": 3
+        },
+        {
+            "slug": "300c-srt-8",
+            "name": "300C SRT-8",
+            "year_start": 2004,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "300m",
+            "name": "300M",
+            "year_start": 1998,
+            "year_end": 2004,
+            "generation_count": 1
+        },
+        {
+            "slug": "aspen",
+            "name": "Aspen",
+            "year_start": 2006,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "cirrus",
+            "name": "Cirrus",
+            "year_start": 1995,
+            "year_end": 2000,
+            "generation_count": 1
+        },
+        {
+            "slug": "concorde",
+            "name": "Concorde",
+            "year_start": 1992,
+            "year_end": 2004,
+            "generation_count": 2
+        },
+        {
+            "slug": "crossfire",
+            "name": "Crossfire",
+            "year_start": 2003,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "dynasty",
+            "name": "Dynasty",
+            "year_start": 1988,
+            "year_end": 1993,
+            "generation_count": 1
+        },
+        {
+            "slug": "fifth-avenue",
+            "name": "Fifth Avenue",
+            "year_start": 1984,
+            "year_end": 1993,
+            "generation_count": 2
+        },
+        {
+            "slug": "grand-caravan",
+            "name": "Grand Caravan",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "grand-voyager",
+            "name": "Grand Voyager",
+            "year_start": 1990,
+            "year_end": 2015,
+            "generation_count": 4
+        },
+        {
+            "slug": "lhs",
+            "name": "LHS",
+            "year_start": 1994,
+            "year_end": 2001,
+            "generation_count": 2
+        },
+        {
+            "slug": "le-baron",
+            "name": "LeBaron",
+            "year_start": 1977,
+            "year_end": 1995,
+            "generation_count": 3
+        },
+        {
+            "slug": "neon",
+            "name": "Neon",
+            "year_start": 1994,
+            "year_end": 2005,
+            "generation_count": 2
+        },
+        {
+            "slug": "new-yorker",
+            "name": "New Yorker",
+            "year_start": 1982,
+            "year_end": 1998,
+            "generation_count": 3
+        },
+        {
+            "slug": "newport",
+            "name": "Newport",
+            "year_start": 1961,
+            "year_end": 1981,
+            "generation_count": 5
+        },
+        {
+            "slug": "pt-cruiser",
+            "name": "PT Cruiser",
+            "year_start": 2000,
+            "year_end": 2010,
+            "generation_count": 2
+        },
+        {
+            "slug": "pacifica",
+            "name": "Pacifica",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "saratoga",
+            "name": "Saratoga",
+            "year_start": 1957,
+            "year_end": 1995,
+            "generation_count": 4
+        },
+        {
+            "slug": "sebring",
+            "name": "Sebring",
+            "year_start": 1995,
+            "year_end": 2010,
+            "generation_count": 3
+        },
+        {
+            "slug": "town-country",
+            "name": "Town & Country",
+            "year_start": 1989,
+            "year_end": 2016,
+            "generation_count": 6
+        },
+        {
+            "slug": "vision",
+            "name": "Vision",
+            "year_start": 1992,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "voyager",
+            "name": "Voyager",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 6
+        }
+    ],
+    "total": 25
+}
