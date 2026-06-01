@@ -1,0 +1,72 @@
+{
+    "make": {
+        "slug": "galaxy",
+        "name": "Galaxy"
+    },
+    "data": [
+        {
+            "slug": "a7",
+            "name": "A7",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e5",
+            "name": "E5",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e8",
+            "name": "E8",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "l380",
+            "name": "L380",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "l6",
+            "name": "L6",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "l7",
+            "name": "L7",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "m9",
+            "name": "M9",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "starshine-8",
+            "name": "Starshine 8",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v900",
+            "name": "V900",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 9
+}
