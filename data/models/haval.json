@@ -1,0 +1,233 @@
+{
+    "make": {
+        "slug": "haval",
+        "name": "Haval"
+    },
+    "data": [
+        {
+            "slug": "shenshou",
+            "name": "Beast",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "kugou",
+            "name": "Cool Dog",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "dargo",
+            "name": "Dargo",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "dargo-x",
+            "name": "Dargo X",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "f5",
+            "name": "F5",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "f7",
+            "name": "F7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "f7x",
+            "name": "F7x",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "h1",
+            "name": "H1",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "h2",
+            "name": "H2",
+            "year_start": 2014,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "h2s",
+            "name": "H2s",
+            "year_start": 2017,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "h3",
+            "name": "H3",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "h4",
+            "name": "H4",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "h5",
+            "name": "H5",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "h6",
+            "name": "H6",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "h6-china-chic-edition",
+            "name": "H6 China-Chic Edition",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "h6-coupe",
+            "name": "H6 Coupe",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "h6gt",
+            "name": "H6 GT",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "h6-sport",
+            "name": "H6 Sport",
+            "year_start": 2015,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "h6s",
+            "name": "H6S",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "h7",
+            "name": "H7",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "h7l",
+            "name": "H7L",
+            "year_start": 2016,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "h8",
+            "name": "H8",
+            "year_start": 2015,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "h9",
+            "name": "H9",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "jolion",
+            "name": "Jolion",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "jolion-pro",
+            "name": "Jolion Pro",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "jolion-s",
+            "name": "Jolion S",
+            "year_start": 2022,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "m6",
+            "name": "M6",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "m6-plus",
+            "name": "M6 Plus",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "raptor",
+            "name": "Raptor",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "chitu",
+            "name": "Red Rabbit",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "xiaolong",
+            "name": "Xiaolong",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "xiaolong-max",
+            "name": "Xiaolong Max",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 2
+        }
+    ],
+    "total": 32
+}
