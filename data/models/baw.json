@@ -1,0 +1,149 @@
+{
+    "make": {
+        "slug": "baw",
+        "name": "BAW"
+    },
+    "data": [
+        {
+            "slug": "a00",
+            "name": "A00 Pony",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ace-em7",
+            "name": "Ace EM7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ace-m7",
+            "name": "Ace M7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "bj2022",
+            "name": "BJ2022 Warrior",
+            "year_start": 2008,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "bj212",
+            "name": "BJ212",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "bj212-sniper",
+            "name": "BJ212 Classic Sniper",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "bw007",
+            "name": "BW007",
+            "year_start": 2011,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "gladiator",
+            "name": "Gladiator",
+            "year_start": 2010,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "leopard",
+            "name": "Leopard",
+            "year_start": 2020,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "luba",
+            "name": "Luba",
+            "year_start": 2012,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "luling",
+            "name": "Luling",
+            "year_start": 2012,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "pickup",
+            "name": "Pickup",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "qishi-s12",
+            "name": "Qishi S12",
+            "year_start": 2009,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "ruiling",
+            "name": "Ruiling",
+            "year_start": 2012,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "warrior-pickup",
+            "name": "Warrior Pickup",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t6",
+            "name": "Whale Card T6",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t7",
+            "name": "Whale Card T7",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "yueling",
+            "name": "Yueling",
+            "year_start": 2012,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "zhanqi",
+            "name": "Zhanqi",
+            "year_start": 2005,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "zhanqi-pickup",
+            "name": "Zhanqi Pickup",
+            "year_start": 2014,
+            "year_end": 2016,
+            "generation_count": 1
+        }
+    ],
+    "total": 20
+}
