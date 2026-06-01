@@ -1,0 +1,86 @@
+{
+    "make": {
+        "slug": "bentley",
+        "name": "Bentley"
+    },
+    "data": [
+        {
+            "slug": "arnage",
+            "name": "Arnage",
+            "year_start": 1999,
+            "year_end": 2009,
+            "generation_count": 2
+        },
+        {
+            "slug": "azure",
+            "name": "Azure",
+            "year_start": 1996,
+            "year_end": 2011,
+            "generation_count": 2
+        },
+        {
+            "slug": "bentayga",
+            "name": "Bentayga",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "brooklands",
+            "name": "Brooklands",
+            "year_start": 2008,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "continental",
+            "name": "Continental",
+            "year_start": 1991,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "continental-flying-spur",
+            "name": "Continental Flying Spur",
+            "year_start": 2005,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "continental-gt",
+            "name": "Continental GT",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "continental-gtc",
+            "name": "Continental GTC",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "continental-supersports",
+            "name": "Continental Supersports",
+            "year_start": 2009,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "flying-spur",
+            "name": "Flying Spur",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "mulsanne",
+            "name": "Mulsanne",
+            "year_start": 2009,
+            "year_end": 2020,
+            "generation_count": 2
+        }
+    ],
+    "total": 11
+}
