@@ -1,0 +1,51 @@
+{
+    "make": {
+        "slug": "dorcen",
+        "name": "Dorcen"
+    },
+    "data": [
+        {
+            "slug": "e20",
+            "name": "E20",
+            "year_start": 2019,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "g60",
+            "name": "G60",
+            "year_start": 2019,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "g60e",
+            "name": "G60E",
+            "year_start": 2019,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "g60s",
+            "name": "G60S",
+            "year_start": 2019,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "g70s",
+            "name": "G70S",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "t7plus",
+            "name": "T7PLUS",
+            "year_start": 2019,
+            "year_end": 2021,
+            "generation_count": 1
+        }
+    ],
+    "total": 6
+}
