@@ -1,0 +1,23 @@
+{
+    "make": {
+        "slug": "ich-x",
+        "name": "ICH-X"
+    },
+    "data": [
+        {
+            "slug": "k2",
+            "name": "ICH-X K2",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "k3",
+            "name": "ICH-X K3",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 2
+}
