@@ -1,0 +1,373 @@
+{
+    "make": {
+        "slug": "great-wall",
+        "name": "Great Wall (GWM)"
+    },
+    "data": [
+        {
+            "slug": "artillery",
+            "name": "Artillery",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "c30",
+            "name": "C30",
+            "year_start": 2010,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "cannon",
+            "name": "Cannon",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "cannon-alpha",
+            "name": "Cannon Alpha",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "coolbear",
+            "name": "Coolbear",
+            "year_start": 2009,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "cowry",
+            "name": "Cowry",
+            "year_start": 2007,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "deer",
+            "name": "Deer",
+            "year_start": 2005,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "florid",
+            "name": "Florid",
+            "year_start": 2009,
+            "year_end": 2013,
+            "generation_count": 2
+        },
+        {
+            "slug": "hover-h3",
+            "name": "Haval H3",
+            "year_start": 2010,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "hover-h5",
+            "name": "Haval H5",
+            "year_start": 2011,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "hover-h6",
+            "name": "Haval H6",
+            "year_start": 2011,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "hover",
+            "name": "Hover",
+            "year_start": 2005,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "hover-m1",
+            "name": "Hover M1",
+            "year_start": 2009,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "hover-m2",
+            "name": "Hover M2",
+            "year_start": 2010,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "king-kong-cannon",
+            "name": "King Kong Cannon",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "m4",
+            "name": "M4",
+            "year_start": 2012,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "ora",
+            "name": "Ora",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ora-03",
+            "name": "Ora 03",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ora-03-gt",
+            "name": "Ora 03 GT",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "p-series",
+            "name": "P-Series",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "p300",
+            "name": "P300",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "p500",
+            "name": "P500",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "pao",
+            "name": "Pao",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "pegasus",
+            "name": "Pegasus",
+            "year_start": 2005,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "peri",
+            "name": "Peri",
+            "year_start": 2007,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "phenom",
+            "name": "Phenom",
+            "year_start": 2010,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "poer",
+            "name": "Poer",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "poer-king-kong",
+            "name": "Poer King Kong",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "poer-sahar",
+            "name": "Poer Sahar",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "safe",
+            "name": "Safe",
+            "year_start": 2001,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "sailor",
+            "name": "Sailor",
+            "year_start": 2004,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "shanhai-cannon",
+            "name": "Shanhai Cannon",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sing",
+            "name": "Sing",
+            "year_start": 2004,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "socool",
+            "name": "Socool",
+            "year_start": 2004,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "steed",
+            "name": "Steed",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "steed-5",
+            "name": "Steed 5",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "steed-6",
+            "name": "Steed 6",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "ute",
+            "name": "Ute",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v80",
+            "name": "V80",
+            "year_start": 2007,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "voleex-c20r",
+            "name": "Voleex C20R",
+            "year_start": 2011,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "voleex-c30",
+            "name": "Voleex C30",
+            "year_start": 2010,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "voleex-c50",
+            "name": "Voleex C50",
+            "year_start": 2012,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "ora-07",
+            "name": "Wall (GWM) Ora 07",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "wey-03",
+            "name": "Wall (GWM) Wey 03",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "wey-80",
+            "name": "Wall (GWM) Wey 80",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "wingle-7",
+            "name": "Wall (GWM) Wingle 7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "wey-05",
+            "name": "Wey 05",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "wey-07",
+            "name": "Wey 07",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "wingle",
+            "name": "Wingle",
+            "year_start": 2006,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "wingle-3",
+            "name": "Wingle 3",
+            "year_start": 2011,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "wingle-5",
+            "name": "Wingle 5",
+            "year_start": 2011,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "wingle-6",
+            "name": "Wingle 6",
+            "year_start": 2014,
+            "year_end": 2020,
+            "generation_count": 1
+        }
+    ],
+    "total": 52
+}
