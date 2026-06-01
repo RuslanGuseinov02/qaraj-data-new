@@ -1,0 +1,79 @@
+{
+    "make": {
+        "slug": "datsun",
+        "name": "Datsun"
+    },
+    "data": [
+        {
+            "slug": "240z",
+            "name": "240Z",
+            "year_start": 1969,
+            "year_end": 1973,
+            "generation_count": 1
+        },
+        {
+            "slug": "260z",
+            "name": "260Z",
+            "year_start": 1974,
+            "year_end": 1978,
+            "generation_count": 1
+        },
+        {
+            "slug": "280z",
+            "name": "280Z",
+            "year_start": 1975,
+            "year_end": 1978,
+            "generation_count": 1
+        },
+        {
+            "slug": "280zx",
+            "name": "280ZX",
+            "year_start": 1978,
+            "year_end": 1984,
+            "generation_count": 1
+        },
+        {
+            "slug": "cross",
+            "name": "Cross",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "go",
+            "name": "GO",
+            "year_start": 2014,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "goplus",
+            "name": "GO+",
+            "year_start": 2014,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "mi-do",
+            "name": "mi-DO",
+            "year_start": 2014,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "on-do",
+            "name": "on-DO",
+            "year_start": 2014,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "redi-go",
+            "name": "redi-GO",
+            "year_start": 2016,
+            "year_end": 2022,
+            "generation_count": 2
+        }
+    ],
+    "total": 10
+}
