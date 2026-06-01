@@ -1,0 +1,58 @@
+{
+    "make": {
+        "slug": "genesis",
+        "name": "Genesis"
+    },
+    "data": [
+        {
+            "slug": "eq900",
+            "name": "EQ900",
+            "year_start": 2015,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "g70",
+            "name": "G70",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "g80",
+            "name": "G80",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "g90",
+            "name": "G90",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "gv60",
+            "name": "GV60",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "gv70",
+            "name": "GV70",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "gv80",
+            "name": "GV80",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        }
+    ],
+    "total": 7
+}
