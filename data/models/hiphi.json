@@ -1,0 +1,30 @@
+{
+    "make": {
+        "slug": "hiphi",
+        "name": "HiPhi"
+    },
+    "data": [
+        {
+            "slug": "x",
+            "name": "X",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "y",
+            "name": "Y",
+            "year_start": 2023,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "z",
+            "name": "Z",
+            "year_start": 2023,
+            "year_end": 2024,
+            "generation_count": 1
+        }
+    ],
+    "total": 3
+}
