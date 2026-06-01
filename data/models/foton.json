@@ -1,0 +1,352 @@
+{
+    "make": {
+        "slug": "foton",
+        "name": "Foton"
+    },
+    "data": [
+        {
+            "slug": "conqueror",
+            "name": "Conqueror",
+            "year_start": 2020,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "conqueror-3",
+            "name": "Conqueror 3",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "conqueror-5",
+            "name": "Conqueror 5",
+            "year_start": 2022,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "conqueror-7",
+            "name": "Conqueror 7",
+            "year_start": 2022,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "conqueror-plus",
+            "name": "Conqueror Plus",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "g7",
+            "name": "G7",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "g9",
+            "name": "G9",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "gratour",
+            "name": "Gratour",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "gratour-gt",
+            "name": "Gratour GT",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "gratour-t3",
+            "name": "Gratour T3",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "gratour-v3",
+            "name": "Gratour V3",
+            "year_start": 2015,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "gratour-v5",
+            "name": "Gratour V5",
+            "year_start": 2015,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "gratour-im6",
+            "name": "Gratour im6",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "gratour-im8",
+            "name": "Gratour im8",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "gratour-ix5",
+            "name": "Gratour ix5",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "gratour-ix7",
+            "name": "Gratour ix7",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "harabas",
+            "name": "Harabas TM300",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "mpx",
+            "name": "MPX",
+            "year_start": 2009,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "mpx-s",
+            "name": "MPX S",
+            "year_start": 2013,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "mars-7",
+            "name": "Mars 7",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "mars-9",
+            "name": "Mars 9",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "midi",
+            "name": "Midi",
+            "year_start": 2008,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "sauvana",
+            "name": "Sauvana",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "sup",
+            "name": "Sup",
+            "year_start": 2011,
+            "year_end": 2023,
+            "generation_count": 3
+        },
+        {
+            "slug": "tm3",
+            "name": "TM3",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tm5",
+            "name": "TM5",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "thunder",
+            "name": "Thunder",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "toano",
+            "name": "Toano",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "toplander",
+            "name": "Toplander",
+            "year_start": 2015,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "tranvan",
+            "name": "Transvan",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tunland",
+            "name": "Tunland",
+            "year_start": 2012,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "tunland-e3",
+            "name": "Tunland E3",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "tunland-e5",
+            "name": "Tunland E5",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "tunland-e7",
+            "name": "Tunland E7",
+            "year_start": 2019,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "tunland-g7",
+            "name": "Tunland G7",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "tunland-g9",
+            "name": "Tunland G9",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tunland-s",
+            "name": "Tunland S",
+            "year_start": 2014,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "tunland-shengtu",
+            "name": "Tunland Shengtu",
+            "year_start": 2020,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "tunland-v7",
+            "name": "Tunland V7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tunland-v9",
+            "name": "Tunland V9",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tunland-yutu",
+            "name": "Tunland Yutu",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v",
+            "name": "V",
+            "year_start": 2018,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "v7",
+            "name": "V7",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v9",
+            "name": "V9",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "view",
+            "name": "View",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "view-cs2",
+            "name": "View CS2",
+            "year_start": 2014,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "view-g5",
+            "name": "View G5",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "view-g7",
+            "name": "View G7",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "view-g9",
+            "name": "View G9",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 49
+}
