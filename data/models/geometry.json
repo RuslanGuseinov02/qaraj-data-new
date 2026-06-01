@@ -1,0 +1,79 @@
+{
+    "make": {
+        "slug": "geometry",
+        "name": "Geometry"
+    },
+    "data": [
+        {
+            "slug": "a",
+            "name": "A",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "a-pro",
+            "name": "A Pro",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "c",
+            "name": "C",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "e",
+            "name": "E",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ex3",
+            "name": "EX3",
+            "year_start": 2021,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "g6",
+            "name": "G6",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "m6",
+            "name": "M6",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "panda-knight",
+            "name": "Panda Knight",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "panda-mini",
+            "name": "Panda Mini",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e225",
+            "name": "e225",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 10
+}
