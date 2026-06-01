@@ -1,0 +1,107 @@
+{
+    "make": {
+        "slug": "forthing",
+        "name": "Forthing"
+    },
+    "data": [
+        {
+            "slug": "friday",
+            "name": "Friday",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "s50ev",
+            "name": "Joyear S50EV",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "lingzhi-m5",
+            "name": "Lingzhi M5",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "lingzhi-plus",
+            "name": "Lingzhi Plus",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "m7",
+            "name": "M7",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "s7",
+            "name": "S7",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t5",
+            "name": "T5",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "t5-evo",
+            "name": "T5 EVO",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t5-hev",
+            "name": "T5 HEV",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t5-mach-edition",
+            "name": "T5 Mach Edition",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t5-prosperity",
+            "name": "T5 Prosperous Style",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "t5l",
+            "name": "T5L",
+            "year_start": 2020,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "m4",
+            "name": "U-Tour M4 Yacht",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v9",
+            "name": "V9",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 14
+}
