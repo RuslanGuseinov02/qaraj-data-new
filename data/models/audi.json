@@ -1,0 +1,646 @@
+{
+    "make": {
+        "slug": "audi",
+        "name": "Audi"
+    },
+    "data": [
+        {
+            "slug": "100",
+            "name": "100",
+            "year_start": 1968,
+            "year_end": 1994,
+            "generation_count": 4
+        },
+        {
+            "slug": "200",
+            "name": "200",
+            "year_start": 1979,
+            "year_end": 1991,
+            "generation_count": 2
+        },
+        {
+            "slug": "4000",
+            "name": "4000",
+            "year_start": 1980,
+            "year_end": 1987,
+            "generation_count": 2
+        },
+        {
+            "slug": "5-5",
+            "name": "5+5",
+            "year_start": 1981,
+            "year_end": 1983,
+            "generation_count": 1
+        },
+        {
+            "slug": "5000",
+            "name": "5000",
+            "year_start": 1978,
+            "year_end": 1990,
+            "generation_count": 3
+        },
+        {
+            "slug": "80",
+            "name": "80",
+            "year_start": 1972,
+            "year_end": 1996,
+            "generation_count": 6
+        },
+        {
+            "slug": "90",
+            "name": "90",
+            "year_start": 1984,
+            "year_end": 1995,
+            "generation_count": 3
+        },
+        {
+            "slug": "a1",
+            "name": "A1",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "a1-allstreet",
+            "name": "A1 allstreet",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "a1-citycarver",
+            "name": "A1 citycarver",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "a2",
+            "name": "A2",
+            "year_start": 1999,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "a3",
+            "name": "A3",
+            "year_start": 1996,
+            "year_end": null,
+            "generation_count": 9
+        },
+        {
+            "slug": "a3-allstreet",
+            "name": "A3 allstreet",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "a3l",
+            "name": "A3L",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "a4",
+            "name": "A4",
+            "year_start": 1994,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "a4-allroad",
+            "name": "A4 Allroad",
+            "year_start": 2009,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "a4l",
+            "name": "A4L",
+            "year_start": 2009,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "a5",
+            "name": "A5",
+            "year_start": 2007,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "a5l",
+            "name": "A5L",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "a6",
+            "name": "A6",
+            "year_start": 1994,
+            "year_end": null,
+            "generation_count": 9
+        },
+        {
+            "slug": "a6-allroad",
+            "name": "A6 Allroad",
+            "year_start": 2000,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "a6-e-tron",
+            "name": "A6 e-tron",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "a6l",
+            "name": "A6L",
+            "year_start": 2005,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "a7",
+            "name": "A7",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "a7l",
+            "name": "A7L",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "a8",
+            "name": "A8",
+            "year_start": 1994,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "a8l",
+            "name": "A8L",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "allroad",
+            "name": "Allroad",
+            "year_start": 2001,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "cabriolet",
+            "name": "Cabriolet",
+            "year_start": 1991,
+            "year_end": 2000,
+            "generation_count": 1
+        },
+        {
+            "slug": "coupe",
+            "name": "Coupe",
+            "year_start": 1980,
+            "year_end": 1996,
+            "generation_count": 3
+        },
+        {
+            "slug": "q2",
+            "name": "Q2",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "q2l",
+            "name": "Q2L",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "q2l-e-tron",
+            "name": "Q2L e-tron",
+            "year_start": 2019,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "q3",
+            "name": "Q3",
+            "year_start": 2011,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "q3-sportback",
+            "name": "Q3 Sportback",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "q4-sportback",
+            "name": "Q4 Sportback e-tron",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "q4",
+            "name": "Q4 e-tron",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "q5",
+            "name": "Q5",
+            "year_start": 2008,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "q5-sportback",
+            "name": "Q5 Sportback",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "q5-e-tron",
+            "name": "Q5 e-tron",
+            "year_start": 2022,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "q5l",
+            "name": "Q5L",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "q5l-sportback",
+            "name": "Q5L Sportback",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "q6",
+            "name": "Q6",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "q6-sportback-e-tron",
+            "name": "Q6 Sportback e-tron",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "q6-e-tron",
+            "name": "Q6 e-tron",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "q6l-sportback-e-tron",
+            "name": "Q6L Sportback e-tron",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "q6l-e-tron",
+            "name": "Q6L e-tron",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "q7",
+            "name": "Q7",
+            "year_start": 2005,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "q8",
+            "name": "Q8",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "q8-sportback-e-tron",
+            "name": "Q8 Sportback e-tron",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "q8-e-tron",
+            "name": "Q8 e-tron",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "r8",
+            "name": "R8",
+            "year_start": 2007,
+            "year_end": 2023,
+            "generation_count": 4
+        },
+        {
+            "slug": "rs-q3",
+            "name": "RS Q3",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "rs-q3-sportback",
+            "name": "RS Q3 Sportback",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "rs-q8",
+            "name": "RS Q8",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "rs-e-tron-gt",
+            "name": "RS e-tron GT",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "rs2",
+            "name": "RS2",
+            "year_start": 1994,
+            "year_end": 1996,
+            "generation_count": 1
+        },
+        {
+            "slug": "rs3",
+            "name": "RS3",
+            "year_start": 2011,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "rs4",
+            "name": "RS4",
+            "year_start": 1999,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "rs5",
+            "name": "RS5",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "rs6",
+            "name": "RS6",
+            "year_start": 2002,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "rs7",
+            "name": "RS7",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "s-e-tron-gt",
+            "name": "S e-tron GT",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "s1",
+            "name": "S1",
+            "year_start": 2014,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "s2",
+            "name": "S2",
+            "year_start": 1991,
+            "year_end": 1996,
+            "generation_count": 1
+        },
+        {
+            "slug": "s3",
+            "name": "S3",
+            "year_start": 1999,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "s4",
+            "name": "S4",
+            "year_start": 1991,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "s5",
+            "name": "S5",
+            "year_start": 2007,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "s6",
+            "name": "S6",
+            "year_start": 1994,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "s6-e-tron",
+            "name": "S6 e-tron",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "s7",
+            "name": "S7",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "s8",
+            "name": "S8",
+            "year_start": 1996,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "s8l",
+            "name": "S8L",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "sq2",
+            "name": "SQ2",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "sq5",
+            "name": "SQ5",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "sq5-sportback",
+            "name": "SQ5 Sportback",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "sq6-sportback-e-tron",
+            "name": "SQ6 Sportback e-tron",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sq6-e-tron",
+            "name": "SQ6 e-tron",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sq7",
+            "name": "SQ7",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "sq8",
+            "name": "SQ8",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "sq8-sportback-e-tron",
+            "name": "SQ8 Sportback e-tron",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sq8-e-tron",
+            "name": "SQ8 e-tron",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tt",
+            "name": "TT",
+            "year_start": 1998,
+            "year_end": 2023,
+            "generation_count": 5
+        },
+        {
+            "slug": "tt-rs",
+            "name": "TT RS",
+            "year_start": 2009,
+            "year_end": 2023,
+            "generation_count": 3
+        },
+        {
+            "slug": "tts",
+            "name": "TT S",
+            "year_start": 2008,
+            "year_end": 2023,
+            "generation_count": 4
+        },
+        {
+            "slug": "v8",
+            "name": "V8",
+            "year_start": 1988,
+            "year_end": 1994,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-tron",
+            "name": "e-tron",
+            "year_start": 2019,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-tron-gt",
+            "name": "e-tron GT",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "e-tron-s",
+            "name": "e-tron S",
+            "year_start": 2020,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-tron-s-sportback",
+            "name": "e-tron S Sportback",
+            "year_start": 2020,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-tron-sportback",
+            "name": "e-tron Sportback",
+            "year_start": 2020,
+            "year_end": 2023,
+            "generation_count": 1
+        }
+    ],
+    "total": 91
+}
