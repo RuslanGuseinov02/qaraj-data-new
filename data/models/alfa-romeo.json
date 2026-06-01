@@ -1,0 +1,240 @@
+{
+    "make": {
+        "slug": "alfa-romeo",
+        "name": "Alfa Romeo"
+    },
+    "data": [
+        {
+            "slug": "145",
+            "name": "145",
+            "year_start": 1995,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "146",
+            "name": "146",
+            "year_start": 1995,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "147",
+            "name": "147",
+            "year_start": 2000,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "155",
+            "name": "155",
+            "year_start": 1992,
+            "year_end": 1997,
+            "generation_count": 1
+        },
+        {
+            "slug": "156",
+            "name": "156",
+            "year_start": 1997,
+            "year_end": 2007,
+            "generation_count": 2
+        },
+        {
+            "slug": "159",
+            "name": "159",
+            "year_start": 2005,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "164",
+            "name": "164",
+            "year_start": 1987,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "166",
+            "name": "166",
+            "year_start": 1998,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "33",
+            "name": "33",
+            "year_start": 1983,
+            "year_end": 1995,
+            "generation_count": 2
+        },
+        {
+            "slug": "4c",
+            "name": "4C",
+            "year_start": 2013,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "75",
+            "name": "75",
+            "year_start": 1985,
+            "year_end": 1992,
+            "generation_count": 1
+        },
+        {
+            "slug": "8c-competizione",
+            "name": "8C Competizione",
+            "year_start": 2007,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "90",
+            "name": "90",
+            "year_start": 1984,
+            "year_end": 1988,
+            "generation_count": 1
+        },
+        {
+            "slug": "alfa-6",
+            "name": "Alfa 6",
+            "year_start": 1979,
+            "year_end": 1986,
+            "generation_count": 1
+        },
+        {
+            "slug": "alfasud",
+            "name": "Alfasud",
+            "year_start": 1972,
+            "year_end": 1989,
+            "generation_count": 1
+        },
+        {
+            "slug": "alfetta",
+            "name": "Alfetta",
+            "year_start": 1973,
+            "year_end": 1987,
+            "generation_count": 1
+        },
+        {
+            "slug": "arna",
+            "name": "Arna",
+            "year_start": 1983,
+            "year_end": 1987,
+            "generation_count": 1
+        },
+        {
+            "slug": "brera",
+            "name": "Brera",
+            "year_start": 2005,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "crosswagon-q4",
+            "name": "Crosswagon Q4",
+            "year_start": 2004,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "gt",
+            "name": "GT",
+            "year_start": 1963,
+            "year_end": 2010,
+            "generation_count": 2
+        },
+        {
+            "slug": "gtv",
+            "name": "GTV",
+            "year_start": 1995,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "giulietta",
+            "name": "Giulietta",
+            "year_start": 1977,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "mito",
+            "name": "MiTo",
+            "year_start": 2008,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "milano",
+            "name": "Milano",
+            "year_start": 1987,
+            "year_end": 1989,
+            "generation_count": 1
+        },
+        {
+            "slug": "montreal",
+            "name": "Montreal",
+            "year_start": 1970,
+            "year_end": 1977,
+            "generation_count": 1
+        },
+        {
+            "slug": "rz",
+            "name": "RZ",
+            "year_start": 1992,
+            "year_end": 1994,
+            "generation_count": 1
+        },
+        {
+            "slug": "giulia",
+            "name": "Romeo Giulia",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "junior",
+            "name": "Romeo Junior",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "stelvio",
+            "name": "Romeo Stelvio",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "tonale",
+            "name": "Romeo Tonale",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "sz",
+            "name": "SZ",
+            "year_start": 1988,
+            "year_end": 1994,
+            "generation_count": 1
+        },
+        {
+            "slug": "spider",
+            "name": "Spider",
+            "year_start": 1966,
+            "year_end": 2010,
+            "generation_count": 3
+        },
+        {
+            "slug": "sprint",
+            "name": "Sprint",
+            "year_start": 1983,
+            "year_end": 1989,
+            "generation_count": 1
+        }
+    ],
+    "total": 33
+}
