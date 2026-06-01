@@ -1,0 +1,415 @@
+{
+    "make": {
+        "slug": "citroen",
+        "name": "Citroën"
+    },
+    "data": [
+        {
+            "slug": "ami",
+            "name": "Ami",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "ax",
+            "name": "Ax",
+            "year_start": 1986,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "berlingo",
+            "name": "Berlingo",
+            "year_start": 1996,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "berlingo-multispace",
+            "name": "Berlingo Multispace",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "beyond",
+            "name": "Beyond",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "bx",
+            "name": "Bx",
+            "year_start": 1982,
+            "year_end": 1994,
+            "generation_count": 1
+        },
+        {
+            "slug": "c-crosser",
+            "name": "C-Crosser",
+            "year_start": 2007,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "c-elysee",
+            "name": "C-Elysée",
+            "year_start": 2012,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "c-quatre",
+            "name": "C-Quatrè",
+            "year_start": 2009,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "c-triomphe",
+            "name": "C-Triomphe",
+            "year_start": 2006,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "c-zero",
+            "name": "C-Zero",
+            "year_start": 2010,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "c1",
+            "name": "C1",
+            "year_start": 2005,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "c2",
+            "name": "C2",
+            "year_start": 2003,
+            "year_end": 2012,
+            "generation_count": 2
+        },
+        {
+            "slug": "c3-picasso",
+            "name": "C3 Picasso",
+            "year_start": 2008,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "c3-pluriel",
+            "name": "C3 Pluriel",
+            "year_start": 2003,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "c3-xr",
+            "name": "C3-XR",
+            "year_start": 2014,
+            "year_end": 2024,
+            "generation_count": 3
+        },
+        {
+            "slug": "c3l",
+            "name": "C3L",
+            "year_start": 2020,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "c4",
+            "name": "C4",
+            "year_start": 2004,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "c4-aircross",
+            "name": "C4 Aircross",
+            "year_start": 2012,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "c4-cactus",
+            "name": "C4 Cactus",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "c4-picasso",
+            "name": "C4 Picasso",
+            "year_start": 2006,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "c4-sega",
+            "name": "C4 Sega",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "c4-spacetourer",
+            "name": "C4 SpaceTourer",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "c4-x",
+            "name": "C4 X",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "c4l",
+            "name": "C4L",
+            "year_start": 2013,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "c5",
+            "name": "C5",
+            "year_start": 2000,
+            "year_end": 2021,
+            "generation_count": 4
+        },
+        {
+            "slug": "c5-aircross",
+            "name": "C5 Aircross",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "c5-x",
+            "name": "C5 X",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "c6",
+            "name": "C6",
+            "year_start": 2005,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "c8",
+            "name": "C8",
+            "year_start": 2002,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "cx",
+            "name": "CX",
+            "year_start": 1974,
+            "year_end": 1992,
+            "generation_count": 2
+        },
+        {
+            "slug": "aircross",
+            "name": "Citroën Aircross",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "basalt",
+            "name": "Citroën Basalt",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "c3",
+            "name": "Citroën C3",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "c3-aircross",
+            "name": "Citroën C3 Aircross",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "ds3",
+            "name": "DS3",
+            "year_start": 2009,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "ds4",
+            "name": "DS4",
+            "year_start": 2010,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "ds5",
+            "name": "DS5",
+            "year_start": 2011,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "dispatch",
+            "name": "Dispatch",
+            "year_start": 1996,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "e-mehari",
+            "name": "E-Mehari",
+            "year_start": 2016,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "elysee",
+            "name": "Elysée",
+            "year_start": 2004,
+            "year_end": 2021,
+            "generation_count": 4
+        },
+        {
+            "slug": "evasion",
+            "name": "Evasion",
+            "year_start": 1994,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "fukang",
+            "name": "Fukang",
+            "year_start": 1994,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "grand-c4-picasso",
+            "name": "Grand C4 Picasso",
+            "year_start": 2006,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "grand-c4-spacetourer",
+            "name": "Grand C4 SpaceTourer",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "holidays",
+            "name": "Holidays",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "jumper",
+            "name": "Jumper",
+            "year_start": 1993,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "jumpy",
+            "name": "Jumpy",
+            "year_start": 1996,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "nemo",
+            "name": "Nemo",
+            "year_start": 2007,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "relay",
+            "name": "Relay",
+            "year_start": 1993,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "saxo",
+            "name": "Saxo",
+            "year_start": 1996,
+            "year_end": 2004,
+            "generation_count": 2
+        },
+        {
+            "slug": "spacetourer",
+            "name": "SpaceTourer",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "synergie",
+            "name": "Synergie",
+            "year_start": 1994,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "xantia",
+            "name": "Xantia",
+            "year_start": 1993,
+            "year_end": 2002,
+            "generation_count": 2
+        },
+        {
+            "slug": "xm",
+            "name": "Xm",
+            "year_start": 1989,
+            "year_end": 2000,
+            "generation_count": 1
+        },
+        {
+            "slug": "xsara",
+            "name": "Xsara",
+            "year_start": 1997,
+            "year_end": 2006,
+            "generation_count": 2
+        },
+        {
+            "slug": "xsara-picasso",
+            "name": "Xsara Picasso",
+            "year_start": 1999,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "zx",
+            "name": "ZX",
+            "year_start": 1990,
+            "year_end": 1998,
+            "generation_count": 1
+        }
+    ],
+    "total": 58
+}
