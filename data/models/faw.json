@@ -1,0 +1,345 @@
+{
+    "make": {
+        "slug": "faw",
+        "name": "FAW"
+    },
+    "data": [
+        {
+            "slug": "besturn-b30",
+            "name": "Bestune B30",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "besturn-b50",
+            "name": "Bestune B50",
+            "year_start": 2009,
+            "year_end": 2020,
+            "generation_count": 3
+        },
+        {
+            "slug": "besturn-b70",
+            "name": "Bestune B70",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "besturn-b70s",
+            "name": "Bestune B70S",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "besturn-b90",
+            "name": "Bestune B90",
+            "year_start": 2014,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "bestune-e01",
+            "name": "Bestune E01",
+            "year_start": 2020,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "bestune-joy-03",
+            "name": "Bestune Joy 03",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "bestune-m9",
+            "name": "Bestune M9",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "bestune-nat",
+            "name": "Bestune NAT",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "bestune-pony",
+            "name": "Bestune Pony",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "besturn-t33",
+            "name": "Bestune T33",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "besturn-t55",
+            "name": "Bestune T55",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "besturn-t77",
+            "name": "Bestune T77",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "besturn-t77-pro",
+            "name": "Bestune T77 Pro",
+            "year_start": 2020,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "bestune-t90",
+            "name": "Bestune T90",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "besturn-t99",
+            "name": "Bestune T99",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "besturn-x40",
+            "name": "Bestune X40",
+            "year_start": 2017,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "besturn-x80",
+            "name": "Bestune X80",
+            "year_start": 2013,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "junpai-a50",
+            "name": "Junpai A50",
+            "year_start": 2018,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "junpai-a70",
+            "name": "Junpai A70",
+            "year_start": 2016,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "junpai-a70e",
+            "name": "Junpai A70E",
+            "year_start": 2017,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "junpai-cx65",
+            "name": "Junpai CX65",
+            "year_start": 2018,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "junpai-d60",
+            "name": "Junpai D60",
+            "year_start": 2015,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "oley",
+            "name": "Oley",
+            "year_start": 2012,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "senia-r9",
+            "name": "Senia R9",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "xenia-r7",
+            "name": "Sirius R7",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "t340",
+            "name": "T340",
+            "year_start": 2018,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "t50",
+            "name": "T50",
+            "year_start": 2011,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "t51",
+            "name": "T51",
+            "year_start": 2011,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "t57",
+            "name": "T57",
+            "year_start": 2011,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "t80",
+            "name": "T80",
+            "year_start": 2015,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "v2",
+            "name": "V2",
+            "year_start": 2010,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "v5",
+            "name": "V5",
+            "year_start": 2012,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "v52",
+            "name": "V52",
+            "year_start": 2011,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "v55",
+            "name": "V55",
+            "year_start": 2011,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "v70",
+            "name": "V70",
+            "year_start": 2011,
+            "year_end": 2012,
+            "generation_count": 2
+        },
+        {
+            "slug": "v75",
+            "name": "V75",
+            "year_start": 2015,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "v77",
+            "name": "V77",
+            "year_start": 2015,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "v80",
+            "name": "V80",
+            "year_start": 2013,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "vela",
+            "name": "Vela",
+            "year_start": 2004,
+            "year_end": 2008,
+            "generation_count": 2
+        },
+        {
+            "slug": "vita",
+            "name": "Vita",
+            "year_start": 2006,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "vizi",
+            "name": "Vizi",
+            "year_start": 2004,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "xenia-m80",
+            "name": "Xenia M80",
+            "year_start": 2009,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "xenia-s80",
+            "name": "Xenia S80",
+            "year_start": 2011,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "xiali",
+            "name": "Xiali",
+            "year_start": 2004,
+            "year_end": 2012,
+            "generation_count": 3
+        },
+        {
+            "slug": "xiali-n3",
+            "name": "Xiali N3",
+            "year_start": 2004,
+            "year_end": 2012,
+            "generation_count": 2
+        },
+        {
+            "slug": "xiali-n5",
+            "name": "Xiali N5",
+            "year_start": 2010,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "xiali-n7",
+            "name": "Xiali N7",
+            "year_start": 2013,
+            "year_end": 2018,
+            "generation_count": 1
+        }
+    ],
+    "total": 48
+}
