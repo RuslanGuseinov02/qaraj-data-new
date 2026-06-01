@@ -1,0 +1,359 @@
+{
+    "make": {
+        "slug": "buick",
+        "name": "Buick"
+    },
+    "data": [
+        {
+            "slug": "allure",
+            "name": "Allure",
+            "year_start": 2005,
+            "year_end": 2010,
+            "generation_count": 3
+        },
+        {
+            "slug": "cascada",
+            "name": "Cascada",
+            "year_start": 2016,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "century",
+            "name": "Century",
+            "year_start": 1982,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "electra",
+            "name": "Electra",
+            "year_start": 1985,
+            "year_end": 1990,
+            "generation_count": 1
+        },
+        {
+            "slug": "electra-e4",
+            "name": "Electra E4",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "electra-e4-gs",
+            "name": "Electra E4 GS",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "electra-e5",
+            "name": "Electra E5",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "enclave",
+            "name": "Enclave",
+            "year_start": 2007,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "encore",
+            "name": "Encore",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "encore-gx",
+            "name": "Encore GX",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "encore-plus",
+            "name": "Encore Plus",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "envision",
+            "name": "Envision",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "envision-plus",
+            "name": "Envision Plus",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "envision-s",
+            "name": "Envision S",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "envision-s-gs",
+            "name": "Envision S GS",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "envista",
+            "name": "Envista",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "envista-gs",
+            "name": "Envista GS",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "excelle",
+            "name": "Excelle",
+            "year_start": 2004,
+            "year_end": 2023,
+            "generation_count": 3
+        },
+        {
+            "slug": "excelle-gt",
+            "name": "Excelle GT",
+            "year_start": 2010,
+            "year_end": 2023,
+            "generation_count": 3
+        },
+        {
+            "slug": "excelle-gx",
+            "name": "Excelle GX",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "excelle-xt",
+            "name": "Excelle XT",
+            "year_start": 2010,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "gl6",
+            "name": "GL6",
+            "year_start": 2018,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "gl8",
+            "name": "GL8",
+            "year_start": 2005,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "gl8-es",
+            "name": "GL8 ES",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "gl8-ls",
+            "name": "GL8 LS",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "gl8-phev",
+            "name": "GL8 PHEV",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "grand-national",
+            "name": "Grand National",
+            "year_start": 1981,
+            "year_end": 1987,
+            "generation_count": 1
+        },
+        {
+            "slug": "la-crosse",
+            "name": "LaCrosse",
+            "year_start": 2005,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "le-sabre",
+            "name": "LeSabre",
+            "year_start": 1965,
+            "year_end": 2005,
+            "generation_count": 6
+        },
+        {
+            "slug": "lucerne",
+            "name": "Lucerne",
+            "year_start": 2006,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "park-avenue",
+            "name": "Park Avenue",
+            "year_start": 1991,
+            "year_end": 2012,
+            "generation_count": 3
+        },
+        {
+            "slug": "rainier",
+            "name": "Rainier",
+            "year_start": 2003,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "regal",
+            "name": "Regal",
+            "year_start": 1987,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "regal-gs",
+            "name": "Regal GS",
+            "year_start": 2012,
+            "year_end": 2023,
+            "generation_count": 3
+        },
+        {
+            "slug": "regal-tourx",
+            "name": "Regal TourX",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "rendezvouz",
+            "name": "Rendezvous",
+            "year_start": 2001,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "riviera",
+            "name": "Riviera",
+            "year_start": 1963,
+            "year_end": 1999,
+            "generation_count": 8
+        },
+        {
+            "slug": "roadmaster",
+            "name": "Roadmaster",
+            "year_start": 1991,
+            "year_end": 1996,
+            "generation_count": 1
+        },
+        {
+            "slug": "royaum",
+            "name": "Royaum",
+            "year_start": 2004,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "sail",
+            "name": "Sail",
+            "year_start": 2001,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "skylark",
+            "name": "Skylark",
+            "year_start": 1964,
+            "year_end": 1998,
+            "generation_count": 2
+        },
+        {
+            "slug": "terraza",
+            "name": "Terraza",
+            "year_start": 2005,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "velite5",
+            "name": "Velite 5",
+            "year_start": 2017,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "velite6",
+            "name": "Velite 6",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "velite7",
+            "name": "Velite 7",
+            "year_start": 2020,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "verano",
+            "name": "Verano",
+            "year_start": 2011,
+            "year_end": 2022,
+            "generation_count": 4
+        },
+        {
+            "slug": "verano-gs",
+            "name": "Verano GS",
+            "year_start": 2016,
+            "year_end": 2022,
+            "generation_count": 3
+        },
+        {
+            "slug": "verano-pro",
+            "name": "Verano Pro",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "verano-pro-gs",
+            "name": "Verano Pro GS",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "wildcat",
+            "name": "Wildcat",
+            "year_start": 1965,
+            "year_end": 1970,
+            "generation_count": 1
+        }
+    ],
+    "total": 50
+}
