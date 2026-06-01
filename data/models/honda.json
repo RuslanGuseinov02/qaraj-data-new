@@ -1,0 +1,926 @@
+{
+    "make": {
+        "slug": "honda",
+        "name": "Honda"
+    },
+    "data": [
+        {
+            "slug": "accord",
+            "name": "Accord",
+            "year_start": 1976,
+            "year_end": null,
+            "generation_count": 18
+        },
+        {
+            "slug": "accord-aerodeck",
+            "name": "Accord Aerodeck",
+            "year_start": 1990,
+            "year_end": 1998,
+            "generation_count": 2
+        },
+        {
+            "slug": "accord-crosstour",
+            "name": "Accord Crosstour",
+            "year_start": 2010,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "accord-euro",
+            "name": "Accord Euro",
+            "year_start": 2003,
+            "year_end": 2015,
+            "generation_count": 4
+        },
+        {
+            "slug": "accord-inspire",
+            "name": "Accord Inspire",
+            "year_start": 1989,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "acty-van",
+            "name": "Acty",
+            "year_start": 1977,
+            "year_end": 2018,
+            "generation_count": 5
+        },
+        {
+            "slug": "acty-truck",
+            "name": "Acty Truck",
+            "year_start": 1999,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "airwave",
+            "name": "Airwave",
+            "year_start": 2005,
+            "year_end": 2010,
+            "generation_count": 2
+        },
+        {
+            "slug": "amaze",
+            "name": "Amaze",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "ascot",
+            "name": "Ascot",
+            "year_start": 1989,
+            "year_end": 1997,
+            "generation_count": 2
+        },
+        {
+            "slug": "ascot-innova",
+            "name": "Ascot Innova",
+            "year_start": 1992,
+            "year_end": 1996,
+            "generation_count": 1
+        },
+        {
+            "slug": "avancier",
+            "name": "Avancier",
+            "year_start": 1999,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "br-v",
+            "name": "BR-V",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "ballade",
+            "name": "Ballade",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "beat",
+            "name": "Beat",
+            "year_start": 1991,
+            "year_end": 1996,
+            "generation_count": 1
+        },
+        {
+            "slug": "breeze",
+            "name": "Breeze",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "brio",
+            "name": "Brio",
+            "year_start": 2011,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "brio-amaze",
+            "name": "Brio Amaze",
+            "year_start": 2014,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "cr-v",
+            "name": "CR-V",
+            "year_start": 1995,
+            "year_end": null,
+            "generation_count": 11
+        },
+        {
+            "slug": "cr-x",
+            "name": "CR-X",
+            "year_start": 1983,
+            "year_end": 1998,
+            "generation_count": 3
+        },
+        {
+            "slug": "cr-x-del-sol",
+            "name": "CR-X del Sol",
+            "year_start": 1992,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "cr-z",
+            "name": "CR-Z",
+            "year_start": 2010,
+            "year_end": 2017,
+            "generation_count": 3
+        },
+        {
+            "slug": "capa",
+            "name": "Capa",
+            "year_start": 1998,
+            "year_end": 2002,
+            "generation_count": 2
+        },
+        {
+            "slug": "city",
+            "name": "City",
+            "year_start": 1981,
+            "year_end": null,
+            "generation_count": 11
+        },
+        {
+            "slug": "civic",
+            "name": "Civic",
+            "year_start": 1972,
+            "year_end": null,
+            "generation_count": 15
+        },
+        {
+            "slug": "civic-5d",
+            "name": "Civic 5d",
+            "year_start": 2005,
+            "year_end": 2022,
+            "generation_count": 5
+        },
+        {
+            "slug": "civic-ferio",
+            "name": "Civic Ferio",
+            "year_start": 1991,
+            "year_end": 2005,
+            "generation_count": 5
+        },
+        {
+            "slug": "civic-shuttle",
+            "name": "Civic Shuttle",
+            "year_start": 1983,
+            "year_end": 1997,
+            "generation_count": 2
+        },
+        {
+            "slug": "civic-type-r",
+            "name": "Civic Type R",
+            "year_start": 1997,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "civic-del-sol",
+            "name": "Civic del Sol",
+            "year_start": 1993,
+            "year_end": 1997,
+            "generation_count": 1
+        },
+        {
+            "slug": "clarity",
+            "name": "Clarity",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "concerto",
+            "name": "Concerto",
+            "year_start": 1988,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "crider",
+            "name": "Crider",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "crossroad",
+            "name": "Crossroad",
+            "year_start": 1993,
+            "year_end": 2010,
+            "generation_count": 2
+        },
+        {
+            "slug": "crosstour",
+            "name": "Crosstour",
+            "year_start": 2011,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "del-sol",
+            "name": "Del Sol",
+            "year_start": 1993,
+            "year_end": 1997,
+            "generation_count": 1
+        },
+        {
+            "slug": "domani",
+            "name": "Domani",
+            "year_start": 1992,
+            "year_end": 2001,
+            "generation_count": 2
+        },
+        {
+            "slug": "edix",
+            "name": "Edix",
+            "year_start": 2004,
+            "year_end": 2009,
+            "generation_count": 2
+        },
+        {
+            "slug": "element",
+            "name": "Element",
+            "year_start": 2003,
+            "year_end": 2011,
+            "generation_count": 3
+        },
+        {
+            "slug": "elevate",
+            "name": "Elevate",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "elysion",
+            "name": "Elysion",
+            "year_start": 2004,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "elysion-prestige",
+            "name": "Elysion Prestige",
+            "year_start": 2007,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "envix",
+            "name": "Envix",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "fcx-clarity",
+            "name": "FCX Clarity",
+            "year_start": 2008,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "fr-v",
+            "name": "FR-V",
+            "year_start": 2004,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "fit",
+            "name": "Fit",
+            "year_start": 2001,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "fit-aria",
+            "name": "Fit Aria",
+            "year_start": 2002,
+            "year_end": 2009,
+            "generation_count": 2
+        },
+        {
+            "slug": "fit-shuttle",
+            "name": "Fit Shuttle",
+            "year_start": 2011,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "freed",
+            "name": "Freed",
+            "year_start": 2008,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "freed-spike",
+            "name": "Freed Spike",
+            "year_start": 2010,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "freed-plus",
+            "name": "Freed+",
+            "year_start": 2016,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "gienia",
+            "name": "Gienia",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "grace",
+            "name": "Grace",
+            "year_start": 2014,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "greiz",
+            "name": "Greiz",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "hr-v",
+            "name": "HR-V",
+            "year_start": 1998,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "horizon",
+            "name": "Horizon",
+            "year_start": 1994,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "insight",
+            "name": "Insight",
+            "year_start": 1999,
+            "year_end": 2022,
+            "generation_count": 4
+        },
+        {
+            "slug": "insight-exclusive",
+            "name": "Insight Exclusive",
+            "year_start": 2011,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "inspire",
+            "name": "Inspire",
+            "year_start": 1992,
+            "year_end": null,
+            "generation_count": 9
+        },
+        {
+            "slug": "integra",
+            "name": "Integra",
+            "year_start": 1989,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "integra-sj",
+            "name": "Integra SJ",
+            "year_start": 1996,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "integra-type-s",
+            "name": "Integra Type S",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "jade",
+            "name": "Jade",
+            "year_start": 2013,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "jazz",
+            "name": "Jazz",
+            "year_start": 1993,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "jazz-crosstar",
+            "name": "Jazz Crosstar",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "lagreat",
+            "name": "Lagreat",
+            "year_start": 1999,
+            "year_end": 2004,
+            "generation_count": 1
+        },
+        {
+            "slug": "legend",
+            "name": "Legend",
+            "year_start": 1985,
+            "year_end": 2021,
+            "generation_count": 7
+        },
+        {
+            "slug": "life",
+            "name": "Life",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 9
+        },
+        {
+            "slug": "life-dunk",
+            "name": "Life Dunk",
+            "year_start": 2000,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "logo",
+            "name": "Logo",
+            "year_start": 1996,
+            "year_end": 2002,
+            "generation_count": 2
+        },
+        {
+            "slug": "m-nv",
+            "name": "M-NV",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "mdx",
+            "name": "MDX",
+            "year_start": 2003,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "mr-v",
+            "name": "MR-V",
+            "year_start": 2006,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "mobilio",
+            "name": "Mobilio",
+            "year_start": 2001,
+            "year_end": 2024,
+            "generation_count": 4
+        },
+        {
+            "slug": "mobilio-spike",
+            "name": "Mobilio Spike",
+            "year_start": 2002,
+            "year_end": 2008,
+            "generation_count": 3
+        },
+        {
+            "slug": "n-box",
+            "name": "N-BOX",
+            "year_start": 2011,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "n-box-custom",
+            "name": "N-BOX Custom",
+            "year_start": 2011,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "n-box-slash",
+            "name": "N-BOX Slash",
+            "year_start": 2014,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "n-box-plus",
+            "name": "N-BOX+",
+            "year_start": 2012,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "n-box-plus-custom",
+            "name": "N-BOX+ Custom",
+            "year_start": 2012,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "n-one",
+            "name": "N-ONE",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "n-one-e",
+            "name": "N-ONE-e",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "n-van",
+            "name": "N-VAN",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "n-wgn",
+            "name": "N-WGN",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "n-wgn-custom",
+            "name": "N-WGN Custom",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "nsx",
+            "name": "NSX",
+            "year_start": 1990,
+            "year_end": 2022,
+            "generation_count": 4
+        },
+        {
+            "slug": "odyssey",
+            "name": "Odyssey",
+            "year_start": 1994,
+            "year_end": null,
+            "generation_count": 16
+        },
+        {
+            "slug": "odyssey-j",
+            "name": "Odyssey J",
+            "year_start": 2015,
+            "year_end": 2022,
+            "generation_count": 3
+        },
+        {
+            "slug": "odyssey-prestige",
+            "name": "Odyssey Prestige",
+            "year_start": 1997,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "orthia",
+            "name": "Orthia",
+            "year_start": 1996,
+            "year_end": 2002,
+            "generation_count": 3
+        },
+        {
+            "slug": "partner",
+            "name": "Partner",
+            "year_start": 1996,
+            "year_end": 2010,
+            "generation_count": 2
+        },
+        {
+            "slug": "passport",
+            "name": "Passport",
+            "year_start": 1994,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "pilot",
+            "name": "Pilot",
+            "year_start": 2003,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "prelude",
+            "name": "Prelude",
+            "year_start": 1978,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "prelude-inx",
+            "name": "Prelude INX",
+            "year_start": 1989,
+            "year_end": 1991,
+            "generation_count": 1
+        },
+        {
+            "slug": "prologue",
+            "name": "Prologue",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "rafaga",
+            "name": "Rafaga",
+            "year_start": 1993,
+            "year_end": 1997,
+            "generation_count": 1
+        },
+        {
+            "slug": "ridgeline",
+            "name": "Ridgeline",
+            "year_start": 2005,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "s-mx",
+            "name": "S-MX",
+            "year_start": 1996,
+            "year_end": 2002,
+            "generation_count": 2
+        },
+        {
+            "slug": "s2000",
+            "name": "S2000",
+            "year_start": 1999,
+            "year_end": 2009,
+            "generation_count": 2
+        },
+        {
+            "slug": "s660",
+            "name": "S660",
+            "year_start": 2015,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "s7",
+            "name": "S7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "saber",
+            "name": "Saber",
+            "year_start": 1995,
+            "year_end": 2003,
+            "generation_count": 3
+        },
+        {
+            "slug": "shuttle",
+            "name": "Shuttle",
+            "year_start": 1994,
+            "year_end": 2022,
+            "generation_count": 3
+        },
+        {
+            "slug": "spirior",
+            "name": "Spirior",
+            "year_start": 2009,
+            "year_end": 2018,
+            "generation_count": 3
+        },
+        {
+            "slug": "stepwgn",
+            "name": "Stepwgn",
+            "year_start": 1996,
+            "year_end": null,
+            "generation_count": 10
+        },
+        {
+            "slug": "stepwgn-spada",
+            "name": "Stepwgn Spada",
+            "year_start": 2003,
+            "year_end": 2024,
+            "generation_count": 6
+        },
+        {
+            "slug": "stream",
+            "name": "Stream",
+            "year_start": 2000,
+            "year_end": 2014,
+            "generation_count": 4
+        },
+        {
+            "slug": "street",
+            "name": "Street",
+            "year_start": 1988,
+            "year_end": 1998,
+            "generation_count": 2
+        },
+        {
+            "slug": "thats",
+            "name": "That's",
+            "year_start": 2002,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "today",
+            "name": "Today",
+            "year_start": 1988,
+            "year_end": 1998,
+            "generation_count": 2
+        },
+        {
+            "slug": "today-associe",
+            "name": "Today Associe",
+            "year_start": 1993,
+            "year_end": 1996,
+            "generation_count": 1
+        },
+        {
+            "slug": "torneo",
+            "name": "Torneo",
+            "year_start": 1997,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "ur-v",
+            "name": "UR-V",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "vamos",
+            "name": "Vamos",
+            "year_start": 1999,
+            "year_end": 2018,
+            "generation_count": 3
+        },
+        {
+            "slug": "vamos-hobio",
+            "name": "Vamos Hobio",
+            "year_start": 2003,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "vezel",
+            "name": "Vezel",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "vigor",
+            "name": "Vigor",
+            "year_start": 1989,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "wr-v",
+            "name": "WR-V",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "xr-v",
+            "name": "XR-V",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "z",
+            "name": "Z",
+            "year_start": 1998,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "zr-v",
+            "name": "ZR-V",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "zest",
+            "name": "Zest",
+            "year_start": 2006,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "zest-spark",
+            "name": "Zest Spark",
+            "year_start": 2008,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "e",
+            "name": "e",
+            "year_start": 2020,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-n1",
+            "name": "e:N1",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-np1",
+            "name": "e:NP1",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-np2",
+            "name": "e:NP2",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-ns1",
+            "name": "e:NS1",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-ns2",
+            "name": "e:NS2",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-ny1",
+            "name": "e:Ny1",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 131
+}
