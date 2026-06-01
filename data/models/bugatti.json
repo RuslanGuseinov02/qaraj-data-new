@@ -1,0 +1,65 @@
+{
+    "make": {
+        "slug": "bugatti",
+        "name": "Bugatti"
+    },
+    "data": [
+        {
+            "slug": "centodieci",
+            "name": "Centodieci",
+            "year_start": 2022,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "chiron",
+            "name": "Chiron",
+            "year_start": 2015,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "divo",
+            "name": "Divo",
+            "year_start": 2019,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "eb-110",
+            "name": "EB110",
+            "year_start": 1991,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "eb112",
+            "name": "EB112",
+            "year_start": 1993,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "eb-164-veyron",
+            "name": "EB16.4 Veyron",
+            "year_start": 2005,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "veyron",
+            "name": "Veyron",
+            "year_start": 2005,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "w16-mistral",
+            "name": "W16 Mistral",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 8
+}
