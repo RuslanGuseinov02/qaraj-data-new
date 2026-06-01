@@ -1,0 +1,37 @@
+{
+    "make": {
+        "slug": "fisker",
+        "name": "Fisker"
+    },
+    "data": [
+        {
+            "slug": "karma",
+            "name": "Karma",
+            "year_start": 2008,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "latigo",
+            "name": "Latigo CS",
+            "year_start": 2005,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "ocean",
+            "name": "Ocean",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tramonto",
+            "name": "Tramonto",
+            "year_start": 2005,
+            "year_end": 2007,
+            "generation_count": 1
+        }
+    ],
+    "total": 4
+}
