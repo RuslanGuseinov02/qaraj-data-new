@@ -1,0 +1,79 @@
+{
+    "make": {
+        "slug": "gaz",
+        "name": "GAZ"
+    },
+    "data": [
+        {
+            "slug": "gazelle",
+            "name": "Gazelle",
+            "year_start": 1994,
+            "year_end": 2010,
+            "generation_count": 2
+        },
+        {
+            "slug": "gazelle-business",
+            "name": "Gazelle Business",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "gazelle-city",
+            "name": "Gazelle City",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "gazelle-nn",
+            "name": "Gazelle NN",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "gazelle-next",
+            "name": "Gazelle Next",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sobol",
+            "name": "Sobol",
+            "year_start": 1998,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "sobol-business",
+            "name": "Sobol Business",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sobol-nn",
+            "name": "Sobol NN",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "volga",
+            "name": "Volga",
+            "year_start": 1981,
+            "year_end": 2009,
+            "generation_count": 5
+        },
+        {
+            "slug": "volga-siber",
+            "name": "Volga Siber",
+            "year_start": 2008,
+            "year_end": 2010,
+            "generation_count": 1
+        }
+    ],
+    "total": 10
+}
