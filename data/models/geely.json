@@ -1,0 +1,625 @@
+{
+    "make": {
+        "slug": "geely",
+        "name": "Geely"
+    },
+    "data": [
+        {
+            "slug": "atlas",
+            "name": "Atlas",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "atlas-pro",
+            "name": "Atlas Pro",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "azkarra",
+            "name": "Azkarra",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "binrui",
+            "name": "Binrui",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "binrui-cool",
+            "name": "Binrui Cool",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "binyue",
+            "name": "Binyue",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "binyue-cool",
+            "name": "Binyue Cool",
+            "year_start": 2022,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "binyue-l",
+            "name": "Binyue L",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "borui",
+            "name": "Borui",
+            "year_start": 2020,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "borui-ge",
+            "name": "Borui GE",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "boyue",
+            "name": "Boyue",
+            "year_start": 2016,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "boyue-cool",
+            "name": "Boyue Cool",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "boyue-l",
+            "name": "Boyue L",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "boyue-x",
+            "name": "Boyue X",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "ck",
+            "name": "CK",
+            "year_start": 2005,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "chinese-dragon",
+            "name": "Chinese Dragon",
+            "year_start": 2009,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "cityray",
+            "name": "Cityray",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "coolray",
+            "name": "Coolray",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "coolray-lite",
+            "name": "Coolray Lite",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "cowboy",
+            "name": "Cowboy",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e8",
+            "name": "E8",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ex5",
+            "name": "EX5",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "emgrand",
+            "name": "Emgrand",
+            "year_start": 2009,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "emgrand-7",
+            "name": "Emgrand 7",
+            "year_start": 2016,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "emgrand-ec8",
+            "name": "Emgrand 8 / EC8",
+            "year_start": 2011,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "ec7",
+            "name": "Emgrand EC7",
+            "year_start": 2009,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "emgrand-ev",
+            "name": "Emgrand EV",
+            "year_start": 2016,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "emgrand-evpro",
+            "name": "Emgrand EVPRO",
+            "year_start": 2021,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "emgrand-gl",
+            "name": "Emgrand GL",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 3
+        },
+        {
+            "slug": "emgrand-gs",
+            "name": "Emgrand GS",
+            "year_start": 2016,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "emgrand-gse",
+            "name": "Emgrand GSe",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "emgrand-gt",
+            "name": "Emgrand GT",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "emgrand-l",
+            "name": "Emgrand L",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "emgrand-s",
+            "name": "Emgrand S",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "ex7",
+            "name": "Emgrand X7",
+            "year_start": 2012,
+            "year_end": 2021,
+            "generation_count": 3
+        },
+        {
+            "slug": "emgrand-x7-sport",
+            "name": "Emgrand X7 Sport",
+            "year_start": 2017,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "englon-c5",
+            "name": "Englon C5",
+            "year_start": 2004,
+            "year_end": 2015,
+            "generation_count": 2
+        },
+        {
+            "slug": "englon-tx4",
+            "name": "Englon TX4",
+            "year_start": 2009,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "fc",
+            "name": "FC",
+            "year_start": 2006,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "farizon-sv",
+            "name": "Farizon SV",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "gc-515",
+            "name": "GC 515",
+            "year_start": 2014,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "gc2",
+            "name": "GC2",
+            "year_start": 2009,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "gc5",
+            "name": "GC5",
+            "year_start": 2014,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "gc6",
+            "name": "GC6",
+            "year_start": 2014,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "gc7",
+            "name": "GC7",
+            "year_start": 2012,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "gc9",
+            "name": "GC9",
+            "year_start": 2015,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "gx2",
+            "name": "GX2",
+            "year_start": 2011,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "gx3",
+            "name": "GX3",
+            "year_start": 2017,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "gx3-pro",
+            "name": "GX3 Pro",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "gx7",
+            "name": "GX7",
+            "year_start": 2012,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "gx9",
+            "name": "GX9",
+            "year_start": 2004,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "geometry-c",
+            "name": "Geometry C",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "geometry-e",
+            "name": "Geometry E",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "golden-eagle",
+            "name": "Golden Eagle",
+            "year_start": 2008,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "haoyue-l",
+            "name": "Haoyue L",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "haoyue-pro",
+            "name": "Haoyue Pro",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "icon",
+            "name": "Icon",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "jiaji",
+            "name": "Jiaji",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "lc-panda",
+            "name": "LC",
+            "year_start": 2009,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "lc-panda-cross",
+            "name": "LC Cross",
+            "year_start": 2011,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "mk",
+            "name": "MK",
+            "year_start": 2006,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "mk-cross",
+            "name": "MK Cross",
+            "year_start": 2010,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "monjaro",
+            "name": "Monjaro",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "mybo",
+            "name": "Mybo",
+            "year_start": 2004,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "okavango",
+            "name": "Okavango",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "otaka",
+            "name": "Otaka",
+            "year_start": 2006,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "panda-mini",
+            "name": "Panda Mini",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "preface",
+            "name": "Preface",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "riddara",
+            "name": "Riddara",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sc3",
+            "name": "SC3",
+            "year_start": 2012,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "sc5-rv",
+            "name": "SC5-RV",
+            "year_start": 2011,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "sc6",
+            "name": "SC6",
+            "year_start": 2012,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "sc7",
+            "name": "SC7",
+            "year_start": 2010,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "sx7",
+            "name": "SX7",
+            "year_start": 2013,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "star-wish",
+            "name": "Star Wish",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "starray",
+            "name": "Starray",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tugella",
+            "name": "Tugella",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "uliou",
+            "name": "Uliou",
+            "year_start": 2004,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "vision",
+            "name": "Vision",
+            "year_start": 2006,
+            "year_end": 2022,
+            "generation_count": 5
+        },
+        {
+            "slug": "vision-s1",
+            "name": "Vision S1",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "vision-suv",
+            "name": "Vision SUV",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "vision-x1",
+            "name": "Vision X1",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "vision-x3",
+            "name": "Vision X3",
+            "year_start": 2017,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "vision-x6",
+            "name": "Vision X6",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "vision-x6-pro",
+            "name": "Vision X6 Pro",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "xingrui-l",
+            "name": "Xingrui L",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "xingyue-l",
+            "name": "Xingyue L",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "xingyue-l-zhiqing",
+            "name": "Xingyue L Zhiqing",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 88
+}
