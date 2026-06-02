@@ -1,0 +1,65 @@
+{
+    "make": {
+        "slug": "renault-samsung",
+        "name": "Renault Samsung"
+    },
+    "data": [
+        {
+            "slug": "qm3",
+            "name": "QM3",
+            "year_start": 2013,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "qm5",
+            "name": "QM5",
+            "year_start": 2008,
+            "year_end": 2016,
+            "generation_count": 3
+        },
+        {
+            "slug": "qm6",
+            "name": "QM6",
+            "year_start": 2016,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "sm3",
+            "name": "SM3",
+            "year_start": 2002,
+            "year_end": 2020,
+            "generation_count": 4
+        },
+        {
+            "slug": "sm5",
+            "name": "SM5",
+            "year_start": 2005,
+            "year_end": 2019,
+            "generation_count": 3
+        },
+        {
+            "slug": "sm6",
+            "name": "SM6",
+            "year_start": 2016,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "sm7",
+            "name": "SM7",
+            "year_start": 2004,
+            "year_end": 2020,
+            "generation_count": 3
+        },
+        {
+            "slug": "xm3",
+            "name": "XM3",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        }
+    ],
+    "total": 8
+}
