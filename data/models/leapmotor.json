@@ -1,0 +1,79 @@
+{
+    "make": {
+        "slug": "leapmotor",
+        "name": "Leapmotor"
+    },
+    "data": [
+        {
+            "slug": "b01",
+            "name": "B01",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "b05",
+            "name": "B05",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "b10",
+            "name": "B10",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "c01",
+            "name": "C01",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "c10",
+            "name": "C10",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "c11",
+            "name": "C11",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "c16",
+            "name": "C16",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "lafa-5",
+            "name": "Lafa 5",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "s01",
+            "name": "S01",
+            "year_start": 2019,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "t03",
+            "name": "T03",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 10
+}
