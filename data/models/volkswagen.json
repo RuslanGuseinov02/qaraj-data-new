@@ -1,0 +1,1087 @@
+{
+    "make": {
+        "slug": "volkswagen",
+        "name": "Volkswagen"
+    },
+    "data": [
+        {
+            "slug": "amarok",
+            "name": "Amarok",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "ameo",
+            "name": "Ameo",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "arteon",
+            "name": "Arteon",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "arteon-sr",
+            "name": "Arteon SR",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "atlas",
+            "name": "Atlas",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "atlas-cross-sport",
+            "name": "Atlas Cross Sport",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "beetle",
+            "name": "Beetle",
+            "year_start": 1946,
+            "year_end": 2024,
+            "generation_count": 6
+        },
+        {
+            "slug": "bora",
+            "name": "Bora",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 10
+        },
+        {
+            "slug": "bora-classic",
+            "name": "Bora Classic",
+            "year_start": 2019,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "bora-sportwagen",
+            "name": "Bora SportWagen",
+            "year_start": 2008,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "bora-variant",
+            "name": "Bora Variant",
+            "year_start": 1999,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "c-trek",
+            "name": "C-Trek",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "cc",
+            "name": "CC",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "cabrio",
+            "name": "Cabrio",
+            "year_start": 1993,
+            "year_end": 2002,
+            "generation_count": 2
+        },
+        {
+            "slug": "caddy",
+            "name": "Caddy",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "california",
+            "name": "California",
+            "year_start": 2003,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "caravelle",
+            "name": "Caravelle",
+            "year_start": 1979,
+            "year_end": null,
+            "generation_count": 9
+        },
+        {
+            "slug": "city-golf",
+            "name": "City Golf",
+            "year_start": 2007,
+            "year_end": 2010,
+            "generation_count": 2
+        },
+        {
+            "slug": "clasico",
+            "name": "Clasico",
+            "year_start": 2011,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "corrado",
+            "name": "Corrado",
+            "year_start": 1988,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "crafter",
+            "name": "Crafter",
+            "year_start": 2006,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "cross-lavida",
+            "name": "Cross Lavida",
+            "year_start": 2014,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "cross-santana",
+            "name": "Cross Santana",
+            "year_start": 2016,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "cross-sport",
+            "name": "Cross Sport",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "cross-up",
+            "name": "Cross Up!",
+            "year_start": 2013,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "crossfox",
+            "name": "CrossFox",
+            "year_start": 2005,
+            "year_end": 2022,
+            "generation_count": 4
+        },
+        {
+            "slug": "cross-golf",
+            "name": "CrossGolf",
+            "year_start": 2005,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "cross-polo",
+            "name": "CrossPolo",
+            "year_start": 2006,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "cross-touran",
+            "name": "CrossTouran",
+            "year_start": 2007,
+            "year_end": 2015,
+            "generation_count": 2
+        },
+        {
+            "slug": "derby",
+            "name": "Derby",
+            "year_start": 1994,
+            "year_end": 2009,
+            "generation_count": 3
+        },
+        {
+            "slug": "eos",
+            "name": "Eos",
+            "year_start": 2006,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "eurovan",
+            "name": "Eurovan",
+            "year_start": 1992,
+            "year_end": 2004,
+            "generation_count": 2
+        },
+        {
+            "slug": "fox",
+            "name": "Fox",
+            "year_start": 1987,
+            "year_end": 2022,
+            "generation_count": 5
+        },
+        {
+            "slug": "fusca",
+            "name": "Fusca",
+            "year_start": 2012,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "gli",
+            "name": "GLI",
+            "year_start": 2008,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "gti",
+            "name": "GTI",
+            "year_start": 2006,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "gol",
+            "name": "Gol",
+            "year_start": 1980,
+            "year_end": 2024,
+            "generation_count": 8
+        },
+        {
+            "slug": "golf",
+            "name": "Golf",
+            "year_start": 1974,
+            "year_end": null,
+            "generation_count": 10
+        },
+        {
+            "slug": "golf-alltrack",
+            "name": "Golf Alltrack",
+            "year_start": 2015,
+            "year_end": 2024,
+            "generation_count": 3
+        },
+        {
+            "slug": "golf-cabriolet",
+            "name": "Golf Cabriolet",
+            "year_start": 1979,
+            "year_end": 2016,
+            "generation_count": 4
+        },
+        {
+            "slug": "golf-gti",
+            "name": "Golf GTI",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "golf-plus",
+            "name": "Golf Plus",
+            "year_start": 2005,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "golf-r",
+            "name": "Golf R",
+            "year_start": 2009,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "golf-r-variant",
+            "name": "Golf R Variant",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "golf-sv",
+            "name": "Golf SV",
+            "year_start": 2014,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "golf-sportwagen",
+            "name": "Golf SportWagen",
+            "year_start": 2010,
+            "year_end": 2019,
+            "generation_count": 3
+        },
+        {
+            "slug": "golf-sportsvan",
+            "name": "Golf Sportsvan",
+            "year_start": 2014,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "golf-touran",
+            "name": "Golf Touran",
+            "year_start": 2004,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "golf-variant",
+            "name": "Golf Variant",
+            "year_start": 1993,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "golf-variant-alltrack",
+            "name": "Golf Variant Alltrack",
+            "year_start": 2015,
+            "year_end": 2024,
+            "generation_count": 3
+        },
+        {
+            "slug": "gran-lavida",
+            "name": "Gran Lavida",
+            "year_start": 2013,
+            "year_end": 2022,
+            "generation_count": 3
+        },
+        {
+            "slug": "gran-santana",
+            "name": "Gran Santana",
+            "year_start": 2015,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "grand-california",
+            "name": "Grand California",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "id-buzz",
+            "name": "ID. Buzz",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "id3",
+            "name": "ID.3",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "id4",
+            "name": "ID.4",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "id4-crozz",
+            "name": "ID.4 CROZZ",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "id4-x",
+            "name": "ID.4 X",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "id5",
+            "name": "ID.5",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "id6-crozz",
+            "name": "ID.6 CROZZ",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "id6-x",
+            "name": "ID.6 X",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "id7",
+            "name": "ID.7",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "id-unyx",
+            "name": "ID.UNYX",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "jetta",
+            "name": "Jetta",
+            "year_start": 1979,
+            "year_end": null,
+            "generation_count": 12
+        },
+        {
+            "slug": "jetta-city",
+            "name": "Jetta City",
+            "year_start": 2007,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "jetta-gli",
+            "name": "Jetta GLI",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "jetta-king",
+            "name": "Jetta King",
+            "year_start": 2004,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "jetta-pioneer",
+            "name": "Jetta Pioneer",
+            "year_start": 2010,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "jetta-sportwagen",
+            "name": "Jetta SportWagen",
+            "year_start": 2010,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "jetta-variant",
+            "name": "Jetta Variant",
+            "year_start": 2008,
+            "year_end": 2012,
+            "generation_count": 2
+        },
+        {
+            "slug": "kombi",
+            "name": "Kombi",
+            "year_start": 2006,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "lamando",
+            "name": "Lamando",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "lamando-gts",
+            "name": "Lamando GTS",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "lamando-l",
+            "name": "Lamando L",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "lavida",
+            "name": "Lavida",
+            "year_start": 2008,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "lavida-classic",
+            "name": "Lavida Classic",
+            "year_start": 2015,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "lavida-plus",
+            "name": "Lavida Plus",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "lavida-xr",
+            "name": "Lavida XR",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "logus",
+            "name": "Logus",
+            "year_start": 1993,
+            "year_end": 1997,
+            "generation_count": 1
+        },
+        {
+            "slug": "lupo",
+            "name": "Lupo",
+            "year_start": 1998,
+            "year_end": 2009,
+            "generation_count": 2
+        },
+        {
+            "slug": "magotan",
+            "name": "Magotan",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "multivan",
+            "name": "Multivan",
+            "year_start": 1989,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "new-beetle",
+            "name": "New Beetle",
+            "year_start": 1998,
+            "year_end": 2010,
+            "generation_count": 2
+        },
+        {
+            "slug": "nivus",
+            "name": "Nivus",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "parati",
+            "name": "Parati",
+            "year_start": 2000,
+            "year_end": 2013,
+            "generation_count": 2
+        },
+        {
+            "slug": "passat",
+            "name": "Passat",
+            "year_start": 1973,
+            "year_end": null,
+            "generation_count": 18
+        },
+        {
+            "slug": "passat-alltrack",
+            "name": "Passat Alltrack",
+            "year_start": 2012,
+            "year_end": 2024,
+            "generation_count": 3
+        },
+        {
+            "slug": "passat-cc",
+            "name": "Passat CC",
+            "year_start": 2008,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "passat-pro",
+            "name": "Passat Pro",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "passat-variant",
+            "name": "Passat Variant",
+            "year_start": 1988,
+            "year_end": null,
+            "generation_count": 9
+        },
+        {
+            "slug": "passat-variant-alltrack",
+            "name": "Passat Variant Alltrack",
+            "year_start": 2012,
+            "year_end": 2024,
+            "generation_count": 3
+        },
+        {
+            "slug": "phaeton",
+            "name": "Phaeton",
+            "year_start": 2002,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "phideon",
+            "name": "Phideon",
+            "year_start": 2016,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "pointer",
+            "name": "Pointer",
+            "year_start": 1994,
+            "year_end": 2009,
+            "generation_count": 3
+        },
+        {
+            "slug": "polo",
+            "name": "Polo",
+            "year_start": 1975,
+            "year_end": null,
+            "generation_count": 12
+        },
+        {
+            "slug": "polo-classic",
+            "name": "Polo Classic",
+            "year_start": 1995,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "polo-gti",
+            "name": "Polo GTI",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "polo-plus",
+            "name": "Polo Plus",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "polo-sedan",
+            "name": "Polo Sedan",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "polo-track",
+            "name": "Polo Track",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "polo-variant",
+            "name": "Polo Variant",
+            "year_start": 1997,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "polo-vivo",
+            "name": "Polo Vivo",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "r32",
+            "name": "R32",
+            "year_start": 2008,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "rabbit",
+            "name": "Rabbit",
+            "year_start": 2006,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "routan",
+            "name": "Routan",
+            "year_start": 2008,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "sagitar",
+            "name": "Sagitar",
+            "year_start": 2006,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "santana",
+            "name": "Santana",
+            "year_start": 1985,
+            "year_end": 2023,
+            "generation_count": 6
+        },
+        {
+            "slug": "santana-gts",
+            "name": "Santana GTS",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "saveiro",
+            "name": "Saveiro",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "scirocco",
+            "name": "Scirocco",
+            "year_start": 1974,
+            "year_end": 2017,
+            "generation_count": 5
+        },
+        {
+            "slug": "sedan",
+            "name": "Sedan",
+            "year_start": 1983,
+            "year_end": 2004,
+            "generation_count": 1
+        },
+        {
+            "slug": "sharan",
+            "name": "Sharan",
+            "year_start": 1995,
+            "year_end": 2022,
+            "generation_count": 3
+        },
+        {
+            "slug": "space-cross",
+            "name": "Space Cross",
+            "year_start": 2012,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "spacefox",
+            "name": "SpaceFox",
+            "year_start": 2007,
+            "year_end": 2020,
+            "generation_count": 3
+        },
+        {
+            "slug": "sportvan",
+            "name": "SportVan",
+            "year_start": 2007,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "suran",
+            "name": "Suran",
+            "year_start": 2006,
+            "year_end": 2020,
+            "generation_count": 3
+        },
+        {
+            "slug": "t-cross",
+            "name": "T-Cross",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "t-roc",
+            "name": "T-Roc",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "t-roc-r",
+            "name": "T-Roc R",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "tacqua",
+            "name": "Tacqua",
+            "year_start": 2020,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "taigo",
+            "name": "Taigo",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "taigun",
+            "name": "Taigun",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "talagon",
+            "name": "Talagon",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "taos",
+            "name": "Taos",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "taro",
+            "name": "Taro",
+            "year_start": 1989,
+            "year_end": 1997,
+            "generation_count": 1
+        },
+        {
+            "slug": "tavendor",
+            "name": "Tavendor",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tayron",
+            "name": "Tayron",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "tayron-gte",
+            "name": "Tayron GTE",
+            "year_start": 2020,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "tayron-l",
+            "name": "Tayron L",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tayron-x",
+            "name": "Tayron X",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "tera",
+            "name": "Tera",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "teramont",
+            "name": "Teramont",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "teramont-x",
+            "name": "Teramont X",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "tharu",
+            "name": "Tharu",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "tharu-xr",
+            "name": "Tharu XR",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiguan",
+            "name": "Tiguan",
+            "year_start": 2007,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "tiguan-allspace",
+            "name": "Tiguan Allspace",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "tiguan-l",
+            "name": "Tiguan L",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "tiguan-l-pro",
+            "name": "Tiguan L Pro",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiguan-limited",
+            "name": "Tiguan Limited",
+            "year_start": 2017,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiguan-x",
+            "name": "Tiguan X",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "touareg",
+            "name": "Touareg",
+            "year_start": 2002,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "touran",
+            "name": "Touran",
+            "year_start": 2003,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "touran-l",
+            "name": "Touran L",
+            "year_start": 2016,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "transporter",
+            "name": "Transporter",
+            "year_start": 1979,
+            "year_end": null,
+            "generation_count": 9
+        },
+        {
+            "slug": "lt",
+            "name": "Transporter LT",
+            "year_start": 1975,
+            "year_end": 2006,
+            "generation_count": 2
+        },
+        {
+            "slug": "up",
+            "name": "Up!",
+            "year_start": 2011,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "vanagon",
+            "name": "Vanagon",
+            "year_start": 1980,
+            "year_end": 1997,
+            "generation_count": 3
+        },
+        {
+            "slug": "vento",
+            "name": "Vento",
+            "year_start": 1991,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "viloran",
+            "name": "Viloran",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "virtus",
+            "name": "Virtus",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "voyage",
+            "name": "Voyage",
+            "year_start": 2009,
+            "year_end": 2023,
+            "generation_count": 4
+        },
+        {
+            "slug": "xl1",
+            "name": "XL1",
+            "year_start": 2013,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-golf",
+            "name": "e-Golf",
+            "year_start": 2014,
+            "year_end": 2021,
+            "generation_count": 1
+        }
+    ],
+    "total": 154
+}
