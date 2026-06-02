@@ -1,0 +1,744 @@
+{
+    "make": {
+        "slug": "jac",
+        "name": "JAC"
+    },
+    "data": [
+        {
+            "slug": "2",
+            "name": "2",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "4",
+            "name": "4",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "6",
+            "name": "6",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "8",
+            "name": "8",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "a13",
+            "name": "A13",
+            "year_start": 2014,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "a13rs",
+            "name": "A13RS",
+            "year_start": 2014,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "a5-plus",
+            "name": "A5 Plus",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-jv55",
+            "name": "E-JV5.5",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-jv7l",
+            "name": "E-JV7L",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e10x",
+            "name": "E10X",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e30x",
+            "name": "E30X",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e40x",
+            "name": "E40X",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "frison-t6",
+            "name": "Frison T6",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "frison-t8",
+            "name": "Frison T8",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "frison-t9",
+            "name": "Frison T9",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "a30",
+            "name": "Heyue A30",
+            "year_start": 2013,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "j2",
+            "name": "J2",
+            "year_start": 2011,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "j3",
+            "name": "J3 (Tojoy)",
+            "year_start": 2008,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "j4",
+            "name": "J4",
+            "year_start": 2013,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "j5",
+            "name": "J5",
+            "year_start": 2010,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "j6",
+            "name": "J6",
+            "year_start": 2009,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "j7",
+            "name": "J7",
+            "year_start": 2008,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "j7-plus",
+            "name": "J7 Plus",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "js1",
+            "name": "JS1",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "js2",
+            "name": "JS2",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "js2-pro",
+            "name": "JS2 Pro",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "js3",
+            "name": "JS3",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "js4",
+            "name": "JS4",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "js5",
+            "name": "JS5",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "js6",
+            "name": "JS6",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "js8",
+            "name": "JS8",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "js8-pro",
+            "name": "JS8 Pro",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "a5",
+            "name": "Jiayue A5",
+            "year_start": 2019,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "x4",
+            "name": "Jiayue X4",
+            "year_start": 2019,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "x7",
+            "name": "Jiayue X7",
+            "year_start": 2019,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "journey",
+            "name": "Journey",
+            "year_start": 2014,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "k3",
+            "name": "K3",
+            "year_start": 2014,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "k5",
+            "name": "K5",
+            "year_start": 2014,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "lingling",
+            "name": "Ling Ling",
+            "year_start": 2014,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "m2",
+            "name": "M2",
+            "year_start": 2010,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "m3",
+            "name": "M3",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "m4",
+            "name": "M4",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "n35",
+            "name": "N35",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "qx",
+            "name": "QX",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "refine",
+            "name": "Refine",
+            "year_start": 2007,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "refine-a60",
+            "name": "Refine A60",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "refine-e3",
+            "name": "Refine E3",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "refine-e4",
+            "name": "Refine E4",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "refine-l5",
+            "name": "Refine L5",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "refine-l6-max",
+            "name": "Refine L6 Max",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "refine-m3",
+            "name": "Refine M3",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "refine-m3-plus",
+            "name": "Refine M3 Plus",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "refine-m4",
+            "name": "Refine M4",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "refine-m5",
+            "name": "Refine M5",
+            "year_start": 2012,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "refine-m6",
+            "name": "Refine M6",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "refine-r3",
+            "name": "Refine R3",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "refine-rf8",
+            "name": "Refine RF8",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "refine-s2",
+            "name": "Refine S2",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "refine-s2mini",
+            "name": "Refine S2 Mini",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "refine-s4",
+            "name": "Refine S4",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "rein",
+            "name": "Rein",
+            "year_start": 2007,
+            "year_end": 2013,
+            "generation_count": 2
+        },
+        {
+            "slug": "reni",
+            "name": "Reni",
+            "year_start": 2011,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "s1",
+            "name": "S1",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "s2",
+            "name": "S2",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "s3",
+            "name": "S3",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "s3-pro",
+            "name": "S3 Pro",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "s4",
+            "name": "S4",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "s5",
+            "name": "S5",
+            "year_start": 2013,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "s7",
+            "name": "S7",
+            "year_start": 2017,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "sei-2",
+            "name": "Sei 2",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sei-3",
+            "name": "Sei 3",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "sei-3-pro",
+            "name": "Sei 3 Pro",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "sei-4-pro",
+            "name": "Sei 4 Pro",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sei-6-pro",
+            "name": "Sei 6 Pro",
+            "year_start": 2022,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "sei-7-pro",
+            "name": "Sei 7 Pro",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "shuailing-t8",
+            "name": "Shuailing T8",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "sunray",
+            "name": "Sunray",
+            "year_start": 2011,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sunray-city",
+            "name": "Sunray City",
+            "year_start": 2022,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "t40",
+            "name": "T40",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "t50",
+            "name": "T50",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "t6",
+            "name": "T6",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "t60",
+            "name": "T60",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "t8",
+            "name": "T8",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "t8-pro",
+            "name": "T8 Pro",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t80",
+            "name": "T80",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "t9",
+            "name": "T9",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v260",
+            "name": "V260",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "v7",
+            "name": "V7",
+            "year_start": 2018,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "x200",
+            "name": "X200",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x30",
+            "name": "X30",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "x8-plus",
+            "name": "X8 Plus",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x8e",
+            "name": "X8E",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ytterby",
+            "name": "Ytterby",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ic5",
+            "name": "iC5",
+            "year_start": 2019,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "iev",
+            "name": "iEV",
+            "year_start": 2014,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "iev20",
+            "name": "iEV20",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "iev330p",
+            "name": "iEV330P",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "iev40",
+            "name": "iEV40",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "iev6e",
+            "name": "iEV6E",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "iev6s",
+            "name": "iEV6S",
+            "year_start": 2016,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "iev750v",
+            "name": "iEV750V",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "iev7l",
+            "name": "iEV7L",
+            "year_start": 2018,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "iev7s",
+            "name": "iEV7S",
+            "year_start": 2017,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "ieva50",
+            "name": "iEVA50",
+            "year_start": 2018,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "ievs4",
+            "name": "iEVS4",
+            "year_start": 2019,
+            "year_end": 2020,
+            "generation_count": 1
+        }
+    ],
+    "total": 105
+}
