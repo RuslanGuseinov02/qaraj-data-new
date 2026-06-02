@@ -1,0 +1,30 @@
+{
+    "make": {
+        "slug": "yangwang",
+        "name": "Yangwang"
+    },
+    "data": [
+        {
+            "slug": "u7",
+            "name": "U7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "u8",
+            "name": "U8",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "u9",
+            "name": "U9",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 3
+}
