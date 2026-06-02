@@ -1,0 +1,107 @@
+{
+    "make": {
+        "slug": "luxgen",
+        "name": "Luxgen"
+    },
+    "data": [
+        {
+            "slug": "5",
+            "name": "5",
+            "year_start": 2012,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "7-mpv",
+            "name": "7 MPV",
+            "year_start": 2009,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "7-suv",
+            "name": "7 SUV",
+            "year_start": 2010,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "m7",
+            "name": "M7",
+            "year_start": 2014,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "n7",
+            "name": "N7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "s3",
+            "name": "S3",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "s5",
+            "name": "S5",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "u5",
+            "name": "U5",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "u6",
+            "name": "U6",
+            "year_start": 2014,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "u6-neo",
+            "name": "U6 Neo",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "u7",
+            "name": "U7",
+            "year_start": 2013,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "urx",
+            "name": "URX",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "urx-neo",
+            "name": "URX Neo",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v7",
+            "name": "V7",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 1
+        }
+    ],
+    "total": 14
+}
