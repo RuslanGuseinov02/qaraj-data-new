@@ -1,0 +1,51 @@
+{
+    "make": {
+        "slug": "microcar",
+        "name": "Microcar"
+    },
+    "data": [
+        {
+            "slug": "due",
+            "name": "Dué",
+            "year_start": 2013,
+            "year_end": 2024,
+            "generation_count": 3
+        },
+        {
+            "slug": "f8c",
+            "name": "F8C",
+            "year_start": 2009,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "flex",
+            "name": "Flex",
+            "year_start": 2014,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "m-cross",
+            "name": "M.Cross",
+            "year_start": 2018,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "m-go",
+            "name": "M.Go",
+            "year_start": 2016,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "m8",
+            "name": "M8",
+            "year_start": 2009,
+            "year_end": 2015,
+            "generation_count": 1
+        }
+    ],
+    "total": 6
+}
