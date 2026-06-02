@@ -1,0 +1,51 @@
+{
+    "make": {
+        "slug": "panoz",
+        "name": "Panoz"
+    },
+    "data": [
+        {
+            "slug": "aiv-roadster",
+            "name": "AIV Roadster",
+            "year_start": 1996,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "abruzzi",
+            "name": "Abruzzi",
+            "year_start": 2011,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "avezzano",
+            "name": "Avezzano",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "esperante",
+            "name": "Esperante",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "esperante-gtr-1",
+            "name": "Esperante GTR-1",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "roadster",
+            "name": "Roadster",
+            "year_start": 1992,
+            "year_end": 1996,
+            "generation_count": 1
+        }
+    ],
+    "total": 6
+}
