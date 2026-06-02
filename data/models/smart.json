@@ -1,0 +1,51 @@
+{
+    "make": {
+        "slug": "smart",
+        "name": "Smart"
+    },
+    "data": [
+        {
+            "slug": "1",
+            "name": "#1",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "3",
+            "name": "#3",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "5",
+            "name": "#5",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "forfour",
+            "name": "Forfour",
+            "year_start": 2004,
+            "year_end": 2022,
+            "generation_count": 3
+        },
+        {
+            "slug": "fortwo",
+            "name": "Fortwo",
+            "year_start": 1998,
+            "year_end": 2024,
+            "generation_count": 5
+        },
+        {
+            "slug": "roadster",
+            "name": "Roadster",
+            "year_start": 2003,
+            "year_end": 2006,
+            "generation_count": 1
+        }
+    ],
+    "total": 6
+}
