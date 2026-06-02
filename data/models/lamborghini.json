@@ -1,0 +1,107 @@
+{
+    "make": {
+        "slug": "lamborghini",
+        "name": "Lamborghini"
+    },
+    "data": [
+        {
+            "slug": "aventador",
+            "name": "Aventador",
+            "year_start": 2011,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "centenario",
+            "name": "Centenario",
+            "year_start": 2016,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "countach",
+            "name": "Countach",
+            "year_start": 2021,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "diablo",
+            "name": "Diablo",
+            "year_start": 1990,
+            "year_end": 2001,
+            "generation_count": 2
+        },
+        {
+            "slug": "diablo-roadster",
+            "name": "Diablo Roadster",
+            "year_start": 1995,
+            "year_end": 2001,
+            "generation_count": 2
+        },
+        {
+            "slug": "essenza-scv12",
+            "name": "Essenza SCV12",
+            "year_start": 2020,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "gallardo",
+            "name": "Gallardo",
+            "year_start": 2003,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "huracan",
+            "name": "Huracan",
+            "year_start": 2014,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "murcielago",
+            "name": "Murcielago",
+            "year_start": 2001,
+            "year_end": 2010,
+            "generation_count": 2
+        },
+        {
+            "slug": "reventon",
+            "name": "Reventon",
+            "year_start": 2007,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "revuelto",
+            "name": "Revuelto",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sian",
+            "name": "Sian",
+            "year_start": 2021,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "temerario",
+            "name": "Temerario",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "urus",
+            "name": "Urus",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        }
+    ],
+    "total": 14
+}
