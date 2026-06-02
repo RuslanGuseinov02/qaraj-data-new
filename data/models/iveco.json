@@ -1,0 +1,23 @@
+{
+    "make": {
+        "slug": "iveco",
+        "name": "Iveco"
+    },
+    "data": [
+        {
+            "slug": "daily",
+            "name": "Daily",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "edaily",
+            "name": "eDaily",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 2
+}
