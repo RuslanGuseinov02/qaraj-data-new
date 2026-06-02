@@ -1,0 +1,317 @@
+{
+    "make": {
+        "slug": "tata",
+        "name": "Tata"
+    },
+    "data": [
+        {
+            "slug": "207-di",
+            "name": "207 DI",
+            "year_start": 2002,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "ace",
+            "name": "Ace",
+            "year_start": 2005,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "ace-gold",
+            "name": "Ace Gold",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "ace-mega",
+            "name": "Ace Mega",
+            "year_start": 2015,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "ace-pro",
+            "name": "Ace Pro",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ace-zip",
+            "name": "Ace Zip",
+            "year_start": 2010,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "altroz",
+            "name": "Altroz",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "aria",
+            "name": "Aria",
+            "year_start": 2010,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "bolt",
+            "name": "Bolt",
+            "year_start": 2014,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "curvv",
+            "name": "Curvv",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "genx-nano",
+            "name": "GenX Nano",
+            "year_start": 2015,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "h5",
+            "name": "H5",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "harrier",
+            "name": "Harrier",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "hexa",
+            "name": "Hexa",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "indica",
+            "name": "Indica",
+            "year_start": 1998,
+            "year_end": 2018,
+            "generation_count": 5
+        },
+        {
+            "slug": "indigo",
+            "name": "Indigo",
+            "year_start": 2002,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "indigo-manza",
+            "name": "Indigo Manza",
+            "year_start": 2009,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "indigo-ecs",
+            "name": "Indigo eCS",
+            "year_start": 2012,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "intra-v10",
+            "name": "Intra V10",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "intra-v20",
+            "name": "Intra V20",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "intra-v30",
+            "name": "Intra V30",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "intra-v50",
+            "name": "Intra V50",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "intra-v70",
+            "name": "Intra V70",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "magic",
+            "name": "Magic",
+            "year_start": 2007,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "magic-express",
+            "name": "Magic Express",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "magic-iris",
+            "name": "Magic Iris",
+            "year_start": 2010,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "manza",
+            "name": "Manza",
+            "year_start": 2009,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "movus",
+            "name": "Movus",
+            "year_start": 2014,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "nrg",
+            "name": "NRG",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "nano",
+            "name": "Nano",
+            "year_start": 2008,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "nexon",
+            "name": "Nexon",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "punch",
+            "name": "Punch",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "safari",
+            "name": "Safari",
+            "year_start": 1998,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "safari-storme",
+            "name": "Safari Storme",
+            "year_start": 2012,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "sumo",
+            "name": "Sumo",
+            "year_start": 1994,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "super-ace",
+            "name": "Super Ace",
+            "year_start": 2009,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tiago",
+            "name": "Tiago",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "tiago-nrg",
+            "name": "Tiago NRG",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "tigor",
+            "name": "Tigor",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "vista",
+            "name": "Vista",
+            "year_start": 2008,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "winger",
+            "name": "Winger",
+            "year_start": 2007,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "xenon",
+            "name": "Xenon",
+            "year_start": 2007,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "yodha",
+            "name": "Yodha",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "zest",
+            "name": "Zest",
+            "year_start": 2014,
+            "year_end": 2019,
+            "generation_count": 1
+        }
+    ],
+    "total": 44
+}
