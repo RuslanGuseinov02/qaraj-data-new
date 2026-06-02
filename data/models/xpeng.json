@@ -1,0 +1,79 @@
+{
+    "make": {
+        "slug": "xpeng",
+        "name": "XPeng"
+    },
+    "data": [
+        {
+            "slug": "g3",
+            "name": "G3",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "g3i",
+            "name": "G3i",
+            "year_start": 2021,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "g6",
+            "name": "G6",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "g9",
+            "name": "G9",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "m03",
+            "name": "Mona M03",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "p5",
+            "name": "P5",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "p7",
+            "name": "P7",
+            "year_start": 2020,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "p7-plus",
+            "name": "P7+",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "p7i",
+            "name": "P7i",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x9",
+            "name": "X9",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 10
+}
