@@ -1,1 +1,38 @@
-test
+[
+  {
+    "slug": "e82-e88-2011-2013",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/e82-e88-2011-2013.webp"
+  },
+  {
+    "slug": "e87-2004-2007",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/e87-2004-2007.webp"
+  },
+  {
+    "slug": "e87-e81-e82-e88-2007-2012",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/e87-e81-e82-e88-2007-2012.webp"
+  },
+  {
+    "slug": "f20-f21-2011-2015",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f20-f21-2011-2015.webp"
+  },
+  {
+    "slug": "f20-f21-2015-2017",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f20-f21-2015-2017.webp"
+  },
+  {
+    "slug": "f20-f21-2017-2020",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f20-f21-2017-2020.webp"
+  },
+  {
+    "slug": "f40-2019-2024",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f40-2019-2024.webp"
+  },
+  {
+    "slug": "f52-2017-now",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f52-2017-now.webp"
+  },
+  {
+    "slug": "f70-2024-now",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f70-2024-now.webp"
+  }
+]
