@@ -1,0 +1,44 @@
+{
+    "make": {
+        "slug": "im",
+        "name": "IM"
+    },
+    "data": [
+        {
+            "slug": "l6",
+            "name": "L6",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "l7",
+            "name": "L7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "ls6",
+            "name": "LS6",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "ls7",
+            "name": "LS7",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "ls9",
+            "name": "LS9",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 5
+}
