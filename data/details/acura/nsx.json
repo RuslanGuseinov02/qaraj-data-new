@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "acura",
+    "name": "ACURA"
+  },
+  "slug": "nsx",
+  "name": "nsx",
+  "generations": [
+    {
+      "slug": "nsx-0",
+      "name": "nsx 1",
+      "year_start": 1991,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/nsx/na1-na2-1991-2001.webp"
+      }
+    },
+    {
+      "slug": "nsx-1",
+      "name": "nsx 2",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/nsx/na1-na2-2002-2005.webp"
+      }
+    },
+    {
+      "slug": "nsx-2",
+      "name": "nsx 3",
+      "year_start": 2016,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/nsx/nc1-2016-2023.webp"
+      }
+    }
+  ]
+}

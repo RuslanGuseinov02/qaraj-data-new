@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "acura",
+    "name": "ACURA"
+  },
+  "slug": "rlx",
+  "name": "rlx",
+  "generations": [
+    {
+      "slug": "rlx-0",
+      "name": "rlx 1",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/rlx/2013-2017.webp"
+      }
+    },
+    {
+      "slug": "rlx-1",
+      "name": "rlx 2",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/rlx/2018-2021.webp"
+      }
+    }
+  ]
+}

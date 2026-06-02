@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "acura",
+    "name": "ACURA"
+  },
+  "slug": "csx",
+  "name": "csx",
+  "generations": [
+    {
+      "slug": "csx-0",
+      "name": "csx 1",
+      "year_start": 2005,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/csx/fd-2005-2011.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "acura",
+    "name": "ACURA"
+  },
+  "slug": "integra",
+  "name": "integra",
+  "generations": [
+    {
+      "slug": "integra-0",
+      "name": "integra 1",
+      "year_start": 1986,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/integra/av-1986-1989.webp"
+      }
+    },
+    {
+      "slug": "integra-1",
+      "name": "integra 2",
+      "year_start": 1990,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/integra/da-db-1990-1993.webp"
+      }
+    },
+    {
+      "slug": "integra-2",
+      "name": "integra 3",
+      "year_start": 1994,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/integra/db-dc-1994-2001.webp"
+      }
+    },
+    {
+      "slug": "integra-3",
+      "name": "integra 4",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/integra/de-2023-2025.webp"
+      }
+    },
+    {
+      "slug": "integra-4",
+      "name": "integra 5",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/integra/de-2025-now.webp"
+      }
+    }
+  ]
+}

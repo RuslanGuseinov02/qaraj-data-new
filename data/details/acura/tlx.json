@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "acura",
+    "name": "ACURA"
+  },
+  "slug": "tlx",
+  "name": "tlx",
+  "generations": [
+    {
+      "slug": "tlx-0",
+      "name": "tlx 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/tlx/ub1-ub2-ub3-ub4-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "tlx-1",
+      "name": "tlx 2",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/tlx/ub1-ub2-ub3-ub4-2018-2020.webp"
+      }
+    },
+    {
+      "slug": "tlx-2",
+      "name": "tlx 3",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/tlx/ub5-ub6-ub7-2021-now.webp"
+      }
+    }
+  ]
+}

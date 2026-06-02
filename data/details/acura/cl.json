@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "acura",
+    "name": "ACURA"
+  },
+  "slug": "cl",
+  "name": "cl",
+  "generations": [
+    {
+      "slug": "cl-0",
+      "name": "cl 1",
+      "year_start": 1997,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/cl/ya1-1997-2000.webp"
+      }
+    },
+    {
+      "slug": "cl-1",
+      "name": "cl 2",
+      "year_start": 2001,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/cl/ya4-2001-2003.webp"
+      }
+    }
+  ]
+}

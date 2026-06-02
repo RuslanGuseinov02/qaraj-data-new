@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "acura",
+    "name": "ACURA"
+  },
+  "slug": "mdx",
+  "name": "mdx",
+  "generations": [
+    {
+      "slug": "mdx-0",
+      "name": "mdx 1",
+      "year_start": 2001,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/mdx/yd1-2001-2006.webp"
+      }
+    },
+    {
+      "slug": "mdx-1",
+      "name": "mdx 2",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/mdx/yd2-2007-2009.webp"
+      }
+    },
+    {
+      "slug": "mdx-2",
+      "name": "mdx 3",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/mdx/yd2-2010-2013.webp"
+      }
+    },
+    {
+      "slug": "mdx-3",
+      "name": "mdx 4",
+      "year_start": 2014,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/mdx/yd3-2014-2016.webp"
+      }
+    },
+    {
+      "slug": "mdx-4",
+      "name": "mdx 5",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/mdx/yd3-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "mdx-5",
+      "name": "mdx 6",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/mdx/yd4-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "mdx-6",
+      "name": "mdx 7",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/mdx/yd4-2024-now.webp"
+      }
+    }
+  ]
+}

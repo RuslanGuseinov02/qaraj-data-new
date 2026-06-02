@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "acura",
+    "name": "ACURA"
+  },
+  "slug": "cl-type-s",
+  "name": "cl-type-s",
+  "generations": [
+    {
+      "slug": "cl-type-s-0",
+      "name": "cl-type-s 1",
+      "year_start": 2001,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/cl-type-s/ya4-2001-2003.webp"
+      }
+    }
+  ]
+}

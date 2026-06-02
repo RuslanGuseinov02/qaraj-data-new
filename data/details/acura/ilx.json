@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "acura",
+    "name": "ACURA"
+  },
+  "slug": "ilx",
+  "name": "ilx",
+  "generations": [
+    {
+      "slug": "ilx-0",
+      "name": "ilx 1",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/ilx/de-2012-2015.webp"
+      }
+    },
+    {
+      "slug": "ilx-1",
+      "name": "ilx 2",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/ilx/de-2016-2018.webp"
+      }
+    },
+    {
+      "slug": "ilx-2",
+      "name": "ilx 3",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/ilx/de-2019-2022.webp"
+      }
+    }
+  ]
+}

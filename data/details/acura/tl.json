@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "acura",
+    "name": "ACURA"
+  },
+  "slug": "tl",
+  "name": "tl",
+  "generations": [
+    {
+      "slug": "tl-0",
+      "name": "tl 1",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/tl/ua1-ua2-ua3-1995-1998.webp"
+      }
+    },
+    {
+      "slug": "tl-1",
+      "name": "tl 2",
+      "year_start": 1999,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/tl/ua4-ua5-1999-2003.webp"
+      }
+    },
+    {
+      "slug": "tl-2",
+      "name": "tl 3",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/tl/ua6-ua7-2004-2008.webp"
+      }
+    },
+    {
+      "slug": "tl-3",
+      "name": "tl 4",
+      "year_start": 2009,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/tl/ua8-ua9-2009-2011.webp"
+      }
+    },
+    {
+      "slug": "tl-4",
+      "name": "tl 5",
+      "year_start": 2012,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/tl/ua8-ua9-2012-2014.webp"
+      }
+    }
+  ]
+}

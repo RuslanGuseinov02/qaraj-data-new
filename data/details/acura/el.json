@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "acura",
+    "name": "ACURA"
+  },
+  "slug": "el",
+  "name": "el",
+  "generations": [
+    {
+      "slug": "el-0",
+      "name": "el 1",
+      "year_start": 2001,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/el/es-2001-2005.webp"
+      }
+    },
+    {
+      "slug": "el-1",
+      "name": "el 2",
+      "year_start": 1997,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/el/mb-1997-2000.webp"
+      }
+    }
+  ]
+}

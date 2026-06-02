@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "acura",
+    "name": "ACURA"
+  },
+  "slug": "zdx",
+  "name": "zdx",
+  "generations": [
+    {
+      "slug": "zdx-0",
+      "name": "zdx 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/zdx/2023-now.webp"
+      }
+    },
+    {
+      "slug": "zdx-1",
+      "name": "zdx 2",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/zdx/yb1-2009-2013.webp"
+      }
+    }
+  ]
+}

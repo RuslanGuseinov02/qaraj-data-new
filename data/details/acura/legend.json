@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "acura",
+    "name": "ACURA"
+  },
+  "slug": "legend",
+  "name": "legend",
+  "generations": [
+    {
+      "slug": "legend-0",
+      "name": "legend 1",
+      "year_start": 1986,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/legend/ka3-ka4-ka5-1986-1990.webp"
+      }
+    },
+    {
+      "slug": "legend-1",
+      "name": "legend 2",
+      "year_start": 1991,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/legend/ka7-ka8-1991-1996.webp"
+      }
+    }
+  ]
+}

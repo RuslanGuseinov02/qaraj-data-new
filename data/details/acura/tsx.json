@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "acura",
+    "name": "ACURA"
+  },
+  "slug": "tsx",
+  "name": "tsx",
+  "generations": [
+    {
+      "slug": "tsx-0",
+      "name": "tsx 1",
+      "year_start": 2003,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/tsx/cl9-2003-2008.webp"
+      }
+    },
+    {
+      "slug": "tsx-1",
+      "name": "tsx 2",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/tsx/cu2-2009-2014.webp"
+      }
+    }
+  ]
+}

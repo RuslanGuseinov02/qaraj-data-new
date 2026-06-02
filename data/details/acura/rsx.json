@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "acura",
+    "name": "ACURA"
+  },
+  "slug": "rsx",
+  "name": "rsx",
+  "generations": [
+    {
+      "slug": "rsx-0",
+      "name": "rsx 1",
+      "year_start": 2002,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/rsx/dc5-2002-2004.webp"
+      }
+    },
+    {
+      "slug": "rsx-1",
+      "name": "rsx 2",
+      "year_start": 2005,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/rsx/dc5-2005-2006.webp"
+      }
+    }
+  ]
+}

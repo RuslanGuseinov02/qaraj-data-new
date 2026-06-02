@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "acura",
+    "name": "ACURA"
+  },
+  "slug": "vigor",
+  "name": "vigor",
+  "generations": [
+    {
+      "slug": "vigor-0",
+      "name": "vigor 1",
+      "year_start": 1991,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/vigor/cc-1991-1995.webp"
+      }
+    }
+  ]
+}

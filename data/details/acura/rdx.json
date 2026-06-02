@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "acura",
+    "name": "ACURA"
+  },
+  "slug": "rdx",
+  "name": "rdx",
+  "generations": [
+    {
+      "slug": "rdx-0",
+      "name": "rdx 1",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/rdx/tb1-tb2-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "rdx-1",
+      "name": "rdx 2",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/rdx/tb1-tb2-2010-2012.webp"
+      }
+    },
+    {
+      "slug": "rdx-2",
+      "name": "rdx 3",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/rdx/tb3-tb4-2013-2015.webp"
+      }
+    },
+    {
+      "slug": "rdx-3",
+      "name": "rdx 4",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/rdx/tb3-tb4-2016-2018.webp"
+      }
+    },
+    {
+      "slug": "rdx-4",
+      "name": "rdx 5",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/rdx/tc1-tc2-2018-2022.webp"
+      }
+    },
+    {
+      "slug": "rdx-5",
+      "name": "rdx 6",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/rdx/tc1-tc2-2022-2024.webp"
+      }
+    },
+    {
+      "slug": "rdx-6",
+      "name": "rdx 7",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/acura/rdx/tc1-tc2-2025-now.webp"
+      }
+    }
+  ]
+}
