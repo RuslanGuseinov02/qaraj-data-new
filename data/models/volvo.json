@@ -1,0 +1,324 @@
+{
+    "make": {
+        "slug": "volvo",
+        "name": "Volvo"
+    },
+    "data": [
+        {
+            "slug": "140-series",
+            "name": "140",
+            "year_start": 1966,
+            "year_end": 1975,
+            "generation_count": 1
+        },
+        {
+            "slug": "164",
+            "name": "164",
+            "year_start": 1968,
+            "year_end": 1975,
+            "generation_count": 1
+        },
+        {
+            "slug": "240",
+            "name": "240",
+            "year_start": 1974,
+            "year_end": 1993,
+            "generation_count": 2
+        },
+        {
+            "slug": "260",
+            "name": "260",
+            "year_start": 1974,
+            "year_end": 1982,
+            "generation_count": 1
+        },
+        {
+            "slug": "300-series",
+            "name": "340",
+            "year_start": 1975,
+            "year_end": 1985,
+            "generation_count": 1
+        },
+        {
+            "slug": "360",
+            "name": "360",
+            "year_start": 1983,
+            "year_end": 1991,
+            "generation_count": 1
+        },
+        {
+            "slug": "440",
+            "name": "440",
+            "year_start": 1987,
+            "year_end": 1997,
+            "generation_count": 1
+        },
+        {
+            "slug": "460",
+            "name": "460",
+            "year_start": 1989,
+            "year_end": 1997,
+            "generation_count": 1
+        },
+        {
+            "slug": "480",
+            "name": "480",
+            "year_start": 1986,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "66",
+            "name": "66",
+            "year_start": 1975,
+            "year_end": 1980,
+            "generation_count": 1
+        },
+        {
+            "slug": "740",
+            "name": "740",
+            "year_start": 1984,
+            "year_end": 1992,
+            "generation_count": 1
+        },
+        {
+            "slug": "760",
+            "name": "760",
+            "year_start": 1980,
+            "year_end": 1992,
+            "generation_count": 1
+        },
+        {
+            "slug": "780",
+            "name": "780",
+            "year_start": 1985,
+            "year_end": 1990,
+            "generation_count": 1
+        },
+        {
+            "slug": "850",
+            "name": "850",
+            "year_start": 1991,
+            "year_end": 1997,
+            "generation_count": 1
+        },
+        {
+            "slug": "940",
+            "name": "940",
+            "year_start": 1989,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "960",
+            "name": "960",
+            "year_start": 1990,
+            "year_end": 1998,
+            "generation_count": 2
+        },
+        {
+            "slug": "amazon",
+            "name": "Amazon",
+            "year_start": 1956,
+            "year_end": 1970,
+            "generation_count": 1
+        },
+        {
+            "slug": "c30",
+            "name": "C30",
+            "year_start": 2006,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "c40",
+            "name": "C40",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "c70",
+            "name": "C70",
+            "year_start": 1997,
+            "year_end": 2013,
+            "generation_count": 3
+        },
+        {
+            "slug": "ec40",
+            "name": "EC40",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "em90",
+            "name": "EM90",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "es90",
+            "name": "ES90",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ex30",
+            "name": "EX30",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ex30-cross-country",
+            "name": "EX30 Cross Country",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ex40",
+            "name": "EX40",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ex90",
+            "name": "EX90",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "s40",
+            "name": "S40",
+            "year_start": 1996,
+            "year_end": 2012,
+            "generation_count": 3
+        },
+        {
+            "slug": "s60",
+            "name": "S60",
+            "year_start": 2000,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "s60-cross-country",
+            "name": "S60 Cross Country",
+            "year_start": 2015,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "s70",
+            "name": "S70",
+            "year_start": 1996,
+            "year_end": 2000,
+            "generation_count": 1
+        },
+        {
+            "slug": "s80",
+            "name": "S80",
+            "year_start": 1998,
+            "year_end": 2016,
+            "generation_count": 4
+        },
+        {
+            "slug": "s90",
+            "name": "S90",
+            "year_start": 1996,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "v40",
+            "name": "V40",
+            "year_start": 1995,
+            "year_end": 2021,
+            "generation_count": 5
+        },
+        {
+            "slug": "v40-cross-country",
+            "name": "V40 Cross Country",
+            "year_start": 2012,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "v50",
+            "name": "V50",
+            "year_start": 2004,
+            "year_end": 2012,
+            "generation_count": 2
+        },
+        {
+            "slug": "v60",
+            "name": "V60",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "v60-cross-country",
+            "name": "V60 Cross Country",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "v70",
+            "name": "V70",
+            "year_start": 1997,
+            "year_end": 2016,
+            "generation_count": 5
+        },
+        {
+            "slug": "v90",
+            "name": "V90",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "v90-cross-country",
+            "name": "V90 Cross Country",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "xc40",
+            "name": "XC40",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "xc60",
+            "name": "XC60",
+            "year_start": 2008,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "xc70",
+            "name": "XC70",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "xc90",
+            "name": "XC90",
+            "year_start": 2003,
+            "year_end": null,
+            "generation_count": 4
+        }
+    ],
+    "total": 45
+}
