@@ -1,0 +1,100 @@
+{
+    "make": {
+        "slug": "vinfast",
+        "name": "VinFast"
+    },
+    "data": [
+        {
+            "slug": "fadil",
+            "name": "Fadil",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "herio-green",
+            "name": "Herio Green",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "lux-a20",
+            "name": "Lux A2.0",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "lux-sa20",
+            "name": "Lux SA2.0",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "nerio-green",
+            "name": "Nerio Green",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "president",
+            "name": "President",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "vf-e34",
+            "name": "VF e34",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "vf3",
+            "name": "VF3",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "vf5",
+            "name": "VF5",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "vf6",
+            "name": "VF6",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "vf7",
+            "name": "VF7",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "vf8",
+            "name": "VF8",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "vf9",
+            "name": "VF9",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 13
+}
