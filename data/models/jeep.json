@@ -1,0 +1,156 @@
+{
+    "make": {
+        "slug": "jeep",
+        "name": "Jeep"
+    },
+    "data": [
+        {
+            "slug": "avenger",
+            "name": "Avenger",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "cj",
+            "name": "CJ",
+            "year_start": 1945,
+            "year_end": 1986,
+            "generation_count": 5
+        },
+        {
+            "slug": "cherokee",
+            "name": "Cherokee",
+            "year_start": 1974,
+            "year_end": 2024,
+            "generation_count": 6
+        },
+        {
+            "slug": "comanche",
+            "name": "Comanche",
+            "year_start": 1986,
+            "year_end": 1992,
+            "generation_count": 1
+        },
+        {
+            "slug": "commander",
+            "name": "Commander",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "compass",
+            "name": "Compass",
+            "year_start": 2006,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "gladiator",
+            "name": "Gladiator",
+            "year_start": 1962,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "grand-cherokee",
+            "name": "Grand Cherokee",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "grand-cherokee-l",
+            "name": "Grand Cherokee L",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "grand-commander",
+            "name": "Grand Commander",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "grand-wagoneer",
+            "name": "Grand Wagoneer",
+            "year_start": 1984,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "grand-wagoneer-l",
+            "name": "Grand Wagoneer L",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "jt",
+            "name": "JT",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "liberty",
+            "name": "Liberty",
+            "year_start": 2001,
+            "year_end": 2014,
+            "generation_count": 3
+        },
+        {
+            "slug": "meridian",
+            "name": "Meridian",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "patriot",
+            "name": "Patriot",
+            "year_start": 2007,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "renegade",
+            "name": "Renegade",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "wagoneer",
+            "name": "Wagoneer",
+            "year_start": 1978,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "wagoneer-l",
+            "name": "Wagoneer L",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "wagoneer-s",
+            "name": "Wagoneer S",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "wrangler",
+            "name": "Wrangler",
+            "year_start": 1987,
+            "year_end": null,
+            "generation_count": 5
+        }
+    ],
+    "total": 21
+}
