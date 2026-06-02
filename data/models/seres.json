@@ -1,0 +1,58 @@
+{
+    "make": {
+        "slug": "seres",
+        "name": "Seres"
+    },
+    "data": [
+        {
+            "slug": "3",
+            "name": "3",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "5",
+            "name": "5",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "7",
+            "name": "7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e1",
+            "name": "E1",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "m5",
+            "name": "M5",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "m7",
+            "name": "M7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sf5",
+            "name": "SF5",
+            "year_start": 2019,
+            "year_end": 2023,
+            "generation_count": 1
+        }
+    ],
+    "total": 7
+}
