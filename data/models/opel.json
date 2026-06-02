@@ -1,0 +1,380 @@
+{
+    "make": {
+        "slug": "opel",
+        "name": "Opel"
+    },
+    "data": [
+        {
+            "slug": "adam",
+            "name": "Adam",
+            "year_start": 2013,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "admiral",
+            "name": "Admiral",
+            "year_start": 1964,
+            "year_end": 1978,
+            "generation_count": 2
+        },
+        {
+            "slug": "agila",
+            "name": "Agila",
+            "year_start": 2000,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "ampera",
+            "name": "Ampera",
+            "year_start": 2011,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "ampera-e",
+            "name": "Ampera-e",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "antara",
+            "name": "Antara",
+            "year_start": 2006,
+            "year_end": 2015,
+            "generation_count": 2
+        },
+        {
+            "slug": "arena",
+            "name": "Arena",
+            "year_start": 1997,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "ascona",
+            "name": "Ascona",
+            "year_start": 1970,
+            "year_end": 1988,
+            "generation_count": 3
+        },
+        {
+            "slug": "astra",
+            "name": "Astra",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 9
+        },
+        {
+            "slug": "astra-classic",
+            "name": "Astra Classic",
+            "year_start": 1998,
+            "year_end": 2014,
+            "generation_count": 3
+        },
+        {
+            "slug": "astra-family",
+            "name": "Astra Family",
+            "year_start": 2011,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "astra-gtc",
+            "name": "Astra GTC",
+            "year_start": 2004,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "astra-opc",
+            "name": "Astra OPC",
+            "year_start": 2011,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "cabrio",
+            "name": "Cabrio",
+            "year_start": 2013,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "calibra",
+            "name": "Calibra",
+            "year_start": 1990,
+            "year_end": 1997,
+            "generation_count": 1
+        },
+        {
+            "slug": "campo",
+            "name": "Campo",
+            "year_start": 1991,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "cascada",
+            "name": "Cascada",
+            "year_start": 2013,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "combo",
+            "name": "Combo",
+            "year_start": 1994,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "combo-cargo",
+            "name": "Combo Cargo",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "combo-life",
+            "name": "Combo Life",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "corsa",
+            "name": "Corsa",
+            "year_start": 1982,
+            "year_end": 2024,
+            "generation_count": 9
+        },
+        {
+            "slug": "corsa-opc",
+            "name": "Corsa OPC",
+            "year_start": 2006,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "corsa-van",
+            "name": "Corsa Van",
+            "year_start": 2006,
+            "year_end": 2018,
+            "generation_count": 3
+        },
+        {
+            "slug": "crossland",
+            "name": "Crossland",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "crossland-x",
+            "name": "Crossland X",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "frontera",
+            "name": "Frontera",
+            "year_start": 1991,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "gt",
+            "name": "GT",
+            "year_start": 2007,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "grandland",
+            "name": "Grandland",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "grandland-x",
+            "name": "Grandland X",
+            "year_start": 2017,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "insignia",
+            "name": "Insignia",
+            "year_start": 2008,
+            "year_end": 2023,
+            "generation_count": 4
+        },
+        {
+            "slug": "insignia-country-tourer",
+            "name": "Insignia Country Tourer",
+            "year_start": 2013,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "insignia-opc",
+            "name": "Insignia OPC",
+            "year_start": 2009,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "kadett",
+            "name": "Kadett",
+            "year_start": 1979,
+            "year_end": 1994,
+            "generation_count": 2
+        },
+        {
+            "slug": "karl",
+            "name": "Karl",
+            "year_start": 2015,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "manta",
+            "name": "Manta",
+            "year_start": 1970,
+            "year_end": 1988,
+            "generation_count": 3
+        },
+        {
+            "slug": "meriva",
+            "name": "Meriva",
+            "year_start": 2002,
+            "year_end": 2017,
+            "generation_count": 3
+        },
+        {
+            "slug": "mokka",
+            "name": "Mokka",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "mokka-x",
+            "name": "Mokka X",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "monterey",
+            "name": "Monterey",
+            "year_start": 1991,
+            "year_end": 1999,
+            "generation_count": 2
+        },
+        {
+            "slug": "movano",
+            "name": "Movano",
+            "year_start": 1998,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "omega",
+            "name": "Omega",
+            "year_start": 1986,
+            "year_end": 2004,
+            "generation_count": 2
+        },
+        {
+            "slug": "rekord",
+            "name": "Rekord",
+            "year_start": 1977,
+            "year_end": 1986,
+            "generation_count": 1
+        },
+        {
+            "slug": "rocks-e",
+            "name": "Rocks-e",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "senator",
+            "name": "Senator",
+            "year_start": 1978,
+            "year_end": 1993,
+            "generation_count": 2
+        },
+        {
+            "slug": "signum",
+            "name": "Signum",
+            "year_start": 2003,
+            "year_end": 2008,
+            "generation_count": 2
+        },
+        {
+            "slug": "sintra",
+            "name": "Sintra",
+            "year_start": 1996,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "speedster",
+            "name": "Speedster",
+            "year_start": 2000,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "tigra",
+            "name": "Tigra",
+            "year_start": 1994,
+            "year_end": 2009,
+            "generation_count": 2
+        },
+        {
+            "slug": "vectra",
+            "name": "Vectra",
+            "year_start": 1988,
+            "year_end": 2008,
+            "generation_count": 4
+        },
+        {
+            "slug": "vita",
+            "name": "Vita",
+            "year_start": 1994,
+            "year_end": 2005,
+            "generation_count": 2
+        },
+        {
+            "slug": "vivaro",
+            "name": "Vivaro",
+            "year_start": 2001,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "zafira",
+            "name": "Zafira",
+            "year_start": 1999,
+            "year_end": 2019,
+            "generation_count": 4
+        },
+        {
+            "slug": "zafira-life",
+            "name": "Zafira Life",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        }
+    ],
+    "total": 53
+}
