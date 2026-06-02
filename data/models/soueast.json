@@ -1,0 +1,135 @@
+{
+    "make": {
+        "slug": "soueast",
+        "name": "Soueast"
+    },
+    "data": [
+        {
+            "slug": "a5",
+            "name": "A5",
+            "year_start": 2018,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "c1",
+            "name": "C1",
+            "year_start": 2010,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "dx3",
+            "name": "DX3",
+            "year_start": 2016,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "dx5",
+            "name": "DX5",
+            "year_start": 2019,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "dx7",
+            "name": "DX7",
+            "year_start": 2014,
+            "year_end": 2023,
+            "generation_count": 3
+        },
+        {
+            "slug": "dx7-prime",
+            "name": "DX7 Prime",
+            "year_start": 2018,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "dx7-xing-yue",
+            "name": "DX7 Xing Yue",
+            "year_start": 2020,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "dx8",
+            "name": "DX8",
+            "year_start": 2022,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "dx8s",
+            "name": "DX8S",
+            "year_start": 2022,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "delica",
+            "name": "Delica",
+            "year_start": 2008,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "lioncel",
+            "name": "Lioncel",
+            "year_start": 2003,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "s06",
+            "name": "S06",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "s06dm",
+            "name": "S06DM",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "s07",
+            "name": "S07",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "s09",
+            "name": "S09",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v3",
+            "name": "V3",
+            "year_start": 2008,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "v5",
+            "name": "V5",
+            "year_start": 2012,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "v6",
+            "name": "V6",
+            "year_start": 2013,
+            "year_end": 2017,
+            "generation_count": 1
+        }
+    ],
+    "total": 18
+}
