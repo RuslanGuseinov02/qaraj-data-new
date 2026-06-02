@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "bajaj",
+    "name": "BAJAJ"
+  },
+  "slug": "qute",
+  "name": "qute",
+  "generations": [
+    {
+      "slug": "qute-0",
+      "name": "qute 1",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bajaj/qute/2015-now.webp"
+      }
+    }
+  ]
+}
