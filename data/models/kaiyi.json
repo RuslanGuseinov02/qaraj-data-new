@@ -1,0 +1,93 @@
+{
+    "make": {
+        "slug": "kaiyi",
+        "name": "Kaiyi"
+    },
+    "data": [
+        {
+            "slug": "shiyue",
+            "name": "E-Qute 02",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "shiyue-mate",
+            "name": "E-Qute 04",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e5",
+            "name": "E5",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "showjet",
+            "name": "Showjet",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "showjet-pro",
+            "name": "Showjet Pro",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v7",
+            "name": "V7",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x3",
+            "name": "X3",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "x3-pro",
+            "name": "X3 Pro",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "kunlun",
+            "name": "X7 Kunlun",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "kunlun-ihd",
+            "name": "X7 Kunlun iHD",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "xuandu",
+            "name": "Xuandu",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "xuandu-ev",
+            "name": "Xuandu EV",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 12
+}
