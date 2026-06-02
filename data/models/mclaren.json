@@ -1,0 +1,191 @@
+{
+    "make": {
+        "slug": "mclaren",
+        "name": "McLaren"
+    },
+    "data": [
+        {
+            "slug": "12c",
+            "name": "12C",
+            "year_start": 2011,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "12c-spider",
+            "name": "12C Spider",
+            "year_start": 2012,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "540c",
+            "name": "540C",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "570gt",
+            "name": "570GT",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "570s",
+            "name": "570S",
+            "year_start": 2015,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "570s-spider",
+            "name": "570S Spider",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "600lt",
+            "name": "600LT",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "600lt-spider",
+            "name": "600LT Spider",
+            "year_start": 2019,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "620r",
+            "name": "620R",
+            "year_start": 2020,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "650s",
+            "name": "650S",
+            "year_start": 2014,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "675lt",
+            "name": "675LT",
+            "year_start": 2015,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "675lt-spider",
+            "name": "675LT Spider",
+            "year_start": 2015,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "720s",
+            "name": "720S",
+            "year_start": 2017,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "720s-spider",
+            "name": "720S Spider",
+            "year_start": 2019,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "750s",
+            "name": "750S",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "765lt",
+            "name": "765LT",
+            "year_start": 2020,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "765lt-spider",
+            "name": "765LT Spider",
+            "year_start": 2020,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "artura",
+            "name": "Artura",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "elva",
+            "name": "Elva",
+            "year_start": 2020,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "gt",
+            "name": "GT",
+            "year_start": 2019,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "gts",
+            "name": "GTS",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "mp4-12c",
+            "name": "Mp4-12C",
+            "year_start": 2011,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "p1",
+            "name": "P1",
+            "year_start": 2013,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "senna",
+            "name": "Senna",
+            "year_start": 2018,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "speedtail",
+            "name": "Speedtail",
+            "year_start": 2020,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "w1",
+            "name": "W1",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 26
+}
