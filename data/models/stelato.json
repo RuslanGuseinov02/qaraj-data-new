@@ -1,0 +1,16 @@
+{
+    "make": {
+        "slug": "stelato",
+        "name": "Stelato"
+    },
+    "data": [
+        {
+            "slug": "s9",
+            "name": "S9",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        }
+    ],
+    "total": 1
+}
