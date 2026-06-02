@@ -1,0 +1,331 @@
+{
+    "make": {
+        "slug": "wuling",
+        "name": "Wuling"
+    },
+    "data": [
+        {
+            "slug": "air-ev",
+            "name": "Air EV",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "almaz",
+            "name": "Almaz",
+            "year_start": 2019,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "almaz-rs",
+            "name": "Almaz RS",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "alvez",
+            "name": "Alvez",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "asta",
+            "name": "Asta (Xingchen)",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "binguo",
+            "name": "Binguo",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "binguo-plus",
+            "name": "Binguo Plus",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "confero",
+            "name": "Confero",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "confero-s",
+            "name": "Confero S",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "cortez",
+            "name": "Cortez",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "cortez-s",
+            "name": "Cortez S",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "darion",
+            "name": "Darion",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "fighting",
+            "name": "Fighting",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "formo",
+            "name": "Formo",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "formo-max",
+            "name": "Formo Max",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "formo-s",
+            "name": "Formo S",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "hongguang",
+            "name": "Hongguang",
+            "year_start": 2010,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "hongguang-mini-ev",
+            "name": "Hongguang Mini EV",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "hongguang-plus",
+            "name": "Hongguang Plus",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "hongguang-s",
+            "name": "Hongguang S",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "hongguang-s-classic",
+            "name": "Hongguang S Classic",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "hongguang-s1",
+            "name": "Hongguang S1",
+            "year_start": 2015,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "hongguang-s3",
+            "name": "Hongguang S3",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "hongguang-v",
+            "name": "Hongguang V",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "jiachen",
+            "name": "Jiachen",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "journey",
+            "name": "Journey",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "nano-ev",
+            "name": "Nano EV",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "nebula",
+            "name": "Nebula",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "rongguang-s",
+            "name": "Ronggguang S",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "rongguang",
+            "name": "Rongguang",
+            "year_start": 2008,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "rongguang-extended",
+            "name": "Rongguang Extended",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "rongguang-truck",
+            "name": "Rongguang Truck",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "rongguang-v",
+            "name": "Rongguang V",
+            "year_start": 2015,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "rongguang-new-truck",
+            "name": "Rongguang new Truck",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "starlight",
+            "name": "Starlight",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "starlight-s",
+            "name": "Starlight S",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sunshine",
+            "name": "Sunshine",
+            "year_start": 2002,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "sunshine-extended",
+            "name": "Sunshine Extended",
+            "year_start": 2013,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "sunshine-s",
+            "name": "Sunshine S",
+            "year_start": 2015,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "sunshine-truck",
+            "name": "Sunshine Truck",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "sunshine-v",
+            "name": "Sunshine V",
+            "year_start": 2017,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "victory",
+            "name": "Victory",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "xingchi",
+            "name": "Xingchi",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "yangguang",
+            "name": "Yangguang (Sunlight)",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "yep",
+            "name": "Yep",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "zhiguang-ev",
+            "name": "Zhiguang EV",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 46
+}
