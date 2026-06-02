@@ -1,0 +1,23 @@
+{
+    "make": {
+        "slug": "mhero",
+        "name": "MHERO"
+    },
+    "data": [
+        {
+            "slug": "917",
+            "name": "917",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "1",
+            "name": "I",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 2
+}
