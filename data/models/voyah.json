@@ -1,0 +1,58 @@
+{
+    "make": {
+        "slug": "voyah",
+        "name": "Voyah"
+    },
+    "data": [
+        {
+            "slug": "courage",
+            "name": "Courage",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "dream",
+            "name": "Dream",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "free",
+            "name": "Free",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "free-plus",
+            "name": "Free Plus",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "passion",
+            "name": "Passion",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "passion-l",
+            "name": "Passion L",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "taishan",
+            "name": "Taishan",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 7
+}
