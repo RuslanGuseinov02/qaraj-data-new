@@ -1,0 +1,107 @@
+{
+    "make": {
+        "slug": "ldv",
+        "name": "LDV"
+    },
+    "data": [
+        {
+            "slug": "d90",
+            "name": "D90",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "deliver-7",
+            "name": "Deliver 7",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "deliver-9",
+            "name": "Deliver 9",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ev30",
+            "name": "EV30",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "ev80",
+            "name": "EV80",
+            "year_start": 2016,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "g10",
+            "name": "G10",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "mifa-9",
+            "name": "Mifa 9",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "mifa",
+            "name": "Mifa People Mover",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t60",
+            "name": "T60",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "v80",
+            "name": "V80",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "edeliver-3",
+            "name": "eDeliver 3",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "edeliver-7",
+            "name": "eDeliver 7",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "edeliver-9",
+            "name": "eDeliver 9",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "et60",
+            "name": "eT60",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 14
+}
