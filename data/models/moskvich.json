@@ -1,0 +1,37 @@
+{
+    "make": {
+        "slug": "moskvich",
+        "name": "Moskvich"
+    },
+    "data": [
+        {
+            "slug": "3",
+            "name": "3",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "3e",
+            "name": "3e",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "6",
+            "name": "6",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "8",
+            "name": "8",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 4
+}
