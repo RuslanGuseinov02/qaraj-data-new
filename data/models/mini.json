@@ -1,0 +1,107 @@
+{
+    "make": {
+        "slug": "mini",
+        "name": "MINI"
+    },
+    "data": [
+        {
+            "slug": "aceman",
+            "name": "Aceman",
+            "year_start": 2024,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "cabrio",
+            "name": "Cabrio",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "clubman",
+            "name": "Clubman",
+            "year_start": 2007,
+            "year_end": 2024,
+            "generation_count": 3
+        },
+        {
+            "slug": "clubvan",
+            "name": "Clubvan",
+            "year_start": 2012,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "convertible",
+            "name": "Convertible",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "cooper",
+            "name": "Cooper",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "countryman",
+            "name": "Countryman",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "coupe",
+            "name": "Coupe",
+            "year_start": 2011,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "crossover",
+            "name": "Crossover",
+            "year_start": 2020,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "hardtop",
+            "name": "Hardtop",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "hatch",
+            "name": "Hatch",
+            "year_start": 2001,
+            "year_end": 2024,
+            "generation_count": 4
+        },
+        {
+            "slug": "one",
+            "name": "One",
+            "year_start": 2001,
+            "year_end": 2024,
+            "generation_count": 4
+        },
+        {
+            "slug": "paceman",
+            "name": "Paceman",
+            "year_start": 2012,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "roadster",
+            "name": "Roadster",
+            "year_start": 2012,
+            "year_end": 2015,
+            "generation_count": 1
+        }
+    ],
+    "total": 14
+}
