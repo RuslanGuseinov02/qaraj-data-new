@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "milano",
+  "name": "milano",
+  "generations": [
+    {
+      "slug": "milano-0",
+      "name": "milano 1",
+      "year_start": 1987,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/milano/1987-1989.webp"
+      }
+    }
+  ]
+}

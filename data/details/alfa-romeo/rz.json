@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "rz",
+  "name": "rz",
+  "generations": [
+    {
+      "slug": "rz-0",
+      "name": "rz 1",
+      "year_start": 1992,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/rz/es30-1992-1994.webp"
+      }
+    }
+  ]
+}

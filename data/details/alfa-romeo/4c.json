@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "4c",
+  "name": "4c",
+  "generations": [
+    {
+      "slug": "4c-0",
+      "name": "4c 1",
+      "year_start": 2013,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/4c/960-2013-2020.webp"
+      }
+    }
+  ]
+}

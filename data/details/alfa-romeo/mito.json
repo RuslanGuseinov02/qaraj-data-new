@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "mito",
+  "name": "mito",
+  "generations": [
+    {
+      "slug": "mito-0",
+      "name": "mito 1",
+      "year_start": 2008,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/mito/955-2008-2016.webp"
+      }
+    },
+    {
+      "slug": "mito-1",
+      "name": "mito 2",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/mito/955-2016-2018.webp"
+      }
+    }
+  ]
+}

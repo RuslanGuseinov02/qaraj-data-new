@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "brera",
+  "name": "brera",
+  "generations": [
+    {
+      "slug": "brera-0",
+      "name": "brera 1",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/brera/939-2005-2010.webp"
+      }
+    }
+  ]
+}

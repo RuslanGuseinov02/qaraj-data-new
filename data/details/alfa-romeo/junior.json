@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "junior",
+  "name": "junior",
+  "generations": [
+    {
+      "slug": "junior-0",
+      "name": "junior 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/junior/type-966-2024-now.webp"
+      }
+    }
+  ]
+}

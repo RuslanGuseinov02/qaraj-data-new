@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "spider",
+  "name": "spider",
+  "generations": [
+    {
+      "slug": "spider-0",
+      "name": "spider 1",
+      "year_start": 1966,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/spider/105-115-1966-1993.webp"
+      }
+    },
+    {
+      "slug": "spider-1",
+      "name": "spider 2",
+      "year_start": 1995,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/spider/916-1995-2005.webp"
+      }
+    },
+    {
+      "slug": "spider-2",
+      "name": "spider 3",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/spider/939e-2005-2010.webp"
+      }
+    }
+  ]
+}

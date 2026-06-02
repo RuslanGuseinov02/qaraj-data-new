@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "tonale",
+  "name": "tonale",
+  "generations": [
+    {
+      "slug": "tonale-0",
+      "name": "tonale 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/tonale/type-965-2022-now.webp"
+      }
+    },
+    {
+      "slug": "tonale-1",
+      "name": "tonale 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/tonale/type-965-2025-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "8c-competizione",
+  "name": "8c-competizione",
+  "generations": [
+    {
+      "slug": "8c-competizione-0",
+      "name": "8c-competizione 1",
+      "year_start": 2007,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/8c-competizione/952-2007-2011.webp"
+      }
+    }
+  ]
+}

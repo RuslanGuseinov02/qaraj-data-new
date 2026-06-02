@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "giulia",
+  "name": "giulia",
+  "generations": [
+    {
+      "slug": "giulia-0",
+      "name": "giulia 1",
+      "year_start": 1962,
+      "year_end": 1978,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/giulia/type-105-115-1962-1978.webp"
+      }
+    },
+    {
+      "slug": "giulia-1",
+      "name": "giulia 2",
+      "year_start": 2015,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/giulia/type-952-2015-2022.webp"
+      }
+    },
+    {
+      "slug": "giulia-2",
+      "name": "giulia 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/giulia/type-952-2023-now.webp"
+      }
+    }
+  ]
+}

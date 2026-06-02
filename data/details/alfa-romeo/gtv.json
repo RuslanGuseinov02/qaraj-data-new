@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "gtv",
+  "name": "gtv",
+  "generations": [
+    {
+      "slug": "gtv-0",
+      "name": "gtv 1",
+      "year_start": 1995,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/gtv/916-1995-2005.webp"
+      }
+    }
+  ]
+}

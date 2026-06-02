@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "stelvio",
+  "name": "stelvio",
+  "generations": [
+    {
+      "slug": "stelvio-0",
+      "name": "stelvio 1",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/stelvio/type-949-2017-2023.webp"
+      }
+    },
+    {
+      "slug": "stelvio-1",
+      "name": "stelvio 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/stelvio/type-949-2023-now.webp"
+      }
+    }
+  ]
+}

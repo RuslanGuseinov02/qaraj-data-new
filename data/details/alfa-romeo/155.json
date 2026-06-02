@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "155",
+  "name": "155",
+  "generations": [
+    {
+      "slug": "155-0",
+      "name": "155 1",
+      "year_start": 1992,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/155/167-1992-1997.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "alfetta",
+  "name": "alfetta",
+  "generations": [
+    {
+      "slug": "alfetta-0",
+      "name": "alfetta 1",
+      "year_start": 1973,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/alfetta/116-1973-1987.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "166",
+  "name": "166",
+  "generations": [
+    {
+      "slug": "166-0",
+      "name": "166 1",
+      "year_start": 1998,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/166/936-1998-2007.webp"
+      }
+    }
+  ]
+}

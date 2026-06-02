@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "146",
+  "name": "146",
+  "generations": [
+    {
+      "slug": "146-0",
+      "name": "146 1",
+      "year_start": 1995,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/146/930b-1995-2001.webp"
+      }
+    }
+  ]
+}

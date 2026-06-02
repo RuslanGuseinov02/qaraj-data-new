@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "sprint",
+  "name": "sprint",
+  "generations": [
+    {
+      "slug": "sprint-0",
+      "name": "sprint 1",
+      "year_start": 1983,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/sprint/902-1983-1989.webp"
+      }
+    }
+  ]
+}

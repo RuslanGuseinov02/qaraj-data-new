@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "33",
+  "name": "33",
+  "generations": [
+    {
+      "slug": "33-0",
+      "name": "33 1",
+      "year_start": 1983,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/33/905-1983-1989.webp"
+      }
+    },
+    {
+      "slug": "33-1",
+      "name": "33 2",
+      "year_start": 1990,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/33/907-1990-1995.webp"
+      }
+    }
+  ]
+}

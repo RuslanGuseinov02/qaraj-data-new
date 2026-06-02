@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "crosswagon-q4",
+  "name": "crosswagon-q4",
+  "generations": [
+    {
+      "slug": "crosswagon-q4-0",
+      "name": "crosswagon-q4 1",
+      "year_start": 2004,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/crosswagon-q4/932b-2004-2007.webp"
+      }
+    }
+  ]
+}

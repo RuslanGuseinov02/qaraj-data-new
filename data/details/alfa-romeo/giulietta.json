@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "giulietta",
+  "name": "giulietta",
+  "generations": [
+    {
+      "slug": "giulietta-0",
+      "name": "giulietta 1",
+      "year_start": 1977,
+      "year_end": 1985,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/giulietta/116-1977-1985.webp"
+      }
+    },
+    {
+      "slug": "giulietta-1",
+      "name": "giulietta 2",
+      "year_start": 2010,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/giulietta/940-2010-2021.webp"
+      }
+    }
+  ]
+}

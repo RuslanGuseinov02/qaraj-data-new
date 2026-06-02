@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "75",
+  "name": "75",
+  "generations": [
+    {
+      "slug": "75-0",
+      "name": "75 1",
+      "year_start": 1985,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/75/161-162-1985-1992.webp"
+      }
+    }
+  ]
+}

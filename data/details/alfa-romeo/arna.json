@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "arna",
+  "name": "arna",
+  "generations": [
+    {
+      "slug": "arna-0",
+      "name": "arna 1",
+      "year_start": 1983,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/arna/920-1983-1987.webp"
+      }
+    }
+  ]
+}

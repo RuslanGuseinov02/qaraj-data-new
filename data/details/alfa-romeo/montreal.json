@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "montreal",
+  "name": "montreal",
+  "generations": [
+    {
+      "slug": "montreal-0",
+      "name": "montreal 1",
+      "year_start": 1970,
+      "year_end": 1979,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/montreal/105-1970-1979.webp"
+      }
+    }
+  ]
+}

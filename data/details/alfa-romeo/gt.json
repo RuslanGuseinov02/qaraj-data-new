@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "alfa-romeo",
+    "name": "ALFA-ROMEO"
+  },
+  "slug": "gt",
+  "name": "gt",
+  "generations": [
+    {
+      "slug": "gt-0",
+      "name": "gt 1",
+      "year_start": 1963,
+      "year_end": 1977,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/gt/105-115-1963-1977.webp"
+      }
+    },
+    {
+      "slug": "gt-1",
+      "name": "gt 2",
+      "year_start": 2003,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alfa-romeo/gt/937-2003-2010.webp"
+      }
+    }
+  ]
+}
