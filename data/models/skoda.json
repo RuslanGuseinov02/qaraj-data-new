@@ -1,0 +1,198 @@
+{
+    "make": {
+        "slug": "skoda",
+        "name": "Skoda"
+    },
+    "data": [
+        {
+            "slug": "100-series",
+            "name": "100 Series",
+            "year_start": 1969,
+            "year_end": 1990,
+            "generation_count": 2
+        },
+        {
+            "slug": "citigo",
+            "name": "Citigo",
+            "year_start": 2011,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "elroq",
+            "name": "Elroq",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "enyaq-iv",
+            "name": "Enyaq",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "fabia",
+            "name": "Fabia",
+            "year_start": 1999,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "favorit",
+            "name": "Favorit",
+            "year_start": 1987,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "felicia",
+            "name": "Felicia",
+            "year_start": 1994,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "kamiq",
+            "name": "Kamiq",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "kamiq-gt",
+            "name": "Kamiq GT",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "karoq",
+            "name": "Karoq",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "kodiaq",
+            "name": "Kodiaq",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "kodiaq-gt",
+            "name": "Kodiaq GT",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "kushaq",
+            "name": "Kushaq",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "kylaq",
+            "name": "Kylaq",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "octavia",
+            "name": "Octavia",
+            "year_start": 1959,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "octavia-classic",
+            "name": "Octavia Classic",
+            "year_start": 2018,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "octavia-pro",
+            "name": "Octavia Pro",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "octavia-scout",
+            "name": "Octavia Scout",
+            "year_start": 2006,
+            "year_end": 2024,
+            "generation_count": 4
+        },
+        {
+            "slug": "octavia-tour",
+            "name": "Octavia Tour",
+            "year_start": 2004,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "praktik",
+            "name": "Praktik",
+            "year_start": 2007,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "rapid",
+            "name": "Rapid",
+            "year_start": 1935,
+            "year_end": 2024,
+            "generation_count": 7
+        },
+        {
+            "slug": "roomster",
+            "name": "Roomster",
+            "year_start": 2006,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "scala",
+            "name": "Scala",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "slavia",
+            "name": "Slavia",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "superb",
+            "name": "Superb",
+            "year_start": 2001,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "superb-scout",
+            "name": "Superb Scout",
+            "year_start": 2019,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "yeti",
+            "name": "Yeti",
+            "year_start": 2009,
+            "year_end": 2023,
+            "generation_count": 2
+        }
+    ],
+    "total": 27
+}
