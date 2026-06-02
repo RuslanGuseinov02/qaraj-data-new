@@ -1,0 +1,37 @@
+{
+    "make": {
+        "slug": "polestar",
+        "name": "Polestar"
+    },
+    "data": [
+        {
+            "slug": "polestar-1",
+            "name": "Polestar 1",
+            "year_start": 2019,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "polestar-2",
+            "name": "Polestar 2",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "polestar-3",
+            "name": "Polestar 3",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "polestar-4",
+            "name": "Polestar 4",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 4
+}
