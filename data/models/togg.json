@@ -1,0 +1,23 @@
+{
+    "make": {
+        "slug": "togg",
+        "name": "Togg"
+    },
+    "data": [
+        {
+            "slug": "t10f",
+            "name": "T10F",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t10x",
+            "name": "T10X",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 2
+}
