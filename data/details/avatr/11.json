@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "avatr",
+    "name": "AVATR"
+  },
+  "slug": "11",
+  "name": "11",
+  "generations": [
+    {
+      "slug": "11-0",
+      "name": "11 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/avatr/11/2022-now.webp"
+      }
+    }
+  ]
+}
