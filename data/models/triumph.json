@@ -1,0 +1,58 @@
+{
+    "make": {
+        "slug": "triumph",
+        "name": "Triumph"
+    },
+    "data": [
+        {
+            "slug": "acclaim",
+            "name": "Acclaim",
+            "year_start": 1981,
+            "year_end": 1984,
+            "generation_count": 1
+        },
+        {
+            "slug": "dolomite",
+            "name": "Dolomite",
+            "year_start": 1974,
+            "year_end": 1981,
+            "generation_count": 1
+        },
+        {
+            "slug": "spitfire",
+            "name": "Spitfire",
+            "year_start": 1974,
+            "year_end": 1981,
+            "generation_count": 1
+        },
+        {
+            "slug": "stag",
+            "name": "Stag",
+            "year_start": 1970,
+            "year_end": 1977,
+            "generation_count": 1
+        },
+        {
+            "slug": "tr6",
+            "name": "TR6",
+            "year_start": 1968,
+            "year_end": 1976,
+            "generation_count": 1
+        },
+        {
+            "slug": "tr7",
+            "name": "TR7",
+            "year_start": 1975,
+            "year_end": 1981,
+            "generation_count": 1
+        },
+        {
+            "slug": "tr8",
+            "name": "TR8",
+            "year_start": 1978,
+            "year_end": 1981,
+            "generation_count": 1
+        }
+    ],
+    "total": 7
+}
