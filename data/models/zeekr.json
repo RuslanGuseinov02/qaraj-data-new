@@ -1,0 +1,58 @@
+{
+    "make": {
+        "slug": "zeekr",
+        "name": "Zeekr"
+    },
+    "data": [
+        {
+            "slug": "001",
+            "name": "001",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "007",
+            "name": "007",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "009",
+            "name": "009",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "7x",
+            "name": "7X",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "9x",
+            "name": "9X",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "mix",
+            "name": "Mix",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x",
+            "name": "X",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 7
+}
