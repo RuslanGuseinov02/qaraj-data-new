@@ -1,0 +1,72 @@
+{
+    "make": {
+        "slug": "iran-khodro",
+        "name": "Iran Khodro"
+    },
+    "data": [
+        {
+            "slug": "dena",
+            "name": "Dena",
+            "year_start": 2012,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "arisun",
+            "name": "Khodro Arisun",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "dena-plus",
+            "name": "Khodro Dena+",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "runna-plus",
+            "name": "Khodro Runna+",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tara",
+            "name": "Khodro Tara",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "runna",
+            "name": "Runna",
+            "year_start": 2011,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "samand",
+            "name": "Samand",
+            "year_start": 2002,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "soren",
+            "name": "Soren",
+            "year_start": 2007,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "soren-plus",
+            "name": "Soren+",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 9
+}
