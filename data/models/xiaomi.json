@@ -1,0 +1,30 @@
+{
+    "make": {
+        "slug": "xiaomi",
+        "name": "Xiaomi"
+    },
+    "data": [
+        {
+            "slug": "su7",
+            "name": "SU7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "su7-ultra",
+            "name": "SU7 Ultra",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "yu7",
+            "name": "YU7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 3
+}
