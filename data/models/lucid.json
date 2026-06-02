@@ -1,0 +1,23 @@
+{
+    "make": {
+        "slug": "lucid",
+        "name": "Lucid"
+    },
+    "data": [
+        {
+            "slug": "air",
+            "name": "Air",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "gravity",
+            "name": "Gravity",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 2
+}
