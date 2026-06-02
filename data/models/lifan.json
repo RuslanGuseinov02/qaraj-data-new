@@ -1,0 +1,212 @@
+{
+    "make": {
+        "slug": "lifan",
+        "name": "Lifan"
+    },
+    "data": [
+        {
+            "slug": "320",
+            "name": "320",
+            "year_start": 2009,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "330",
+            "name": "330",
+            "year_start": 2014,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "520",
+            "name": "520",
+            "year_start": 2006,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "530",
+            "name": "530",
+            "year_start": 2014,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "620",
+            "name": "620",
+            "year_start": 2008,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "630",
+            "name": "630",
+            "year_start": 2013,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "650",
+            "name": "650",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "720",
+            "name": "720",
+            "year_start": 2013,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "820",
+            "name": "820",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "breez",
+            "name": "Breez",
+            "year_start": 2007,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "cebrium",
+            "name": "Cebrium",
+            "year_start": 2013,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "celliya",
+            "name": "Celliya",
+            "year_start": 2013,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "fengshun",
+            "name": "Fengshun",
+            "year_start": 2011,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "foison",
+            "name": "Foison",
+            "year_start": 2014,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "fushun",
+            "name": "Fushun",
+            "year_start": 2013,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "letu",
+            "name": "Lotto",
+            "year_start": 2015,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "m7",
+            "name": "M7",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "murman",
+            "name": "Murman",
+            "year_start": 2017,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "myway",
+            "name": "Myway",
+            "year_start": 2017,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "smily",
+            "name": "Smily",
+            "year_start": 2008,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "solano",
+            "name": "Solano",
+            "year_start": 2008,
+            "year_end": 2023,
+            "generation_count": 3
+        },
+        {
+            "slug": "t11",
+            "name": "T11",
+            "year_start": 2013,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "t21",
+            "name": "T21",
+            "year_start": 2013,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "x50",
+            "name": "X50",
+            "year_start": 2014,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "x60",
+            "name": "X60",
+            "year_start": 2011,
+            "year_end": 2023,
+            "generation_count": 3
+        },
+        {
+            "slug": "x7",
+            "name": "X7",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "x70",
+            "name": "X70",
+            "year_start": 2018,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "x80",
+            "name": "X80",
+            "year_start": 2017,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "xingshun",
+            "name": "Xingshun",
+            "year_start": 2011,
+            "year_end": 2011,
+            "generation_count": 1
+        }
+    ],
+    "total": 29
+}
