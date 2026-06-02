@@ -1,0 +1,93 @@
+{
+    "make": {
+        "slug": "perodua",
+        "name": "Perodua"
+    },
+    "data": [
+        {
+            "slug": "alza",
+            "name": "Alza",
+            "year_start": 2009,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "aruz",
+            "name": "Aruz",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ativa",
+            "name": "Ativa",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "axia",
+            "name": "Axia",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "bezza",
+            "name": "Bezza",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "kancil",
+            "name": "Kancil",
+            "year_start": 1994,
+            "year_end": 2009,
+            "generation_count": 2
+        },
+        {
+            "slug": "kelisa",
+            "name": "Kelisa",
+            "year_start": 2001,
+            "year_end": 2007,
+            "generation_count": 2
+        },
+        {
+            "slug": "kembara",
+            "name": "Kembara",
+            "year_start": 1998,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "kenari",
+            "name": "Kenari",
+            "year_start": 2000,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "myvi",
+            "name": "Myvi",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "nautica",
+            "name": "Nautica",
+            "year_start": 2008,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "viva",
+            "name": "Viva",
+            "year_start": 2007,
+            "year_end": 2014,
+            "generation_count": 1
+        }
+    ],
+    "total": 12
+}
