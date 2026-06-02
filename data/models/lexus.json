@@ -1,0 +1,170 @@
+{
+    "make": {
+        "slug": "lexus",
+        "name": "Lexus"
+    },
+    "data": [
+        {
+            "slug": "ct",
+            "name": "CT",
+            "year_start": 2011,
+            "year_end": 2022,
+            "generation_count": 3
+        },
+        {
+            "slug": "es",
+            "name": "ES",
+            "year_start": 1989,
+            "year_end": null,
+            "generation_count": 10
+        },
+        {
+            "slug": "gs",
+            "name": "GS",
+            "year_start": 1993,
+            "year_end": 2020,
+            "generation_count": 6
+        },
+        {
+            "slug": "gs-f",
+            "name": "GS F",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "gx",
+            "name": "GX",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "hs",
+            "name": "HS",
+            "year_start": 2009,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "is",
+            "name": "IS",
+            "year_start": 1999,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "is-c",
+            "name": "IS C",
+            "year_start": 2009,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "is-f",
+            "name": "IS F",
+            "year_start": 2007,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "lbx",
+            "name": "LBX",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "lc",
+            "name": "LC",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "lfa",
+            "name": "LFA",
+            "year_start": 2010,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "lm",
+            "name": "LM",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "ls",
+            "name": "LS",
+            "year_start": 1989,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "lx",
+            "name": "LX",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "nx",
+            "name": "NX",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "rc",
+            "name": "RC",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "rc-f",
+            "name": "RC F",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "rx",
+            "name": "RX",
+            "year_start": 1997,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "rz",
+            "name": "RZ",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sc",
+            "name": "SC",
+            "year_start": 1991,
+            "year_end": 2010,
+            "generation_count": 2
+        },
+        {
+            "slug": "tx",
+            "name": "TX",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ux",
+            "name": "UX",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 23
+}
