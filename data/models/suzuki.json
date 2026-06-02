@@ -1,0 +1,737 @@
+{
+    "make": {
+        "slug": "suzuki",
+        "name": "Suzuki"
+    },
+    "data": [
+        {
+            "slug": "apv",
+            "name": "APV",
+            "year_start": 2005,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "across",
+            "name": "Across",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "aerio",
+            "name": "Aerio",
+            "year_start": 2001,
+            "year_end": 2007,
+            "generation_count": 2
+        },
+        {
+            "slug": "aerio-sedan",
+            "name": "Aerio Sedan",
+            "year_start": 2001,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "alivio",
+            "name": "Alivio",
+            "year_start": 2014,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "alto",
+            "name": "Alto",
+            "year_start": 1988,
+            "year_end": null,
+            "generation_count": 9
+        },
+        {
+            "slug": "alto-800",
+            "name": "Alto 800",
+            "year_start": 2014,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "alto-c",
+            "name": "Alto C",
+            "year_start": 1999,
+            "year_end": 2000,
+            "generation_count": 1
+        },
+        {
+            "slug": "alto-c2",
+            "name": "Alto C2",
+            "year_start": 2001,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "alto-eco",
+            "name": "Alto Eco",
+            "year_start": 2011,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "alto-hustle",
+            "name": "Alto Hustle",
+            "year_start": 1991,
+            "year_end": 1994,
+            "generation_count": 1
+        },
+        {
+            "slug": "alto-k10",
+            "name": "Alto K10",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "alto-lapin",
+            "name": "Alto Lapin",
+            "year_start": 2002,
+            "year_end": 2020,
+            "generation_count": 3
+        },
+        {
+            "slug": "alto-works",
+            "name": "Alto Works",
+            "year_start": 1988,
+            "year_end": 2021,
+            "generation_count": 6
+        },
+        {
+            "slug": "baleno",
+            "name": "Baleno",
+            "year_start": 1995,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "brezza",
+            "name": "Brezza",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "cappuccino",
+            "name": "Cappuccino",
+            "year_start": 1991,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "cara",
+            "name": "Cara",
+            "year_start": 1993,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "carry",
+            "name": "Carry",
+            "year_start": 1990,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "celerio",
+            "name": "Celerio",
+            "year_start": 2009,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "cervo",
+            "name": "Cervo",
+            "year_start": 1988,
+            "year_end": 2009,
+            "generation_count": 2
+        },
+        {
+            "slug": "cervo-classic",
+            "name": "Cervo Classic",
+            "year_start": 1996,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "cervo-mode",
+            "name": "Cervo Mode",
+            "year_start": 1990,
+            "year_end": 1998,
+            "generation_count": 2
+        },
+        {
+            "slug": "ciaz",
+            "name": "Ciaz",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "cultus",
+            "name": "Cultus",
+            "year_start": 1989,
+            "year_end": 2002,
+            "generation_count": 2
+        },
+        {
+            "slug": "cultus-crescent",
+            "name": "Cultus Crescent",
+            "year_start": 1995,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "cultus-crescent-wagon",
+            "name": "Cultus Crescent Wagon",
+            "year_start": 1996,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "cultus-esteem",
+            "name": "Cultus Esteem",
+            "year_start": 1989,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "cultus-wagon",
+            "name": "Cultus Wagon",
+            "year_start": 1998,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "dzire",
+            "name": "Dzire",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "eeco",
+            "name": "Eeco",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "equator",
+            "name": "Equator",
+            "year_start": 2008,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "ertiga",
+            "name": "Ertiga",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "ertiga-xl7",
+            "name": "Ertiga XL7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "escudo",
+            "name": "Escudo",
+            "year_start": 1988,
+            "year_end": 2023,
+            "generation_count": 7
+        },
+        {
+            "slug": "esteem",
+            "name": "Esteem",
+            "year_start": 1999,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "every",
+            "name": "Every",
+            "year_start": 1989,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "every-landy",
+            "name": "Every Landy",
+            "year_start": 2001,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "every-plus",
+            "name": "Every Plus",
+            "year_start": 1999,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "every-wagon",
+            "name": "Every Wagon",
+            "year_start": 1999,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "forenza",
+            "name": "Forenza",
+            "year_start": 2003,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "fronx",
+            "name": "Fronx",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "grand-escudo",
+            "name": "Grand Escudo",
+            "year_start": 2000,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "grand-nomade",
+            "name": "Grand Nomade",
+            "year_start": 2013,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "grand-vitara",
+            "name": "Grand Vitara",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "hustler",
+            "name": "Hustler",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "ignis",
+            "name": "Ignis",
+            "year_start": 2000,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "invicto",
+            "name": "Invicto",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "jimny",
+            "name": "Jimny",
+            "year_start": 1987,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "jimny-l",
+            "name": "Jimny L",
+            "year_start": 1999,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "jimny-nomade",
+            "name": "Jimny Nomade",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "jimny-sierra",
+            "name": "Jimny Sierra",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "jimny-wide",
+            "name": "Jimny Wide",
+            "year_start": 1998,
+            "year_end": 2002,
+            "generation_count": 2
+        },
+        {
+            "slug": "karimun",
+            "name": "Karimun",
+            "year_start": 1999,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "karimun-estilo",
+            "name": "Karimun Estilo",
+            "year_start": 2007,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "karimun-wagon-r",
+            "name": "Karimun Wagon R",
+            "year_start": 2013,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "kei",
+            "name": "Kei",
+            "year_start": 1998,
+            "year_end": 2009,
+            "generation_count": 2
+        },
+        {
+            "slug": "kei-sport",
+            "name": "Kei Sport",
+            "year_start": 2000,
+            "year_end": 2003,
+            "generation_count": 2
+        },
+        {
+            "slug": "kei-works",
+            "name": "Kei Works",
+            "year_start": 2002,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "kizashi",
+            "name": "Kizashi",
+            "year_start": 2009,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "landy",
+            "name": "Landy",
+            "year_start": 2007,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "lapin",
+            "name": "Lapin",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "liana",
+            "name": "Liana",
+            "year_start": 2001,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "mr-wagon",
+            "name": "MR Wagon",
+            "year_start": 2001,
+            "year_end": 2016,
+            "generation_count": 3
+        },
+        {
+            "slug": "mr-wagon-wit",
+            "name": "MR Wagon Wit",
+            "year_start": 2013,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "palette",
+            "name": "Palette",
+            "year_start": 2008,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "palette-sw",
+            "name": "Palette SW",
+            "year_start": 2009,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "reno",
+            "name": "Reno",
+            "year_start": 2004,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "s-cross",
+            "name": "S-Cross",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "s-presso",
+            "name": "S-Presso",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sx4",
+            "name": "SX4",
+            "year_start": 2006,
+            "year_end": 2021,
+            "generation_count": 4
+        },
+        {
+            "slug": "sx4-s-cross",
+            "name": "SX4 S-Cross",
+            "year_start": 2013,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "sx4-sedan",
+            "name": "SX4 Sedan",
+            "year_start": 2007,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "samurai",
+            "name": "Samurai",
+            "year_start": 1984,
+            "year_end": 1997,
+            "generation_count": 1
+        },
+        {
+            "slug": "sidekick",
+            "name": "Sidekick",
+            "year_start": 1989,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "solio",
+            "name": "Solio",
+            "year_start": 2004,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "solio-bandit",
+            "name": "Solio Bandit",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "spacia",
+            "name": "Spacia",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "spacia-custom",
+            "name": "Spacia Custom",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "spacia-custom-z",
+            "name": "Spacia Custom Z",
+            "year_start": 2016,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "spacia-gear",
+            "name": "Spacia GEAR",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "splash",
+            "name": "Splash",
+            "year_start": 2008,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "super-carry",
+            "name": "Super Carry",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "super-carry-pro",
+            "name": "Super Carry Pro",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "swace",
+            "name": "Swace",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "swift",
+            "name": "Swift",
+            "year_start": 1989,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "swift-sport",
+            "name": "Swift Sport",
+            "year_start": 2003,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "twin",
+            "name": "Twin",
+            "year_start": 2003,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "verona",
+            "name": "Verona",
+            "year_start": 2003,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "vitara",
+            "name": "Vitara",
+            "year_start": 1988,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "vitara-brezza",
+            "name": "Vitara Brezza",
+            "year_start": 2016,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "wagon-r",
+            "name": "Wagon R",
+            "year_start": 1993,
+            "year_end": null,
+            "generation_count": 12
+        },
+        {
+            "slug": "wagon-r-rr",
+            "name": "Wagon R RR",
+            "year_start": 1998,
+            "year_end": 2008,
+            "generation_count": 4
+        },
+        {
+            "slug": "wagon-r-smile",
+            "name": "Wagon R Smile",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "wagon-r-solio",
+            "name": "Wagon R Solio",
+            "year_start": 2000,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "wagon-r-stingray",
+            "name": "Wagon R Stingray",
+            "year_start": 2008,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "wagon-r-wide",
+            "name": "Wagon R Wide",
+            "year_start": 1997,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "wagon-r-plus",
+            "name": "Wagon R+",
+            "year_start": 1997,
+            "year_end": 2006,
+            "generation_count": 3
+        },
+        {
+            "slug": "x-90",
+            "name": "X-90",
+            "year_start": 1995,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "xl-7",
+            "name": "XL-7",
+            "year_start": 2002,
+            "year_end": 2009,
+            "generation_count": 3
+        },
+        {
+            "slug": "xl6",
+            "name": "XL6",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "xl7",
+            "name": "XL7",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "xbee",
+            "name": "Xbee",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-vitara",
+            "name": "e Vitara",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 104
+}
