@@ -1,0 +1,625 @@
+{
+    "make": {
+        "slug": "mercedes",
+        "name": "Mercedes-Benz"
+    },
+    "data": [
+        {
+            "slug": "190",
+            "name": "190",
+            "year_start": 1982,
+            "year_end": 1993,
+            "generation_count": 1
+        },
+        {
+            "slug": "a-class",
+            "name": "A-Class",
+            "year_start": 1997,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "a-class-amg",
+            "name": "A-Class AMG",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "amg-gt",
+            "name": "AMG GT",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "amg-gt-4",
+            "name": "AMG GT 4",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "b-class",
+            "name": "B-Class",
+            "year_start": 2005,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "c-class",
+            "name": "C-Class",
+            "year_start": 1993,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "c-class-amg",
+            "name": "C-Class AMG",
+            "year_start": 2008,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "c-class-all-terrain",
+            "name": "C-Class All-Terrain",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "cl-class",
+            "name": "CL-Class",
+            "year_start": 1996,
+            "year_end": 2014,
+            "generation_count": 4
+        },
+        {
+            "slug": "cl-class-amg",
+            "name": "CL-Class AMG",
+            "year_start": 1994,
+            "year_end": 2014,
+            "generation_count": 4
+        },
+        {
+            "slug": "cla-class-amg",
+            "name": "CLA-Class AMG",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "clc-class",
+            "name": "CLC-Class",
+            "year_start": 2008,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "cle-class",
+            "name": "CLE-Class",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "cle-class-amg",
+            "name": "CLE-Class AMG",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "clk-class",
+            "name": "CLK-Class",
+            "year_start": 1997,
+            "year_end": 2010,
+            "generation_count": 3
+        },
+        {
+            "slug": "clk-class-amg",
+            "name": "CLK-Class AMG",
+            "year_start": 1999,
+            "year_end": 2010,
+            "generation_count": 3
+        },
+        {
+            "slug": "cls-class",
+            "name": "CLS-Class",
+            "year_start": 2004,
+            "year_end": 2024,
+            "generation_count": 6
+        },
+        {
+            "slug": "cls-class-amg",
+            "name": "CLS-Class AMG",
+            "year_start": 2004,
+            "year_end": 2024,
+            "generation_count": 6
+        },
+        {
+            "slug": "citan",
+            "name": "Citan",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "e-class",
+            "name": "E-Class",
+            "year_start": 1993,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "e-class-amg",
+            "name": "E-Class AMG",
+            "year_start": 2002,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "e-class-all-terrain",
+            "name": "E-Class All-Terrain",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "e-class-cabrio",
+            "name": "E-Class Cabriolet",
+            "year_start": 2009,
+            "year_end": 2023,
+            "generation_count": 4
+        },
+        {
+            "slug": "e-class-coupe",
+            "name": "E-Class Coupe",
+            "year_start": 2009,
+            "year_end": 2023,
+            "generation_count": 4
+        },
+        {
+            "slug": "eqa",
+            "name": "EQA",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "eqc",
+            "name": "EQC",
+            "year_start": 2019,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "eqe",
+            "name": "EQE",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "eqe-amg",
+            "name": "EQE AMG",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "eqe-suv",
+            "name": "EQE SUV",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "eqe-suv-amg",
+            "name": "EQE SUV AMG",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "eqs",
+            "name": "EQS",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "eqs-amg",
+            "name": "EQS AMG",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "eqt",
+            "name": "EQT",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "eqv",
+            "name": "EQV",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "g-class-amg",
+            "name": "G-Class AMG",
+            "year_start": 1999,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "gl-class",
+            "name": "GL-Class",
+            "year_start": 2006,
+            "year_end": 2016,
+            "generation_count": 3
+        },
+        {
+            "slug": "gl-class-amg",
+            "name": "GL-Class AMG",
+            "year_start": 2013,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "gla",
+            "name": "GLA-Class",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "gla-class-amg",
+            "name": "GLA-Class AMG",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "glb",
+            "name": "GLB-Class",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "glb-class-amg",
+            "name": "GLB-Class AMG",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "glc",
+            "name": "GLC-Class",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "glc-class-amg",
+            "name": "GLC-Class AMG",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "glc-class-coupe",
+            "name": "GLC-Class Coupe",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "glc-class-coupe-amg",
+            "name": "GLC-Class Coupe AMG",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "gle-class",
+            "name": "GLE-Class",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "gle-class-amg",
+            "name": "GLE-Class AMG",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "gle-class-coupe",
+            "name": "GLE-Class Coupe",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "gle-class-coupe-amg",
+            "name": "GLE-Class Coupe AMG",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "glk-class",
+            "name": "GLK-Class",
+            "year_start": 2008,
+            "year_end": 2015,
+            "generation_count": 2
+        },
+        {
+            "slug": "gls-class",
+            "name": "GLS-Class",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "gls-class-amg",
+            "name": "GLS-Class AMG",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "m-class",
+            "name": "M-Class",
+            "year_start": 1997,
+            "year_end": 2015,
+            "generation_count": 4
+        },
+        {
+            "slug": "m-class-amg",
+            "name": "M-Class AMG",
+            "year_start": 2000,
+            "year_end": 2015,
+            "generation_count": 4
+        },
+        {
+            "slug": "marco-polo",
+            "name": "Marco Polo",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "cla-class",
+            "name": "Mercedes-Benz CLA-Class",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "eqb",
+            "name": "Mercedes-Benz EQB",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "eqs-suv",
+            "name": "Mercedes-Benz EQS SUV",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "g-class",
+            "name": "Mercedes-Benz G-Class",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "metris",
+            "name": "Metris",
+            "year_start": 2016,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "r-class",
+            "name": "R-Class",
+            "year_start": 2005,
+            "year_end": 2015,
+            "generation_count": 3
+        },
+        {
+            "slug": "r-class-amg",
+            "name": "R-Class AMG",
+            "year_start": 2006,
+            "year_end": 2015,
+            "generation_count": 2
+        },
+        {
+            "slug": "s-class",
+            "name": "S-Class",
+            "year_start": 1972,
+            "year_end": null,
+            "generation_count": 10
+        },
+        {
+            "slug": "s-class-amg",
+            "name": "S-Class AMG",
+            "year_start": 1999,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "s-class-cabrio",
+            "name": "S-Class Cabrio",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "s-class-cabrio-amg",
+            "name": "S-Class Cabrio AMG",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "s-class-coupe",
+            "name": "S-Class Coupe",
+            "year_start": 2015,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "s-class-coupe-amg",
+            "name": "S-Class Coupe AMG",
+            "year_start": 2014,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "sl-class",
+            "name": "SL-Class",
+            "year_start": 1971,
+            "year_end": 2020,
+            "generation_count": 7
+        },
+        {
+            "slug": "sl-class-amg",
+            "name": "SL-Class AMG",
+            "year_start": 2001,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "slc-class",
+            "name": "SLC-Class",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "slc-class-amg",
+            "name": "SLC-Class AMG",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "slk-class",
+            "name": "SLK-Class",
+            "year_start": 1996,
+            "year_end": 2016,
+            "generation_count": 4
+        },
+        {
+            "slug": "slk-class-amg",
+            "name": "SLK-Class AMG",
+            "year_start": 2000,
+            "year_end": 2016,
+            "generation_count": 4
+        },
+        {
+            "slug": "slr-class",
+            "name": "SLR McLaren",
+            "year_start": 2003,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "sls-class-amg",
+            "name": "SLS-Class AMG",
+            "year_start": 2010,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "sprinter",
+            "name": "Sprinter",
+            "year_start": 1995,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "t-class",
+            "name": "T-Class",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t1",
+            "name": "T1",
+            "year_start": 1977,
+            "year_end": 1996,
+            "generation_count": 1
+        },
+        {
+            "slug": "t2",
+            "name": "T2",
+            "year_start": 1968,
+            "year_end": 1994,
+            "generation_count": 2
+        },
+        {
+            "slug": "v-class",
+            "name": "V-Class",
+            "year_start": 1996,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "vaneo",
+            "name": "Vaneo",
+            "year_start": 2002,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "viano",
+            "name": "Viano",
+            "year_start": 1996,
+            "year_end": 2014,
+            "generation_count": 3
+        },
+        {
+            "slug": "vito",
+            "name": "Vito",
+            "year_start": 1996,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "w123",
+            "name": "W123",
+            "year_start": 1975,
+            "year_end": 1986,
+            "generation_count": 1
+        },
+        {
+            "slug": "w124",
+            "name": "W124",
+            "year_start": 1984,
+            "year_end": 1996,
+            "generation_count": 1
+        },
+        {
+            "slug": "x-class",
+            "name": "X-Class",
+            "year_start": 2017,
+            "year_end": 2022,
+            "generation_count": 1
+        }
+    ],
+    "total": 88
+}
