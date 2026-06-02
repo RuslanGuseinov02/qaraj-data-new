@@ -1,0 +1,296 @@
+{
+    "make": {
+        "slug": "isuzu",
+        "name": "Isuzu"
+    },
+    "data": [
+        {
+            "slug": "alterra",
+            "name": "Alterra",
+            "year_start": 2004,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "amigo",
+            "name": "Amigo",
+            "year_start": 1989,
+            "year_end": 2000,
+            "generation_count": 2
+        },
+        {
+            "slug": "ascender",
+            "name": "Ascender",
+            "year_start": 2002,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "aska",
+            "name": "Aska",
+            "year_start": 1985,
+            "year_end": 2002,
+            "generation_count": 4
+        },
+        {
+            "slug": "axiom",
+            "name": "Axiom",
+            "year_start": 2002,
+            "year_end": 2004,
+            "generation_count": 1
+        },
+        {
+            "slug": "bighorn",
+            "name": "Bighorn",
+            "year_start": 1981,
+            "year_end": 2002,
+            "generation_count": 3
+        },
+        {
+            "slug": "como",
+            "name": "Como",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "crosswind",
+            "name": "Crosswind",
+            "year_start": 1991,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "d-max",
+            "name": "D-MAX",
+            "year_start": 2002,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "fargo",
+            "name": "Fargo",
+            "year_start": 1980,
+            "year_end": 2001,
+            "generation_count": 2
+        },
+        {
+            "slug": "faster",
+            "name": "Faster",
+            "year_start": 1972,
+            "year_end": 2002,
+            "generation_count": 3
+        },
+        {
+            "slug": "filly",
+            "name": "Filly",
+            "year_start": 1999,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "florian-aska",
+            "name": "Florian Aska",
+            "year_start": 1983,
+            "year_end": 1985,
+            "generation_count": 1
+        },
+        {
+            "slug": "gemini",
+            "name": "Gemini",
+            "year_start": 1974,
+            "year_end": 2000,
+            "generation_count": 5
+        },
+        {
+            "slug": "hi-lander",
+            "name": "Hi-Lander",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "hombre",
+            "name": "Hombre",
+            "year_start": 1996,
+            "year_end": 2000,
+            "generation_count": 1
+        },
+        {
+            "slug": "impulse",
+            "name": "Impulse",
+            "year_start": 1983,
+            "year_end": 1992,
+            "generation_count": 2
+        },
+        {
+            "slug": "kb",
+            "name": "KB",
+            "year_start": 1972,
+            "year_end": 2018,
+            "generation_count": 6
+        },
+        {
+            "slug": "lingtuo",
+            "name": "Lingtuo",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "mu",
+            "name": "MU",
+            "year_start": 1989,
+            "year_end": 2002,
+            "generation_count": 3
+        },
+        {
+            "slug": "mu-wizard",
+            "name": "MU Wizard",
+            "year_start": 1995,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "mu-7",
+            "name": "MU-7",
+            "year_start": 2004,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "oasis",
+            "name": "Oasis",
+            "year_start": 1996,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "pa-nero",
+            "name": "Pa Nero",
+            "year_start": 1990,
+            "year_end": 1994,
+            "generation_count": 1
+        },
+        {
+            "slug": "panther",
+            "name": "Panther",
+            "year_start": 1991,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "piazza",
+            "name": "Piazza",
+            "year_start": 1981,
+            "year_end": 1994,
+            "generation_count": 2
+        },
+        {
+            "slug": "pickup",
+            "name": "Pickup",
+            "year_start": 2013,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "rodeo",
+            "name": "Rodeo",
+            "year_start": 1991,
+            "year_end": 2004,
+            "generation_count": 3
+        },
+        {
+            "slug": "rodeo-sport",
+            "name": "Rodeo Sport",
+            "year_start": 2001,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "ruimai",
+            "name": "Ruimai",
+            "year_start": 2016,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "ruimai-classic",
+            "name": "Ruimai Classic",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "ruimai-s",
+            "name": "Ruimai S",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "stylus",
+            "name": "Stylus",
+            "year_start": 1990,
+            "year_end": 1993,
+            "generation_count": 1
+        },
+        {
+            "slug": "traga",
+            "name": "Traga",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "traviz",
+            "name": "Traviz",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "trooper",
+            "name": "Trooper",
+            "year_start": 1981,
+            "year_end": 2003,
+            "generation_count": 3
+        },
+        {
+            "slug": "vehicross",
+            "name": "VehiCROSS",
+            "year_start": 1997,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "wizard",
+            "name": "Wizard",
+            "year_start": 1998,
+            "year_end": 2002,
+            "generation_count": 2
+        },
+        {
+            "slug": "wizard-alive",
+            "name": "Wizard Alive",
+            "year_start": 2000,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "i-series",
+            "name": "i-Series",
+            "year_start": 2005,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "mu-x",
+            "name": "mu-X",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 3
+        }
+    ],
+    "total": 41
+}
