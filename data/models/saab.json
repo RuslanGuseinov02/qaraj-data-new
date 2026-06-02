@@ -1,0 +1,65 @@
+{
+    "make": {
+        "slug": "saab",
+        "name": "Saab"
+    },
+    "data": [
+        {
+            "slug": "9-2x",
+            "name": "9-2x",
+            "year_start": 2004,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "9-3",
+            "name": "9-3",
+            "year_start": 1998,
+            "year_end": 2014,
+            "generation_count": 3
+        },
+        {
+            "slug": "9-3x",
+            "name": "9-3x",
+            "year_start": 2009,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "9-4x",
+            "name": "9-4x",
+            "year_start": 2011,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "9-5",
+            "name": "9-5",
+            "year_start": 1997,
+            "year_end": 2012,
+            "generation_count": 3
+        },
+        {
+            "slug": "9-7x",
+            "name": "9-7x",
+            "year_start": 2005,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "900",
+            "name": "900",
+            "year_start": 1979,
+            "year_end": 1998,
+            "generation_count": 3
+        },
+        {
+            "slug": "9000",
+            "name": "9000",
+            "year_start": 1984,
+            "year_end": 1998,
+            "generation_count": 1
+        }
+    ],
+    "total": 8
+}
