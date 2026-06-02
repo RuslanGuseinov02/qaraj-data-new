@@ -1,0 +1,23 @@
+{
+    "make": {
+        "slug": "e-go",
+        "name": "e.GO"
+    },
+    "data": [
+        {
+            "slug": "life",
+            "name": "Life",
+            "year_start": 2019,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-wave-x",
+            "name": "e.wave X",
+            "year_start": 2022,
+            "year_end": 2024,
+            "generation_count": 1
+        }
+    ],
+    "total": 2
+}
