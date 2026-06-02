@@ -1,0 +1,30 @@
+{
+    "make": {
+        "slug": "skywell",
+        "name": "Skywell"
+    },
+    "data": [
+        {
+            "slug": "be11",
+            "name": "BE11",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "et5",
+            "name": "ET5",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ht-i",
+            "name": "HT-i",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 3
+}
