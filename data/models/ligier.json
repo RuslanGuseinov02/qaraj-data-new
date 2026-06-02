@@ -1,0 +1,30 @@
+{
+    "make": {
+        "slug": "ligier",
+        "name": "Ligier"
+    },
+    "data": [
+        {
+            "slug": "js50",
+            "name": "JS50",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "js60",
+            "name": "JS60",
+            "year_start": 2020,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "myli",
+            "name": "Myli",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 3
+}
