@@ -1,0 +1,443 @@
+{
+    "make": {
+        "slug": "mg",
+        "name": "MG"
+    },
+    "data": [
+        {
+            "slug": "3",
+            "name": "3",
+            "year_start": 2008,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "3-cross",
+            "name": "3 Cross",
+            "year_start": 2013,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "3-xross",
+            "name": "3 Xross",
+            "year_start": 2011,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "350",
+            "name": "350",
+            "year_start": 2012,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "360",
+            "name": "360",
+            "year_start": 2017,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "4",
+            "name": "4",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "5",
+            "name": "5",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "5-ev",
+            "name": "5 EV",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "550",
+            "name": "550",
+            "year_start": 2008,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "6",
+            "name": "6",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "6-pro",
+            "name": "6 Pro",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "7",
+            "name": "7",
+            "year_start": 2007,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "750",
+            "name": "750",
+            "year_start": 2010,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "8",
+            "name": "8",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "astor",
+            "name": "Astor",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "comet",
+            "name": "Comet",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "cyberster",
+            "name": "Cyberster",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ep",
+            "name": "EP",
+            "year_start": 2020,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "es",
+            "name": "ES",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "es5",
+            "name": "ES5",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "extender",
+            "name": "Extender",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "f",
+            "name": "F",
+            "year_start": 1995,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "gs",
+            "name": "GS",
+            "year_start": 2015,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "gt",
+            "name": "GT",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "gloster",
+            "name": "Gloster",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "hs",
+            "name": "HS",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "hector",
+            "name": "Hector",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "im-ls7",
+            "name": "IM LS7",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "im5",
+            "name": "IM5",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "im6",
+            "name": "IM6",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "maestro",
+            "name": "Maestro",
+            "year_start": 1984,
+            "year_end": 1991,
+            "generation_count": 1
+        },
+        {
+            "slug": "marvel-r",
+            "name": "Marvel R",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "maxus-7",
+            "name": "Maxus 7",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "maxus-9",
+            "name": "Maxus 9",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "maxus-g50-plus",
+            "name": "Maxus G50 Plus",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "metro",
+            "name": "Metro",
+            "year_start": 1982,
+            "year_end": 1990,
+            "generation_count": 1
+        },
+        {
+            "slug": "montego",
+            "name": "Montego",
+            "year_start": 1984,
+            "year_end": 1989,
+            "generation_count": 1
+        },
+        {
+            "slug": "mulan",
+            "name": "Mulan",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "one",
+            "name": "One",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "pilot",
+            "name": "Pilot",
+            "year_start": 2020,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "rx5",
+            "name": "RX5",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "rx8",
+            "name": "RX8",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "rx9",
+            "name": "RX9",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ruiteng",
+            "name": "Ruiteng",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "ruixing",
+            "name": "Ruixing",
+            "year_start": 2015,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "s5",
+            "name": "S5",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t60",
+            "name": "T60",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tf",
+            "name": "TF",
+            "year_start": 2002,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "trq-l",
+            "name": "TRQ L",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "u9",
+            "name": "U9",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v80",
+            "name": "V80",
+            "year_start": 2019,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "vs",
+            "name": "VS",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "whale",
+            "name": "Whale",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "windsor",
+            "name": "Windsor",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "xpower-sv",
+            "name": "XPower SV",
+            "year_start": 2003,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "zr",
+            "name": "ZR",
+            "year_start": 2001,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "zs",
+            "name": "ZS",
+            "year_start": 2001,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "zs-ev",
+            "name": "ZS EV",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "zst",
+            "name": "ZST",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "zt",
+            "name": "ZT",
+            "year_start": 2001,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "zx",
+            "name": "ZX",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ehs",
+            "name": "eHS",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        }
+    ],
+    "total": 62
+}
