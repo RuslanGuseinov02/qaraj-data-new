@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aion",
+    "name": "AION"
+  },
+  "slug": "ut",
+  "name": "ut",
+  "generations": [
+    {
+      "slug": "ut-0",
+      "name": "ut 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aion/ut/2025-now.webp"
+      }
+    }
+  ]
+}

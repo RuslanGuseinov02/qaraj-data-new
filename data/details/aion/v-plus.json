@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aion",
+    "name": "AION"
+  },
+  "slug": "v-plus",
+  "name": "v-plus",
+  "generations": [
+    {
+      "slug": "v-plus-0",
+      "name": "v-plus 1",
+      "year_start": 2021,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aion/v-plus/2021-2023.webp"
+      }
+    }
+  ]
+}

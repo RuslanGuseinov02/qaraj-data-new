@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aion",
+    "name": "AION"
+  },
+  "slug": "hyper-ht",
+  "name": "hyper-ht",
+  "generations": [
+    {
+      "slug": "hyper-ht-0",
+      "name": "hyper-ht 1",
+      "year_start": 2023,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aion/hyper-ht/2023-2024.webp"
+      }
+    }
+  ]
+}

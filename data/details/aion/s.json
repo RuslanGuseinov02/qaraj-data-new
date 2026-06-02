@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aion",
+    "name": "AION"
+  },
+  "slug": "s",
+  "name": "s",
+  "generations": [
+    {
+      "slug": "s-0",
+      "name": "s 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aion/s/2019-now.webp"
+      }
+    }
+  ]
+}

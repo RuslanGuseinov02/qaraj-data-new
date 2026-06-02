@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aion",
+    "name": "AION"
+  },
+  "slug": "y-plus",
+  "name": "y-plus",
+  "generations": [
+    {
+      "slug": "y-plus-0",
+      "name": "y-plus 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aion/y-plus/2022-now.webp"
+      }
+    }
+  ]
+}

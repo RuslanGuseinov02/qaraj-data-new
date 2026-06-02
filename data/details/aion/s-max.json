@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aion",
+    "name": "AION"
+  },
+  "slug": "s-max",
+  "name": "s-max",
+  "generations": [
+    {
+      "slug": "s-max-0",
+      "name": "s-max 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aion/s-max/2023-now.webp"
+      }
+    }
+  ]
+}
