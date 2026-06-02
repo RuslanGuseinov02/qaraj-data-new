@@ -1,0 +1,191 @@
+{
+    "make": {
+        "slug": "ssangyong",
+        "name": "SsangYong"
+    },
+    "data": [
+        {
+            "slug": "actyon",
+            "name": "Actyon",
+            "year_start": 2005,
+            "year_end": 2021,
+            "generation_count": 3
+        },
+        {
+            "slug": "actyon-sports",
+            "name": "Actyon Sports",
+            "year_start": 2006,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "chairman",
+            "name": "Chairman",
+            "year_start": 2002,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "korando",
+            "name": "Korando",
+            "year_start": 1996,
+            "year_end": 2024,
+            "generation_count": 5
+        },
+        {
+            "slug": "korando-c",
+            "name": "Korando C",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "korando-sports",
+            "name": "Korando Sports",
+            "year_start": 2012,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "korando-turismo",
+            "name": "Korando Turismo",
+            "year_start": 2013,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "kyron",
+            "name": "Kyron",
+            "year_start": 2005,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "luvi",
+            "name": "LUVi",
+            "year_start": 2015,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "musso",
+            "name": "Musso",
+            "year_start": 1993,
+            "year_end": 2024,
+            "generation_count": 3
+        },
+        {
+            "slug": "musso-grand",
+            "name": "Musso Grand",
+            "year_start": 2020,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "musso-sports",
+            "name": "Musso Sports",
+            "year_start": 2004,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "nomad",
+            "name": "Nomad",
+            "year_start": 2013,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "rexton",
+            "name": "Rexton",
+            "year_start": 2003,
+            "year_end": 2024,
+            "generation_count": 5
+        },
+        {
+            "slug": "rexton-sports",
+            "name": "Rexton Sports",
+            "year_start": 2018,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "rexton-w",
+            "name": "Rexton W",
+            "year_start": 2012,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "rhino",
+            "name": "Rhino",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "rodius",
+            "name": "Rodius",
+            "year_start": 2004,
+            "year_end": 2019,
+            "generation_count": 4
+        },
+        {
+            "slug": "stavic",
+            "name": "Stavic",
+            "year_start": 2005,
+            "year_end": 2023,
+            "generation_count": 4
+        },
+        {
+            "slug": "tivoli",
+            "name": "Tivoli",
+            "year_start": 2015,
+            "year_end": 2024,
+            "generation_count": 3
+        },
+        {
+            "slug": "tivoli-grand",
+            "name": "Tivoli Grand",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "tivoli-xlv",
+            "name": "Tivoli XLV",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "torres",
+            "name": "Torres",
+            "year_start": 2022,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "torres-evx",
+            "name": "Torres EVX",
+            "year_start": 2023,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "turismo",
+            "name": "Turismo",
+            "year_start": 2013,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "xlv",
+            "name": "XLV",
+            "year_start": 2016,
+            "year_end": 2024,
+            "generation_count": 3
+        }
+    ],
+    "total": 26
+}
