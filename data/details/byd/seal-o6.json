@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "seal-o6",
+  "name": "seal-o6",
+  "generations": [
+    {
+      "slug": "seal-o6-0",
+      "name": "seal-o6 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/seal-o6/2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "yuan-plus",
+  "name": "yuan-plus",
+  "generations": [
+    {
+      "slug": "yuan-plus-0",
+      "name": "yuan-plus 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/yuan-plus/2021-now.webp"
+      }
+    },
+    {
+      "slug": "yuan-plus-1",
+      "name": "yuan-plus 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/yuan-plus/2025-now.webp"
+      }
+    }
+  ]
+}

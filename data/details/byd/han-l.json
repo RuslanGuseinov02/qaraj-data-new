@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "han-l",
+  "name": "han-l",
+  "generations": [
+    {
+      "slug": "han-l-0",
+      "name": "han-l 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/han-l/2025-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "king",
+  "name": "king",
+  "generations": [
+    {
+      "slug": "king-0",
+      "name": "king 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/king/2024-now.webp"
+      }
+    }
+  ]
+}

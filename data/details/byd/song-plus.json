@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "song-plus",
+  "name": "song-plus",
+  "generations": [
+    {
+      "slug": "song-plus-0",
+      "name": "song-plus 1",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/song-plus/2020-2024.webp"
+      }
+    },
+    {
+      "slug": "song-plus-1",
+      "name": "song-plus 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/song-plus/2023-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "g5",
+  "name": "g5",
+  "generations": [
+    {
+      "slug": "g5-0",
+      "name": "g5 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/g5/2014-2017.webp"
+      }
+    }
+  ]
+}

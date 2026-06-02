@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "sea-lion-6",
+  "name": "sea-lion-6",
+  "generations": [
+    {
+      "slug": "sea-lion-6-0",
+      "name": "sea-lion-6 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/sea-lion-6/2023-now.webp"
+      }
+    }
+  ]
+}

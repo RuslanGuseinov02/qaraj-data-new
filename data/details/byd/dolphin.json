@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "dolphin",
+  "name": "dolphin",
+  "generations": [
+    {
+      "slug": "dolphin-0",
+      "name": "dolphin 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/dolphin/2021-now.webp"
+      }
+    },
+    {
+      "slug": "dolphin-1",
+      "name": "dolphin 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/dolphin/2025-now.webp"
+      }
+    }
+  ]
+}

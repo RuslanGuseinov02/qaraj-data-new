@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "d1",
+  "name": "d1",
+  "generations": [
+    {
+      "slug": "d1-0",
+      "name": "d1 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/d1/2020-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "seal",
+  "name": "seal",
+  "generations": [
+    {
+      "slug": "seal-0",
+      "name": "seal 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/seal/2022-now.webp"
+      }
+    }
+  ]
+}

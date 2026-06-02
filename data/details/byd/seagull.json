@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "seagull",
+  "name": "seagull",
+  "generations": [
+    {
+      "slug": "seagull-0",
+      "name": "seagull 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/seagull/2023-now.webp"
+      }
+    },
+    {
+      "slug": "seagull-1",
+      "name": "seagull 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/seagull/2025-now.webp"
+      }
+    }
+  ]
+}

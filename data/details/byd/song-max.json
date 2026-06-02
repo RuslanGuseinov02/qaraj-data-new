@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "song-max",
+  "name": "song-max",
+  "generations": [
+    {
+      "slug": "song-max-0",
+      "name": "song-max 1",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/song-max/2017-2022.webp"
+      }
+    },
+    {
+      "slug": "song-max-1",
+      "name": "song-max 2",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/song-max/2020-2024.webp"
+      }
+    }
+  ]
+}

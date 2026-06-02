@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "g6",
+  "name": "g6",
+  "generations": [
+    {
+      "slug": "g6-0",
+      "name": "g6 1",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/g6/2011-2013.webp"
+      }
+    }
+  ]
+}

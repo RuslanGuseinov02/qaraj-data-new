@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "qin-plus",
+  "name": "qin-plus",
+  "generations": [
+    {
+      "slug": "qin-plus-0",
+      "name": "qin-plus 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/qin-plus/2021-now.webp"
+      }
+    }
+  ]
+}

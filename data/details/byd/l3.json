@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "l3",
+  "name": "l3",
+  "generations": [
+    {
+      "slug": "l3-0",
+      "name": "l3 1",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/l3/2010-2015.webp"
+      }
+    },
+    {
+      "slug": "l3-1",
+      "name": "l3 2",
+      "year_start": 2016,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/l3/2016-2022.webp"
+      }
+    }
+  ]
+}

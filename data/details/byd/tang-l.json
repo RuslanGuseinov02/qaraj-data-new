@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "tang-l",
+  "name": "tang-l",
+  "generations": [
+    {
+      "slug": "tang-l-0",
+      "name": "tang-l 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/tang-l/2025-now.webp"
+      }
+    }
+  ]
+}

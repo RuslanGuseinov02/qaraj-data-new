@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "song-l",
+  "name": "song-l",
+  "generations": [
+    {
+      "slug": "song-l-0",
+      "name": "song-l 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/song-l/2023-now.webp"
+      }
+    },
+    {
+      "slug": "song-l-1",
+      "name": "song-l 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/song-l/2024-now.webp"
+      }
+    }
+  ]
+}

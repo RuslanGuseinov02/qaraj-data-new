@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "qin",
+  "name": "qin",
+  "generations": [
+    {
+      "slug": "qin-0",
+      "name": "qin 1",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/qin/2014-2018.webp"
+      }
+    },
+    {
+      "slug": "qin-1",
+      "name": "qin 2",
+      "year_start": 2019,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/qin/2019-2020.webp"
+      }
+    }
+  ]
+}

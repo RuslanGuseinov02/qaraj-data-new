@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "shark-6",
+  "name": "shark-6",
+  "generations": [
+    {
+      "slug": "shark-6-0",
+      "name": "shark-6 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/shark-6/2024-now.webp"
+      }
+    }
+  ]
+}

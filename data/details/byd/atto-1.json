@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "atto-1",
+  "name": "atto-1",
+  "generations": [
+    {
+      "slug": "atto-1-0",
+      "name": "atto-1 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/atto-1/2025-now.webp"
+      }
+    }
+  ]
+}

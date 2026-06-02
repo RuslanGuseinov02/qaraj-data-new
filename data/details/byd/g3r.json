@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "g3r",
+  "name": "g3r",
+  "generations": [
+    {
+      "slug": "g3r-0",
+      "name": "g3r 1",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/g3r/2009-2014.webp"
+      }
+    }
+  ]
+}

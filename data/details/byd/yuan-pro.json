@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "yuan-pro",
+  "name": "yuan-pro",
+  "generations": [
+    {
+      "slug": "yuan-pro-0",
+      "name": "yuan-pro 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/yuan-pro/2021-2024.webp"
+      }
+    },
+    {
+      "slug": "yuan-pro-1",
+      "name": "yuan-pro 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/yuan-pro/2024-now.webp"
+      }
+    }
+  ]
+}

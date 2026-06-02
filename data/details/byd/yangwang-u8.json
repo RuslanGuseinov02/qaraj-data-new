@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "yangwang-u8",
+  "name": "yangwang-u8",
+  "generations": [
+    {
+      "slug": "yangwang-u8-0",
+      "name": "yangwang-u8 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/yangwang-u8/2023-now.webp"
+      }
+    }
+  ]
+}

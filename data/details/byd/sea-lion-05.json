@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "sea-lion-05",
+  "name": "sea-lion-05",
+  "generations": [
+    {
+      "slug": "sea-lion-05-0",
+      "name": "sea-lion-05 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/sea-lion-05/2024-now.webp"
+      }
+    },
+    {
+      "slug": "sea-lion-05-1",
+      "name": "sea-lion-05 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/sea-lion-05/2025-now.webp"
+      }
+    }
+  ]
+}

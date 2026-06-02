@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "yuan-ev",
+  "name": "yuan-ev",
+  "generations": [
+    {
+      "slug": "yuan-ev-0",
+      "name": "yuan-ev 1",
+      "year_start": 2018,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/yuan-ev/2018-2019.webp"
+      }
+    },
+    {
+      "slug": "yuan-ev-1",
+      "name": "yuan-ev 2",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/yuan-ev/2019-2022.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "t3",
+  "name": "t3",
+  "generations": [
+    {
+      "slug": "t3-0",
+      "name": "t3 1",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/t3/2015-now.webp"
+      }
+    }
+  ]
+}

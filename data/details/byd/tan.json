@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "tan",
+  "name": "tan",
+  "generations": [
+    {
+      "slug": "tan-0",
+      "name": "tan 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/tan/2021-now.webp"
+      }
+    }
+  ]
+}

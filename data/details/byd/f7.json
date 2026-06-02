@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "byd",
+    "name": "BYD"
+  },
+  "slug": "f7",
+  "name": "f7",
+  "generations": [
+    {
+      "slug": "f7-0",
+      "name": "f7 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/byd/f7/2013-2016.webp"
+      }
+    }
+  ]
+}
