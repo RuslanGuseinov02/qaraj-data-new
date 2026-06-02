@@ -1,0 +1,93 @@
+{
+    "make": {
+        "slug": "karry",
+        "name": "Karry"
+    },
+    "data": [
+        {
+            "slug": "dolphin",
+            "name": "Dolphin",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "elephant",
+            "name": "Elephant",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "jiangtun",
+            "name": "Jiangtun",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "k50",
+            "name": "K50",
+            "year_start": 2016,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "k60",
+            "name": "K60",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "q22",
+            "name": "Q22",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "q22l",
+            "name": "Q22L",
+            "year_start": 2016,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "x6",
+            "name": "X6",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "yoki",
+            "name": "Yoki",
+            "year_start": 2019,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "youjin",
+            "name": "Youjin",
+            "year_start": 2016,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "youjin-ev",
+            "name": "Youjin EV",
+            "year_start": 2018,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "youyou",
+            "name": "Youyou",
+            "year_start": 2016,
+            "year_end": 2022,
+            "generation_count": 1
+        }
+    ],
+    "total": 12
+}
