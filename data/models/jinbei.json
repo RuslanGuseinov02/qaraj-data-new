@@ -1,0 +1,205 @@
+{
+    "make": {
+        "slug": "jinbei",
+        "name": "Jinbei"
+    },
+    "data": [
+        {
+            "slug": "750",
+            "name": "750",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "a7",
+            "name": "A7",
+            "year_start": 2011,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "a9",
+            "name": "A9",
+            "year_start": 2011,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "brontosaurus",
+            "name": "Brontosaurus",
+            "year_start": 2009,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "cowboy",
+            "name": "Cowboy",
+            "year_start": 2015,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "express",
+            "name": "Express",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "f50",
+            "name": "F50",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "golden",
+            "name": "Golden",
+            "year_start": 2009,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "grace",
+            "name": "Grace",
+            "year_start": 2007,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "guanjing",
+            "name": "Guanjing",
+            "year_start": 2019,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "h2l",
+            "name": "H2L",
+            "year_start": 2011,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "haise",
+            "name": "Haise",
+            "year_start": 2011,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "hercules",
+            "name": "Hercules",
+            "year_start": 2009,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "hercules-k5",
+            "name": "Hercules K5",
+            "year_start": 2016,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "konect",
+            "name": "Konect",
+            "year_start": 2019,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "s30",
+            "name": "S30",
+            "year_start": 2012,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "s35",
+            "name": "S35",
+            "year_start": 2016,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "s50",
+            "name": "S50",
+            "year_start": 2011,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "s70",
+            "name": "S70",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "small-taurus",
+            "name": "Small Taurus",
+            "year_start": 2015,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "t20",
+            "name": "T20",
+            "year_start": 2011,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "t22",
+            "name": "T22",
+            "year_start": 2012,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "t30",
+            "name": "T30",
+            "year_start": 2015,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "t32",
+            "name": "T32",
+            "year_start": 2015,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "t50",
+            "name": "T50",
+            "year_start": 2017,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "t52",
+            "name": "T52",
+            "year_start": 2017,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "x30",
+            "name": "X30",
+            "year_start": 2013,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "x30l",
+            "name": "X30L",
+            "year_start": 2016,
+            "year_end": 2018,
+            "generation_count": 1
+        }
+    ],
+    "total": 28
+}
