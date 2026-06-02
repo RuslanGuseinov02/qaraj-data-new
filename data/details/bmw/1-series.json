@@ -4,72 +4,97 @@
     "name": "BMW"
   },
   "slug": "1-series",
-  "name": "1 Series",
-  "year_start": 2004,
-  "year_end": null,
+  "name": "1-series",
   "generations": [
     {
-      "slug": "f70-2024-now",
-      "name": null,
-      "year_start": 2024,
-      "year_end": 2027,
-      "images": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f70-2024-now.webp"
-    },
-    {
-      "slug": "f40-2019-2024",
-      "name": null,
-      "year_start": 2019,
-      "year_end": 2024,
-      "images": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f40-2019-2024.webp"
-    },
-    {
-      "slug": "f52-2017-now",
-      "name": null,
-      "year_start": 2017,
-      "year_end": 2027,
-      "images": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f52-2017-now.webp"
-    },
-    {
-      "slug": "f20-f21-2017-2020",
-      "name": null,
-      "year_start": 2017,
-      "year_end": 2020,
-      "images": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f20-f21-2017-2020.webp"
-    },
-    {
-      "slug": "f20-f21-2015-2017",
-      "name": null,
-      "year_start": 2015,
-      "year_end": 2017,
-      "images": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f20-f21-2015-2017.webp"
-    },
-    {
-      "slug": "e82-e88-2011-2013",
-      "name": null,
+      "slug": "1-series-0",
+      "name": "1-series 1",
       "year_start": 2011,
       "year_end": 2013,
-      "images": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/e82-e88-2011-2013.webp"
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/e82-e88-2011-2013.webp"
+      }
     },
     {
-      "slug": "f20-f21-2011-2015",
-      "name": null,
-      "year_start": 2011,
-      "year_end": 2015,
-      "images": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f20-f21-2011-2015.webp"
-    },
-    {
-      "slug": "e87-e81-e82-e88-2007-2012",
-      "name": null,
-      "year_start": 2007,
-      "year_end": 2012,
-      "images": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/e87-e81-e82-e88-2007-2012.webp"
-    },
-    {
-      "slug": "e87-2004-2007",
-      "name": null,
+      "slug": "1-series-1",
+      "name": "1-series 2",
       "year_start": 2004,
       "year_end": 2007,
-      "images": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/e87-2004-2007.webp"
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/e87-2004-2007.webp"
+      }
+    },
+    {
+      "slug": "1-series-2",
+      "name": "1-series 3",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/e87-e81-e82-e88-2007-2012.webp"
+      }
+    },
+    {
+      "slug": "1-series-3",
+      "name": "1-series 4",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f20-f21-2011-2015.webp"
+      }
+    },
+    {
+      "slug": "1-series-4",
+      "name": "1-series 5",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f20-f21-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "1-series-5",
+      "name": "1-series 6",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f20-f21-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "1-series-6",
+      "name": "1-series 7",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f40-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "1-series-7",
+      "name": "1-series 8",
+      "year_start": 2017,
+      "year_end": 2027,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f52-2017-now.webp"
+      }
+    },
+    {
+      "slug": "1-series-8",
+      "name": "1-series 9",
+      "year_start": 2024,
+      "year_end": 2027,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f70-2024-now.webp"
+      }
     }
   ]
 }
