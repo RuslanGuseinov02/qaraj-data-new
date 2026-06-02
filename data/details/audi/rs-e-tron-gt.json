@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "rs-e-tron-gt",
+  "name": "rs-e-tron-gt",
+  "generations": [
+    {
+      "slug": "rs-e-tron-gt-0",
+      "name": "rs-e-tron-gt 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/rs-e-tron-gt/fw-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "rs-e-tron-gt-1",
+      "name": "rs-e-tron-gt 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/rs-e-tron-gt/fw-2024-now.webp"
+      }
+    }
+  ]
+}

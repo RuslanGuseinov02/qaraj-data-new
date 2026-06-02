@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "sq7",
+  "name": "sq7",
+  "generations": [
+    {
+      "slug": "sq7-0",
+      "name": "sq7 1",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/sq7/4m-2016-2018.webp"
+      }
+    },
+    {
+      "slug": "sq7-1",
+      "name": "sq7 2",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/sq7/4m-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "sq7-2",
+      "name": "sq7 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/sq7/4m-2024-now.webp"
+      }
+    }
+  ]
+}

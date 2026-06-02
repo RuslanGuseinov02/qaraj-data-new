@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "a8",
+  "name": "a8",
+  "generations": [
+    {
+      "slug": "a8-0",
+      "name": "a8 1",
+      "year_start": 1994,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a8/d2-1994-2002.webp"
+      }
+    },
+    {
+      "slug": "a8-1",
+      "name": "a8 2",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a8/d3-2002-2005.webp"
+      }
+    },
+    {
+      "slug": "a8-2",
+      "name": "a8 3",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a8/d3-2005-2007.webp"
+      }
+    },
+    {
+      "slug": "a8-3",
+      "name": "a8 4",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a8/d3-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "a8-4",
+      "name": "a8 5",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a8/d4-2010-2014.webp"
+      }
+    },
+    {
+      "slug": "a8-5",
+      "name": "a8 6",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a8/d4-2013-2018.webp"
+      }
+    },
+    {
+      "slug": "a8-6",
+      "name": "a8 7",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a8/d5-2018-2021.webp"
+      }
+    },
+    {
+      "slug": "a8-7",
+      "name": "a8 8",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a8/d5-2021-now.webp"
+      }
+    }
+  ]
+}

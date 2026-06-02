@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "5-5",
+  "name": "5-5",
+  "generations": [
+    {
+      "slug": "5-5-0",
+      "name": "5-5 1",
+      "year_start": 1981,
+      "year_end": 1983,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/5-5/b2-1981-1983.webp"
+      }
+    }
+  ]
+}

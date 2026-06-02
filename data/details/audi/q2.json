@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "q2",
+  "name": "q2",
+  "generations": [
+    {
+      "slug": "q2-0",
+      "name": "q2 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/q2/ga-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "q2-1",
+      "name": "q2 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/q2/ga-2021-now.webp"
+      }
+    }
+  ]
+}

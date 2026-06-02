@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "a3-allstreet",
+  "name": "a3-allstreet",
+  "generations": [
+    {
+      "slug": "a3-allstreet-0",
+      "name": "a3-allstreet 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a3-allstreet/8y-2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "90",
+  "name": "90",
+  "generations": [
+    {
+      "slug": "90-0",
+      "name": "90 1",
+      "year_start": 1984,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/90/b2-1984-1987.webp"
+      }
+    },
+    {
+      "slug": "90-1",
+      "name": "90 2",
+      "year_start": 1987,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/90/b3-1987-1991.webp"
+      }
+    },
+    {
+      "slug": "90-2",
+      "name": "90 3",
+      "year_start": 1991,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/90/b4-1991-1995.webp"
+      }
+    }
+  ]
+}

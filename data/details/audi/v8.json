@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "v8",
+  "name": "v8",
+  "generations": [
+    {
+      "slug": "v8-0",
+      "name": "v8 1",
+      "year_start": 1988,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/v8/d1-d11-1988-1994.webp"
+      }
+    }
+  ]
+}

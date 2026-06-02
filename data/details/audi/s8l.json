@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "s8l",
+  "name": "s8l",
+  "generations": [
+    {
+      "slug": "s8l-0",
+      "name": "s8l 1",
+      "year_start": 2021,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/s8l/d5-2021-2022.webp"
+      }
+    },
+    {
+      "slug": "s8l-1",
+      "name": "s8l 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/s8l/d5-2023-now.webp"
+      }
+    }
+  ]
+}

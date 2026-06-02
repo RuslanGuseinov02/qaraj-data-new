@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "q6l-e-tron",
+  "name": "q6l-e-tron",
+  "generations": [
+    {
+      "slug": "q6l-e-tron-0",
+      "name": "q6l-e-tron 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/q6l-e-tron/2024-now.webp"
+      }
+    }
+  ]
+}

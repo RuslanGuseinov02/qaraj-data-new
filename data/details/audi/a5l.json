@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "a5l",
+  "name": "a5l",
+  "generations": [
+    {
+      "slug": "a5l-0",
+      "name": "a5l 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a5l/b10-2025-now.webp"
+      }
+    }
+  ]
+}

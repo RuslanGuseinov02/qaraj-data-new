@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "a3l",
+  "name": "a3l",
+  "generations": [
+    {
+      "slug": "a3l-0",
+      "name": "a3l 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a3l/8y-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "a3l-1",
+      "name": "a3l 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a3l/8y-2025-now.webp"
+      }
+    }
+  ]
+}

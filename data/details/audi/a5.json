@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "a5",
+  "name": "a5",
+  "generations": [
+    {
+      "slug": "a5-0",
+      "name": "a5 1",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a5/8t-8f-2007-2012.webp"
+      }
+    },
+    {
+      "slug": "a5-1",
+      "name": "a5 2",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a5/8t-8f-2011-2017.webp"
+      }
+    },
+    {
+      "slug": "a5-2",
+      "name": "a5 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a5/b10-2024-now.webp"
+      }
+    },
+    {
+      "slug": "a5-3",
+      "name": "a5 4",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a5/f5-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "a5-4",
+      "name": "a5 5",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a5/f5-2020-2025.webp"
+      }
+    }
+  ]
+}

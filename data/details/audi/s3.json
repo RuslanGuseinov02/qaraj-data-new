@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "s3",
+  "name": "s3",
+  "generations": [
+    {
+      "slug": "s3-0",
+      "name": "s3 1",
+      "year_start": 1999,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/s3/8l-1999-2003.webp"
+      }
+    },
+    {
+      "slug": "s3-1",
+      "name": "s3 2",
+      "year_start": 2006,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/s3/8p-2006-2013.webp"
+      }
+    },
+    {
+      "slug": "s3-2",
+      "name": "s3 3",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/s3/8v-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "s3-3",
+      "name": "s3 4",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/s3/8v-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "s3-4",
+      "name": "s3 5",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/s3/8y-2020-2024.webp"
+      }
+    },
+    {
+      "slug": "s3-5",
+      "name": "s3 6",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/s3/8y-2024-now.webp"
+      }
+    }
+  ]
+}

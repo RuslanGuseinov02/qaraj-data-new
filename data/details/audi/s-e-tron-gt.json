@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "s-e-tron-gt",
+  "name": "s-e-tron-gt",
+  "generations": [
+    {
+      "slug": "s-e-tron-gt-0",
+      "name": "s-e-tron-gt 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/s-e-tron-gt/fw-2024-now.webp"
+      }
+    }
+  ]
+}

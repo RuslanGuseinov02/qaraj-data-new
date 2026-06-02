@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "a1-citycarver",
+  "name": "a1-citycarver",
+  "generations": [
+    {
+      "slug": "a1-citycarver-0",
+      "name": "a1-citycarver 1",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a1-citycarver/gb-2019-2022.webp"
+      }
+    }
+  ]
+}

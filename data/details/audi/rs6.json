@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "rs6",
+  "name": "rs6",
+  "generations": [
+    {
+      "slug": "rs6-0",
+      "name": "rs6 1",
+      "year_start": 2002,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/rs6/c5-2002-2004.webp"
+      }
+    },
+    {
+      "slug": "rs6-1",
+      "name": "rs6 2",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/rs6/c6-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "rs6-2",
+      "name": "rs6 3",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/rs6/c7-2013-2018.webp"
+      }
+    },
+    {
+      "slug": "rs6-3",
+      "name": "rs6 4",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/rs6/c8-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "rs6-4",
+      "name": "rs6 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/rs6/c8-2024-now.webp"
+      }
+    }
+  ]
+}

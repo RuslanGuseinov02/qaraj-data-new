@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "r8",
+  "name": "r8",
+  "generations": [
+    {
+      "slug": "r8-0",
+      "name": "r8 1",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/r8/42-2007-2012.webp"
+      }
+    },
+    {
+      "slug": "r8-1",
+      "name": "r8 2",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/r8/42-2012-2016.webp"
+      }
+    },
+    {
+      "slug": "r8-2",
+      "name": "r8 3",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/r8/4s-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "r8-3",
+      "name": "r8 4",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/r8/4s-2019-2023.webp"
+      }
+    }
+  ]
+}

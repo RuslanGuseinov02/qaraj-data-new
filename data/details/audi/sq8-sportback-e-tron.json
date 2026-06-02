@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "sq8-sportback-e-tron",
+  "name": "sq8-sportback-e-tron",
+  "generations": [
+    {
+      "slug": "sq8-sportback-e-tron-0",
+      "name": "sq8-sportback-e-tron 1",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/sq8-sportback-e-tron/ge-2023-2025.webp"
+      }
+    }
+  ]
+}

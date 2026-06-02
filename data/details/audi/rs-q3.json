@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "rs-q3",
+  "name": "rs-q3",
+  "generations": [
+    {
+      "slug": "rs-q3-0",
+      "name": "rs-q3 1",
+      "year_start": 2013,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/rs-q3/8u-2013-2014.webp"
+      }
+    },
+    {
+      "slug": "rs-q3-1",
+      "name": "rs-q3 2",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/rs-q3/8u-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "rs-q3-2",
+      "name": "rs-q3 3",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/rs-q3/f3-2019-2025.webp"
+      }
+    }
+  ]
+}

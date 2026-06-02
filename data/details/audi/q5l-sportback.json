@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "q5l-sportback",
+  "name": "q5l-sportback",
+  "generations": [
+    {
+      "slug": "q5l-sportback-0",
+      "name": "q5l-sportback 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/q5l-sportback/fy-2021-now.webp"
+      }
+    }
+  ]
+}

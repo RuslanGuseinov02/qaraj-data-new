@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "sq6-sportback-e-tron",
+  "name": "sq6-sportback-e-tron",
+  "generations": [
+    {
+      "slug": "sq6-sportback-e-tron-0",
+      "name": "sq6-sportback-e-tron 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/sq6-sportback-e-tron/gf-2025-now.webp"
+      }
+    }
+  ]
+}

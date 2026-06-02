@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "a6-allroad",
+  "name": "a6-allroad",
+  "generations": [
+    {
+      "slug": "a6-allroad-0",
+      "name": "a6-allroad 1",
+      "year_start": 2000,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a6-allroad/c5-2000-2005.webp"
+      }
+    },
+    {
+      "slug": "a6-allroad-1",
+      "name": "a6-allroad 2",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a6-allroad/c6-2006-2011.webp"
+      }
+    },
+    {
+      "slug": "a6-allroad-2",
+      "name": "a6-allroad 3",
+      "year_start": 2012,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a6-allroad/c7-2012-2019.webp"
+      }
+    },
+    {
+      "slug": "a6-allroad-3",
+      "name": "a6-allroad 4",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a6-allroad/c8-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "a6-allroad-4",
+      "name": "a6-allroad 5",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a6-allroad/c8-2023-now.webp"
+      }
+    }
+  ]
+}

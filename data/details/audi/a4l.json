@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "a4l",
+  "name": "a4l",
+  "generations": [
+    {
+      "slug": "a4l-0",
+      "name": "a4l 1",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a4l/b8-2009-2012.webp"
+      }
+    },
+    {
+      "slug": "a4l-1",
+      "name": "a4l 2",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a4l/b8-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "a4l-2",
+      "name": "a4l 3",
+      "year_start": 2017,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a4l/b9-2017-2019.webp"
+      }
+    },
+    {
+      "slug": "a4l-3",
+      "name": "a4l 4",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a4l/b9-2020-now.webp"
+      }
+    }
+  ]
+}

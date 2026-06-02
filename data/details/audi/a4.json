@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "a4",
+  "name": "a4",
+  "generations": [
+    {
+      "slug": "a4-0",
+      "name": "a4 1",
+      "year_start": 1994,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a4/b5-1994-1999.webp"
+      }
+    },
+    {
+      "slug": "a4-1",
+      "name": "a4 2",
+      "year_start": 1999,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a4/b5-1999-2001.webp"
+      }
+    },
+    {
+      "slug": "a4-2",
+      "name": "a4 3",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a4/b6-2000-2006.webp"
+      }
+    },
+    {
+      "slug": "a4-3",
+      "name": "a4 4",
+      "year_start": 2004,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a4/b7-2004-2009.webp"
+      }
+    },
+    {
+      "slug": "a4-4",
+      "name": "a4 5",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a4/b8-2007-2012.webp"
+      }
+    },
+    {
+      "slug": "a4-5",
+      "name": "a4 6",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a4/b8-2011-2016.webp"
+      }
+    },
+    {
+      "slug": "a4-6",
+      "name": "a4 7",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a4/b9-2015-2020.webp"
+      }
+    },
+    {
+      "slug": "a4-7",
+      "name": "a4 8",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a4/b9-2019-2025.webp"
+      }
+    }
+  ]
+}

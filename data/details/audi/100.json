@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "100",
+  "name": "100",
+  "generations": [
+    {
+      "slug": "100-0",
+      "name": "100 1",
+      "year_start": 1968,
+      "year_end": 1976,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/100/c1-1968-1976.webp"
+      }
+    },
+    {
+      "slug": "100-1",
+      "name": "100 2",
+      "year_start": 1976,
+      "year_end": 1983,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/100/c2-1976-1983.webp"
+      }
+    },
+    {
+      "slug": "100-2",
+      "name": "100 3",
+      "year_start": 1982,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/100/c3-1982-1991.webp"
+      }
+    },
+    {
+      "slug": "100-3",
+      "name": "100 4",
+      "year_start": 1990,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/100/c4-1990-1994.webp"
+      }
+    }
+  ]
+}

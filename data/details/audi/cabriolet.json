@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "cabriolet",
+  "name": "cabriolet",
+  "generations": [
+    {
+      "slug": "cabriolet-0",
+      "name": "cabriolet 1",
+      "year_start": 1991,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/cabriolet/b4-1991-2000.webp"
+      }
+    }
+  ]
+}

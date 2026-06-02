@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "e-tron-sportback",
+  "name": "e-tron-sportback",
+  "generations": [
+    {
+      "slug": "e-tron-sportback-0",
+      "name": "e-tron-sportback 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/e-tron-sportback/ge-2020-2023.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "q3",
+  "name": "q3",
+  "generations": [
+    {
+      "slug": "q3-0",
+      "name": "q3 1",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/q3/8u-2011-2015.webp"
+      }
+    },
+    {
+      "slug": "q3-1",
+      "name": "q3 2",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/q3/8u-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "q3-2",
+      "name": "q3 3",
+      "year_start": 2018,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/q3/f3-2018-2025.webp"
+      }
+    },
+    {
+      "slug": "q3-3",
+      "name": "q3 4",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/q3/fj-2025-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "q5l",
+  "name": "q5l",
+  "generations": [
+    {
+      "slug": "q5l-0",
+      "name": "q5l 1",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/q5l/fy-2018-2020.webp"
+      }
+    },
+    {
+      "slug": "q5l-1",
+      "name": "q5l 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/q5l/fy-2021-now.webp"
+      }
+    }
+  ]
+}

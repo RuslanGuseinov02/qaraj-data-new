@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "s7",
+  "name": "s7",
+  "generations": [
+    {
+      "slug": "s7-0",
+      "name": "s7 1",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/s7/4g8-2012-2015.webp"
+      }
+    },
+    {
+      "slug": "s7-1",
+      "name": "s7 2",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/s7/4g8-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "s7-2",
+      "name": "s7 3",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/s7/4k8-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "s7-3",
+      "name": "s7 4",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/s7/4k8-2023-2025.webp"
+      }
+    }
+  ]
+}

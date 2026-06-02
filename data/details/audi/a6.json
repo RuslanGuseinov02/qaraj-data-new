@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "a6",
+  "name": "a6",
+  "generations": [
+    {
+      "slug": "a6-0",
+      "name": "a6 1",
+      "year_start": 1994,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a6/c4-1994-1997.webp"
+      }
+    },
+    {
+      "slug": "a6-1",
+      "name": "a6 2",
+      "year_start": 1997,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a6/c5-1997-2005.webp"
+      }
+    },
+    {
+      "slug": "a6-2",
+      "name": "a6 3",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a6/c6-2004-2008.webp"
+      }
+    },
+    {
+      "slug": "a6-3",
+      "name": "a6 4",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a6/c6-2008-2011.webp"
+      }
+    },
+    {
+      "slug": "a6-4",
+      "name": "a6 5",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a6/c7-2011-2015.webp"
+      }
+    },
+    {
+      "slug": "a6-5",
+      "name": "a6 6",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a6/c7-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "a6-6",
+      "name": "a6 7",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a6/c8-2018-2023.webp"
+      }
+    },
+    {
+      "slug": "a6-7",
+      "name": "a6 8",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a6/c8-2023-2025.webp"
+      }
+    },
+    {
+      "slug": "a6-8",
+      "name": "a6 9",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a6/c9-2025-now.webp"
+      }
+    }
+  ]
+}

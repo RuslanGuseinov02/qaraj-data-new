@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "80",
+  "name": "80",
+  "generations": [
+    {
+      "slug": "80-0",
+      "name": "80 1",
+      "year_start": 1972,
+      "year_end": 1976,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/80/b1-1972-1976.webp"
+      }
+    },
+    {
+      "slug": "80-1",
+      "name": "80 2",
+      "year_start": 1976,
+      "year_end": 1978,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/80/b1-1976-1978.webp"
+      }
+    },
+    {
+      "slug": "80-2",
+      "name": "80 3",
+      "year_start": 1978,
+      "year_end": 1984,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/80/b2-1978-1984.webp"
+      }
+    },
+    {
+      "slug": "80-3",
+      "name": "80 4",
+      "year_start": 1984,
+      "year_end": 1986,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/80/b2-1984-1986.webp"
+      }
+    },
+    {
+      "slug": "80-4",
+      "name": "80 5",
+      "year_start": 1986,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/80/b3-1986-1991.webp"
+      }
+    },
+    {
+      "slug": "80-5",
+      "name": "80 6",
+      "year_start": 1991,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/80/b4-1991-1996.webp"
+      }
+    }
+  ]
+}

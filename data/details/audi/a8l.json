@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "a8l",
+  "name": "a8l",
+  "generations": [
+    {
+      "slug": "a8l-0",
+      "name": "a8l 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/a8l/d5-2022-now.webp"
+      }
+    }
+  ]
+}

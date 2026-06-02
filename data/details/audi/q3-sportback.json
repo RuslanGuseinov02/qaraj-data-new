@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "q3-sportback",
+  "name": "q3-sportback",
+  "generations": [
+    {
+      "slug": "q3-sportback-0",
+      "name": "q3-sportback 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/q3-sportback/f3-2019-now.webp"
+      }
+    },
+    {
+      "slug": "q3-sportback-1",
+      "name": "q3-sportback 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/q3-sportback/fj-2025-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "q8-e-tron",
+  "name": "q8-e-tron",
+  "generations": [
+    {
+      "slug": "q8-e-tron-0",
+      "name": "q8-e-tron 1",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/q8-e-tron/ge-2023-2025.webp"
+      }
+    }
+  ]
+}

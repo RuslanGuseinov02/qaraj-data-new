@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "audi",
+    "name": "AUDI"
+  },
+  "slug": "e-tron-s",
+  "name": "e-tron-s",
+  "generations": [
+    {
+      "slug": "e-tron-s-0",
+      "name": "e-tron-s 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/audi/e-tron-s/ge-2020-2023.webp"
+      }
+    }
+  ]
+}
