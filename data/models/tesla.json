@@ -1,0 +1,51 @@
+{
+    "make": {
+        "slug": "tesla",
+        "name": "Tesla"
+    },
+    "data": [
+        {
+            "slug": "cybertruck",
+            "name": "Cybertruck",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "model-3",
+            "name": "Model 3",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "model-s",
+            "name": "Model S",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "model-x",
+            "name": "Model X",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "model-y",
+            "name": "Model Y",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "roadster",
+            "name": "Roadster",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        }
+    ],
+    "total": 6
+}
