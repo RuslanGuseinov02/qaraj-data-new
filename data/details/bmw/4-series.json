@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "4-series",
+  "name": "4-series",
+  "generations": [
+    {
+      "slug": "4-series-0",
+      "name": "4-series 1",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/4-series/f32-f33-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "4-series-1",
+      "name": "4-series 2",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/4-series/f32-f33-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "4-series-2",
+      "name": "4-series 3",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/4-series/g22-g23-2020-2024.webp"
+      }
+    },
+    {
+      "slug": "4-series-3",
+      "name": "4-series 4",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/4-series/g22-g23-2024-now.webp"
+      }
+    }
+  ]
+}

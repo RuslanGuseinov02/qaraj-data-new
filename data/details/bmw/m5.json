@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "m5",
+  "name": "m5",
+  "generations": [
+    {
+      "slug": "m5-0",
+      "name": "m5 1",
+      "year_start": 1985,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m5/e28-1985-1988.webp"
+      }
+    },
+    {
+      "slug": "m5-1",
+      "name": "m5 2",
+      "year_start": 1988,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m5/e34-1988-1995.webp"
+      }
+    },
+    {
+      "slug": "m5-2",
+      "name": "m5 3",
+      "year_start": 1998,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m5/e39-1998-2003.webp"
+      }
+    },
+    {
+      "slug": "m5-3",
+      "name": "m5 4",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m5/e60-e61-2004-2010.webp"
+      }
+    },
+    {
+      "slug": "m5-4",
+      "name": "m5 5",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m5/f10-2011-2013.webp"
+      }
+    },
+    {
+      "slug": "m5-5",
+      "name": "m5 6",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m5/f10-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "m5-6",
+      "name": "m5 7",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m5/f90-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "m5-7",
+      "name": "m5 8",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m5/f90-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "m5-8",
+      "name": "m5 9",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m5/g90-g99-2024-now.webp"
+      }
+    }
+  ]
+}

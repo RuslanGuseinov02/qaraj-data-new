@@ -1,0 +1,120 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "5-series",
+  "name": "5-series",
+  "generations": [
+    {
+      "slug": "5-series-0",
+      "name": "5-series 1",
+      "year_start": 1972,
+      "year_end": 1981,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/5-series/e12-1972-1981.webp"
+      }
+    },
+    {
+      "slug": "5-series-1",
+      "name": "5-series 2",
+      "year_start": 1981,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/5-series/e28-1981-1988.webp"
+      }
+    },
+    {
+      "slug": "5-series-2",
+      "name": "5-series 3",
+      "year_start": 1988,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/5-series/e34-1988-1997.webp"
+      }
+    },
+    {
+      "slug": "5-series-3",
+      "name": "5-series 4",
+      "year_start": 1995,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/5-series/e39-1995-2004.webp"
+      }
+    },
+    {
+      "slug": "5-series-4",
+      "name": "5-series 5",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/5-series/e60-e61-2003-2007.webp"
+      }
+    },
+    {
+      "slug": "5-series-5",
+      "name": "5-series 6",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/5-series/e60-e61-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "5-series-6",
+      "name": "5-series 7",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/5-series/f10-f11-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "5-series-7",
+      "name": "5-series 8",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/5-series/f10-f11-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "5-series-8",
+      "name": "5-series 9",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/5-series/g30-g31-g38-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "5-series-9",
+      "name": "5-series 10",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/5-series/g30-g31-g38-2020-2024.webp"
+      }
+    },
+    {
+      "slug": "5-series-10",
+      "name": "5-series 11",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/5-series/g60-g61-g68-2023-now.webp"
+      }
+    }
+  ]
+}

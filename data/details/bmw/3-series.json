@@ -1,0 +1,130 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "3-series",
+  "name": "3-series",
+  "generations": [
+    {
+      "slug": "3-series-0",
+      "name": "3-series 1",
+      "year_start": 1975,
+      "year_end": 1983,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/3-series/e21-1975-1983.webp"
+      }
+    },
+    {
+      "slug": "3-series-1",
+      "name": "3-series 2",
+      "year_start": 1982,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/3-series/e30-1982-1994.webp"
+      }
+    },
+    {
+      "slug": "3-series-2",
+      "name": "3-series 3",
+      "year_start": 1990,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/3-series/e36-1990-2000.webp"
+      }
+    },
+    {
+      "slug": "3-series-3",
+      "name": "3-series 4",
+      "year_start": 1998,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/3-series/e46-1998-2003.webp"
+      }
+    },
+    {
+      "slug": "3-series-4",
+      "name": "3-series 5",
+      "year_start": 2001,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/3-series/e46-2001-2007.webp"
+      }
+    },
+    {
+      "slug": "3-series-5",
+      "name": "3-series 6",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/3-series/e90-e91-e92-e93-2005-2010.webp"
+      }
+    },
+    {
+      "slug": "3-series-6",
+      "name": "3-series 7",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/3-series/e90-e91-e92-e93-2008-2013.webp"
+      }
+    },
+    {
+      "slug": "3-series-7",
+      "name": "3-series 8",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/3-series/f30-f31-f35-2011-2016.webp"
+      }
+    },
+    {
+      "slug": "3-series-8",
+      "name": "3-series 9",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/3-series/f30-f31-f35-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "3-series-9",
+      "name": "3-series 10",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/3-series/g20-g21-g28-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "3-series-10",
+      "name": "3-series 11",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/3-series/g20-g21-g28-2022-2024.webp"
+      }
+    },
+    {
+      "slug": "3-series-11",
+      "name": "3-series 12",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/3-series/g20-g21-g28-2024-now.webp"
+      }
+    }
+  ]
+}

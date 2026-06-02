@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "m-roadster",
+  "name": "m-roadster",
+  "generations": [
+    {
+      "slug": "m-roadster-0",
+      "name": "m-roadster 1",
+      "year_start": 1997,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m-roadster/e36-1997-2003.webp"
+      }
+    }
+  ]
+}

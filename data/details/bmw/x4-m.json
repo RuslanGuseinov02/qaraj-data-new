@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "x4-m",
+  "name": "x4-m",
+  "generations": [
+    {
+      "slug": "x4-m-0",
+      "name": "x4-m 1",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x4-m/f98-2019-2021.webp"
+      }
+    },
+    {
+      "slug": "x4-m-1",
+      "name": "x4-m 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x4-m/f98-2021-now.webp"
+      }
+    }
+  ]
+}

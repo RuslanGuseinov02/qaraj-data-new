@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "m4",
+  "name": "m4",
+  "generations": [
+    {
+      "slug": "m4-0",
+      "name": "m4 1",
+      "year_start": 2014,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m4/f82-f83-2014-2020.webp"
+      }
+    },
+    {
+      "slug": "m4-1",
+      "name": "m4 2",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m4/g82-g83-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "m4-2",
+      "name": "m4 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m4/g82-g83-2024-now.webp"
+      }
+    }
+  ]
+}

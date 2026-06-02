@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "8-series",
+  "name": "8-series",
+  "generations": [
+    {
+      "slug": "8-series-0",
+      "name": "8-series 1",
+      "year_start": 1989,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/8-series/e31-1989-1999.webp"
+      }
+    },
+    {
+      "slug": "8-series-1",
+      "name": "8-series 2",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/8-series/g14-g15-g16-2018-2022.webp"
+      }
+    },
+    {
+      "slug": "8-series-2",
+      "name": "8-series 3",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/8-series/g14-g15-g16-2022-now.webp"
+      }
+    }
+  ]
+}

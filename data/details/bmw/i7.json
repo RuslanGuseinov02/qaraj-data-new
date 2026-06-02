@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "i7",
+  "name": "i7",
+  "generations": [
+    {
+      "slug": "i7-0",
+      "name": "i7 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/i7/g70-2022-now.webp"
+      }
+    }
+  ]
+}

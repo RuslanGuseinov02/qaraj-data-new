@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "xm",
+  "name": "xm",
+  "generations": [
+    {
+      "slug": "xm-0",
+      "name": "xm 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/xm/g09-2023-now.webp"
+      }
+    }
+  ]
+}

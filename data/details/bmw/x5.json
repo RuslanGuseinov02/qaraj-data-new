@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "x5",
+  "name": "x5",
+  "generations": [
+    {
+      "slug": "x5-0",
+      "name": "x5 1",
+      "year_start": 1999,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x5/e53-1999-2003.webp"
+      }
+    },
+    {
+      "slug": "x5-1",
+      "name": "x5 2",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x5/e53-2003-2006.webp"
+      }
+    },
+    {
+      "slug": "x5-2",
+      "name": "x5 3",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x5/e70-2006-2010.webp"
+      }
+    },
+    {
+      "slug": "x5-3",
+      "name": "x5 4",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x5/e70-2010-2013.webp"
+      }
+    },
+    {
+      "slug": "x5-4",
+      "name": "x5 5",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x5/f15-2013-2018.webp"
+      }
+    },
+    {
+      "slug": "x5-5",
+      "name": "x5 6",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x5/g05-g18-2018-2023.webp"
+      }
+    },
+    {
+      "slug": "x5-6",
+      "name": "x5 7",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x5/g05-g18-2023-now.webp"
+      }
+    }
+  ]
+}

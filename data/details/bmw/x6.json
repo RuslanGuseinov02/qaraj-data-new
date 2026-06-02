@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "x6",
+  "name": "x6",
+  "generations": [
+    {
+      "slug": "x6-0",
+      "name": "x6 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x6/e71-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "x6-1",
+      "name": "x6 2",
+      "year_start": 2012,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x6/e71-2012-2014.webp"
+      }
+    },
+    {
+      "slug": "x6-2",
+      "name": "x6 3",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x6/f16-2014-2019.webp"
+      }
+    },
+    {
+      "slug": "x6-3",
+      "name": "x6 4",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x6/g06-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "x6-4",
+      "name": "x6 5",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x6/g06-2023-now.webp"
+      }
+    }
+  ]
+}

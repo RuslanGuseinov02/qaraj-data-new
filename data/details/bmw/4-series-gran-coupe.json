@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "4-series-gran-coupe",
+  "name": "4-series-gran-coupe",
+  "generations": [
+    {
+      "slug": "4-series-gran-coupe-0",
+      "name": "4-series-gran-coupe 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/4-series-gran-coupe/f36-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "4-series-gran-coupe-1",
+      "name": "4-series-gran-coupe 2",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/4-series-gran-coupe/f36-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "4-series-gran-coupe-2",
+      "name": "4-series-gran-coupe 3",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/4-series-gran-coupe/g26-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "4-series-gran-coupe-3",
+      "name": "4-series-gran-coupe 4",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/4-series-gran-coupe/g26-2024-now.webp"
+      }
+    }
+  ]
+}

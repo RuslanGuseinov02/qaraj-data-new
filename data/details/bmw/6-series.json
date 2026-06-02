@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "6-series",
+  "name": "6-series",
+  "generations": [
+    {
+      "slug": "6-series-0",
+      "name": "6-series 1",
+      "year_start": 1976,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/6-series/e24-1976-1990.webp"
+      }
+    },
+    {
+      "slug": "6-series-1",
+      "name": "6-series 2",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/6-series/e63-e64-2003-2007.webp"
+      }
+    },
+    {
+      "slug": "6-series-2",
+      "name": "6-series 3",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/6-series/e63-e64-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "6-series-3",
+      "name": "6-series 4",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/6-series/f06-f12-f13-2011-2015.webp"
+      }
+    },
+    {
+      "slug": "6-series-4",
+      "name": "6-series 5",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/6-series/f06-f12-f13-2015-2019.webp"
+      }
+    }
+  ]
+}

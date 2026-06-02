@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "x7",
+  "name": "x7",
+  "generations": [
+    {
+      "slug": "x7-0",
+      "name": "x7 1",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x7/g07-2018-2022.webp"
+      }
+    },
+    {
+      "slug": "x7-1",
+      "name": "x7 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x7/g07-2022-now.webp"
+      }
+    }
+  ]
+}

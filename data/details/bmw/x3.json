@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "x3",
+  "name": "x3",
+  "generations": [
+    {
+      "slug": "x3-0",
+      "name": "x3 1",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x3/e83-2003-2006.webp"
+      }
+    },
+    {
+      "slug": "x3-1",
+      "name": "x3 2",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x3/e83-2006-2010.webp"
+      }
+    },
+    {
+      "slug": "x3-2",
+      "name": "x3 3",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x3/f25-2010-2014.webp"
+      }
+    },
+    {
+      "slug": "x3-3",
+      "name": "x3 4",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x3/f25-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "x3-4",
+      "name": "x3 5",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x3/g01-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "x3-5",
+      "name": "x3 6",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x3/g01-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "x3-6",
+      "name": "x3 7",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x3/g45-g48-2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "6-series-gran-turismo",
+  "name": "6-series-gran-turismo",
+  "generations": [
+    {
+      "slug": "6-series-gran-turismo-0",
+      "name": "6-series-gran-turismo 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/6-series-gran-turismo/g32-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "6-series-gran-turismo-1",
+      "name": "6-series-gran-turismo 2",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/6-series-gran-turismo/g32-2020-2023.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "i3",
+  "name": "i3",
+  "generations": [
+    {
+      "slug": "i3-0",
+      "name": "i3 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/i3/g28-2022-now.webp"
+      }
+    },
+    {
+      "slug": "i3-1",
+      "name": "i3 2",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/i3/i01-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "i3-2",
+      "name": "i3 3",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/i3/i01-2017-2022.webp"
+      }
+    }
+  ]
+}

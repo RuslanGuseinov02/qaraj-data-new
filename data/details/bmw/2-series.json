@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "2-series",
+  "name": "2-series",
+  "generations": [
+    {
+      "slug": "2-series-0",
+      "name": "2-series 1",
+      "year_start": 2013,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/2-series/f22-f23-2013-2021.webp"
+      }
+    },
+    {
+      "slug": "2-series-1",
+      "name": "2-series 2",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/2-series/g42-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "2-series-2",
+      "name": "2-series 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/2-series/g42-2024-now.webp"
+      }
+    }
+  ]
+}

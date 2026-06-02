@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "m3",
+  "name": "m3",
+  "generations": [
+    {
+      "slug": "m3-0",
+      "name": "m3 1",
+      "year_start": 1986,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m3/e30-1986-1991.webp"
+      }
+    },
+    {
+      "slug": "m3-1",
+      "name": "m3 2",
+      "year_start": 1992,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m3/e36-1992-1999.webp"
+      }
+    },
+    {
+      "slug": "m3-2",
+      "name": "m3 3",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m3/e46-2000-2006.webp"
+      }
+    },
+    {
+      "slug": "m3-3",
+      "name": "m3 4",
+      "year_start": 2007,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m3/e90-e92-e93-2007-2013.webp"
+      }
+    },
+    {
+      "slug": "m3-4",
+      "name": "m3 5",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m3/f80-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "m3-5",
+      "name": "m3 6",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m3/g80-2020-2022.webp"
+      }
+    },
+    {
+      "slug": "m3-6",
+      "name": "m3 7",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m3/g80-g81-2022-2024.webp"
+      }
+    },
+    {
+      "slug": "m3-7",
+      "name": "m3 8",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m3/g80-g81-2024-now.webp"
+      }
+    }
+  ]
+}

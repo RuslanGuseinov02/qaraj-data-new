@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "m8",
+  "name": "m8",
+  "generations": [
+    {
+      "slug": "m8-0",
+      "name": "m8 1",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m8/f91-f92-f93-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "m8-1",
+      "name": "m8 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m8/f91-f92-f93-2022-now.webp"
+      }
+    }
+  ]
+}

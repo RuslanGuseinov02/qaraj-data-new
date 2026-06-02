@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "x5-m",
+  "name": "x5-m",
+  "generations": [
+    {
+      "slug": "x5-m-0",
+      "name": "x5-m 1",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x5-m/e70-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "x5-m-1",
+      "name": "x5-m 2",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x5-m/f85-2014-2019.webp"
+      }
+    },
+    {
+      "slug": "x5-m-2",
+      "name": "x5-m 3",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x5-m/f95-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "x5-m-3",
+      "name": "x5-m 4",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x5-m/f95-2023-now.webp"
+      }
+    }
+  ]
+}

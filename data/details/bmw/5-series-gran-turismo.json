@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "5-series-gran-turismo",
+  "name": "5-series-gran-turismo",
+  "generations": [
+    {
+      "slug": "5-series-gran-turismo-0",
+      "name": "5-series-gran-turismo 1",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/5-series-gran-turismo/f07-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "5-series-gran-turismo-1",
+      "name": "5-series-gran-turismo 2",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/5-series-gran-turismo/f07-2013-2017.webp"
+      }
+    }
+  ]
+}

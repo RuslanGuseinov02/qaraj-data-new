@@ -1,0 +1,120 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "7-series",
+  "name": "7-series",
+  "generations": [
+    {
+      "slug": "7-series-0",
+      "name": "7-series 1",
+      "year_start": 1977,
+      "year_end": 1986,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/7-series/e23-1977-1986.webp"
+      }
+    },
+    {
+      "slug": "7-series-1",
+      "name": "7-series 2",
+      "year_start": 1986,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/7-series/e32-1986-1994.webp"
+      }
+    },
+    {
+      "slug": "7-series-2",
+      "name": "7-series 3",
+      "year_start": 1994,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/7-series/e38-1994-1998.webp"
+      }
+    },
+    {
+      "slug": "7-series-3",
+      "name": "7-series 4",
+      "year_start": 1998,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/7-series/e38-1998-2001.webp"
+      }
+    },
+    {
+      "slug": "7-series-4",
+      "name": "7-series 5",
+      "year_start": 2001,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/7-series/e65-e66-e67-e68-2001-2005.webp"
+      }
+    },
+    {
+      "slug": "7-series-5",
+      "name": "7-series 6",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/7-series/e65-e66-e67-e68-2005-2008.webp"
+      }
+    },
+    {
+      "slug": "7-series-6",
+      "name": "7-series 7",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/7-series/f01-f02-f03-f04-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "7-series-7",
+      "name": "7-series 8",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/7-series/f01-f02-f03-f04-2012-2015.webp"
+      }
+    },
+    {
+      "slug": "7-series-8",
+      "name": "7-series 9",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/7-series/g11-g12-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "7-series-9",
+      "name": "7-series 10",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/7-series/g11-g12-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "7-series-10",
+      "name": "7-series 11",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/7-series/g70-2022-now.webp"
+      }
+    }
+  ]
+}

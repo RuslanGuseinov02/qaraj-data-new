@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "m2",
+  "name": "m2",
+  "generations": [
+    {
+      "slug": "m2-0",
+      "name": "m2 1",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m2/f87-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "m2-1",
+      "name": "m2 2",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m2/f87-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "m2-2",
+      "name": "m2 3",
+      "year_start": 2023,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m2/g87-2023-2024.webp"
+      }
+    },
+    {
+      "slug": "m2-3",
+      "name": "m2 4",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m2/g87-2024-now.webp"
+      }
+    }
+  ]
+}

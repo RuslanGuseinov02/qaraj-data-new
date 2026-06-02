@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "x3-m",
+  "name": "x3-m",
+  "generations": [
+    {
+      "slug": "x3-m-0",
+      "name": "x3-m 1",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x3-m/f97-2019-2021.webp"
+      }
+    },
+    {
+      "slug": "x3-m-1",
+      "name": "x3-m 2",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x3-m/f97-2021-2024.webp"
+      }
+    }
+  ]
+}

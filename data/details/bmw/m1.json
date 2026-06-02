@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "m1",
+  "name": "m1",
+  "generations": [
+    {
+      "slug": "m1-0",
+      "name": "m1 1",
+      "year_start": 1978,
+      "year_end": 1981,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/m1/e26-1978-1981.webp"
+      }
+    }
+  ]
+}

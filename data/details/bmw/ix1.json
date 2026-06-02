@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "ix1",
+  "name": "ix1",
+  "generations": [
+    {
+      "slug": "ix1-0",
+      "name": "ix1 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/ix1/u11-u12-2022-now.webp"
+      }
+    }
+  ]
+}

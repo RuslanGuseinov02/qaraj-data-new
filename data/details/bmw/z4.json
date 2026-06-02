@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "z4",
+  "name": "z4",
+  "generations": [
+    {
+      "slug": "z4-0",
+      "name": "z4 1",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/z4/e85-2002-2005.webp"
+      }
+    },
+    {
+      "slug": "z4-1",
+      "name": "z4 2",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/z4/e85-e86-2006-2008.webp"
+      }
+    },
+    {
+      "slug": "z4-2",
+      "name": "z4 3",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/z4/e89-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "z4-3",
+      "name": "z4 4",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/z4/e89-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "z4-4",
+      "name": "z4 5",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/z4/g29-2018-2022.webp"
+      }
+    },
+    {
+      "slug": "z4-5",
+      "name": "z4 6",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/z4/g29-2022-now.webp"
+      }
+    }
+  ]
+}

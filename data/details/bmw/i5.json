@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "i5",
+  "name": "i5",
+  "generations": [
+    {
+      "slug": "i5-0",
+      "name": "i5 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/i5/g60-g61-g68-2023-now.webp"
+      }
+    }
+  ]
+}

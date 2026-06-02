@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "x4",
+  "name": "x4",
+  "generations": [
+    {
+      "slug": "x4-0",
+      "name": "x4 1",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x4/f26-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "x4-1",
+      "name": "x4 2",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x4/g02-2018-2021.webp"
+      }
+    },
+    {
+      "slug": "x4-2",
+      "name": "x4 3",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/x4/g02-2021-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
+  },
+  "slug": "e9",
+  "name": "e9",
+  "generations": [
+    {
+      "slug": "e9-0",
+      "name": "e9 1",
+      "year_start": 1968,
+      "year_end": 1975,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/e9/1968-1975.webp"
+      }
+    }
+  ]
+}
