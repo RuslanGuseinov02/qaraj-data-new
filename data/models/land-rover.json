@@ -1,0 +1,128 @@
+{
+    "make": {
+        "slug": "land-rover",
+        "name": "Land Rover"
+    },
+    "data": [
+        {
+            "slug": "defender",
+            "name": "Defender",
+            "year_start": 1983,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "discovery",
+            "name": "Discovery 1",
+            "year_start": 1989,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "discovery-2",
+            "name": "Discovery 2",
+            "year_start": 1998,
+            "year_end": 2004,
+            "generation_count": 2
+        },
+        {
+            "slug": "discovery-3",
+            "name": "Discovery 3",
+            "year_start": 2004,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "discovery-4",
+            "name": "Discovery 4",
+            "year_start": 2009,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "discovery-5",
+            "name": "Discovery 5",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "discovery-sport",
+            "name": "Discovery Sport",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "freelander",
+            "name": "Freelander",
+            "year_start": 1997,
+            "year_end": 2007,
+            "generation_count": 2
+        },
+        {
+            "slug": "freelander-2",
+            "name": "Freelander 2",
+            "year_start": 2006,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "lr2",
+            "name": "LR2",
+            "year_start": 2007,
+            "year_end": 2015,
+            "generation_count": 2
+        },
+        {
+            "slug": "lr3",
+            "name": "LR3",
+            "year_start": 2005,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "lr4",
+            "name": "LR4",
+            "year_start": 2010,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "range-rover",
+            "name": "Range Rover",
+            "year_start": 1970,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "range-rover-evoque",
+            "name": "Range Rover Evoque",
+            "year_start": 2011,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "range-rover-evoque-l",
+            "name": "Rover Range Rover Evoque L",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "range-rover-sport",
+            "name": "Rover Range Rover Sport",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "range-rover-velar",
+            "name": "Rover Range Rover Velar",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        }
+    ],
+    "total": 17
+}
