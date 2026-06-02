@@ -1,0 +1,387 @@
+{
+    "make": {
+        "slug": "peugeot",
+        "name": "Peugeot"
+    },
+    "data": [
+        {
+            "slug": "1007",
+            "name": "1007",
+            "year_start": 2004,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "104",
+            "name": "104",
+            "year_start": 1972,
+            "year_end": 1988,
+            "generation_count": 1
+        },
+        {
+            "slug": "106",
+            "name": "106",
+            "year_start": 1991,
+            "year_end": 2004,
+            "generation_count": 2
+        },
+        {
+            "slug": "107",
+            "name": "107",
+            "year_start": 2005,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "108",
+            "name": "108",
+            "year_start": 2014,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "2008",
+            "name": "2008",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "204",
+            "name": "204",
+            "year_start": 1965,
+            "year_end": 1977,
+            "generation_count": 1
+        },
+        {
+            "slug": "205",
+            "name": "205",
+            "year_start": 1983,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "206",
+            "name": "206",
+            "year_start": 1998,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "206plus",
+            "name": "206+",
+            "year_start": 2009,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "207",
+            "name": "207",
+            "year_start": 2006,
+            "year_end": 2014,
+            "generation_count": 3
+        },
+        {
+            "slug": "208",
+            "name": "208",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "3008",
+            "name": "3008",
+            "year_start": 2009,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "301",
+            "name": "301",
+            "year_start": 2012,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "304",
+            "name": "304",
+            "year_start": 1969,
+            "year_end": 1980,
+            "generation_count": 1
+        },
+        {
+            "slug": "305",
+            "name": "305",
+            "year_start": 1977,
+            "year_end": 1989,
+            "generation_count": 2
+        },
+        {
+            "slug": "306",
+            "name": "306",
+            "year_start": 1993,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "307",
+            "name": "307",
+            "year_start": 2001,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "308",
+            "name": "308",
+            "year_start": 2007,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "308s",
+            "name": "308S",
+            "year_start": 2015,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "309",
+            "name": "309",
+            "year_start": 1985,
+            "year_end": 1993,
+            "generation_count": 1
+        },
+        {
+            "slug": "4007",
+            "name": "4007",
+            "year_start": 2007,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "4008",
+            "name": "4008",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "405",
+            "name": "405",
+            "year_start": 1987,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "406",
+            "name": "406",
+            "year_start": 1995,
+            "year_end": 2004,
+            "generation_count": 1
+        },
+        {
+            "slug": "407",
+            "name": "407",
+            "year_start": 2004,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "408",
+            "name": "408",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "408x",
+            "name": "408X",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "5008",
+            "name": "5008",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "504",
+            "name": "504",
+            "year_start": 1968,
+            "year_end": 1984,
+            "generation_count": 1
+        },
+        {
+            "slug": "505",
+            "name": "505",
+            "year_start": 1979,
+            "year_end": 1992,
+            "generation_count": 1
+        },
+        {
+            "slug": "508",
+            "name": "508",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "508-rxh",
+            "name": "508 RXH",
+            "year_start": 2012,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "508l",
+            "name": "508L",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "604",
+            "name": "604",
+            "year_start": 1977,
+            "year_end": 1987,
+            "generation_count": 1
+        },
+        {
+            "slug": "605",
+            "name": "605",
+            "year_start": 1989,
+            "year_end": 2000,
+            "generation_count": 2
+        },
+        {
+            "slug": "607",
+            "name": "607",
+            "year_start": 1999,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "806",
+            "name": "806",
+            "year_start": 1994,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "807",
+            "name": "807",
+            "year_start": 2002,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "bipper",
+            "name": "Bipper",
+            "year_start": 2008,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "boxer",
+            "name": "Boxer",
+            "year_start": 1994,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "expert",
+            "name": "Expert",
+            "year_start": 1996,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "hoggar",
+            "name": "Hoggar",
+            "year_start": 2010,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "landtrek",
+            "name": "Landtrek",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "manager",
+            "name": "Manager",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "partner",
+            "name": "Partner",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "partner-crossway",
+            "name": "Partner Crossway",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "partner-origin",
+            "name": "Partner Origin",
+            "year_start": 2008,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "partner-rapid",
+            "name": "Partner Rapid",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "partner-tepee",
+            "name": "Partner Tepee",
+            "year_start": 2008,
+            "year_end": 2018,
+            "generation_count": 3
+        },
+        {
+            "slug": "rcz",
+            "name": "RCZ",
+            "year_start": 2010,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "rifter",
+            "name": "Rifter",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "traveller",
+            "name": "Traveller",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "ion",
+            "name": "iOn",
+            "year_start": 2010,
+            "year_end": 2019,
+            "generation_count": 1
+        }
+    ],
+    "total": 54
+}
