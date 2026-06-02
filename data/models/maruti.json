@@ -1,0 +1,261 @@
+{
+    "make": {
+        "slug": "maruti",
+        "name": "Maruti"
+    },
+    "data": [
+        {
+            "slug": "800",
+            "name": "800",
+            "year_start": 1983,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "a-star",
+            "name": "A-Star",
+            "year_start": 2009,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "alto",
+            "name": "Alto",
+            "year_start": 2000,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "alto-800",
+            "name": "Alto 800",
+            "year_start": 2014,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "alto-k10",
+            "name": "Alto K10",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "baleno",
+            "name": "Baleno",
+            "year_start": 1999,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "brezza",
+            "name": "Brezza",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "celerio",
+            "name": "Celerio",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "celerio-x",
+            "name": "Celerio X",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "ciaz",
+            "name": "Ciaz",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "dzire",
+            "name": "DZire",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "eeco",
+            "name": "Eeco",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ertiga",
+            "name": "Ertiga",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "esteem",
+            "name": "Esteem",
+            "year_start": 1994,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "estilo",
+            "name": "Estilo",
+            "year_start": 2009,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "fronx",
+            "name": "Fronx",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "grand-vitara",
+            "name": "Grand Vitara",
+            "year_start": 2007,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "gypsy",
+            "name": "Gypsy",
+            "year_start": 2000,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "ignis",
+            "name": "Ignis",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "invicto",
+            "name": "Invicto",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "jimny",
+            "name": "Jimny",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "omni",
+            "name": "Omni",
+            "year_start": 2005,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "ritz",
+            "name": "Ritz",
+            "year_start": 2009,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "s-presso",
+            "name": "S-Presso",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "stingray",
+            "name": "Stingray",
+            "year_start": 2013,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "super-carry",
+            "name": "Super Carry",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "swift",
+            "name": "Swift",
+            "year_start": 2005,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "swift-dzire",
+            "name": "Swift DZire",
+            "year_start": 2008,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "versa",
+            "name": "Versa",
+            "year_start": 2001,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "victoris",
+            "name": "Victoris",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "vitara-brezza",
+            "name": "Vitara Brezza",
+            "year_start": 2016,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "wagon-r",
+            "name": "Wagon R",
+            "year_start": 1999,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "xl6",
+            "name": "XL6",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "zen",
+            "name": "Zen",
+            "year_start": 1993,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "zen-estilo",
+            "name": "Zen Estilo",
+            "year_start": 2006,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-vitara",
+            "name": "e Vitara",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 36
+}
