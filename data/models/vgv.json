@@ -1,0 +1,37 @@
+{
+    "make": {
+        "slug": "vgv",
+        "name": "VGV"
+    },
+    "data": [
+        {
+            "slug": "u70",
+            "name": "U70",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "u70pro",
+            "name": "U70Pro",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "u75plus",
+            "name": "U75Plus",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "vx7",
+            "name": "VX7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 4
+}
