@@ -1,0 +1,16 @@
+{
+    "make": {
+        "slug": "icar",
+        "name": "iCar"
+    },
+    "data": [
+        {
+            "slug": "03",
+            "name": "03",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 1
+}
