@@ -1,0 +1,79 @@
+{
+    "make": {
+        "slug": "livan",
+        "name": "Livan"
+    },
+    "data": [
+        {
+            "slug": "7",
+            "name": "7",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "9",
+            "name": "9",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "maple-30x",
+            "name": "Maple 30X",
+            "year_start": 2020,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "maple-60s",
+            "name": "Maple 60s",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "maple-60s-pro",
+            "name": "Maple 60s Pro",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "maple-80v",
+            "name": "Maple 80v",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "maple-80v-pro",
+            "name": "Maple 80v Pro",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "s6-pro",
+            "name": "S6 Pro",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x3-pro",
+            "name": "X3 Pro",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x6-pro",
+            "name": "X6 Pro",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 10
+}
