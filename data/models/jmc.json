@@ -1,0 +1,163 @@
+{
+    "make": {
+        "slug": "jmc",
+        "name": "JMC"
+    },
+    "data": [
+        {
+            "slug": "baodian",
+            "name": "Baodian",
+            "year_start": 2007,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "baowei",
+            "name": "Baowei",
+            "year_start": 2009,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "dadao",
+            "name": "Dadao",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-fushun",
+            "name": "E-Fushun",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-lushun",
+            "name": "E-Lushun",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ev-black",
+            "name": "EV Black",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "fushun",
+            "name": "Fushun",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "grand-avenue",
+            "name": "Grand Avenue",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "qiling-t3",
+            "name": "Qiling T3",
+            "year_start": 2016,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "qiling-t5",
+            "name": "Qiling T5",
+            "year_start": 2014,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "qiling-t7",
+            "name": "Qiling T7",
+            "year_start": 2015,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "s350",
+            "name": "S350",
+            "year_start": 2016,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "t100",
+            "name": "T100",
+            "year_start": 2017,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "teshun",
+            "name": "Teshun",
+            "year_start": 2017,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "touring",
+            "name": "Touring",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "transporter",
+            "name": "Transporter",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "vigus",
+            "name": "Vigus",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "vigus-plus",
+            "name": "Vigus Plus",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "vigus-pro",
+            "name": "Vigus Pro",
+            "year_start": 2019,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "yuhu",
+            "name": "Yuhu",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "yusheng-s330",
+            "name": "Yusheng S330",
+            "year_start": 2016,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "yusheng-s350",
+            "name": "Yusheng S350",
+            "year_start": 2010,
+            "year_end": 2022,
+            "generation_count": 4
+        }
+    ],
+    "total": 22
+}
