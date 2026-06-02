@@ -1,0 +1,79 @@
+{
+    "make": {
+        "slug": "saturn",
+        "name": "Saturn"
+    },
+    "data": [
+        {
+            "slug": "astra",
+            "name": "Astra",
+            "year_start": 2008,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "aura",
+            "name": "Aura",
+            "year_start": 2007,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "ev1",
+            "name": "Ev1",
+            "year_start": 1996,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "ion",
+            "name": "Ion",
+            "year_start": 2003,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "l-series",
+            "name": "L-Series",
+            "year_start": 2000,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "outlook",
+            "name": "Outlook",
+            "year_start": 2006,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "relay",
+            "name": "Relay",
+            "year_start": 2005,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "s-series",
+            "name": "S-Series",
+            "year_start": 1991,
+            "year_end": 2002,
+            "generation_count": 3
+        },
+        {
+            "slug": "sky",
+            "name": "Sky",
+            "year_start": 2007,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "vue",
+            "name": "Vue",
+            "year_start": 2002,
+            "year_end": 2010,
+            "generation_count": 3
+        }
+    ],
+    "total": 10
+}
