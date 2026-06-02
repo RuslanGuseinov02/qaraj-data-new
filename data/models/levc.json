@@ -1,0 +1,30 @@
+{
+    "make": {
+        "slug": "levc",
+        "name": "LEVC"
+    },
+    "data": [
+        {
+            "slug": "l380",
+            "name": "L380",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tx",
+            "name": "TX",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "vn5",
+            "name": "VN5",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 3
+}
