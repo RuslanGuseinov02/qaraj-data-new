@@ -1,0 +1,37 @@
+{
+    "make": {
+        "slug": "rising",
+        "name": "Rising"
+    },
+    "data": [
+        {
+            "slug": "er6",
+            "name": "ER6",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "f7",
+            "name": "F7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "marvel-r",
+            "name": "Marvel R",
+            "year_start": 2021,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "r7",
+            "name": "R7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        }
+    ],
+    "total": 4
+}
