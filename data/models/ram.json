@@ -1,0 +1,177 @@
+{
+    "make": {
+        "slug": "ram",
+        "name": "Ram"
+    },
+    "data": [
+        {
+            "slug": "1000",
+            "name": "1000",
+            "year_start": 2018,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "1200",
+            "name": "1200",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "1500",
+            "name": "1500",
+            "year_start": 2011,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "1500-classic",
+            "name": "1500 Classic",
+            "year_start": 2019,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "1500-rev",
+            "name": "1500 REV",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "1500-rho",
+            "name": "1500 RHO",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "1500-ramcharger",
+            "name": "1500 Ramcharger",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "1500-trx",
+            "name": "1500 TRX",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "2500",
+            "name": "2500",
+            "year_start": 2011,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "3500",
+            "name": "3500",
+            "year_start": 2011,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "4000",
+            "name": "4000",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "700",
+            "name": "700",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "c-v-tradesman",
+            "name": "C/V",
+            "year_start": 2013,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "chassis-cab",
+            "name": "Chassis cab",
+            "year_start": 2013,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "dakota",
+            "name": "Dakota",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "promaster-city",
+            "name": "ProMaster City",
+            "year_start": 2015,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "promaster-rapid",
+            "name": "ProMaster Rapid",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "promaster",
+            "name": "Promaster 1500",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "promaster-2500",
+            "name": "Promaster 2500",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "promaster-3500",
+            "name": "Promaster 3500",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "rampage",
+            "name": "Rampage",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v1000",
+            "name": "V1000",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v700-city",
+            "name": "V700 City",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v700-rapid",
+            "name": "V700 Rapid",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 24
+}
