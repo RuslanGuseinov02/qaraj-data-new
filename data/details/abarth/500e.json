@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "abarth",
+    "name": "ABARTH"
+  },
+  "slug": "500e",
+  "name": "500e",
+  "generations": [
+    {
+      "slug": "500e-0",
+      "name": "500e 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/abarth/500e/fa1-2023-now.webp"
+      }
+    }
+  ]
+}

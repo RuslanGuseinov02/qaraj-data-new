@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "abarth",
+    "name": "ABARTH"
+  },
+  "slug": "500",
+  "name": "500",
+  "generations": [
+    {
+      "slug": "500-0",
+      "name": "500 1",
+      "year_start": 2008,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/abarth/500/312-2008-2016.webp"
+      }
+    }
+  ]
+}

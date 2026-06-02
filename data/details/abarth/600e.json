@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "abarth",
+    "name": "ABARTH"
+  },
+  "slug": "600e",
+  "name": "600e",
+  "generations": [
+    {
+      "slug": "600e-0",
+      "name": "600e 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/abarth/600e/2023-now.webp"
+      }
+    }
+  ]
+}

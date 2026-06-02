@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "abarth",
+    "name": "ABARTH"
+  },
+  "slug": "695",
+  "name": "695",
+  "generations": [
+    {
+      "slug": "695-0",
+      "name": "695 1",
+      "year_start": 2008,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/abarth/695/312-2008-2016.webp"
+      }
+    },
+    {
+      "slug": "695-1",
+      "name": "695 2",
+      "year_start": 2016,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/abarth/695/312-2016-2024.webp"
+      }
+    }
+  ]
+}
