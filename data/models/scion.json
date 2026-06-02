@@ -1,0 +1,65 @@
+{
+    "make": {
+        "slug": "scion",
+        "name": "Scion"
+    },
+    "data": [
+        {
+            "slug": "fr-s",
+            "name": "FR-S",
+            "year_start": 2012,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "ia",
+            "name": "iA",
+            "year_start": 2015,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "im",
+            "name": "iM",
+            "year_start": 2015,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "iq",
+            "name": "iQ",
+            "year_start": 2011,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "tc",
+            "name": "tC",
+            "year_start": 2004,
+            "year_end": 2016,
+            "generation_count": 3
+        },
+        {
+            "slug": "xa",
+            "name": "xA",
+            "year_start": 2003,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "xb",
+            "name": "xB",
+            "year_start": 2003,
+            "year_end": 2015,
+            "generation_count": 3
+        },
+        {
+            "slug": "xd",
+            "name": "xD",
+            "year_start": 2007,
+            "year_end": 2014,
+            "generation_count": 1
+        }
+    ],
+    "total": 8
+}
