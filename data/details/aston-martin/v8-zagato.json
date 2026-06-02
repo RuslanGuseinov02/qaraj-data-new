@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aston-martin",
+    "name": "ASTON-MARTIN"
+  },
+  "slug": "v8-zagato",
+  "name": "v8-zagato",
+  "generations": [
+    {
+      "slug": "v8-zagato-0",
+      "name": "v8-zagato 1",
+      "year_start": 1986,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aston-martin/v8-zagato/mp-1986-1989.webp"
+      }
+    }
+  ]
+}

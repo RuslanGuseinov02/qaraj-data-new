@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aston-martin",
+    "name": "ASTON-MARTIN"
+  },
+  "slug": "dbs-770-ultimate",
+  "name": "dbs-770-ultimate",
+  "generations": [
+    {
+      "slug": "dbs-770-ultimate-0",
+      "name": "dbs-770-ultimate 1",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aston-martin/dbs-770-ultimate/am7-2023-2025.webp"
+      }
+    }
+  ]
+}

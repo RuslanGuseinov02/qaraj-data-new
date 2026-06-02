@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aston-martin",
+    "name": "ASTON-MARTIN"
+  },
+  "slug": "dbx-s",
+  "name": "dbx-s",
+  "generations": [
+    {
+      "slug": "dbx-s-0",
+      "name": "dbx-s 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aston-martin/dbx-s/am8-2025-now.webp"
+      }
+    }
+  ]
+}

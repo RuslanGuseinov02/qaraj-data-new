@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "aston-martin",
+    "name": "ASTON-MARTIN"
+  },
+  "slug": "vantage",
+  "name": "vantage",
+  "generations": [
+    {
+      "slug": "vantage-0",
+      "name": "vantage 1",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aston-martin/vantage/am6-2018-2024.webp"
+      }
+    },
+    {
+      "slug": "vantage-1",
+      "name": "vantage 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aston-martin/vantage/am6-2024-now.webp"
+      }
+    }
+  ]
+}

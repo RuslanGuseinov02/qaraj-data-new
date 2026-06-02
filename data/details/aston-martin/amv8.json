@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aston-martin",
+    "name": "ASTON-MARTIN"
+  },
+  "slug": "amv8",
+  "name": "amv8",
+  "generations": [
+    {
+      "slug": "amv8-0",
+      "name": "amv8 1",
+      "year_start": 1972,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aston-martin/amv8/mp-1972-1989.webp"
+      }
+    }
+  ]
+}

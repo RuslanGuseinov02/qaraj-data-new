@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aston-martin",
+    "name": "ASTON-MARTIN"
+  },
+  "slug": "dbx707",
+  "name": "dbx707",
+  "generations": [
+    {
+      "slug": "dbx707-0",
+      "name": "dbx707 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aston-martin/dbx707/am8-2022-now.webp"
+      }
+    }
+  ]
+}

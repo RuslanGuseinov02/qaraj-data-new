@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aston-martin",
+    "name": "ASTON-MARTIN"
+  },
+  "slug": "db9",
+  "name": "db9",
+  "generations": [
+    {
+      "slug": "db9-0",
+      "name": "db9 1",
+      "year_start": 2004,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aston-martin/db9/vh-2004-2016.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aston-martin",
+    "name": "ASTON-MARTIN"
+  },
+  "slug": "dbx",
+  "name": "dbx",
+  "generations": [
+    {
+      "slug": "dbx-0",
+      "name": "dbx 1",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aston-martin/dbx/am8-2020-2024.webp"
+      }
+    }
+  ]
+}

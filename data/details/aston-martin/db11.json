@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aston-martin",
+    "name": "ASTON-MARTIN"
+  },
+  "slug": "db11",
+  "name": "db11",
+  "generations": [
+    {
+      "slug": "db11-0",
+      "name": "db11 1",
+      "year_start": 2016,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aston-martin/db11/am5-2016-2023.webp"
+      }
+    }
+  ]
+}

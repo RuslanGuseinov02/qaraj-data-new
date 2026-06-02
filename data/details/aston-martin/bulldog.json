@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aston-martin",
+    "name": "ASTON-MARTIN"
+  },
+  "slug": "bulldog",
+  "name": "bulldog",
+  "generations": [
+    {
+      "slug": "bulldog-0",
+      "name": "bulldog 1",
+      "year_start": 1979,
+      "year_end": 1982,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aston-martin/bulldog/mp-1979-1982.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "aston-martin",
+    "name": "ASTON-MARTIN"
+  },
+  "slug": "virage",
+  "name": "virage",
+  "generations": [
+    {
+      "slug": "virage-0",
+      "name": "virage 1",
+      "year_start": 1988,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aston-martin/virage/mp-1988-1996.webp"
+      }
+    },
+    {
+      "slug": "virage-1",
+      "name": "virage 2",
+      "year_start": 2011,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aston-martin/virage/vh-2011-2012.webp"
+      }
+    }
+  ]
+}

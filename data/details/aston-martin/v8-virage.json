@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aston-martin",
+    "name": "ASTON-MARTIN"
+  },
+  "slug": "v8-virage",
+  "name": "v8-virage",
+  "generations": [
+    {
+      "slug": "v8-virage-0",
+      "name": "v8-virage 1",
+      "year_start": 1988,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aston-martin/v8-virage/mp-1988-1996.webp"
+      }
+    }
+  ]
+}

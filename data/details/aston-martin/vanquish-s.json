@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "aston-martin",
+    "name": "ASTON-MARTIN"
+  },
+  "slug": "vanquish-s",
+  "name": "vanquish-s",
+  "generations": [
+    {
+      "slug": "vanquish-s-0",
+      "name": "vanquish-s 1",
+      "year_start": 2004,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aston-martin/vanquish-s/np-2004-2007.webp"
+      }
+    },
+    {
+      "slug": "vanquish-s-1",
+      "name": "vanquish-s 2",
+      "year_start": 2017,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aston-martin/vanquish-s/vh-2017-2018.webp"
+      }
+    }
+  ]
+}

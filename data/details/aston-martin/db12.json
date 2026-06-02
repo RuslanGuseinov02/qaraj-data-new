@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aston-martin",
+    "name": "ASTON-MARTIN"
+  },
+  "slug": "db12",
+  "name": "db12",
+  "generations": [
+    {
+      "slug": "db12-0",
+      "name": "db12 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aston-martin/db12/2023-now.webp"
+      }
+    }
+  ]
+}

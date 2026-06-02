@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "aston-martin",
+    "name": "ASTON-MARTIN"
+  },
+  "slug": "v12-vantage",
+  "name": "v12-vantage",
+  "generations": [
+    {
+      "slug": "v12-vantage-0",
+      "name": "v12-vantage 1",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aston-martin/v12-vantage/am6-2022-2024.webp"
+      }
+    },
+    {
+      "slug": "v12-vantage-1",
+      "name": "v12-vantage 2",
+      "year_start": 2005,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aston-martin/v12-vantage/n4-2005-2017.webp"
+      }
+    }
+  ]
+}

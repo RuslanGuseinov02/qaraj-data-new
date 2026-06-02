@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aston-martin",
+    "name": "ASTON-MARTIN"
+  },
+  "slug": "valkyrie",
+  "name": "valkyrie",
+  "generations": [
+    {
+      "slug": "valkyrie-0",
+      "name": "valkyrie 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aston-martin/valkyrie/2021-2024.webp"
+      }
+    }
+  ]
+}
