@@ -1,0 +1,233 @@
+{
+    "make": {
+        "slug": "pontiac",
+        "name": "Pontiac"
+    },
+    "data": [
+        {
+            "slug": "1000",
+            "name": "1000",
+            "year_start": 1976,
+            "year_end": 1987,
+            "generation_count": 1
+        },
+        {
+            "slug": "2000",
+            "name": "2000",
+            "year_start": 1975,
+            "year_end": 1987,
+            "generation_count": 2
+        },
+        {
+            "slug": "6000",
+            "name": "6000",
+            "year_start": 1982,
+            "year_end": 1991,
+            "generation_count": 1
+        },
+        {
+            "slug": "acadian",
+            "name": "Acadian",
+            "year_start": 1976,
+            "year_end": 1987,
+            "generation_count": 1
+        },
+        {
+            "slug": "aztec",
+            "name": "Aztek",
+            "year_start": 2001,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "bonneville",
+            "name": "Bonneville",
+            "year_start": 1965,
+            "year_end": 2005,
+            "generation_count": 7
+        },
+        {
+            "slug": "catalina",
+            "name": "Catalina",
+            "year_start": 1971,
+            "year_end": 1981,
+            "generation_count": 2
+        },
+        {
+            "slug": "fiero",
+            "name": "Fiero",
+            "year_start": 1984,
+            "year_end": 1988,
+            "generation_count": 1
+        },
+        {
+            "slug": "firebird",
+            "name": "Firebird",
+            "year_start": 1967,
+            "year_end": 2002,
+            "generation_count": 5
+        },
+        {
+            "slug": "g3",
+            "name": "G3",
+            "year_start": 2007,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "g4",
+            "name": "G4",
+            "year_start": 2004,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "g5",
+            "name": "G5",
+            "year_start": 2004,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "pursuit",
+            "name": "G5 Pursuit",
+            "year_start": 2004,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "g6",
+            "name": "G6",
+            "year_start": 2004,
+            "year_end": 2010,
+            "generation_count": 2
+        },
+        {
+            "slug": "g8",
+            "name": "G8",
+            "year_start": 2008,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "gto",
+            "name": "GTO",
+            "year_start": 1964,
+            "year_end": 2006,
+            "generation_count": 4
+        },
+        {
+            "slug": "grand-am",
+            "name": "Grand Am",
+            "year_start": 1972,
+            "year_end": 2005,
+            "generation_count": 5
+        },
+        {
+            "slug": "grand-prix",
+            "name": "Grand Prix",
+            "year_start": 1978,
+            "year_end": 2008,
+            "generation_count": 5
+        },
+        {
+            "slug": "grand-prix-gxp",
+            "name": "Grand Prix GXP",
+            "year_start": 2005,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "grand-ville",
+            "name": "Grand Ville",
+            "year_start": 1971,
+            "year_end": 1975,
+            "generation_count": 1
+        },
+        {
+            "slug": "lemans",
+            "name": "Lemans",
+            "year_start": 1961,
+            "year_end": 1981,
+            "generation_count": 5
+        },
+        {
+            "slug": "matiz",
+            "name": "Matiz",
+            "year_start": 2004,
+            "year_end": 2010,
+            "generation_count": 2
+        },
+        {
+            "slug": "montana",
+            "name": "Montana",
+            "year_start": 1997,
+            "year_end": 2005,
+            "generation_count": 2
+        },
+        {
+            "slug": "montana-sv6",
+            "name": "Montana SV6",
+            "year_start": 2005,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "phoenix",
+            "name": "Phoenix",
+            "year_start": 1977,
+            "year_end": 1984,
+            "generation_count": 2
+        },
+        {
+            "slug": "solstice",
+            "name": "Solstice",
+            "year_start": 2006,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "sunbird",
+            "name": "Sunbird",
+            "year_start": 1975,
+            "year_end": 1994,
+            "generation_count": 3
+        },
+        {
+            "slug": "sunfire",
+            "name": "Sunfire",
+            "year_start": 1995,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "tempest",
+            "name": "Tempest",
+            "year_start": 1961,
+            "year_end": 1991,
+            "generation_count": 3
+        },
+        {
+            "slug": "torrent",
+            "name": "Torrent",
+            "year_start": 2005,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "trans-sport",
+            "name": "Trans Sport",
+            "year_start": 1989,
+            "year_end": 1999,
+            "generation_count": 2
+        },
+        {
+            "slug": "vibe",
+            "name": "Vibe",
+            "year_start": 2002,
+            "year_end": 2010,
+            "generation_count": 2
+        }
+    ],
+    "total": 32
+}
