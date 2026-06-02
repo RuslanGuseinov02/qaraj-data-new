@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aro",
+    "name": "ARO"
+  },
+  "slug": "10",
+  "name": "10",
+  "generations": [
+    {
+      "slug": "10-0",
+      "name": "10 1",
+      "year_start": 1980,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aro/10/1980-2006.webp"
+      }
+    }
+  ]
+}
