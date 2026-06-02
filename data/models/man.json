@@ -1,0 +1,16 @@
+{
+    "make": {
+        "slug": "man",
+        "name": "MAN"
+    },
+    "data": [
+        {
+            "slug": "tge",
+            "name": "TGE",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 1
+}
