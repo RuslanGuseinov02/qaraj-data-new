@@ -1,0 +1,107 @@
+{
+    "make": {
+        "slug": "oldsmobile",
+        "name": "Oldsmobile"
+    },
+    "data": [
+        {
+            "slug": "88",
+            "name": "88",
+            "year_start": 1949,
+            "year_end": 1999,
+            "generation_count": 21
+        },
+        {
+            "slug": "98",
+            "name": "98",
+            "year_start": 1965,
+            "year_end": 1996,
+            "generation_count": 5
+        },
+        {
+            "slug": "achieva",
+            "name": "Achieva",
+            "year_start": 1992,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "alero",
+            "name": "Alero",
+            "year_start": 1998,
+            "year_end": 2004,
+            "generation_count": 1
+        },
+        {
+            "slug": "aurora",
+            "name": "Aurora",
+            "year_start": 1995,
+            "year_end": 2003,
+            "generation_count": 2
+        },
+        {
+            "slug": "bravada",
+            "name": "Bravada",
+            "year_start": 1991,
+            "year_end": 2004,
+            "generation_count": 4
+        },
+        {
+            "slug": "cutlass",
+            "name": "Cutlass",
+            "year_start": 1961,
+            "year_end": 1999,
+            "generation_count": 6
+        },
+        {
+            "slug": "cutlass-supreme",
+            "name": "Cutlass Supreme",
+            "year_start": 1988,
+            "year_end": 1997,
+            "generation_count": 1
+        },
+        {
+            "slug": "intrigue",
+            "name": "Intrigue",
+            "year_start": 1997,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "lss",
+            "name": "LSS",
+            "year_start": 1997,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "omega",
+            "name": "Omega",
+            "year_start": 1973,
+            "year_end": 1984,
+            "generation_count": 3
+        },
+        {
+            "slug": "regency",
+            "name": "Regency",
+            "year_start": 1997,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "silhouette",
+            "name": "Silhouette",
+            "year_start": 1989,
+            "year_end": 2004,
+            "generation_count": 2
+        },
+        {
+            "slug": "toronado",
+            "name": "Toronado",
+            "year_start": 1966,
+            "year_end": 1992,
+            "generation_count": 4
+        }
+    ],
+    "total": 14
+}
