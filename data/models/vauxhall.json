@@ -1,0 +1,240 @@
+{
+    "make": {
+        "slug": "vauxhall",
+        "name": "Vauxhall"
+    },
+    "data": [
+        {
+            "slug": "adam",
+            "name": "Adam",
+            "year_start": 2013,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "agila",
+            "name": "Agila",
+            "year_start": 2000,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "ampera",
+            "name": "Ampera",
+            "year_start": 2011,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "antara",
+            "name": "Antara",
+            "year_start": 2007,
+            "year_end": 2015,
+            "generation_count": 2
+        },
+        {
+            "slug": "astra",
+            "name": "Astra",
+            "year_start": 1991,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "astra-gtc",
+            "name": "Astra GTC",
+            "year_start": 2011,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "astra-vxr",
+            "name": "Astra VXR",
+            "year_start": 2012,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "cascada",
+            "name": "Cascada",
+            "year_start": 2013,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "combo",
+            "name": "Combo",
+            "year_start": 2001,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "combo-cargo",
+            "name": "Combo Cargo",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "combo-life",
+            "name": "Combo Life",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "corsa",
+            "name": "Corsa",
+            "year_start": 2006,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "corsa-vxr",
+            "name": "Corsa VXR",
+            "year_start": 2007,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "corsavan",
+            "name": "Corsavan",
+            "year_start": 2006,
+            "year_end": 2018,
+            "generation_count": 3
+        },
+        {
+            "slug": "crossland",
+            "name": "Crossland",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "crossland-x",
+            "name": "Crossland X",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "grandland",
+            "name": "Grandland",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "grandland-x",
+            "name": "Grandland X",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "insignia",
+            "name": "Insignia",
+            "year_start": 2008,
+            "year_end": 2022,
+            "generation_count": 4
+        },
+        {
+            "slug": "insignia-country-tourer",
+            "name": "Insignia Country Tourer",
+            "year_start": 2013,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "insignia-vxr",
+            "name": "Insignia VXR",
+            "year_start": 2008,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "meriva",
+            "name": "Meriva",
+            "year_start": 2010,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "mokka",
+            "name": "Mokka",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "mokka-x",
+            "name": "Mokka X",
+            "year_start": 2016,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "movano",
+            "name": "Movano",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "sintra",
+            "name": "Sintra",
+            "year_start": 1996,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "tigra",
+            "name": "Tigra",
+            "year_start": 1994,
+            "year_end": 2009,
+            "generation_count": 2
+        },
+        {
+            "slug": "vxr8",
+            "name": "VXR8",
+            "year_start": 2007,
+            "year_end": 2018,
+            "generation_count": 3
+        },
+        {
+            "slug": "viva",
+            "name": "Viva",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "vivaro",
+            "name": "Vivaro",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "vivaro-life",
+            "name": "Vivaro Life",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "zafira",
+            "name": "Zafira",
+            "year_start": 1999,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "zafira-tourer",
+            "name": "Zafira Tourer",
+            "year_start": 2011,
+            "year_end": 2018,
+            "generation_count": 2
+        }
+    ],
+    "total": 33
+}
