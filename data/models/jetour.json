@@ -1,0 +1,163 @@
+{
+    "make": {
+        "slug": "jetour",
+        "name": "Jetour"
+    },
+    "data": [
+        {
+            "slug": "dashing",
+            "name": "Dashing",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "g700",
+            "name": "G700",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ice-cream",
+            "name": "Ice Cream",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "l6",
+            "name": "L6",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "l7",
+            "name": "L7",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "l9",
+            "name": "L9",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t1",
+            "name": "T1",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t2",
+            "name": "T2",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "traveler",
+            "name": "Traveler",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x50",
+            "name": "X50",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x70",
+            "name": "X70",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "x70-coupe",
+            "name": "X70 Coupe",
+            "year_start": 2020,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "x70-plus",
+            "name": "X70 Plus",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "x70-pro",
+            "name": "X70 Pro",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x70-zhuge",
+            "name": "X70 Zhuge",
+            "year_start": 2022,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "x70m",
+            "name": "X70M",
+            "year_start": 2020,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "x70s",
+            "name": "X70S",
+            "year_start": 2020,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "x90",
+            "name": "X90",
+            "year_start": 2019,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "x90-plus",
+            "name": "X90 Plus",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x90-pro",
+            "name": "X90 Pro",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x90-zilong",
+            "name": "X90 Zilong",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x95",
+            "name": "X95",
+            "year_start": 2020,
+            "year_end": 2021,
+            "generation_count": 1
+        }
+    ],
+    "total": 22
+}
