@@ -1,0 +1,254 @@
+{
+    "make": {
+        "slug": "zotye",
+        "name": "Zotye"
+    },
+    "data": [
+        {
+            "slug": "2008",
+            "name": "2008",
+            "year_start": 2007,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "5008",
+            "name": "5008",
+            "year_start": 2008,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "cloud",
+            "name": "Cloud",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "cloud-100",
+            "name": "Cloud 100",
+            "year_start": 2017,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "cloud-100s",
+            "name": "Cloud 100S",
+            "year_start": 2016,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "cloud-100plus",
+            "name": "Cloud 100plus",
+            "year_start": 2018,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "coupa",
+            "name": "Coupa",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "x5",
+            "name": "Domy X5",
+            "year_start": 2015,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "x7",
+            "name": "Domy X7",
+            "year_start": 2017,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "e200",
+            "name": "E200",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "e200-pro",
+            "name": "E200 Pro",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "m300",
+            "name": "M300",
+            "year_start": 2009,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "nomad",
+            "name": "Nomad",
+            "year_start": 2008,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "sr7",
+            "name": "SR7",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "sr9",
+            "name": "SR9",
+            "year_start": 2017,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "sesame-e30",
+            "name": "Sesame E30",
+            "year_start": 2016,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "t200",
+            "name": "T200",
+            "year_start": 2013,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "t300",
+            "name": "T300",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t500",
+            "name": "T500",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t600",
+            "name": "T600",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "t600-coupe",
+            "name": "T600 Coupe",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t700",
+            "name": "T700",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t700l",
+            "name": "T700L",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t800",
+            "name": "T800",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v10",
+            "name": "V10",
+            "year_start": 2011,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "z100",
+            "name": "Z100",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "z200",
+            "name": "Z200",
+            "year_start": 2011,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "z200hb",
+            "name": "Z200HB",
+            "year_start": 2011,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "z300",
+            "name": "Z300",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "z360",
+            "name": "Z360",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "z500",
+            "name": "Z500",
+            "year_start": 2014,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "z500ev",
+            "name": "Z500EV",
+            "year_start": 2016,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "z560",
+            "name": "Z560",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "z700",
+            "name": "Z700",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "z700h",
+            "name": "Z700H",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 35
+}
