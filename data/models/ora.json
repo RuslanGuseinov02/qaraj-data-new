@@ -1,0 +1,93 @@
+{
+    "make": {
+        "slug": "ora",
+        "name": "Ora"
+    },
+    "data": [
+        {
+            "slug": "03",
+            "name": "03",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "03-gt",
+            "name": "03 GT",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "07",
+            "name": "07",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ballet-cat",
+            "name": "Ballet Cat",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "black-cat",
+            "name": "Black Cat",
+            "year_start": 2019,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "funky-cat",
+            "name": "Funky Cat",
+            "year_start": 2022,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "good-cat",
+            "name": "Good Cat",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "good-cat-gt",
+            "name": "Good Cat GT",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "lightning-cat",
+            "name": "Lightning Cat",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "mecha-dragon",
+            "name": "Mecha Dragon",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "white-cat",
+            "name": "White Cat",
+            "year_start": 2019,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "iq",
+            "name": "iQ",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        }
+    ],
+    "total": 12
+}
