@@ -1,0 +1,23 @@
+{
+    "make": {
+        "slug": "luxeed",
+        "name": "Luxeed"
+    },
+    "data": [
+        {
+            "slug": "r7",
+            "name": "R7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "s7",
+            "name": "S7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        }
+    ],
+    "total": 2
+}
