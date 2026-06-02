@@ -1,0 +1,198 @@
+{
+    "make": {
+        "slug": "proton",
+        "name": "Proton"
+    },
+    "data": [
+        {
+            "slug": "300-series",
+            "name": "300 Series",
+            "year_start": 1996,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "400-series",
+            "name": "400 Series",
+            "year_start": 1995,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "arena",
+            "name": "Arena",
+            "year_start": 2002,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "compact",
+            "name": "Compact",
+            "year_start": 1996,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "ertiga",
+            "name": "Ertiga",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "exora",
+            "name": "Exora",
+            "year_start": 2009,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "gen-2",
+            "name": "Gen-2",
+            "year_start": 2004,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "impian",
+            "name": "Impian",
+            "year_start": 2001,
+            "year_end": 2008,
+            "generation_count": 1
+        },
+        {
+            "slug": "inspira",
+            "name": "Inspira",
+            "year_start": 2010,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "iriz",
+            "name": "Iriz",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "jumbuck",
+            "name": "Jumbuck",
+            "year_start": 2003,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "mpi",
+            "name": "Mpi",
+            "year_start": 1992,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "natura",
+            "name": "Natura",
+            "year_start": 1994,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "perdana",
+            "name": "Perdana",
+            "year_start": 1995,
+            "year_end": 2021,
+            "generation_count": 3
+        },
+        {
+            "slug": "persona",
+            "name": "Persona",
+            "year_start": 1993,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "preve",
+            "name": "Preve",
+            "year_start": 2012,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "s16",
+            "name": "S16",
+            "year_start": 2009,
+            "year_end": 2013,
+            "generation_count": 2
+        },
+        {
+            "slug": "s70",
+            "name": "S70",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "saga",
+            "name": "Saga",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "satria",
+            "name": "Satria",
+            "year_start": 1996,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "savvy",
+            "name": "Savvy",
+            "year_start": 2006,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "suprima",
+            "name": "Suprima S",
+            "year_start": 2013,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "waja",
+            "name": "Waja",
+            "year_start": 2001,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "wira",
+            "name": "Wira",
+            "year_start": 1995,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "x50",
+            "name": "X50",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x70",
+            "name": "X70",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "x90",
+            "name": "X90",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 27
+}
