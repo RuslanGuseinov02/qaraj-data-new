@@ -1,0 +1,156 @@
+{
+    "make": {
+        "slug": "venucia",
+        "name": "Venucia"
+    },
+    "data": [
+        {
+            "slug": "d50",
+            "name": "D50",
+            "year_start": 2012,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "d60",
+            "name": "D60",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "d60-plus",
+            "name": "D60 Plus",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "d60ev",
+            "name": "D60EV",
+            "year_start": 2019,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "d60ev-plus",
+            "name": "D60EV Plus",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e30",
+            "name": "E30",
+            "year_start": 2014,
+            "year_end": 2021,
+            "generation_count": 2
+        },
+        {
+            "slug": "m50v",
+            "name": "M50V",
+            "year_start": 2016,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "morning-wind",
+            "name": "Morning Wind",
+            "year_start": 2014,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "r30",
+            "name": "R30",
+            "year_start": 2014,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "r50",
+            "name": "R50",
+            "year_start": 2011,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "r50x",
+            "name": "R50X",
+            "year_start": 2013,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "xing",
+            "name": "Star",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t60",
+            "name": "T60",
+            "year_start": 2018,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "t60ev",
+            "name": "T60EV",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t70",
+            "name": "T70",
+            "year_start": 2015,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "t70x",
+            "name": "T70X",
+            "year_start": 2015,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "t90",
+            "name": "T90",
+            "year_start": 2017,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "v-online",
+            "name": "V-Online",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v-online-dd-i",
+            "name": "V-Online DD-i",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v-online-dd-i-killer-whale",
+            "name": "V-Online DD-i Killer Whale",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "vx6",
+            "name": "VX6",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 21
+}
