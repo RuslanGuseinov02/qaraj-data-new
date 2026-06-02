@@ -1,0 +1,86 @@
+{
+    "make": {
+        "slug": "lotus",
+        "name": "Lotus"
+    },
+    "data": [
+        {
+            "slug": "340r",
+            "name": "340R",
+            "year_start": 2000,
+            "year_end": 2000,
+            "generation_count": 1
+        },
+        {
+            "slug": "elan",
+            "name": "Elan",
+            "year_start": 1989,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "eletre",
+            "name": "Eletre",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "elise",
+            "name": "Elise",
+            "year_start": 1995,
+            "year_end": 2021,
+            "generation_count": 3
+        },
+        {
+            "slug": "emeya",
+            "name": "Emeya",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "emira",
+            "name": "Emira",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "esprit",
+            "name": "Esprit",
+            "year_start": 1999,
+            "year_end": 2004,
+            "generation_count": 1
+        },
+        {
+            "slug": "europa-s",
+            "name": "Europa S",
+            "year_start": 2006,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "evija",
+            "name": "Evija",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "evora",
+            "name": "Evora",
+            "year_start": 2009,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "exige",
+            "name": "Exige",
+            "year_start": 2000,
+            "year_end": 2021,
+            "generation_count": 3
+        }
+    ],
+    "total": 11
+}
