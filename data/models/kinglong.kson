@@ -1,0 +1,114 @@
+{
+    "make": {
+        "slug": "kinglong",
+        "name": "King Long"
+    },
+    "data": [
+        {
+            "slug": "ibhubezi",
+            "name": "Ibhubezi",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "kl8",
+            "name": "KL8",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "kaige",
+            "name": "Kaige",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "kairui-haoke",
+            "name": "Kairui Haoke",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "kaite",
+            "name": "Kaite",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "kingo",
+            "name": "Kingo",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "kingry",
+            "name": "Kingry",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "kingte",
+            "name": "Kingte",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "jinwei",
+            "name": "Long Jinwei",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "kingwin",
+            "name": "Long Kingwin",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "longyao-6",
+            "name": "Long Longyao 6",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "longyao-8",
+            "name": "Long Longyao 8",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "makoya",
+            "name": "Makoya",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "max",
+            "name": "Max",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "univan",
+            "name": "Univan",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 15
+}
