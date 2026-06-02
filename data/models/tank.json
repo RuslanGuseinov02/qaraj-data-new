@@ -1,0 +1,37 @@
+{
+    "make": {
+        "slug": "tank",
+        "name": "Tank"
+    },
+    "data": [
+        {
+            "slug": "300",
+            "name": "300",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "400",
+            "name": "400",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "500",
+            "name": "500",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "700",
+            "name": "700",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 4
+}
