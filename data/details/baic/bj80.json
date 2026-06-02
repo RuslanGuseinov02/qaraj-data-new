@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "bj80",
+  "name": "bj80",
+  "generations": [
+    {
+      "slug": "bj80-0",
+      "name": "bj80 1",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/bj80/2016-2019.webp"
+      }
+    },
+    {
+      "slug": "bj80-1",
+      "name": "bj80 2",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/bj80/2020-2025.webp"
+      }
+    }
+  ]
+}

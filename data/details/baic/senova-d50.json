@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "senova-d50",
+  "name": "senova-d50",
+  "generations": [
+    {
+      "slug": "senova-d50-0",
+      "name": "senova-d50 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/senova-d50/2014-2017.webp"
+      }
+    },
+    {
+      "slug": "senova-d50-1",
+      "name": "senova-d50 2",
+      "year_start": 2018,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/senova-d50/2018-2025.webp"
+      }
+    }
+  ]
+}

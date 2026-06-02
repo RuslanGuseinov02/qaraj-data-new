@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "x7",
+  "name": "x7",
+  "generations": [
+    {
+      "slug": "x7-0",
+      "name": "x7 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/x7/2020-now.webp"
+      }
+    },
+    {
+      "slug": "x7-1",
+      "name": "x7 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/x7/2024-now.webp"
+      }
+    }
+  ]
+}

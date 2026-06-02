@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "b60-beaumont",
+  "name": "b60-beaumont",
+  "generations": [
+    {
+      "slug": "b60-beaumont-0",
+      "name": "b60-beaumont 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/b60-beaumont/2022-now.webp"
+      }
+    }
+  ]
+}

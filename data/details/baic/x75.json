@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "x75",
+  "name": "x75",
+  "generations": [
+    {
+      "slug": "x75-0",
+      "name": "x75 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/x75/2024-now.webp"
+      }
+    }
+  ]
+}

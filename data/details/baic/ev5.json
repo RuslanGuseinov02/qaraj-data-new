@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "ev5",
+  "name": "ev5",
+  "generations": [
+    {
+      "slug": "ev5-0",
+      "name": "ev5 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/ev5/2022-now.webp"
+      }
+    }
+  ]
+}

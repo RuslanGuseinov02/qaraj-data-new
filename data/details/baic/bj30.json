@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "bj30",
+  "name": "bj30",
+  "generations": [
+    {
+      "slug": "bj30-0",
+      "name": "bj30 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/bj30/2020-2023.webp"
+      }
+    },
+    {
+      "slug": "bj30-1",
+      "name": "bj30 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/bj30/2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "bj20",
+  "name": "bj20",
+  "generations": [
+    {
+      "slug": "bj20-0",
+      "name": "bj20 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/bj20/2016-2020.webp"
+      }
+    }
+  ]
+}

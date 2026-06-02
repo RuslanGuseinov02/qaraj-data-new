@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "senova-x35",
+  "name": "senova-x35",
+  "generations": [
+    {
+      "slug": "senova-x35-0",
+      "name": "senova-x35 1",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/senova-x35/2016-2021.webp"
+      }
+    }
+  ]
+}

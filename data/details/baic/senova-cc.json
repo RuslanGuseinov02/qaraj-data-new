@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "senova-cc",
+  "name": "senova-cc",
+  "generations": [
+    {
+      "slug": "senova-cc-0",
+      "name": "senova-cc 1",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/senova-cc/2015-2017.webp"
+      }
+    }
+  ]
+}

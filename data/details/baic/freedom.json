@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "freedom",
+  "name": "freedom",
+  "generations": [
+    {
+      "slug": "freedom-0",
+      "name": "freedom 1",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/freedom/2016-2021.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "bayanihan-h5",
+  "name": "bayanihan-h5",
+  "generations": [
+    {
+      "slug": "bayanihan-h5-0",
+      "name": "bayanihan-h5 1",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/bayanihan-h5/2017-2021.webp"
+      }
+    }
+  ]
+}

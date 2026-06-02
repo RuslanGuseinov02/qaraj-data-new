@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "es210",
+  "name": "es210",
+  "generations": [
+    {
+      "slug": "es210-0",
+      "name": "es210 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/es210/2013-2016.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "b40-ragnar",
+  "name": "b40-ragnar",
+  "generations": [
+    {
+      "slug": "b40-ragnar-0",
+      "name": "b40-ragnar 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/b40-ragnar/2021-now.webp"
+      }
+    }
+  ]
+}

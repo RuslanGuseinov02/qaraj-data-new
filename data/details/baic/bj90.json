@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "bj90",
+  "name": "bj90",
+  "generations": [
+    {
+      "slug": "bj90-0",
+      "name": "bj90 1",
+      "year_start": 2016,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/bj90/2016-2023.webp"
+      }
+    }
+  ]
+}

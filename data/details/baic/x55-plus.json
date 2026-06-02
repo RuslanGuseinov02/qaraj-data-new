@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "x55-plus",
+  "name": "x55-plus",
+  "generations": [
+    {
+      "slug": "x55-plus-0",
+      "name": "x55-plus 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/x55-plus/2024-now.webp"
+      }
+    }
+  ]
+}

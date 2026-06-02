@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "bj40-c",
+  "name": "bj40-c",
+  "generations": [
+    {
+      "slug": "bj40-c-0",
+      "name": "bj40-c 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/bj40-c/2023-now.webp"
+      }
+    }
+  ]
+}

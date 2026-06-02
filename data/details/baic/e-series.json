@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "e-series",
+  "name": "e-series",
+  "generations": [
+    {
+      "slug": "e-series-0",
+      "name": "e-series 1",
+      "year_start": 2012,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/e-series/2012-2013.webp"
+      }
+    }
+  ]
+}

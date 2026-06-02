@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "ev200",
+  "name": "ev200",
+  "generations": [
+    {
+      "slug": "ev200-0",
+      "name": "ev200 1",
+      "year_start": 2015,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/ev200/2015-2015.webp"
+      }
+    }
+  ]
+}

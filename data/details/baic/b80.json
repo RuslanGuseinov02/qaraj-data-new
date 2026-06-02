@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "b80",
+  "name": "b80",
+  "generations": [
+    {
+      "slug": "b80-0",
+      "name": "b80 1",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/b80/2021-2025.webp"
+      }
+    }
+  ]
+}

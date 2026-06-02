@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "x35",
+  "name": "x35",
+  "generations": [
+    {
+      "slug": "x35-0",
+      "name": "x35 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/x35/2020-now.webp"
+      }
+    }
+  ]
+}

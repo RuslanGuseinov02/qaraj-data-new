@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "f40",
+  "name": "f40",
+  "generations": [
+    {
+      "slug": "f40-0",
+      "name": "f40 1",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/f40/2019-2021.webp"
+      }
+    },
+    {
+      "slug": "f40-1",
+      "name": "f40 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/f40/2022-now.webp"
+      }
+    }
+  ]
+}

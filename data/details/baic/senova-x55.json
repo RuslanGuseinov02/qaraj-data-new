@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "senova-x55",
+  "name": "senova-x55",
+  "generations": [
+    {
+      "slug": "senova-x55-0",
+      "name": "senova-x55 1",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/senova-x55/2015-2018.webp"
+      }
+    },
+    {
+      "slug": "senova-x55-1",
+      "name": "senova-x55 2",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/senova-x55/2018-2021.webp"
+      }
+    }
+  ]
+}

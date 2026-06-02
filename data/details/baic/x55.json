@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "x55",
+  "name": "x55",
+  "generations": [
+    {
+      "slug": "x55-0",
+      "name": "x55 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/x55/2020-2023.webp"
+      }
+    },
+    {
+      "slug": "x55-1",
+      "name": "x55 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/x55/2023-now.webp"
+      }
+    }
+  ]
+}

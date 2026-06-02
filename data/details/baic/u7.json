@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "u7",
+  "name": "u7",
+  "generations": [
+    {
+      "slug": "u7-0",
+      "name": "u7 1",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/u7/2018-2023.webp"
+      }
+    }
+  ]
+}

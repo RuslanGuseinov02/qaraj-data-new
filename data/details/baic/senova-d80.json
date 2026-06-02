@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baic",
+    "name": "BAIC"
+  },
+  "slug": "senova-d80",
+  "name": "senova-d80",
+  "generations": [
+    {
+      "slug": "senova-d80-0",
+      "name": "senova-d80 1",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baic/senova-d80/2015-2017.webp"
+      }
+    }
+  ]
+}
