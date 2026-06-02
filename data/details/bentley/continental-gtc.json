@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "bentley",
+    "name": "BENTLEY"
+  },
+  "slug": "continental-gtc",
+  "name": "continental-gtc",
+  "generations": [
+    {
+      "slug": "continental-gtc-0",
+      "name": "continental-gtc 1",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bentley/continental-gtc/2006-2011.webp"
+      }
+    },
+    {
+      "slug": "continental-gtc-1",
+      "name": "continental-gtc 2",
+      "year_start": 2011,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bentley/continental-gtc/2011-2018.webp"
+      }
+    },
+    {
+      "slug": "continental-gtc-2",
+      "name": "continental-gtc 3",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bentley/continental-gtc/2019-2024.webp"
+      }
+    },
+    {
+      "slug": "continental-gtc-3",
+      "name": "continental-gtc 4",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bentley/continental-gtc/2024-now.webp"
+      }
+    }
+  ]
+}

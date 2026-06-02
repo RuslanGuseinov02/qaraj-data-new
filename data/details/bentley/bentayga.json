@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "bentley",
+    "name": "BENTLEY"
+  },
+  "slug": "bentayga",
+  "name": "bentayga",
+  "generations": [
+    {
+      "slug": "bentayga-0",
+      "name": "bentayga 1",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bentley/bentayga/pl71-2015-2020.webp"
+      }
+    },
+    {
+      "slug": "bentayga-1",
+      "name": "bentayga 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bentley/bentayga/pl71-2020-now.webp"
+      }
+    }
+  ]
+}

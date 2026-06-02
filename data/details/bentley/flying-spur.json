@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "bentley",
+    "name": "BENTLEY"
+  },
+  "slug": "flying-spur",
+  "name": "flying-spur",
+  "generations": [
+    {
+      "slug": "flying-spur-0",
+      "name": "flying-spur 1",
+      "year_start": 2013,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bentley/flying-spur/2013-2019.webp"
+      }
+    },
+    {
+      "slug": "flying-spur-1",
+      "name": "flying-spur 2",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bentley/flying-spur/2019-2024.webp"
+      }
+    },
+    {
+      "slug": "flying-spur-2",
+      "name": "flying-spur 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bentley/flying-spur/2024-now.webp"
+      }
+    }
+  ]
+}

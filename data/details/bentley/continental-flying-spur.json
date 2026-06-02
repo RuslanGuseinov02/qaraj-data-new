@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "bentley",
+    "name": "BENTLEY"
+  },
+  "slug": "continental-flying-spur",
+  "name": "continental-flying-spur",
+  "generations": [
+    {
+      "slug": "continental-flying-spur-0",
+      "name": "continental-flying-spur 1",
+      "year_start": 2005,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bentley/continental-flying-spur/2005-2013.webp"
+      }
+    }
+  ]
+}

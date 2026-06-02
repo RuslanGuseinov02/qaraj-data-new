@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "bentley",
+    "name": "BENTLEY"
+  },
+  "slug": "azure",
+  "name": "azure",
+  "generations": [
+    {
+      "slug": "azure-0",
+      "name": "azure 1",
+      "year_start": 1995,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bentley/azure/1995-2005.webp"
+      }
+    },
+    {
+      "slug": "azure-1",
+      "name": "azure 2",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bentley/azure/2006-2011.webp"
+      }
+    }
+  ]
+}
