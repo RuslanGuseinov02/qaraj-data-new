@@ -1,0 +1,93 @@
+{
+    "make": {
+        "slug": "rover",
+        "name": "Rover"
+    },
+    "data": [
+        {
+            "slug": "100",
+            "name": "100",
+            "year_start": 1994,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "200",
+            "name": "200",
+            "year_start": 1985,
+            "year_end": 2000,
+            "generation_count": 3
+        },
+        {
+            "slug": "25",
+            "name": "25",
+            "year_start": 1999,
+            "year_end": 2005,
+            "generation_count": 2
+        },
+        {
+            "slug": "400",
+            "name": "400",
+            "year_start": 1990,
+            "year_end": 2000,
+            "generation_count": 2
+        },
+        {
+            "slug": "45",
+            "name": "45",
+            "year_start": 2000,
+            "year_end": 2005,
+            "generation_count": 2
+        },
+        {
+            "slug": "600",
+            "name": "600",
+            "year_start": 1993,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "75",
+            "name": "75",
+            "year_start": 1999,
+            "year_end": 2005,
+            "generation_count": 2
+        },
+        {
+            "slug": "800",
+            "name": "800",
+            "year_start": 1986,
+            "year_end": 1999,
+            "generation_count": 2
+        },
+        {
+            "slug": "city-rover",
+            "name": "City Rover",
+            "year_start": 2003,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "maestro",
+            "name": "Maestro",
+            "year_start": 1990,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "metro",
+            "name": "Metro",
+            "year_start": 1990,
+            "year_end": 1994,
+            "generation_count": 1
+        },
+        {
+            "slug": "streetwise",
+            "name": "Streetwise",
+            "year_start": 2003,
+            "year_end": 2005,
+            "generation_count": 1
+        }
+    ],
+    "total": 12
+}
