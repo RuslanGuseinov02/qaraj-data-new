@@ -1,0 +1,23 @@
+{
+    "make": {
+        "slug": "rox",
+        "name": "Rox"
+    },
+    "data": [
+        {
+            "slug": "01",
+            "name": "01",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "adamas",
+            "name": "Adamas",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 2
+}
