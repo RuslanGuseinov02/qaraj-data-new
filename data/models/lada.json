@@ -1,0 +1,359 @@
+{
+    "make": {
+        "slug": "lada",
+        "name": "LADA"
+    },
+    "data": [
+        {
+            "slug": "110",
+            "name": "110",
+            "year_start": 1996,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "111",
+            "name": "111",
+            "year_start": 1997,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "112",
+            "name": "112",
+            "year_start": 1999,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "1200",
+            "name": "1200",
+            "year_start": 1970,
+            "year_end": 1989,
+            "generation_count": 1
+        },
+        {
+            "slug": "1200dl",
+            "name": "1200DL",
+            "year_start": 1973,
+            "year_end": 1981,
+            "generation_count": 1
+        },
+        {
+            "slug": "1300",
+            "name": "1300",
+            "year_start": 1974,
+            "year_end": 1985,
+            "generation_count": 1
+        },
+        {
+            "slug": "1300sl",
+            "name": "1300SL",
+            "year_start": 1977,
+            "year_end": 1983,
+            "generation_count": 1
+        },
+        {
+            "slug": "1500",
+            "name": "1500",
+            "year_start": 1973,
+            "year_end": 1985,
+            "generation_count": 1
+        },
+        {
+            "slug": "2104",
+            "name": "2104",
+            "year_start": 1984,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "2105",
+            "name": "2105",
+            "year_start": 1980,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "2107",
+            "name": "2107",
+            "year_start": 1982,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "2108",
+            "name": "2108",
+            "year_start": 1984,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "2109",
+            "name": "2109",
+            "year_start": 1987,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "21099",
+            "name": "21099",
+            "year_start": 1990,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "4x4",
+            "name": "4X4",
+            "year_start": 1977,
+            "year_end": 2021,
+            "generation_count": 3
+        },
+        {
+            "slug": "4x4-bronto",
+            "name": "4x4 Bronto",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "4x4-urban",
+            "name": "4x4 Urban",
+            "year_start": 2014,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "aura",
+            "name": "Aura",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "fora",
+            "name": "Fora",
+            "year_start": 1995,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "granta",
+            "name": "Granta",
+            "year_start": 2011,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "granta-cross",
+            "name": "Granta Cross",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "granta-sport",
+            "name": "Granta Sport",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "iskra",
+            "name": "Iskra",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "iskra-sw",
+            "name": "Iskra SW",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "iskra-sw-cross",
+            "name": "Iskra SW Cross",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "kalina",
+            "name": "Kalina",
+            "year_start": 2004,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "kalina-cross",
+            "name": "Kalina Cross",
+            "year_start": 2014,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "kalina-sport",
+            "name": "Kalina Sport",
+            "year_start": 2008,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "largus",
+            "name": "Largus",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "largus-cross",
+            "name": "Largus Cross",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "nadezhda",
+            "name": "Nadezhda",
+            "year_start": 1998,
+            "year_end": 2006,
+            "generation_count": 2
+        },
+        {
+            "slug": "niva",
+            "name": "Niva",
+            "year_start": 1977,
+            "year_end": 2021,
+            "generation_count": 3
+        },
+        {
+            "slug": "niva-bronto",
+            "name": "Niva Bronto",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "2123",
+            "name": "Niva II",
+            "year_start": 1998,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "niva-legend",
+            "name": "Niva Legend",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "niva-sport",
+            "name": "Niva Sport",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "niva-travel",
+            "name": "Niva Travel",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "nova",
+            "name": "Nova",
+            "year_start": 1982,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "priora",
+            "name": "Priora",
+            "year_start": 2007,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "riva",
+            "name": "Riva",
+            "year_start": 1981,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "samara",
+            "name": "Samara",
+            "year_start": 1984,
+            "year_end": 2013,
+            "generation_count": 2
+        },
+        {
+            "slug": "taiga",
+            "name": "Taiga",
+            "year_start": 2013,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "vesta",
+            "name": "Vesta",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "vesta-cross",
+            "name": "Vesta Cross",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "vesta-sw",
+            "name": "Vesta SW",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "vesta-sw-cross",
+            "name": "Vesta SW Cross",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "vesta-sw-sport",
+            "name": "Vesta SW Sport",
+            "year_start": 2026,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "vesta-sport",
+            "name": "Vesta Sport",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "xray",
+            "name": "XRAY",
+            "year_start": 2016,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "xray-cross",
+            "name": "XRAY Cross",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        }
+    ],
+    "total": 50
+}
