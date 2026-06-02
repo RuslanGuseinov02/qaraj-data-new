@@ -1,0 +1,44 @@
+{
+    "make": {
+        "slug": "ravon",
+        "name": "Ravon"
+    },
+    "data": [
+        {
+            "slug": "gentra",
+            "name": "Gentra",
+            "year_start": 2015,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "matiz",
+            "name": "Matiz",
+            "year_start": 2015,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "nexia",
+            "name": "Nexia R3",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "r2",
+            "name": "R2",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "r4",
+            "name": "R4",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 1
+        }
+    ],
+    "total": 5
+}
