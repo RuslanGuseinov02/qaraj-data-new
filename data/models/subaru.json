@@ -1,0 +1,513 @@
+{
+    "make": {
+        "slug": "subaru",
+        "name": "Subaru"
+    },
+    "data": [
+        {
+            "slug": "alcyone",
+            "name": "Alcyone",
+            "year_start": 1989,
+            "year_end": 1997,
+            "generation_count": 2
+        },
+        {
+            "slug": "ascent",
+            "name": "Ascent",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "b9-tribeca",
+            "name": "B9 Tribeca",
+            "year_start": 2005,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "brz",
+            "name": "BRZ",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "baja",
+            "name": "Baja",
+            "year_start": 2002,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "chiffon",
+            "name": "Chiffon",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "chiffon-custom",
+            "name": "Chiffon Custom",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "chiffon-try",
+            "name": "Chiffon Try",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "columbuss",
+            "name": "Columbuss",
+            "year_start": 1983,
+            "year_end": 1998,
+            "generation_count": 2
+        },
+        {
+            "slug": "crosstrek",
+            "name": "Crosstrek",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "dex",
+            "name": "Dex",
+            "year_start": 2008,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "dias-wagon",
+            "name": "Dias Wagon",
+            "year_start": 1999,
+            "year_end": 2020,
+            "generation_count": 3
+        },
+        {
+            "slug": "domingo",
+            "name": "Domingo",
+            "year_start": 1983,
+            "year_end": 1998,
+            "generation_count": 2
+        },
+        {
+            "slug": "e-series",
+            "name": "E series",
+            "year_start": 1983,
+            "year_end": 1998,
+            "generation_count": 2
+        },
+        {
+            "slug": "e-outback",
+            "name": "E-Outback",
+            "year_start": 2026,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "estratto",
+            "name": "Estratto",
+            "year_start": 1983,
+            "year_end": 1998,
+            "generation_count": 2
+        },
+        {
+            "slug": "evoltis",
+            "name": "Evoltis",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "exiga",
+            "name": "Exiga",
+            "year_start": 2008,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "exiga-crossover-7",
+            "name": "Exiga Crossover 7",
+            "year_start": 2015,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "forester",
+            "name": "Forester",
+            "year_start": 1997,
+            "year_end": null,
+            "generation_count": 9
+        },
+        {
+            "slug": "impreza",
+            "name": "Impreza",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 10
+        },
+        {
+            "slug": "impreza-anesis",
+            "name": "Impreza Anesis",
+            "year_start": 2008,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "impreza-g4",
+            "name": "Impreza G4",
+            "year_start": 2011,
+            "year_end": 2023,
+            "generation_count": 3
+        },
+        {
+            "slug": "impreza-sport",
+            "name": "Impreza Sport",
+            "year_start": 2011,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "impreza-wrx",
+            "name": "Impreza WRX",
+            "year_start": 1992,
+            "year_end": 2014,
+            "generation_count": 6
+        },
+        {
+            "slug": "impreza-wrx-sti",
+            "name": "Impreza WRX STI",
+            "year_start": 1992,
+            "year_end": 2014,
+            "generation_count": 6
+        },
+        {
+            "slug": "impreza-xv",
+            "name": "Impreza XV",
+            "year_start": 2010,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "justy",
+            "name": "Justy",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "legacy",
+            "name": "Legacy",
+            "year_start": 1989,
+            "year_end": null,
+            "generation_count": 11
+        },
+        {
+            "slug": "legacy-b4",
+            "name": "Legacy B4",
+            "year_start": 1998,
+            "year_end": 2020,
+            "generation_count": 5
+        },
+        {
+            "slug": "legacy-grand-wagon",
+            "name": "Legacy Grand Wagon",
+            "year_start": 1995,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "legacy-lancaster",
+            "name": "Legacy Lancaster",
+            "year_start": 1996,
+            "year_end": 2003,
+            "generation_count": 2
+        },
+        {
+            "slug": "legacy-outback",
+            "name": "Legacy Outback",
+            "year_start": 1995,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "legacy-touring-wagon",
+            "name": "Legacy Touring Wagon",
+            "year_start": 1989,
+            "year_end": 2014,
+            "generation_count": 5
+        },
+        {
+            "slug": "leone",
+            "name": "Leone",
+            "year_start": 1971,
+            "year_end": 1994,
+            "generation_count": 3
+        },
+        {
+            "slug": "levorg",
+            "name": "Levorg",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "levorg-layback",
+            "name": "Levorg Layback",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "libero",
+            "name": "Libero",
+            "year_start": 1983,
+            "year_end": 1998,
+            "generation_count": 2
+        },
+        {
+            "slug": "liberty",
+            "name": "Liberty",
+            "year_start": 2020,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "lucra",
+            "name": "Lucra",
+            "year_start": 2010,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "lucra-custom",
+            "name": "Lucra Custom",
+            "year_start": 2010,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "outback",
+            "name": "Outback",
+            "year_start": 1995,
+            "year_end": null,
+            "generation_count": 11
+        },
+        {
+            "slug": "pleo",
+            "name": "Pleo",
+            "year_start": 1998,
+            "year_end": 2018,
+            "generation_count": 4
+        },
+        {
+            "slug": "pleo-custom",
+            "name": "Pleo Custom",
+            "year_start": 2010,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "pleo-nesta",
+            "name": "Pleo Nesta",
+            "year_start": 1999,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "pleo-plus",
+            "name": "Pleo Plus",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "r1",
+            "name": "R1",
+            "year_start": 2005,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "r2",
+            "name": "R2",
+            "year_start": 2003,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "rex",
+            "name": "Rex",
+            "year_start": 1989,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "svx",
+            "name": "SVX",
+            "year_start": 1992,
+            "year_end": 1997,
+            "generation_count": 1
+        },
+        {
+            "slug": "sambar-dias",
+            "name": "Sambar Dias",
+            "year_start": 1992,
+            "year_end": 2005,
+            "generation_count": 2
+        },
+        {
+            "slug": "sambar-truck",
+            "name": "Sambar Truck",
+            "year_start": 1999,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "sambar-try",
+            "name": "Sambar Try",
+            "year_start": 1989,
+            "year_end": 1993,
+            "generation_count": 2
+        },
+        {
+            "slug": "sambar",
+            "name": "Sambar Van",
+            "year_start": 1992,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "solterra",
+            "name": "Solterra",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "stella",
+            "name": "Stella",
+            "year_start": 2006,
+            "year_end": 2024,
+            "generation_count": 4
+        },
+        {
+            "slug": "stella-custom",
+            "name": "Stella Custom",
+            "year_start": 2006,
+            "year_end": 2024,
+            "generation_count": 5
+        },
+        {
+            "slug": "sumo",
+            "name": "Sumo",
+            "year_start": 1983,
+            "year_end": 1998,
+            "generation_count": 2
+        },
+        {
+            "slug": "trailseeker",
+            "name": "Trailseeker",
+            "year_start": 2026,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "traviq",
+            "name": "Traviq",
+            "year_start": 2001,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "trezia",
+            "name": "Trezia",
+            "year_start": 2010,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "tribeca",
+            "name": "Tribeca",
+            "year_start": 2008,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "uncharted",
+            "name": "Uncharted",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "vivio",
+            "name": "Vivio",
+            "year_start": 1992,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "vivio-bistro",
+            "name": "Vivio Bistro",
+            "year_start": 1995,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "wrx",
+            "name": "WRX",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "wrx-s4",
+            "name": "WRX S4",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "wrx-sti",
+            "name": "WRX STI",
+            "year_start": 2014,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "xt",
+            "name": "XT",
+            "year_start": 1985,
+            "year_end": 1991,
+            "generation_count": 1
+        },
+        {
+            "slug": "xt6",
+            "name": "XT6",
+            "year_start": 1988,
+            "year_end": 1991,
+            "generation_count": 1
+        },
+        {
+            "slug": "xv",
+            "name": "XV",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "xv-crosstrek",
+            "name": "XV Crosstrek",
+            "year_start": 2013,
+            "year_end": 2017,
+            "generation_count": 1
+        }
+    ],
+    "total": 72
+}
