@@ -1,0 +1,800 @@
+{
+    "make": {
+        "slug": "kia",
+        "name": "Kia"
+    },
+    "data": [
+        {
+            "slug": "300e",
+            "name": "300E",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "amanti",
+            "name": "Amanti",
+            "year_start": 2004,
+            "year_end": 2009,
+            "generation_count": 2
+        },
+        {
+            "slug": "avella",
+            "name": "Avella",
+            "year_start": 1995,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "besta",
+            "name": "Besta",
+            "year_start": 1985,
+            "year_end": 2005,
+            "generation_count": 3
+        },
+        {
+            "slug": "bongo",
+            "name": "Bongo",
+            "year_start": 1997,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "borrego",
+            "name": "Borrego",
+            "year_start": 2008,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "cadenza",
+            "name": "Cadenza",
+            "year_start": 2009,
+            "year_end": 2021,
+            "generation_count": 4
+        },
+        {
+            "slug": "capital",
+            "name": "Capital",
+            "year_start": 1989,
+            "year_end": 1996,
+            "generation_count": 1
+        },
+        {
+            "slug": "carens",
+            "name": "Carens",
+            "year_start": 1999,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "carens-clavis",
+            "name": "Carens Clavis",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "carnival",
+            "name": "Carnival",
+            "year_start": 1998,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "carstar",
+            "name": "Carstar",
+            "year_start": 1999,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "cee-d",
+            "name": "Cee'd",
+            "year_start": 2006,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "ceed",
+            "name": "Ceed",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "cerato",
+            "name": "Cerato",
+            "year_start": 2003,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "cerato-classic",
+            "name": "Cerato Classic",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "cerato-k3",
+            "name": "Cerato K3",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "cerato-koup",
+            "name": "Cerato Koup",
+            "year_start": 2009,
+            "year_end": 2018,
+            "generation_count": 2
+        },
+        {
+            "slug": "cerato-vivro",
+            "name": "Cerato Vivro",
+            "year_start": 2019,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "clarus",
+            "name": "Clarus",
+            "year_start": 1996,
+            "year_end": 2001,
+            "generation_count": 2
+        },
+        {
+            "slug": "credos",
+            "name": "Credos",
+            "year_start": 1995,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "ev3",
+            "name": "EV3",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ev4",
+            "name": "EV4",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ev5",
+            "name": "EV5",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ev6",
+            "name": "EV6",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "ev9",
+            "name": "EV9",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "elan",
+            "name": "Elan",
+            "year_start": 1996,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "enterprise",
+            "name": "Enterprise",
+            "year_start": 1997,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "forte",
+            "name": "Forte",
+            "year_start": 2008,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "forte-koup",
+            "name": "Forte Koup",
+            "year_start": 2009,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "forte-r",
+            "name": "Forte R",
+            "year_start": 2009,
+            "year_end": 2021,
+            "generation_count": 3
+        },
+        {
+            "slug": "forte5",
+            "name": "Forte5",
+            "year_start": 2011,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "frontier",
+            "name": "Frontier",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "grand-carnival",
+            "name": "Grand Carnival",
+            "year_start": 2005,
+            "year_end": 2021,
+            "generation_count": 4
+        },
+        {
+            "slug": "joice",
+            "name": "Joice",
+            "year_start": 1999,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "k2",
+            "name": "K2",
+            "year_start": 2011,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "k2500",
+            "name": "K2500",
+            "year_start": 2004,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "k2700",
+            "name": "K2700",
+            "year_start": 2004,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "k3",
+            "name": "K3",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "k3-cross",
+            "name": "K3 Cross",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "k3-gt",
+            "name": "K3 GT",
+            "year_start": 2018,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "k3-koup",
+            "name": "K3 Koup",
+            "year_start": 2013,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "k3000s",
+            "name": "K3000",
+            "year_start": 2014,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "k4",
+            "name": "K4",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "k4-cachet",
+            "name": "K4 Cachet",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "k5",
+            "name": "K5",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "k7",
+            "name": "K7",
+            "year_start": 2009,
+            "year_end": 2021,
+            "generation_count": 4
+        },
+        {
+            "slug": "k8",
+            "name": "K8",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "k9",
+            "name": "K9",
+            "year_start": 2012,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "k900",
+            "name": "K900",
+            "year_start": 2014,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "kx-cross",
+            "name": "KX cross",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "kx1",
+            "name": "KX1",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "kx3",
+            "name": "KX3",
+            "year_start": 2015,
+            "year_end": 2024,
+            "generation_count": 3
+        },
+        {
+            "slug": "kx5",
+            "name": "KX5",
+            "year_start": 2016,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "kx7",
+            "name": "KX7",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "lotze",
+            "name": "Lotze",
+            "year_start": 2005,
+            "year_end": 2010,
+            "generation_count": 2
+        },
+        {
+            "slug": "magentis",
+            "name": "Magentis",
+            "year_start": 2000,
+            "year_end": 2010,
+            "generation_count": 4
+        },
+        {
+            "slug": "mentor",
+            "name": "Mentor",
+            "year_start": 1994,
+            "year_end": 2001,
+            "generation_count": 2
+        },
+        {
+            "slug": "mohave",
+            "name": "Mohave",
+            "year_start": 2008,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "morning",
+            "name": "Morning",
+            "year_start": 2004,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "morning-x-line",
+            "name": "Morning X-Line",
+            "year_start": 2019,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "niro",
+            "name": "Niro",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "niro-plus",
+            "name": "Niro Plus",
+            "year_start": 2022,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "opirus",
+            "name": "Opirus",
+            "year_start": 2003,
+            "year_end": 2010,
+            "generation_count": 2
+        },
+        {
+            "slug": "optima",
+            "name": "Optima",
+            "year_start": 2000,
+            "year_end": 2020,
+            "generation_count": 8
+        },
+        {
+            "slug": "pv5",
+            "name": "PV5",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "pegas",
+            "name": "Pegas",
+            "year_start": 2017,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "picanto",
+            "name": "Picanto",
+            "year_start": 2004,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "picanto-cross",
+            "name": "Picanto Cross",
+            "year_start": 2018,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "picanto-x-line",
+            "name": "Picanto X-Line",
+            "year_start": 2020,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "potentia",
+            "name": "Potentia",
+            "year_start": 1992,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "pregio",
+            "name": "Pregio",
+            "year_start": 1995,
+            "year_end": 2006,
+            "generation_count": 2
+        },
+        {
+            "slug": "pride",
+            "name": "Pride",
+            "year_start": 1990,
+            "year_end": 2017,
+            "generation_count": 4
+        },
+        {
+            "slug": "proceed",
+            "name": "ProCeed",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "quoris",
+            "name": "Quoris",
+            "year_start": 2012,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "ray",
+            "name": "Ray",
+            "year_start": 2011,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "retona",
+            "name": "Retona",
+            "year_start": 1998,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "rio",
+            "name": "Rio",
+            "year_start": 2000,
+            "year_end": 2024,
+            "generation_count": 12
+        },
+        {
+            "slug": "rio-cross",
+            "name": "Rio Cross",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "rio-x",
+            "name": "Rio X",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "rio-x-line",
+            "name": "Rio X-Line",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "rio5",
+            "name": "Rio5",
+            "year_start": 2006,
+            "year_end": 2011,
+            "generation_count": 2
+        },
+        {
+            "slug": "roadster",
+            "name": "Roadster",
+            "year_start": 1998,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "rondo",
+            "name": "Rondo",
+            "year_start": 2006,
+            "year_end": 2018,
+            "generation_count": 3
+        },
+        {
+            "slug": "sedona",
+            "name": "Sedona",
+            "year_start": 1998,
+            "year_end": 2021,
+            "generation_count": 5
+        },
+        {
+            "slug": "seltos",
+            "name": "Seltos",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "sephia",
+            "name": "Sephia",
+            "year_start": 1992,
+            "year_end": 2004,
+            "generation_count": 3
+        },
+        {
+            "slug": "shuma",
+            "name": "Shuma",
+            "year_start": 1996,
+            "year_end": 2017,
+            "generation_count": 4
+        },
+        {
+            "slug": "soluto",
+            "name": "Soluto",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "sonet",
+            "name": "Sonet",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "sorento",
+            "name": "Sorento",
+            "year_start": 2002,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "sorento-l",
+            "name": "Sorento L",
+            "year_start": 2015,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "sorento-prime",
+            "name": "Sorento Prime",
+            "year_start": 2015,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "soul",
+            "name": "Soul",
+            "year_start": 2008,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "spectra",
+            "name": "Spectra",
+            "year_start": 2000,
+            "year_end": 2011,
+            "generation_count": 6
+        },
+        {
+            "slug": "spectra-wing",
+            "name": "Spectra Wing",
+            "year_start": 2000,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "spectra5",
+            "name": "Spectra5",
+            "year_start": 2005,
+            "year_end": 2009,
+            "generation_count": 2
+        },
+        {
+            "slug": "sportage",
+            "name": "Sportage",
+            "year_start": 1994,
+            "year_end": null,
+            "generation_count": 9
+        },
+        {
+            "slug": "sportage-ace",
+            "name": "Sportage Ace",
+            "year_start": 2021,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "sportage-r",
+            "name": "Sportage R",
+            "year_start": 2011,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "stinger",
+            "name": "Stinger",
+            "year_start": 2017,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "stonic",
+            "name": "Stonic",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "syros",
+            "name": "Syros",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tasman",
+            "name": "Tasman",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "telluride",
+            "name": "Telluride",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "tonic",
+            "name": "Tonic",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "towner",
+            "name": "Towner",
+            "year_start": 1999,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "venga",
+            "name": "Venga",
+            "year_start": 2010,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "vigato",
+            "name": "Vigato",
+            "year_start": 1997,
+            "year_end": 2000,
+            "generation_count": 1
+        },
+        {
+            "slug": "visto",
+            "name": "Visto",
+            "year_start": 1999,
+            "year_end": 2004,
+            "generation_count": 1
+        },
+        {
+            "slug": "x-trek",
+            "name": "X-Trek",
+            "year_start": 2003,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "xceed",
+            "name": "XCeed",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "pro-ceed",
+            "name": "pro_Cee'd",
+            "year_start": 2006,
+            "year_end": 2018,
+            "generation_count": 3
+        }
+    ],
+    "total": 113
+}
