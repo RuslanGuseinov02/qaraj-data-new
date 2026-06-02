@@ -1,0 +1,121 @@
+{
+    "make": {
+        "slug": "plymouth",
+        "name": "Plymouth"
+    },
+    "data": [
+        {
+            "slug": "acclaim",
+            "name": "Acclaim",
+            "year_start": 1989,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "breeze",
+            "name": "Breeze",
+            "year_start": 1996,
+            "year_end": 2000,
+            "generation_count": 1
+        },
+        {
+            "slug": "caravelle",
+            "name": "Caravelle",
+            "year_start": 1985,
+            "year_end": 1988,
+            "generation_count": 1
+        },
+        {
+            "slug": "colt",
+            "name": "Colt",
+            "year_start": 1979,
+            "year_end": 1994,
+            "generation_count": 4
+        },
+        {
+            "slug": "colt-vista",
+            "name": "Colt Vista",
+            "year_start": 1983,
+            "year_end": 1995,
+            "generation_count": 2
+        },
+        {
+            "slug": "fury",
+            "name": "Fury",
+            "year_start": 1975,
+            "year_end": 1978,
+            "generation_count": 1
+        },
+        {
+            "slug": "grand-voyager",
+            "name": "Grand Voyager",
+            "year_start": 1987,
+            "year_end": 2000,
+            "generation_count": 3
+        },
+        {
+            "slug": "horizon",
+            "name": "Horizon",
+            "year_start": 1978,
+            "year_end": 1990,
+            "generation_count": 1
+        },
+        {
+            "slug": "laser",
+            "name": "Laser",
+            "year_start": 1989,
+            "year_end": 1994,
+            "generation_count": 1
+        },
+        {
+            "slug": "neon",
+            "name": "Neon",
+            "year_start": 1995,
+            "year_end": 2001,
+            "generation_count": 2
+        },
+        {
+            "slug": "prowler",
+            "name": "Prowler",
+            "year_start": 1997,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "reliant",
+            "name": "Reliant",
+            "year_start": 1981,
+            "year_end": 1989,
+            "generation_count": 2
+        },
+        {
+            "slug": "road-runner",
+            "name": "Road Runner",
+            "year_start": 1968,
+            "year_end": 1975,
+            "generation_count": 4
+        },
+        {
+            "slug": "sundance",
+            "name": "Sundance",
+            "year_start": 1986,
+            "year_end": 1994,
+            "generation_count": 1
+        },
+        {
+            "slug": "turismo",
+            "name": "Turismo",
+            "year_start": 1983,
+            "year_end": 1987,
+            "generation_count": 1
+        },
+        {
+            "slug": "voyager",
+            "name": "Voyager",
+            "year_start": 1984,
+            "year_end": 2000,
+            "generation_count": 3
+        }
+    ],
+    "total": 16
+}
