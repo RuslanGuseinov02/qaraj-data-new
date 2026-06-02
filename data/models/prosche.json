@@ -1,0 +1,100 @@
+{
+    "make": {
+        "slug": "porsche",
+        "name": "Porsche"
+    },
+    "data": [
+        {
+            "slug": "718",
+            "name": "718",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "911",
+            "name": "911",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 13
+        },
+        {
+            "slug": "918",
+            "name": "918",
+            "year_start": 2013,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "924",
+            "name": "924",
+            "year_start": 1976,
+            "year_end": 1988,
+            "generation_count": 1
+        },
+        {
+            "slug": "928",
+            "name": "928",
+            "year_start": 1977,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "944",
+            "name": "944",
+            "year_start": 1981,
+            "year_end": 1991,
+            "generation_count": 1
+        },
+        {
+            "slug": "968",
+            "name": "968",
+            "year_start": 1991,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "boxster",
+            "name": "Boxster",
+            "year_start": 1996,
+            "year_end": 2017,
+            "generation_count": 4
+        },
+        {
+            "slug": "cayenne",
+            "name": "Cayenne",
+            "year_start": 2002,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "cayman",
+            "name": "Cayman",
+            "year_start": 2005,
+            "year_end": 2016,
+            "generation_count": 3
+        },
+        {
+            "slug": "macan",
+            "name": "Macan",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "panamera",
+            "name": "Panamera",
+            "year_start": 2009,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "taycan",
+            "name": "Taycan",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        }
+    ],
+    "total": 13
+}
