@@ -1,0 +1,478 @@
+{
+    "make": {
+        "slug": "renault",
+        "name": "Renault"
+    },
+    "data": [
+        {
+            "slug": "4-e-tech",
+            "name": "4 E-Tech",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "5-e-tech",
+            "name": "5 E-Tech",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "alaskan",
+            "name": "Alaskan",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "arkana",
+            "name": "Arkana",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "austral",
+            "name": "Austral",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "avantime",
+            "name": "Avantime",
+            "year_start": 2001,
+            "year_end": 2004,
+            "generation_count": 1
+        },
+        {
+            "slug": "boreal",
+            "name": "Boreal",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "captur",
+            "name": "Captur",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "city-k-ze",
+            "name": "City K-ZE",
+            "year_start": 2019,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "clio",
+            "name": "Clio",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 11
+        },
+        {
+            "slug": "dokker",
+            "name": "Dokker",
+            "year_start": 2012,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "dokker-stepway",
+            "name": "Dokker Stepway",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "duster",
+            "name": "Duster",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "duster-oroch",
+            "name": "Duster Oroch",
+            "year_start": 2015,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "espace",
+            "name": "Espace",
+            "year_start": 1984,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "express",
+            "name": "Express",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "fluence",
+            "name": "Fluence",
+            "year_start": 2009,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "fuego",
+            "name": "Fuego",
+            "year_start": 1980,
+            "year_end": 1992,
+            "generation_count": 1
+        },
+        {
+            "slug": "grand-kangoo",
+            "name": "Grand Kangoo",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "grand-scenic",
+            "name": "Grand Scenic",
+            "year_start": 2003,
+            "year_end": 2023,
+            "generation_count": 6
+        },
+        {
+            "slug": "kadjar",
+            "name": "Kadjar",
+            "year_start": 2015,
+            "year_end": 2024,
+            "generation_count": 2
+        },
+        {
+            "slug": "kangoo",
+            "name": "Kangoo",
+            "year_start": 1997,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "kangoo-compact",
+            "name": "Kangoo Compact",
+            "year_start": 2008,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "kangoo-express",
+            "name": "Kangoo Express",
+            "year_start": 2018,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "kangoo-rapid",
+            "name": "Kangoo Rapid",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "kangoo-stepway",
+            "name": "Kangoo Stepway",
+            "year_start": 2018,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "kangoo-van",
+            "name": "Kangoo Van",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "kaptur",
+            "name": "Kaptur",
+            "year_start": 2016,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "kardian",
+            "name": "Kardian",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "kiger",
+            "name": "Kiger",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "koleos",
+            "name": "Koleos",
+            "year_start": 2007,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "kwid",
+            "name": "Kwid",
+            "year_start": 2015,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "laguna",
+            "name": "Laguna",
+            "year_start": 1993,
+            "year_end": 2016,
+            "generation_count": 5
+        },
+        {
+            "slug": "latitude",
+            "name": "Latitude",
+            "year_start": 2010,
+            "year_end": 2018,
+            "generation_count": 1
+        },
+        {
+            "slug": "lodgy",
+            "name": "Lodgy",
+            "year_start": 2012,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "logan",
+            "name": "Logan",
+            "year_start": 2004,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "logan-stepway",
+            "name": "Logan Stepway",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "lutecia",
+            "name": "Lutecia",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "master",
+            "name": "Master",
+            "year_start": 1980,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "megane",
+            "name": "Megane",
+            "year_start": 1995,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "megane-e-tech",
+            "name": "Megane E-Tech",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "mobilize-duo",
+            "name": "Mobilize Duo",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "modus",
+            "name": "Modus",
+            "year_start": 2004,
+            "year_end": 2015,
+            "generation_count": 2
+        },
+        {
+            "slug": "oroch",
+            "name": "Oroch",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "pulse",
+            "name": "Pulse",
+            "year_start": 2012,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "rafale",
+            "name": "Rafale",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "safrane",
+            "name": "Safrane",
+            "year_start": 1992,
+            "year_end": 2016,
+            "generation_count": 4
+        },
+        {
+            "slug": "sandero",
+            "name": "Sandero",
+            "year_start": 2007,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "sandero-stepway",
+            "name": "Sandero Stepway",
+            "year_start": 2010,
+            "year_end": 2022,
+            "generation_count": 3
+        },
+        {
+            "slug": "scala",
+            "name": "Scala",
+            "year_start": 2010,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "scenic",
+            "name": "Scenic",
+            "year_start": 1996,
+            "year_end": 2023,
+            "generation_count": 6
+        },
+        {
+            "slug": "scenic-e-tech",
+            "name": "Scenic E-Tech",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "stepway",
+            "name": "Stepway",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "symbioz",
+            "name": "Symbioz",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "symbol",
+            "name": "Symbol",
+            "year_start": 2002,
+            "year_end": 2022,
+            "generation_count": 4
+        },
+        {
+            "slug": "taliant",
+            "name": "Taliant",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "talisman",
+            "name": "Talisman",
+            "year_start": 2012,
+            "year_end": 2022,
+            "generation_count": 3
+        },
+        {
+            "slug": "thalia",
+            "name": "Thalia",
+            "year_start": 2002,
+            "year_end": 2013,
+            "generation_count": 2
+        },
+        {
+            "slug": "tondar",
+            "name": "Tondar",
+            "year_start": 2007,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "trafic",
+            "name": "Trafic",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "triber",
+            "name": "Triber",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "twingo",
+            "name": "Twingo",
+            "year_start": 1992,
+            "year_end": 2024,
+            "generation_count": 5
+        },
+        {
+            "slug": "twingo-e-tech",
+            "name": "Twingo E-Tech",
+            "year_start": 2026,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "twizy",
+            "name": "Twizy",
+            "year_start": 2012,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "vel-satis",
+            "name": "Vel Satis",
+            "year_start": 2002,
+            "year_end": 2009,
+            "generation_count": 2
+        },
+        {
+            "slug": "wind",
+            "name": "Wind",
+            "year_start": 2010,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "zoe",
+            "name": "ZOE",
+            "year_start": 2012,
+            "year_end": 2024,
+            "generation_count": 2
+        }
+    ],
+    "total": 67
+}
