@@ -1,0 +1,44 @@
+{
+    "make": {
+        "slug": "sev",
+        "name": "SEV"
+    },
+    "data": [
+        {
+            "slug": "e-nat",
+            "name": "E-Nat",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-tus",
+            "name": "E-Tus",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e-wan-cross",
+            "name": "E-Wan Cross",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "friday",
+            "name": "Friday",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "friday-410",
+            "name": "Friday 410",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 5
+}
