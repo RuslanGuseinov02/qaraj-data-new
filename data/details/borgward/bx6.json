@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "borgward",
+    "name": "BORGWARD"
+  },
+  "slug": "bx6",
+  "name": "bx6",
+  "generations": [
+    {
+      "slug": "bx6-0",
+      "name": "bx6 1",
+      "year_start": 2018,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/borgward/bx6/2018-2019.webp"
+      }
+    }
+  ]
+}
