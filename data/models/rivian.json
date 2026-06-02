@@ -1,0 +1,37 @@
+{
+    "make": {
+        "slug": "rivian",
+        "name": "Rivian"
+    },
+    "data": [
+        {
+            "slug": "commercial-van",
+            "name": "Commercial Van",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "r1s",
+            "name": "R1S",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "r1t",
+            "name": "R1T",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "r2",
+            "name": "R2",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 4
+}
