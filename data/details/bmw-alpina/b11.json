@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "bmw-alpina",
+    "name": "BMW-ALPINA"
+  },
+  "slug": "b11",
+  "name": "b11",
+  "generations": [
+    {
+      "slug": "b11-0",
+      "name": "b11 1",
+      "year_start": 1987,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b11/e32-1987-1994.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "bmw-alpina",
+    "name": "BMW-ALPINA"
+  },
+  "slug": "b8",
+  "name": "b8",
+  "generations": [
+    {
+      "slug": "b8-0",
+      "name": "b8 1",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b8/e36-1995-1998.webp"
+      }
+    },
+    {
+      "slug": "b8-1",
+      "name": "b8 2",
+      "year_start": 2021,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b8/g16-2021-2022.webp"
+      }
+    },
+    {
+      "slug": "b8-2",
+      "name": "b8 3",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b8/g16-2022-now.webp"
+      }
+    }
+  ]
+}

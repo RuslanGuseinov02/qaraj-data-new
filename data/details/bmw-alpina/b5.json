@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "bmw-alpina",
+    "name": "BMW-ALPINA"
+  },
+  "slug": "b5",
+  "name": "b5",
+  "generations": [
+    {
+      "slug": "b5-0",
+      "name": "b5 1",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b5/e60-e61-2005-2010.webp"
+      }
+    },
+    {
+      "slug": "b5-1",
+      "name": "b5 2",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b5/f10-f11-2010-2015.webp"
+      }
+    },
+    {
+      "slug": "b5-2",
+      "name": "b5 3",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b5/f10-f11-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "b5-3",
+      "name": "b5 4",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b5/g30-g31-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "b5-4",
+      "name": "b5 5",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b5/g30-g31-2020-2024.webp"
+      }
+    }
+  ]
+}

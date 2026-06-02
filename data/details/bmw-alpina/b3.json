@@ -1,0 +1,110 @@
+{
+  "make": {
+    "slug": "bmw-alpina",
+    "name": "BMW-ALPINA"
+  },
+  "slug": "b3",
+  "name": "b3",
+  "generations": [
+    {
+      "slug": "b3-0",
+      "name": "b3 1",
+      "year_start": 1987,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b3/e30-1987-1992.webp"
+      }
+    },
+    {
+      "slug": "b3-1",
+      "name": "b3 2",
+      "year_start": 1993,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b3/e36-1993-1999.webp"
+      }
+    },
+    {
+      "slug": "b3-2",
+      "name": "b3 3",
+      "year_start": 1999,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b3/e46-1999-2002.webp"
+      }
+    },
+    {
+      "slug": "b3-3",
+      "name": "b3 4",
+      "year_start": 2002,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b3/e46-2002-2006.webp"
+      }
+    },
+    {
+      "slug": "b3-4",
+      "name": "b3 5",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b3/e90-e91-e92-e93-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "b3-5",
+      "name": "b3 6",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b3/e90-e91-e92-e93-2010-2013.webp"
+      }
+    },
+    {
+      "slug": "b3-6",
+      "name": "b3 7",
+      "year_start": 2013,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b3/f30-f31-2013-2019.webp"
+      }
+    },
+    {
+      "slug": "b3-7",
+      "name": "b3 8",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b3/g20-g21-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "b3-8",
+      "name": "b3 9",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b3/g20-g21-2022-2024.webp"
+      }
+    },
+    {
+      "slug": "b3-9",
+      "name": "b3 10",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b3/g20-g21-2024-now.webp"
+      }
+    }
+  ]
+}

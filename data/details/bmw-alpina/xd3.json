@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "bmw-alpina",
+    "name": "BMW-ALPINA"
+  },
+  "slug": "xd3",
+  "name": "xd3",
+  "generations": [
+    {
+      "slug": "xd3-0",
+      "name": "xd3 1",
+      "year_start": 2013,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/xd3/f25-2013-2014.webp"
+      }
+    },
+    {
+      "slug": "xd3-1",
+      "name": "xd3 2",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/xd3/f25-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "xd3-2",
+      "name": "xd3 3",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/xd3/g01-2018-2021.webp"
+      }
+    },
+    {
+      "slug": "xd3-3",
+      "name": "xd3 4",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/xd3/g01-2021-2025.webp"
+      }
+    }
+  ]
+}

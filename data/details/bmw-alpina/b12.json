@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "bmw-alpina",
+    "name": "BMW-ALPINA"
+  },
+  "slug": "b12",
+  "name": "b12",
+  "generations": [
+    {
+      "slug": "b12-0",
+      "name": "b12 1",
+      "year_start": 1990,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b12/e31-1990-1996.webp"
+      }
+    },
+    {
+      "slug": "b12-1",
+      "name": "b12 2",
+      "year_start": 1988,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b12/e32-1988-1994.webp"
+      }
+    },
+    {
+      "slug": "b12-2",
+      "name": "b12 3",
+      "year_start": 1995,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/b12/e38-1995-2001.webp"
+      }
+    }
+  ]
+}

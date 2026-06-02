@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "bmw-alpina",
+    "name": "BMW-ALPINA"
+  },
+  "slug": "roadster",
+  "name": "roadster",
+  "generations": [
+    {
+      "slug": "roadster-0",
+      "name": "roadster 1",
+      "year_start": 2002,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/roadster/e52-2002-2003.webp"
+      }
+    },
+    {
+      "slug": "roadster-1",
+      "name": "roadster 2",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw-alpina/roadster/e85-2003-2006.webp"
+      }
+    }
+  ]
+}
