@@ -1,0 +1,135 @@
+{
+    "make": {
+        "slug": "seat",
+        "name": "Seat"
+    },
+    "data": [
+        {
+            "slug": "133",
+            "name": "133",
+            "year_start": 1974,
+            "year_end": 1982,
+            "generation_count": 1
+        },
+        {
+            "slug": "alhambra",
+            "name": "Alhambra",
+            "year_start": 1996,
+            "year_end": 2023,
+            "generation_count": 2
+        },
+        {
+            "slug": "altea",
+            "name": "Altea",
+            "year_start": 2004,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "altea-freetrack",
+            "name": "Altea Freetrack",
+            "year_start": 2007,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "altea-xl",
+            "name": "Altea XL",
+            "year_start": 2006,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "arona",
+            "name": "Arona",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "arosa",
+            "name": "Arosa",
+            "year_start": 1997,
+            "year_end": 2004,
+            "generation_count": 2
+        },
+        {
+            "slug": "ateca",
+            "name": "Ateca",
+            "year_start": 2016,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "cordoba",
+            "name": "Cordoba",
+            "year_start": 1993,
+            "year_end": 2010,
+            "generation_count": 2
+        },
+        {
+            "slug": "exeo",
+            "name": "Exeo",
+            "year_start": 2008,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "ibiza",
+            "name": "Ibiza",
+            "year_start": 1984,
+            "year_end": null,
+            "generation_count": 9
+        },
+        {
+            "slug": "inca",
+            "name": "Inca",
+            "year_start": 1995,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "leon",
+            "name": "Leon",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "malaga",
+            "name": "Malaga",
+            "year_start": 1985,
+            "year_end": 1993,
+            "generation_count": 1
+        },
+        {
+            "slug": "marbella",
+            "name": "Marbella",
+            "year_start": 1986,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "mii",
+            "name": "Mii",
+            "year_start": 2011,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "tarraco",
+            "name": "Tarraco",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "toledo",
+            "name": "Toledo",
+            "year_start": 1991,
+            "year_end": 2018,
+            "generation_count": 4
+        }
+    ],
+    "total": 18
+}
