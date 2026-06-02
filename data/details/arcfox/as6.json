@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "arcfox",
+    "name": "ARCFOX"
+  },
+  "slug": "as6",
+  "name": "as6",
+  "generations": [
+    {
+      "slug": "as6-0",
+      "name": "as6 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/arcfox/as6/2025-now.webp"
+      }
+    }
+  ]
+}

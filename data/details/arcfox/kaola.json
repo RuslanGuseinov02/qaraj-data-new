@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "arcfox",
+    "name": "ARCFOX"
+  },
+  "slug": "kaola",
+  "name": "kaola",
+  "generations": [
+    {
+      "slug": "kaola-0",
+      "name": "kaola 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/arcfox/kaola/2023-now.webp"
+      }
+    }
+  ]
+}

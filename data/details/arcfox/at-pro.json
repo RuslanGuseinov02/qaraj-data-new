@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "arcfox",
+    "name": "ARCFOX"
+  },
+  "slug": "at-pro",
+  "name": "at-pro",
+  "generations": [
+    {
+      "slug": "at-pro-0",
+      "name": "at-pro 1",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/arcfox/at-pro/2023-2025.webp"
+      }
+    }
+  ]
+}

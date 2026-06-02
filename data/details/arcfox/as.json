@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "arcfox",
+    "name": "ARCFOX"
+  },
+  "slug": "as",
+  "name": "as",
+  "generations": [
+    {
+      "slug": "as-0",
+      "name": "as 1",
+      "year_start": 2021,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/arcfox/as/2021-2023.webp"
+      }
+    },
+    {
+      "slug": "as-1",
+      "name": "as 2",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/arcfox/as/2023-2025.webp"
+      }
+    }
+  ]
+}
