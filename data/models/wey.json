@@ -1,0 +1,114 @@
+{
+    "make": {
+        "slug": "wey",
+        "name": "Wey"
+    },
+    "data": [
+        {
+            "slug": "03",
+            "name": "03",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "05",
+            "name": "05",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "07",
+            "name": "07",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "80",
+            "name": "80",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "gaoshan",
+            "name": "Alpine",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "blue-mountain",
+            "name": "Blue Mountain",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "coffee-01",
+            "name": "Coffee 01",
+            "year_start": 2022,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "coffee-02",
+            "name": "Coffee 02",
+            "year_start": 2022,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "latte",
+            "name": "Latte",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "macchiato",
+            "name": "Macchiato",
+            "year_start": 2021,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "mocca",
+            "name": "Mocca",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "p8",
+            "name": "P8",
+            "year_start": 2018,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "vv5",
+            "name": "VV5",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "vv6",
+            "name": "VV6",
+            "year_start": 2018,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "vv7",
+            "name": "VV7",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        }
+    ],
+    "total": 15
+}
