@@ -1,0 +1,870 @@
+{
+    "make": {
+        "slug": "mitsubishi",
+        "name": "Mitsubishi"
+    },
+    "data": [
+        {
+            "slug": "3000-gt",
+            "name": "3000 GT",
+            "year_start": 1990,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "asx",
+            "name": "ASX",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "airtrek",
+            "name": "Airtrek",
+            "year_start": 2001,
+            "year_end": 2023,
+            "generation_count": 3
+        },
+        {
+            "slug": "aspire",
+            "name": "Aspire",
+            "year_start": 1998,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "attrage",
+            "name": "Attrage",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "bravo",
+            "name": "Bravo",
+            "year_start": 1991,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "carisma",
+            "name": "Carisma",
+            "year_start": 1995,
+            "year_end": 2004,
+            "generation_count": 2
+        },
+        {
+            "slug": "challenger",
+            "name": "Challenger",
+            "year_start": 1996,
+            "year_end": 2015,
+            "generation_count": 4
+        },
+        {
+            "slug": "chariot",
+            "name": "Chariot",
+            "year_start": 1988,
+            "year_end": 1997,
+            "generation_count": 2
+        },
+        {
+            "slug": "chariot-grandis",
+            "name": "Chariot Grandis",
+            "year_start": 1997,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "colt",
+            "name": "Colt",
+            "year_start": 1991,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "colt-czc",
+            "name": "Colt CZC",
+            "year_start": 2006,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "colt-l300",
+            "name": "Colt L300",
+            "year_start": 2007,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "colt-plus",
+            "name": "Colt Plus",
+            "year_start": 2004,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "debonair",
+            "name": "Debonair",
+            "year_start": 1992,
+            "year_end": 2000,
+            "generation_count": 1
+        },
+        {
+            "slug": "debonair-v",
+            "name": "Debonair V",
+            "year_start": 1989,
+            "year_end": 1992,
+            "generation_count": 1
+        },
+        {
+            "slug": "delica-cargo",
+            "name": "Delica Cargo",
+            "year_start": 1999,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "delica-d-2",
+            "name": "Delica D:2",
+            "year_start": 2011,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "delica-d-3",
+            "name": "Delica D:3",
+            "year_start": 2011,
+            "year_end": 2019,
+            "generation_count": 1
+        },
+        {
+            "slug": "delica-d-5",
+            "name": "Delica D:5",
+            "year_start": 2007,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "delica-mini",
+            "name": "Delica Mini",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "delica-space-gear",
+            "name": "Delica Space Gear",
+            "year_start": 1994,
+            "year_end": 2007,
+            "generation_count": 2
+        },
+        {
+            "slug": "delica-star-wagon",
+            "name": "Delica Star Wagon",
+            "year_start": 1986,
+            "year_end": 1999,
+            "generation_count": 3
+        },
+        {
+            "slug": "delica-truck",
+            "name": "Delica Truck",
+            "year_start": 1999,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "delica-van",
+            "name": "Delica Van",
+            "year_start": 1999,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "destinator",
+            "name": "Destinator",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "diamante",
+            "name": "Diamante",
+            "year_start": 1990,
+            "year_end": 2005,
+            "generation_count": 2
+        },
+        {
+            "slug": "diamante-wagon",
+            "name": "Diamante Wagon",
+            "year_start": 1993,
+            "year_end": 2001,
+            "generation_count": 2
+        },
+        {
+            "slug": "dignity",
+            "name": "Dignity",
+            "year_start": 1999,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "dingo",
+            "name": "Dingo",
+            "year_start": 1998,
+            "year_end": 2003,
+            "generation_count": 2
+        },
+        {
+            "slug": "dion",
+            "name": "Dion",
+            "year_start": 2000,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "eclipse",
+            "name": "Eclipse",
+            "year_start": 1990,
+            "year_end": 2012,
+            "generation_count": 5
+        },
+        {
+            "slug": "eclipse-cross",
+            "name": "Eclipse Cross",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "eclipse-spider",
+            "name": "Eclipse Spider",
+            "year_start": 2004,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "emeraude",
+            "name": "Emeraude",
+            "year_start": 1992,
+            "year_end": 1996,
+            "generation_count": 1
+        },
+        {
+            "slug": "endeavor",
+            "name": "Endeavor",
+            "year_start": 2003,
+            "year_end": 2011,
+            "generation_count": 3
+        },
+        {
+            "slug": "eterna",
+            "name": "Eterna",
+            "year_start": 1988,
+            "year_end": 1996,
+            "generation_count": 2
+        },
+        {
+            "slug": "eterna-sava",
+            "name": "Eterna Sava",
+            "year_start": 1988,
+            "year_end": 1992,
+            "generation_count": 1
+        },
+        {
+            "slug": "eterna-sigma",
+            "name": "Eterna Sigma",
+            "year_start": 1988,
+            "year_end": 1990,
+            "generation_count": 1
+        },
+        {
+            "slug": "expo",
+            "name": "Expo",
+            "year_start": 1992,
+            "year_end": 1996,
+            "generation_count": 1
+        },
+        {
+            "slug": "expo-lrv",
+            "name": "Expo LRV",
+            "year_start": 1992,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "express",
+            "name": "Express",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "fto",
+            "name": "FTO",
+            "year_start": 1994,
+            "year_end": 2001,
+            "generation_count": 2
+        },
+        {
+            "slug": "gto",
+            "name": "GTO",
+            "year_start": 1990,
+            "year_end": 2000,
+            "generation_count": 3
+        },
+        {
+            "slug": "galant",
+            "name": "Galant",
+            "year_start": 1989,
+            "year_end": 2014,
+            "generation_count": 7
+        },
+        {
+            "slug": "galant-fortis",
+            "name": "Galant Fortis",
+            "year_start": 2007,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "galant-fortis-sportback",
+            "name": "Galant Fortis Sportback",
+            "year_start": 2008,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "galant-sigma",
+            "name": "Galant Sigma",
+            "year_start": 1988,
+            "year_end": 1990,
+            "generation_count": 1
+        },
+        {
+            "slug": "galant-sports",
+            "name": "Galant Sports",
+            "year_start": 1994,
+            "year_end": 1996,
+            "generation_count": 1
+        },
+        {
+            "slug": "grand-lancer",
+            "name": "Grand Lancer",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "grandis",
+            "name": "Grandis",
+            "year_start": 2003,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "jeep",
+            "name": "Jeep",
+            "year_start": 1986,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "l100-ev",
+            "name": "L100 EV",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "l200",
+            "name": "L200",
+            "year_start": 1986,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "l300",
+            "name": "L300",
+            "year_start": 1987,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "l400",
+            "name": "L400",
+            "year_start": 1994,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "lancer",
+            "name": "Lancer",
+            "year_start": 1988,
+            "year_end": 2017,
+            "generation_count": 8
+        },
+        {
+            "slug": "lancer-cargo",
+            "name": "Lancer Cargo",
+            "year_start": 2008,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "lancer-cedia",
+            "name": "Lancer Cedia",
+            "year_start": 2000,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "lancer-cedia-wagon",
+            "name": "Lancer Cedia Wagon",
+            "year_start": 2000,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "lancer-evolution",
+            "name": "Lancer Evolution",
+            "year_start": 1992,
+            "year_end": 2017,
+            "generation_count": 10
+        },
+        {
+            "slug": "lancer-fortis",
+            "name": "Lancer Fortis",
+            "year_start": 2007,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "lancer-wagon",
+            "name": "Lancer Wagon",
+            "year_start": 2003,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "legnum",
+            "name": "Legnum",
+            "year_start": 1996,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "libero",
+            "name": "Libero",
+            "year_start": 1992,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "magna",
+            "name": "Magna",
+            "year_start": 1991,
+            "year_end": 2005,
+            "generation_count": 4
+        },
+        {
+            "slug": "maven",
+            "name": "Maven",
+            "year_start": 2005,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "minica",
+            "name": "Minica",
+            "year_start": 1989,
+            "year_end": 2011,
+            "generation_count": 3
+        },
+        {
+            "slug": "minica-toppo",
+            "name": "Minica Toppo",
+            "year_start": 1990,
+            "year_end": 1998,
+            "generation_count": 2
+        },
+        {
+            "slug": "minicab-miev",
+            "name": "Minicab MiEV",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "minicab-truck",
+            "name": "Minicab Truck",
+            "year_start": 2005,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "minicab-van",
+            "name": "Minicab Van",
+            "year_start": 1999,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "mirage",
+            "name": "Mirage",
+            "year_start": 1987,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "mirage-asti",
+            "name": "Mirage Asti",
+            "year_start": 1993,
+            "year_end": 2000,
+            "generation_count": 2
+        },
+        {
+            "slug": "mirage-g4",
+            "name": "Mirage G4",
+            "year_start": 2013,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "montero",
+            "name": "Montero",
+            "year_start": 1989,
+            "year_end": 2021,
+            "generation_count": 5
+        },
+        {
+            "slug": "montero-sport",
+            "name": "Montero Sport",
+            "year_start": 1996,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "nativa",
+            "name": "Nativa",
+            "year_start": 2004,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "outlander",
+            "name": "Outlander",
+            "year_start": 2003,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "outlander-sport",
+            "name": "Outlander Sport",
+            "year_start": 2010,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "outlander-xl",
+            "name": "Outlander XL",
+            "year_start": 2006,
+            "year_end": 2012,
+            "generation_count": 2
+        },
+        {
+            "slug": "pajero",
+            "name": "Pajero",
+            "year_start": 1989,
+            "year_end": 2021,
+            "generation_count": 5
+        },
+        {
+            "slug": "pajero-jr",
+            "name": "Pajero Jr",
+            "year_start": 1995,
+            "year_end": 1999,
+            "generation_count": 1
+        },
+        {
+            "slug": "pajero-mini",
+            "name": "Pajero Mini",
+            "year_start": 1994,
+            "year_end": 2012,
+            "generation_count": 3
+        },
+        {
+            "slug": "pajero-pinin",
+            "name": "Pajero Pinin",
+            "year_start": 1998,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "pajero-sport",
+            "name": "Pajero Sport",
+            "year_start": 1998,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "pajero-tr4",
+            "name": "Pajero TR4",
+            "year_start": 2002,
+            "year_end": 2015,
+            "generation_count": 3
+        },
+        {
+            "slug": "pajero-io",
+            "name": "Pajero iO",
+            "year_start": 1998,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "pistachio",
+            "name": "Pistachio",
+            "year_start": 1999,
+            "year_end": 2000,
+            "generation_count": 1
+        },
+        {
+            "slug": "proudia",
+            "name": "Proudia",
+            "year_start": 1999,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "rvr",
+            "name": "RVR",
+            "year_start": 1991,
+            "year_end": null,
+            "generation_count": 6
+        },
+        {
+            "slug": "rvr-roadest",
+            "name": "RVR Roadest",
+            "year_start": 2011,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "raider",
+            "name": "Raider",
+            "year_start": 2006,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "shogun",
+            "name": "Shogun",
+            "year_start": 2006,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "shogun-sport",
+            "name": "Shogun Sport",
+            "year_start": 2017,
+            "year_end": 2021,
+            "generation_count": 1
+        },
+        {
+            "slug": "sigma",
+            "name": "Sigma",
+            "year_start": 1990,
+            "year_end": 1996,
+            "generation_count": 1
+        },
+        {
+            "slug": "space-gear",
+            "name": "Space Gear",
+            "year_start": 1995,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "space-runner",
+            "name": "Space Runner",
+            "year_start": 1991,
+            "year_end": 2002,
+            "generation_count": 2
+        },
+        {
+            "slug": "space-star",
+            "name": "Space Star",
+            "year_start": 1998,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "space-wagon",
+            "name": "Space Wagon",
+            "year_start": 1983,
+            "year_end": 2004,
+            "generation_count": 3
+        },
+        {
+            "slug": "starion",
+            "name": "Starion",
+            "year_start": 1985,
+            "year_end": 1990,
+            "generation_count": 1
+        },
+        {
+            "slug": "strada",
+            "name": "Strada",
+            "year_start": 1991,
+            "year_end": 2023,
+            "generation_count": 5
+        },
+        {
+            "slug": "toppo",
+            "name": "Toppo",
+            "year_start": 2008,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "toppo-bj",
+            "name": "Toppo BJ",
+            "year_start": 1998,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "toppo-bj-wide",
+            "name": "Toppo BJ Wide",
+            "year_start": 1999,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "town-box",
+            "name": "Town Box",
+            "year_start": 1999,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "town-box-wide",
+            "name": "Town Box Wide",
+            "year_start": 1999,
+            "year_end": 2001,
+            "generation_count": 1
+        },
+        {
+            "slug": "triton",
+            "name": "Triton",
+            "year_start": 2005,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "verada",
+            "name": "Verada",
+            "year_start": 1991,
+            "year_end": 2005,
+            "generation_count": 4
+        },
+        {
+            "slug": "xforce",
+            "name": "Xforce",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "xpander",
+            "name": "Xpander",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "xpander-cross",
+            "name": "Xpander Cross",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "ek-active",
+            "name": "eK Active",
+            "year_start": 2004,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "ek-classy",
+            "name": "eK Classy",
+            "year_start": 2004,
+            "year_end": 2005,
+            "generation_count": 1
+        },
+        {
+            "slug": "ek-custom",
+            "name": "eK Custom",
+            "year_start": 2013,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "ek-space",
+            "name": "eK Space",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "ek-space-custom",
+            "name": "eK Space Custom",
+            "year_start": 2014,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "ek",
+            "name": "eK Sport",
+            "year_start": 2001,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "ek-wagon",
+            "name": "eK Wagon",
+            "year_start": 2001,
+            "year_end": null,
+            "generation_count": 5
+        },
+        {
+            "slug": "ek-x",
+            "name": "eK X",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ek-x-space",
+            "name": "eK X Space",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "i",
+            "name": "i",
+            "year_start": 2005,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "i-miev",
+            "name": "i-MiEV",
+            "year_start": 2009,
+            "year_end": 2020,
+            "generation_count": 3
+        }
+    ],
+    "total": 123
+}
