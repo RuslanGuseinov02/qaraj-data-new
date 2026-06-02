@@ -1,0 +1,422 @@
+{
+    "make": {
+        "slug": "maxus",
+        "name": "Maxus"
+    },
+    "data": [
+        {
+            "slug": "d60",
+            "name": "D60",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "d60-max",
+            "name": "D60 Max",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "d90",
+            "name": "D90",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "d90-max",
+            "name": "D90 Max",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "d90-pro",
+            "name": "D90 Pro",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "d90-pro-amazon",
+            "name": "D90 Pro Amazon",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "dana-v1",
+            "name": "Dana V1",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "deliver-7",
+            "name": "Deliver 7",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "deliver-9",
+            "name": "Deliver 9",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "eg10",
+            "name": "EG10",
+            "year_start": 2016,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "eg50",
+            "name": "EG50",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "ev30",
+            "name": "EV30",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ev70",
+            "name": "EV70",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ev80",
+            "name": "EV80",
+            "year_start": 2015,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "ev80-plus",
+            "name": "EV80 Plus",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ev80-pro",
+            "name": "EV80 Pro",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "ev90",
+            "name": "EV90",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "euniq-5",
+            "name": "Euniq 5",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "euniq-6",
+            "name": "Euniq 6",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "fcv80",
+            "name": "FCV80",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "g10",
+            "name": "G10",
+            "year_start": 2014,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "g10-cargo",
+            "name": "G10 Cargo",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "g10-max",
+            "name": "G10 Max",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "g20",
+            "name": "G20",
+            "year_start": 2019,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "g20-es",
+            "name": "G20 ES",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "g20-plus",
+            "name": "G20 Plus",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "g50",
+            "name": "G50",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "g50-hybrid",
+            "name": "G50 Hybrid",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "g50-max",
+            "name": "G50 Max",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "g50-plus",
+            "name": "G50 Plus",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "g70",
+            "name": "G70",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "g90",
+            "name": "G90",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "interstellar-bull-demon-king",
+            "name": "Interstellar Bull Demon King",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "interstellar-h",
+            "name": "Interstellar H",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "interstellar-l",
+            "name": "Interstellar L",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "interstellar-r",
+            "name": "Interstellar R",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "interstellar-x",
+            "name": "Interstellar X",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "istana",
+            "name": "Istana",
+            "year_start": 2013,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "mifa-5",
+            "name": "Mifa 5",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "mifa-6",
+            "name": "Mifa 6",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "mifa-7",
+            "name": "Mifa 7",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "mifa-9",
+            "name": "Mifa 9",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t60",
+            "name": "T60",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "t60-max",
+            "name": "T60 Max",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "t70",
+            "name": "T70",
+            "year_start": 2019,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "t90",
+            "name": "T90",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "territory",
+            "name": "Territory",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tornado-60",
+            "name": "Tornado 60",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tornado-70-pro",
+            "name": "Tornado 70 Pro",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "tornado-90",
+            "name": "Tornado 90",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v70",
+            "name": "V70",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v80",
+            "name": "V80",
+            "year_start": 2011,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "v80-plus",
+            "name": "V80 Plus",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "v90",
+            "name": "V90",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "edeliver-3",
+            "name": "eDeliver 3",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "edeliver-5",
+            "name": "eDeliver 5",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "edeliver-7",
+            "name": "eDeliver 7",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "edeliver-9",
+            "name": "eDeliver 9",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "eterron-9",
+            "name": "eTerron 9",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 59
+}
