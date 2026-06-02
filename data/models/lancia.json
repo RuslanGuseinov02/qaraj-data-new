@@ -1,0 +1,163 @@
+{
+    "make": {
+        "slug": "lancia",
+        "name": "Lancia"
+    },
+    "data": [
+        {
+            "slug": "a-112",
+            "name": "A 112",
+            "year_start": 1978,
+            "year_end": 1986,
+            "generation_count": 1
+        },
+        {
+            "slug": "beta",
+            "name": "Beta",
+            "year_start": 1973,
+            "year_end": 1984,
+            "generation_count": 1
+        },
+        {
+            "slug": "dedra",
+            "name": "Dedra",
+            "year_start": 1989,
+            "year_end": 2000,
+            "generation_count": 1
+        },
+        {
+            "slug": "delta",
+            "name": "Delta",
+            "year_start": 1979,
+            "year_end": 2014,
+            "generation_count": 3
+        },
+        {
+            "slug": "flavia",
+            "name": "Flavia",
+            "year_start": 1960,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "fulvia",
+            "name": "Fulvia",
+            "year_start": 1963,
+            "year_end": 1971,
+            "generation_count": 1
+        },
+        {
+            "slug": "gamma",
+            "name": "Gamma",
+            "year_start": 1976,
+            "year_end": 1984,
+            "generation_count": 1
+        },
+        {
+            "slug": "hyena",
+            "name": "Hyena",
+            "year_start": 1992,
+            "year_end": 1996,
+            "generation_count": 1
+        },
+        {
+            "slug": "kappa",
+            "name": "Kappa",
+            "year_start": 1994,
+            "year_end": 2000,
+            "generation_count": 1
+        },
+        {
+            "slug": "lybra",
+            "name": "Lybra",
+            "year_start": 1999,
+            "year_end": 2006,
+            "generation_count": 1
+        },
+        {
+            "slug": "monte-carlo",
+            "name": "Montecarlo",
+            "year_start": 1975,
+            "year_end": 1981,
+            "generation_count": 1
+        },
+        {
+            "slug": "musa",
+            "name": "Musa",
+            "year_start": 2004,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "phedra",
+            "name": "Phedra",
+            "year_start": 2002,
+            "year_end": 2010,
+            "generation_count": 1
+        },
+        {
+            "slug": "prisma",
+            "name": "Prisma",
+            "year_start": 1982,
+            "year_end": 1989,
+            "generation_count": 1
+        },
+        {
+            "slug": "thema",
+            "name": "Thema",
+            "year_start": 1984,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "thesis",
+            "name": "Thesis",
+            "year_start": 2002,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "trevi",
+            "name": "Trevi",
+            "year_start": 1980,
+            "year_end": 1985,
+            "generation_count": 1
+        },
+        {
+            "slug": "voyager",
+            "name": "Voyager",
+            "year_start": 2011,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "y",
+            "name": "Y",
+            "year_start": 1995,
+            "year_end": 2003,
+            "generation_count": 2
+        },
+        {
+            "slug": "y10",
+            "name": "Y10",
+            "year_start": 1985,
+            "year_end": 1995,
+            "generation_count": 1
+        },
+        {
+            "slug": "ypsilon",
+            "name": "Ypsilon",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 8
+        },
+        {
+            "slug": "zeta",
+            "name": "Zeta",
+            "year_start": 1994,
+            "year_end": 2002,
+            "generation_count": 1
+        }
+    ],
+    "total": 22
+}
