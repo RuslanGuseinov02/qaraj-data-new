@@ -1,0 +1,30 @@
+{
+    "make": {
+        "slug": "zedriv",
+        "name": "Zedriv"
+    },
+    "data": [
+        {
+            "slug": "gc1",
+            "name": "GC1",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "gc2",
+            "name": "GC2",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "gx5",
+            "name": "GX5",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 1
+        }
+    ],
+    "total": 3
+}
