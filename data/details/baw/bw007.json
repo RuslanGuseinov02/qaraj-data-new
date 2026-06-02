@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baw",
+    "name": "BAW"
+  },
+  "slug": "bw007",
+  "name": "bw007",
+  "generations": [
+    {
+      "slug": "bw007-0",
+      "name": "bw007 1",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baw/bw007/2011-2017.webp"
+      }
+    }
+  ]
+}

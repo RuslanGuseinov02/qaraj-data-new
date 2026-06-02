@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baw",
+    "name": "BAW"
+  },
+  "slug": "leopard",
+  "name": "leopard",
+  "generations": [
+    {
+      "slug": "leopard-0",
+      "name": "leopard 1",
+      "year_start": 2020,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baw/leopard/2020-2021.webp"
+      }
+    }
+  ]
+}

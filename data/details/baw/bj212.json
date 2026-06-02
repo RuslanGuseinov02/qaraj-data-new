@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "baw",
+    "name": "BAW"
+  },
+  "slug": "bj212",
+  "name": "bj212",
+  "generations": [
+    {
+      "slug": "bj212-0",
+      "name": "bj212 1",
+      "year_start": 2011,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baw/bj212/2011-2023.webp"
+      }
+    },
+    {
+      "slug": "bj212-1",
+      "name": "bj212 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baw/bj212/t01-2024-now.webp"
+      }
+    }
+  ]
+}

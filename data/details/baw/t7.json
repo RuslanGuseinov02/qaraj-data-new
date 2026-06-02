@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baw",
+    "name": "BAW"
+  },
+  "slug": "t7",
+  "name": "t7",
+  "generations": [
+    {
+      "slug": "t7-0",
+      "name": "t7 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baw/t7/2022-now.webp"
+      }
+    }
+  ]
+}

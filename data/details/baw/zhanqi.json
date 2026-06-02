@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baw",
+    "name": "BAW"
+  },
+  "slug": "zhanqi",
+  "name": "zhanqi",
+  "generations": [
+    {
+      "slug": "zhanqi-0",
+      "name": "zhanqi 1",
+      "year_start": 2005,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baw/zhanqi/2005-2020.webp"
+      }
+    }
+  ]
+}

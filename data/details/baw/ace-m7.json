@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baw",
+    "name": "BAW"
+  },
+  "slug": "ace-m7",
+  "name": "ace-m7",
+  "generations": [
+    {
+      "slug": "ace-m7-0",
+      "name": "ace-m7 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baw/ace-m7/2022-now.webp"
+      }
+    }
+  ]
+}

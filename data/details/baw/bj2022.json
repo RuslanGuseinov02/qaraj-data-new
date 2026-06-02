@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baw",
+    "name": "BAW"
+  },
+  "slug": "bj2022",
+  "name": "bj2022",
+  "generations": [
+    {
+      "slug": "bj2022-0",
+      "name": "bj2022 1",
+      "year_start": 2008,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baw/bj2022/2008-2023.webp"
+      }
+    }
+  ]
+}

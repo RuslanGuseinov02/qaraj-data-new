@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baw",
+    "name": "BAW"
+  },
+  "slug": "zhanqi-pickup",
+  "name": "zhanqi-pickup",
+  "generations": [
+    {
+      "slug": "zhanqi-pickup-0",
+      "name": "zhanqi-pickup 1",
+      "year_start": 2014,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baw/zhanqi-pickup/2014-2016.webp"
+      }
+    }
+  ]
+}

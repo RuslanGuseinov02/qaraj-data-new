@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baw",
+    "name": "BAW"
+  },
+  "slug": "warrior-pickup",
+  "name": "warrior-pickup",
+  "generations": [
+    {
+      "slug": "warrior-pickup-0",
+      "name": "warrior-pickup 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baw/warrior-pickup/2018-now.webp"
+      }
+    }
+  ]
+}

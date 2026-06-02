@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "baw",
+    "name": "BAW"
+  },
+  "slug": "bj212-sniper",
+  "name": "bj212-sniper",
+  "generations": [
+    {
+      "slug": "bj212-sniper-0",
+      "name": "bj212-sniper 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/baw/bj212-sniper/2023-now.webp"
+      }
+    }
+  ]
+}
