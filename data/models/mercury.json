@@ -1,0 +1,121 @@
+{
+    "make": {
+        "slug": "mercury",
+        "name": "Mercury"
+    },
+    "data": [
+        {
+            "slug": "capri",
+            "name": "Capri",
+            "year_start": 1970,
+            "year_end": 1994,
+            "generation_count": 4
+        },
+        {
+            "slug": "cougar",
+            "name": "Cougar",
+            "year_start": 1967,
+            "year_end": 2002,
+            "generation_count": 8
+        },
+        {
+            "slug": "grand-marquis",
+            "name": "Grand Marquis",
+            "year_start": 1979,
+            "year_end": 2011,
+            "generation_count": 4
+        },
+        {
+            "slug": "lynx",
+            "name": "Lynx",
+            "year_start": 1981,
+            "year_end": 1987,
+            "generation_count": 1
+        },
+        {
+            "slug": "marauder",
+            "name": "Marauder",
+            "year_start": 1963,
+            "year_end": 2004,
+            "generation_count": 3
+        },
+        {
+            "slug": "mariner",
+            "name": "Mariner",
+            "year_start": 2005,
+            "year_end": 2011,
+            "generation_count": 2
+        },
+        {
+            "slug": "marquis",
+            "name": "Marquis",
+            "year_start": 1967,
+            "year_end": 1986,
+            "generation_count": 4
+        },
+        {
+            "slug": "milan",
+            "name": "Milan",
+            "year_start": 2006,
+            "year_end": 2011,
+            "generation_count": 2
+        },
+        {
+            "slug": "montego",
+            "name": "Montego",
+            "year_start": 2005,
+            "year_end": 2009,
+            "generation_count": 1
+        },
+        {
+            "slug": "monterey",
+            "name": "Monterey",
+            "year_start": 2004,
+            "year_end": 2007,
+            "generation_count": 1
+        },
+        {
+            "slug": "mountaineer",
+            "name": "Mountaineer",
+            "year_start": 1997,
+            "year_end": 2010,
+            "generation_count": 3
+        },
+        {
+            "slug": "mystique",
+            "name": "Mystique",
+            "year_start": 1994,
+            "year_end": 2000,
+            "generation_count": 2
+        },
+        {
+            "slug": "sable",
+            "name": "Sable",
+            "year_start": 1986,
+            "year_end": 2009,
+            "generation_count": 5
+        },
+        {
+            "slug": "topaz",
+            "name": "Topaz",
+            "year_start": 1983,
+            "year_end": 1994,
+            "generation_count": 2
+        },
+        {
+            "slug": "tracer",
+            "name": "Tracer",
+            "year_start": 1988,
+            "year_end": 1999,
+            "generation_count": 3
+        },
+        {
+            "slug": "villager",
+            "name": "Villager",
+            "year_start": 1993,
+            "year_end": 2002,
+            "generation_count": 2
+        }
+    ],
+    "total": 16
+}
