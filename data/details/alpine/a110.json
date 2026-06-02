@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "alpine",
+    "name": "ALPINE"
+  },
+  "slug": "a110",
+  "name": "a110",
+  "generations": [
+    {
+      "slug": "a110-0",
+      "name": "a110 1",
+      "year_start": 1961,
+      "year_end": 1977,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alpine/a110/1961-1977.webp"
+      }
+    },
+    {
+      "slug": "a110-1",
+      "name": "a110 2",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alpine/a110/2017-now.webp"
+      }
+    }
+  ]
+}

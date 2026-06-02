@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "alpine",
+    "name": "ALPINE"
+  },
+  "slug": "a108",
+  "name": "a108",
+  "generations": [
+    {
+      "slug": "a108-0",
+      "name": "a108 1",
+      "year_start": 1958,
+      "year_end": 1965,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alpine/a108/1958-1965.webp"
+      }
+    }
+  ]
+}

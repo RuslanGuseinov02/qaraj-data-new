@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "alpine",
+    "name": "ALPINE"
+  },
+  "slug": "a310",
+  "name": "a310",
+  "generations": [
+    {
+      "slug": "a310-0",
+      "name": "a310 1",
+      "year_start": 1971,
+      "year_end": 1985,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alpine/a310/1971-1985.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "alpine",
+    "name": "ALPINE"
+  },
+  "slug": "106",
+  "name": "106",
+  "generations": [
+    {
+      "slug": "106-0",
+      "name": "106 1",
+      "year_start": 1955,
+      "year_end": 1961,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alpine/106/1955-1961.webp"
+      }
+    }
+  ]
+}

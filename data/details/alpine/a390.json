@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "alpine",
+    "name": "ALPINE"
+  },
+  "slug": "a390",
+  "name": "a390",
+  "generations": [
+    {
+      "slug": "a390-0",
+      "name": "a390 1",
+      "year_start": 2026,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alpine/a390/2026-now.webp"
+      }
+    }
+  ]
+}

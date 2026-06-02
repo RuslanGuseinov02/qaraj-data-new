@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "alpine",
+    "name": "ALPINE"
+  },
+  "slug": "gta",
+  "name": "gta",
+  "generations": [
+    {
+      "slug": "gta-0",
+      "name": "gta 1",
+      "year_start": 1985,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/alpine/gta/1985-1991.webp"
+      }
+    }
+  ]
+}
