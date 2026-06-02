@@ -1,0 +1,37 @@
+{
+    "make": {
+        "slug": "mercedes-maybach",
+        "name": "Mercedes-Maybach"
+    },
+    "data": [
+        {
+            "slug": "eqs",
+            "name": "Mercedes-Maybach EQS",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "gls-class",
+            "name": "Mercedes-Maybach GLS-Class",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "s-class",
+            "name": "Mercedes-Maybach S-Class",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "sl-class",
+            "name": "Mercedes-Maybach SL-Class",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 4
+}
