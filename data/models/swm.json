@@ -1,0 +1,72 @@
+{
+    "make": {
+        "slug": "swm",
+        "name": "SWM"
+    },
+    "data": [
+        {
+            "slug": "g01",
+            "name": "G01",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "g01f",
+            "name": "G01F",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "g03f",
+            "name": "G03F",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "g05",
+            "name": "G05",
+            "year_start": 2019,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "g05-pro",
+            "name": "G05 Pro",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "iron-man",
+            "name": "Iron Man",
+            "year_start": 2021,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "x2",
+            "name": "X2",
+            "year_start": 2020,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "x3",
+            "name": "X3",
+            "year_start": 2017,
+            "year_end": 2023,
+            "generation_count": 1
+        },
+        {
+            "slug": "x7",
+            "name": "X7",
+            "year_start": 2016,
+            "year_end": 2023,
+            "generation_count": 1
+        }
+    ],
+    "total": 9
+}
