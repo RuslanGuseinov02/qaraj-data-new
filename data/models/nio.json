@@ -1,0 +1,93 @@
+{
+    "make": {
+        "slug": "nio",
+        "name": "Nio"
+    },
+    "data": [
+        {
+            "slug": "ec6",
+            "name": "EC6",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "ec7",
+            "name": "EC7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "el6",
+            "name": "EL6",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "el7",
+            "name": "EL7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "el8",
+            "name": "EL8",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "es6",
+            "name": "ES6",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "es7",
+            "name": "ES7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "es8",
+            "name": "ES8",
+            "year_start": 2018,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "et5",
+            "name": "ET5",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "et5t",
+            "name": "ET5T",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "et7",
+            "name": "ET7",
+            "year_start": 2021,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "et9",
+            "name": "ET9",
+            "year_start": 2025,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 12
+}
