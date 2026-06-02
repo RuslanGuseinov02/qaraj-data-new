@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aito",
+    "name": "AITO"
+  },
+  "slug": "m9",
+  "name": "m9",
+  "generations": [
+    {
+      "slug": "m9-0",
+      "name": "m9 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aito/m9/2023-now.webp"
+      }
+    }
+  ]
+}

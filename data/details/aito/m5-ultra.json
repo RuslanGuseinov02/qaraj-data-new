@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aito",
+    "name": "AITO"
+  },
+  "slug": "m5-ultra",
+  "name": "m5-ultra",
+  "generations": [
+    {
+      "slug": "m5-ultra-0",
+      "name": "m5-ultra 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aito/m5-ultra/2025-now.webp"
+      }
+    }
+  ]
+}

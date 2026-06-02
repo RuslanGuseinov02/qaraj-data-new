@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aito",
+    "name": "AITO"
+  },
+  "slug": "m5",
+  "name": "m5",
+  "generations": [
+    {
+      "slug": "m5-0",
+      "name": "m5 1",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aito/m5/2022-2025.webp"
+      }
+    }
+  ]
+}
