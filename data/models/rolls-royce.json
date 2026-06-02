@@ -1,0 +1,58 @@
+{
+    "make": {
+        "slug": "rolls-royce",
+        "name": "Rolls-Royce"
+    },
+    "data": [
+        {
+            "slug": "dawn",
+            "name": "Dawn",
+            "year_start": 2015,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "cullinan",
+            "name": "Rolls-Royce Cullinan",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "ghost",
+            "name": "Rolls-Royce Ghost",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 4
+        },
+        {
+            "slug": "phantom",
+            "name": "Rolls-Royce Phantom",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "spectre",
+            "name": "Rolls-Royce Spectre",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "silver-seraph",
+            "name": "Silver Seraph",
+            "year_start": 1998,
+            "year_end": 2002,
+            "generation_count": 1
+        },
+        {
+            "slug": "wraith",
+            "name": "Wraith",
+            "year_start": 2013,
+            "year_end": 2023,
+            "generation_count": 1
+        }
+    ],
+    "total": 7
+}
