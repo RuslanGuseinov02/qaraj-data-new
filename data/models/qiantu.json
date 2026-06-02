@@ -1,0 +1,16 @@
+{
+    "make": {
+        "slug": "qiantu",
+        "name": "Qiantu"
+    },
+    "data": [
+        {
+            "slug": "k50",
+            "name": "K50",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        }
+    ],
+    "total": 1
+}
