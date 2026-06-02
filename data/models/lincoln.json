@@ -1,0 +1,142 @@
+{
+    "make": {
+        "slug": "lincoln",
+        "name": "Lincoln"
+    },
+    "data": [
+        {
+            "slug": "aviator",
+            "name": "Aviator",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "blackwood",
+            "name": "Blackwood",
+            "year_start": 2002,
+            "year_end": 2003,
+            "generation_count": 1
+        },
+        {
+            "slug": "continental",
+            "name": "Continental",
+            "year_start": 1961,
+            "year_end": 2020,
+            "generation_count": 6
+        },
+        {
+            "slug": "mark-3",
+            "name": "Continental Mark III",
+            "year_start": 1968,
+            "year_end": 1968,
+            "generation_count": 1
+        },
+        {
+            "slug": "corsair",
+            "name": "Corsair",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "ls",
+            "name": "LS",
+            "year_start": 2000,
+            "year_end": 2006,
+            "generation_count": 2
+        },
+        {
+            "slug": "mkc",
+            "name": "MKC",
+            "year_start": 2014,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "mks",
+            "name": "MKS",
+            "year_start": 2008,
+            "year_end": 2016,
+            "generation_count": 2
+        },
+        {
+            "slug": "mkt",
+            "name": "MKT",
+            "year_start": 2009,
+            "year_end": 2019,
+            "generation_count": 2
+        },
+        {
+            "slug": "mkx",
+            "name": "MKX",
+            "year_start": 2006,
+            "year_end": 2018,
+            "generation_count": 3
+        },
+        {
+            "slug": "mkz",
+            "name": "MKZ",
+            "year_start": 2007,
+            "year_end": 2020,
+            "generation_count": 4
+        },
+        {
+            "slug": "mark-lt",
+            "name": "Mark LT",
+            "year_start": 2005,
+            "year_end": 2014,
+            "generation_count": 2
+        },
+        {
+            "slug": "mark-7",
+            "name": "Mark VII",
+            "year_start": 1984,
+            "year_end": 1992,
+            "generation_count": 1
+        },
+        {
+            "slug": "mark-8",
+            "name": "Mark VIII",
+            "year_start": 1993,
+            "year_end": 1998,
+            "generation_count": 1
+        },
+        {
+            "slug": "nautilus",
+            "name": "Nautilus",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "navigator",
+            "name": "Navigator",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 7
+        },
+        {
+            "slug": "town-car",
+            "name": "Town Car",
+            "year_start": 1981,
+            "year_end": 2011,
+            "generation_count": 3
+        },
+        {
+            "slug": "z",
+            "name": "Z Zephyr",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "zephyr",
+            "name": "Zephyr",
+            "year_start": 2006,
+            "year_end": 2006,
+            "generation_count": 1
+        }
+    ],
+    "total": 19
+}
