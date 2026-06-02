@@ -1,0 +1,219 @@
+{
+    "make": {
+        "slug": "roewe",
+        "name": "Roewe"
+    },
+    "data": [
+        {
+            "slug": "350",
+            "name": "350",
+            "year_start": 2010,
+            "year_end": 2015,
+            "generation_count": 1
+        },
+        {
+            "slug": "360",
+            "name": "360",
+            "year_start": 2015,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "550",
+            "name": "550",
+            "year_start": 2008,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "750",
+            "name": "750",
+            "year_start": 2006,
+            "year_end": 2017,
+            "generation_count": 2
+        },
+        {
+            "slug": "950",
+            "name": "950",
+            "year_start": 2012,
+            "year_end": 2017,
+            "generation_count": 1
+        },
+        {
+            "slug": "clever",
+            "name": "Clever",
+            "year_start": 2020,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "d5x",
+            "name": "D5X",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "d6",
+            "name": "D6",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "d7",
+            "name": "D7",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "e50",
+            "name": "E50",
+            "year_start": 2012,
+            "year_end": 2016,
+            "generation_count": 1
+        },
+        {
+            "slug": "ei5",
+            "name": "Ei5",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "lomemo",
+            "name": "Lomemo",
+            "year_start": 2022,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "marvel-x",
+            "name": "Marvel X",
+            "year_start": 2018,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "rx3",
+            "name": "RX3",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "rx3-pro",
+            "name": "RX3 Pro",
+            "year_start": 2021,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "rx5",
+            "name": "RX5",
+            "year_start": 2017,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "rx5-max",
+            "name": "RX5 MAX",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "rx5-emax",
+            "name": "RX5 eMAX",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "rx5-eplus",
+            "name": "RX5 ePlus",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "rx5-plus",
+            "name": "RX5 plus",
+            "year_start": 2019,
+            "year_end": null,
+            "generation_count": 2
+        },
+        {
+            "slug": "rx8",
+            "name": "RX8",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "rx9",
+            "name": "RX9",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "w5",
+            "name": "W5",
+            "year_start": 2011,
+            "year_end": 2014,
+            "generation_count": 1
+        },
+        {
+            "slug": "whale",
+            "name": "Whale",
+            "year_start": 2022,
+            "year_end": 2024,
+            "generation_count": 1
+        },
+        {
+            "slug": "erx5",
+            "name": "eRX5",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "i5",
+            "name": "i5",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 3
+        },
+        {
+            "slug": "i6",
+            "name": "i6",
+            "year_start": 2017,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "i6-max",
+            "name": "i6 Max",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "i6-plus",
+            "name": "i6 PLUS",
+            "year_start": 2019,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "imax8",
+            "name": "iMAX8",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 30
+}
