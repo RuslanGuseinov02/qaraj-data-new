@@ -1,38 +1,100 @@
-[
-  {
-    "slug": "e82-e88-2011-2013",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/e82-e88-2011-2013.webp"
+{
+  "make": {
+    "slug": "bmw",
+    "name": "BMW"
   },
-  {
-    "slug": "e87-2004-2007",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/e87-2004-2007.webp"
-  },
-  {
-    "slug": "e87-e81-e82-e88-2007-2012",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/e87-e81-e82-e88-2007-2012.webp"
-  },
-  {
-    "slug": "f20-f21-2011-2015",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f20-f21-2011-2015.webp"
-  },
-  {
-    "slug": "f20-f21-2015-2017",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f20-f21-2015-2017.webp"
-  },
-  {
-    "slug": "f20-f21-2017-2020",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f20-f21-2017-2020.webp"
-  },
-  {
-    "slug": "f40-2019-2024",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f40-2019-2024.webp"
-  },
-  {
-    "slug": "f52-2017-now",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f52-2017-now.webp"
-  },
-  {
-    "slug": "f70-2024-now",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f70-2024-now.webp"
-  }
-]
+  "slug": "1-series",
+  "name": "1 Series",
+  "generations": [
+    {
+      "slug": "e87-2004-2007",
+      "name": "E87",
+      "year_start": 2004,
+      "year_end": 2007,
+      "body_type": "hatchback",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/e87-2004-2007.webp"
+      }
+    },
+    {
+      "slug": "e87-e81-e82-e88-2007-2012",
+      "name": "E81 / E82 / E87 / E88",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "hatchback",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/e87-e81-e82-e88-2007-2012.webp"
+      }
+    },
+    {
+      "slug": "e82-e88-2011-2013",
+      "name": "E82 / E88",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "coupe / cabrio",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/e82-e88-2011-2013.webp"
+      }
+    },
+    {
+      "slug": "f20-f21-2011-2015",
+      "name": "F20 / F21",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "hatchback",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f20-f21-2011-2015.webp"
+      }
+    },
+    {
+      "slug": "f20-f21-2015-2017",
+      "name": "F20 / F21 Facelift",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "hatchback",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f20-f21-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "f20-f21-2017-2020",
+      "name": "F20 / F21 LCI",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "hatchback",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f20-f21-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "f40-2019-2024",
+      "name": "F40",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "hatchback",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f40-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "f52-2017-now",
+      "name": "F52",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "sedan",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f52-2017-now.webp"
+      }
+    },
+    {
+      "slug": "f70-2024-now",
+      "name": "F70",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "hatchback",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bmw/1-series/f70-2024-now.webp"
+      }
+    }
+  ]
+}
