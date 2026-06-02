@@ -1,0 +1,79 @@
+{
+    "make": {
+        "slug": "landwind",
+        "name": "Landwind"
+    },
+    "data": [
+        {
+            "slug": "fashion-cv9",
+            "name": "Fashion CV9",
+            "year_start": 2006,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "forward",
+            "name": "Forward CV7",
+            "year_start": 2006,
+            "year_end": 2011,
+            "generation_count": 1
+        },
+        {
+            "slug": "rongyao",
+            "name": "Rongyao",
+            "year_start": 2019,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "x2",
+            "name": "X2",
+            "year_start": 2017,
+            "year_end": 2022,
+            "generation_count": 1
+        },
+        {
+            "slug": "x5",
+            "name": "X5",
+            "year_start": 2012,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "x6",
+            "name": "X6",
+            "year_start": 2002,
+            "year_end": 2012,
+            "generation_count": 1
+        },
+        {
+            "slug": "x7",
+            "name": "X7",
+            "year_start": 2016,
+            "year_end": 2020,
+            "generation_count": 2
+        },
+        {
+            "slug": "x8",
+            "name": "X8",
+            "year_start": 2009,
+            "year_end": 2020,
+            "generation_count": 1
+        },
+        {
+            "slug": "x9",
+            "name": "X9",
+            "year_start": 2002,
+            "year_end": 2013,
+            "generation_count": 1
+        },
+        {
+            "slug": "xiaoyao",
+            "name": "Xiaoyao",
+            "year_start": 2018,
+            "year_end": 2022,
+            "generation_count": 1
+        }
+    ],
+    "total": 10
+}
