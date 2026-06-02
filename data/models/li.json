@@ -1,0 +1,65 @@
+{
+    "make": {
+        "slug": "li",
+        "name": "Li"
+    },
+    "data": [
+        {
+            "slug": "l6",
+            "name": "L6",
+            "year_start": 2024,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "l7",
+            "name": "L7",
+            "year_start": 2023,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "l8",
+            "name": "L8",
+            "year_start": 2022,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "l9",
+            "name": "L9",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "mega",
+            "name": "Mega",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "one",
+            "name": "One",
+            "year_start": 2020,
+            "year_end": 2022,
+            "generation_count": 2
+        },
+        {
+            "slug": "i6",
+            "name": "i6",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        },
+        {
+            "slug": "i8",
+            "name": "i8",
+            "year_start": null,
+            "year_end": null,
+            "generation_count": 1
+        }
+    ],
+    "total": 8
+}
