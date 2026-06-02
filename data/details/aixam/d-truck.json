@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "aixam",
+    "name": "AIXAM"
+  },
+  "slug": "d-truck",
+  "name": "d-truck",
+  "generations": [
+    {
+      "slug": "d-truck-0",
+      "name": "d-truck 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aixam/d-truck/2014-2017.webp"
+      }
+    },
+    {
+      "slug": "d-truck-1",
+      "name": "d-truck 2",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aixam/d-truck/2018-now.webp"
+      }
+    }
+  ]
+}

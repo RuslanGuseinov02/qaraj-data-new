@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aixam",
+    "name": "AIXAM"
+  },
+  "slug": "e-truck",
+  "name": "e-truck",
+  "generations": [
+    {
+      "slug": "e-truck-0",
+      "name": "e-truck 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aixam/e-truck/2018-now.webp"
+      }
+    }
+  ]
+}

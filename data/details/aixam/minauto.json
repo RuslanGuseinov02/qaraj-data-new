@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "aixam",
+    "name": "AIXAM"
+  },
+  "slug": "minauto",
+  "name": "minauto",
+  "generations": [
+    {
+      "slug": "minauto-0",
+      "name": "minauto 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aixam/minauto/2017-2020.webp"
+      }
+    },
+    {
+      "slug": "minauto-1",
+      "name": "minauto 2",
+      "year_start": 2021,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aixam/minauto/2021-2023.webp"
+      }
+    },
+    {
+      "slug": "minauto-2",
+      "name": "minauto 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aixam/minauto/2023-now.webp"
+      }
+    }
+  ]
+}

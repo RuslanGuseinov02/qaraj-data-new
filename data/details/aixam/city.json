@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "aixam",
+    "name": "AIXAM"
+  },
+  "slug": "city",
+  "name": "city",
+  "generations": [
+    {
+      "slug": "city-0",
+      "name": "city 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aixam/city/2016-2020.webp"
+      }
+    },
+    {
+      "slug": "city-1",
+      "name": "city 2",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aixam/city/2020-2023.webp"
+      }
+    },
+    {
+      "slug": "city-2",
+      "name": "city 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aixam/city/2023-now.webp"
+      }
+    }
+  ]
+}

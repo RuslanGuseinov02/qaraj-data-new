@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "aixam",
+    "name": "AIXAM"
+  },
+  "slug": "crossover",
+  "name": "crossover",
+  "generations": [
+    {
+      "slug": "crossover-0",
+      "name": "crossover 1",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aixam/crossover/2018-2020.webp"
+      }
+    },
+    {
+      "slug": "crossover-1",
+      "name": "crossover 2",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aixam/crossover/2020-2023.webp"
+      }
+    },
+    {
+      "slug": "crossover-2",
+      "name": "crossover 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aixam/crossover/2023-now.webp"
+      }
+    }
+  ]
+}

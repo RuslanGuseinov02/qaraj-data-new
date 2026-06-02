@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "aixam",
+    "name": "AIXAM"
+  },
+  "slug": "coupe",
+  "name": "coupe",
+  "generations": [
+    {
+      "slug": "coupe-0",
+      "name": "coupe 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aixam/coupe/2016-2020.webp"
+      }
+    },
+    {
+      "slug": "coupe-1",
+      "name": "coupe 2",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aixam/coupe/2020-2023.webp"
+      }
+    },
+    {
+      "slug": "coupe-2",
+      "name": "coupe 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aixam/coupe/2023-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "aixam",
+    "name": "AIXAM"
+  },
+  "slug": "e-scouty",
+  "name": "e-scouty",
+  "generations": [
+    {
+      "slug": "e-scouty-0",
+      "name": "e-scouty 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/aixam/e-scouty/2023-now.webp"
+      }
+    }
+  ]
+}
