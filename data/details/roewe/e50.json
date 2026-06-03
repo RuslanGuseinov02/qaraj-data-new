@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "roewe",
+    "name": "ROEWE"
+  },
+  "slug": "e50",
+  "name": "e50",
+  "generations": [
+    {
+      "slug": "e50-0",
+      "name": "e50 1",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/roewe/e50/2012-2016.webp"
+      }
+    }
+  ]
+}

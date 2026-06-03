@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "roewe",
+    "name": "ROEWE"
+  },
+  "slug": "erx5",
+  "name": "erx5",
+  "generations": [
+    {
+      "slug": "erx5-0",
+      "name": "erx5 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/roewe/erx5/2022-now.webp"
+      }
+    }
+  ]
+}

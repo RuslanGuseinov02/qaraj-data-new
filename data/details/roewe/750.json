@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "roewe",
+    "name": "ROEWE"
+  },
+  "slug": "750",
+  "name": "750",
+  "generations": [
+    {
+      "slug": "750-0",
+      "name": "750 1",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/roewe/750/bp11-2006-2011.webp"
+      }
+    },
+    {
+      "slug": "750-1",
+      "name": "750 2",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/roewe/750/bp12-2011-2017.webp"
+      }
+    }
+  ]
+}

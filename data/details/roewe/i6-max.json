@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "roewe",
+    "name": "ROEWE"
+  },
+  "slug": "i6-max",
+  "name": "i6-max",
+  "generations": [
+    {
+      "slug": "i6-max-0",
+      "name": "i6-max 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/roewe/i6-max/2020-now.webp"
+      }
+    }
+  ]
+}

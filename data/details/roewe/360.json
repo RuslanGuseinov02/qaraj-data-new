@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "roewe",
+    "name": "ROEWE"
+  },
+  "slug": "360",
+  "name": "360",
+  "generations": [
+    {
+      "slug": "360-0",
+      "name": "360 1",
+      "year_start": 2015,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/roewe/360/2015-2016.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "roewe",
+    "name": "ROEWE"
+  },
+  "slug": "ei5",
+  "name": "ei5",
+  "generations": [
+    {
+      "slug": "ei5-0",
+      "name": "ei5 1",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/roewe/ei5/2019-2024.webp"
+      }
+    },
+    {
+      "slug": "ei5-1",
+      "name": "ei5 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/roewe/ei5/2024-now.webp"
+      }
+    }
+  ]
+}

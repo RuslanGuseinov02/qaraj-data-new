@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "roewe",
+    "name": "ROEWE"
+  },
+  "slug": "clever",
+  "name": "clever",
+  "generations": [
+    {
+      "slug": "clever-0",
+      "name": "clever 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/roewe/clever/2020-now.webp"
+      }
+    }
+  ]
+}

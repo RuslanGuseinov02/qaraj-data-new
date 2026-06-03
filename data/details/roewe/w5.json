@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "roewe",
+    "name": "ROEWE"
+  },
+  "slug": "w5",
+  "name": "w5",
+  "generations": [
+    {
+      "slug": "w5-0",
+      "name": "w5 1",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/roewe/w5/2011-2014.webp"
+      }
+    }
+  ]
+}

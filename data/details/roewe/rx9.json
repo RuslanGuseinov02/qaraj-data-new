@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "roewe",
+    "name": "ROEWE"
+  },
+  "slug": "rx9",
+  "name": "rx9",
+  "generations": [
+    {
+      "slug": "rx9-0",
+      "name": "rx9 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/roewe/rx9/2022-now.webp"
+      }
+    }
+  ]
+}

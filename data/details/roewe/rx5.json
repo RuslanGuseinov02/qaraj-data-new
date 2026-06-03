@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "roewe",
+    "name": "ROEWE"
+  },
+  "slug": "rx5",
+  "name": "rx5",
+  "generations": [
+    {
+      "slug": "rx5-0",
+      "name": "rx5 1",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/roewe/rx5/2017-2021.webp"
+      }
+    },
+    {
+      "slug": "rx5-1",
+      "name": "rx5 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/roewe/rx5/2022-now.webp"
+      }
+    }
+  ]
+}

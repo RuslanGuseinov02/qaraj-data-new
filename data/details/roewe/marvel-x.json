@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "roewe",
+    "name": "ROEWE"
+  },
+  "slug": "marvel-x",
+  "name": "marvel-x",
+  "generations": [
+    {
+      "slug": "marvel-x-0",
+      "name": "marvel-x 1",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/roewe/marvel-x/2018-2020.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "roewe",
+    "name": "ROEWE"
+  },
+  "slug": "imax8",
+  "name": "imax8",
+  "generations": [
+    {
+      "slug": "imax8-0",
+      "name": "imax8 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/roewe/imax8/2020-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "roewe",
+    "name": "ROEWE"
+  },
+  "slug": "i5",
+  "name": "i5",
+  "generations": [
+    {
+      "slug": "i5-0",
+      "name": "i5 1",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/roewe/i5/2019-2021.webp"
+      }
+    },
+    {
+      "slug": "i5-1",
+      "name": "i5 2",
+      "year_start": 2021,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/roewe/i5/2021-2022.webp"
+      }
+    },
+    {
+      "slug": "i5-2",
+      "name": "i5 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/roewe/i5/2023-now.webp"
+      }
+    }
+  ]
+}

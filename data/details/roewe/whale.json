@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "roewe",
+    "name": "ROEWE"
+  },
+  "slug": "whale",
+  "name": "whale",
+  "generations": [
+    {
+      "slug": "whale-0",
+      "name": "whale 1",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/roewe/whale/2022-2024.webp"
+      }
+    }
+  ]
+}
