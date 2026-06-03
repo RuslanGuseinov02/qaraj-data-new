@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mercury",
+    "name": "MERCURY"
+  },
+  "slug": "topaz",
+  "name": "topaz",
+  "generations": [
+    {
+      "slug": "topaz-0",
+      "name": "topaz 1",
+      "year_start": 1983,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/topaz/1983-1987.webp"
+      }
+    },
+    {
+      "slug": "topaz-1",
+      "name": "topaz 2",
+      "year_start": 1988,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/topaz/1988-1994.webp"
+      }
+    }
+  ]
+}

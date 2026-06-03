@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mercury",
+    "name": "MERCURY"
+  },
+  "slug": "marquis",
+  "name": "marquis",
+  "generations": [
+    {
+      "slug": "marquis-0",
+      "name": "marquis 1",
+      "year_start": 1967,
+      "year_end": 1968,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/marquis/1967-1968.webp"
+      }
+    },
+    {
+      "slug": "marquis-1",
+      "name": "marquis 2",
+      "year_start": 1969,
+      "year_end": 1978,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/marquis/1969-1978.webp"
+      }
+    },
+    {
+      "slug": "marquis-2",
+      "name": "marquis 3",
+      "year_start": 1979,
+      "year_end": 1982,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/marquis/1979-1982.webp"
+      }
+    },
+    {
+      "slug": "marquis-3",
+      "name": "marquis 4",
+      "year_start": 1983,
+      "year_end": 1986,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/marquis/1983-1986.webp"
+      }
+    }
+  ]
+}

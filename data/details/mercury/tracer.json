@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mercury",
+    "name": "MERCURY"
+  },
+  "slug": "tracer",
+  "name": "tracer",
+  "generations": [
+    {
+      "slug": "tracer-0",
+      "name": "tracer 1",
+      "year_start": 1988,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/tracer/1988-1990.webp"
+      }
+    },
+    {
+      "slug": "tracer-1",
+      "name": "tracer 2",
+      "year_start": 1991,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/tracer/1991-1996.webp"
+      }
+    },
+    {
+      "slug": "tracer-2",
+      "name": "tracer 3",
+      "year_start": 1997,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/tracer/1997-1999.webp"
+      }
+    }
+  ]
+}

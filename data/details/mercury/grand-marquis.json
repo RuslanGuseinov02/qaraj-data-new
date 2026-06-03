@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mercury",
+    "name": "MERCURY"
+  },
+  "slug": "grand-marquis",
+  "name": "grand-marquis",
+  "generations": [
+    {
+      "slug": "grand-marquis-0",
+      "name": "grand-marquis 1",
+      "year_start": 1979,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/grand-marquis/1979-1991.webp"
+      }
+    },
+    {
+      "slug": "grand-marquis-1",
+      "name": "grand-marquis 2",
+      "year_start": 2003,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/grand-marquis/2003-2011.webp"
+      }
+    },
+    {
+      "slug": "grand-marquis-2",
+      "name": "grand-marquis 3",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/grand-marquis/en114-1998-2002.webp"
+      }
+    },
+    {
+      "slug": "grand-marquis-3",
+      "name": "grand-marquis 4",
+      "year_start": 1992,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/grand-marquis/en53-1992-1997.webp"
+      }
+    }
+  ]
+}

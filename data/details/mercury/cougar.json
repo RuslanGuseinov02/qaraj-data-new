@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "mercury",
+    "name": "MERCURY"
+  },
+  "slug": "cougar",
+  "name": "cougar",
+  "generations": [
+    {
+      "slug": "cougar-0",
+      "name": "cougar 1",
+      "year_start": 1967,
+      "year_end": 1970,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/cougar/1967-1970.webp"
+      }
+    },
+    {
+      "slug": "cougar-1",
+      "name": "cougar 2",
+      "year_start": 1971,
+      "year_end": 1973,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/cougar/1971-1973.webp"
+      }
+    },
+    {
+      "slug": "cougar-2",
+      "name": "cougar 3",
+      "year_start": 1974,
+      "year_end": 1976,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/cougar/1974-1976.webp"
+      }
+    },
+    {
+      "slug": "cougar-3",
+      "name": "cougar 4",
+      "year_start": 1977,
+      "year_end": 1979,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/cougar/1977-1979.webp"
+      }
+    },
+    {
+      "slug": "cougar-4",
+      "name": "cougar 5",
+      "year_start": 1980,
+      "year_end": 1982,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/cougar/1980-1982.webp"
+      }
+    },
+    {
+      "slug": "cougar-5",
+      "name": "cougar 6",
+      "year_start": 1983,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/cougar/1983-1988.webp"
+      }
+    },
+    {
+      "slug": "cougar-6",
+      "name": "cougar 7",
+      "year_start": 1989,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/cougar/1989-1997.webp"
+      }
+    },
+    {
+      "slug": "cougar-7",
+      "name": "cougar 8",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/cougar/1998-2002.webp"
+      }
+    }
+  ]
+}

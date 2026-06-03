@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mercury",
+    "name": "MERCURY"
+  },
+  "slug": "mystique",
+  "name": "mystique",
+  "generations": [
+    {
+      "slug": "mystique-0",
+      "name": "mystique 1",
+      "year_start": 1994,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/mystique/cdw27-mk1-1994-1997.webp"
+      }
+    },
+    {
+      "slug": "mystique-1",
+      "name": "mystique 2",
+      "year_start": 1998,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/mystique/cdw27-mk2-1998-2000.webp"
+      }
+    }
+  ]
+}

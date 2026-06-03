@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mercury",
+    "name": "MERCURY"
+  },
+  "slug": "mariner",
+  "name": "mariner",
+  "generations": [
+    {
+      "slug": "mariner-0",
+      "name": "mariner 1",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/mariner/2005-2007.webp"
+      }
+    },
+    {
+      "slug": "mariner-1",
+      "name": "mariner 2",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/mariner/2008-2011.webp"
+      }
+    }
+  ]
+}

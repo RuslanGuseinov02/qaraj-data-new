@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mercury",
+    "name": "MERCURY"
+  },
+  "slug": "marauder",
+  "name": "marauder",
+  "generations": [
+    {
+      "slug": "marauder-0",
+      "name": "marauder 1",
+      "year_start": 1963,
+      "year_end": 1965,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/marauder/1963-1965.webp"
+      }
+    },
+    {
+      "slug": "marauder-1",
+      "name": "marauder 2",
+      "year_start": 1969,
+      "year_end": 1970,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/marauder/1969-1970.webp"
+      }
+    },
+    {
+      "slug": "marauder-2",
+      "name": "marauder 3",
+      "year_start": 2003,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercury/marauder/2003-2004.webp"
+      }
+    }
+  ]
+}
