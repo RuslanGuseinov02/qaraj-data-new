@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "seat",
+    "name": "SEAT"
+  },
+  "slug": "altea-freetrack",
+  "name": "altea-freetrack",
+  "generations": [
+    {
+      "slug": "altea-freetrack-0",
+      "name": "altea-freetrack 1",
+      "year_start": 2007,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/altea-freetrack/5p-2007-2015.webp"
+      }
+    }
+  ]
+}

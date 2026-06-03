@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "seat",
+    "name": "SEAT"
+  },
+  "slug": "leon",
+  "name": "leon",
+  "generations": [
+    {
+      "slug": "leon-0",
+      "name": "leon 1",
+      "year_start": 1999,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/leon/mk1-1m-1999-2005.webp"
+      }
+    },
+    {
+      "slug": "leon-1",
+      "name": "leon 2",
+      "year_start": 2005,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/leon/mk2-1p-2005-2012.webp"
+      }
+    },
+    {
+      "slug": "leon-2",
+      "name": "leon 3",
+      "year_start": 2012,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/leon/mk3-5f-2012-2020.webp"
+      }
+    },
+    {
+      "slug": "leon-3",
+      "name": "leon 4",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/leon/mk4-kl-2020-now.webp"
+      }
+    }
+  ]
+}

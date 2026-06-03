@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "seat",
+    "name": "SEAT"
+  },
+  "slug": "exeo",
+  "name": "exeo",
+  "generations": [
+    {
+      "slug": "exeo-0",
+      "name": "exeo 1",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/exeo/3r-2008-2013.webp"
+      }
+    }
+  ]
+}

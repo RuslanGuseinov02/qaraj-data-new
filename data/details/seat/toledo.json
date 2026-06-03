@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "seat",
+    "name": "SEAT"
+  },
+  "slug": "toledo",
+  "name": "toledo",
+  "generations": [
+    {
+      "slug": "toledo-0",
+      "name": "toledo 1",
+      "year_start": 1991,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/toledo/mk1-1l-1991-1999.webp"
+      }
+    },
+    {
+      "slug": "toledo-1",
+      "name": "toledo 2",
+      "year_start": 1999,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/toledo/mk2-1m-1999-2004.webp"
+      }
+    },
+    {
+      "slug": "toledo-2",
+      "name": "toledo 3",
+      "year_start": 2004,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/toledo/mk3-5p-2004-2009.webp"
+      }
+    },
+    {
+      "slug": "toledo-3",
+      "name": "toledo 4",
+      "year_start": 2011,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/toledo/mk4-kg-2011-2018.webp"
+      }
+    }
+  ]
+}

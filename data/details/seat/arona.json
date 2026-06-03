@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "seat",
+    "name": "SEAT"
+  },
+  "slug": "arona",
+  "name": "arona",
+  "generations": [
+    {
+      "slug": "arona-0",
+      "name": "arona 1",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/arona/kj7-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "arona-1",
+      "name": "arona 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/arona/kj7-2021-now.webp"
+      }
+    }
+  ]
+}

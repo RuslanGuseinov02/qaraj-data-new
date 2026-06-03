@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "seat",
+    "name": "SEAT"
+  },
+  "slug": "ateca",
+  "name": "ateca",
+  "generations": [
+    {
+      "slug": "ateca-0",
+      "name": "ateca 1",
+      "year_start": 2016,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/ateca/kh7-2016-2022.webp"
+      }
+    },
+    {
+      "slug": "ateca-1",
+      "name": "ateca 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/ateca/kh7-2020-now.webp"
+      }
+    }
+  ]
+}

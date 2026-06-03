@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "seat",
+    "name": "SEAT"
+  },
+  "slug": "altea",
+  "name": "altea",
+  "generations": [
+    {
+      "slug": "altea-0",
+      "name": "altea 1",
+      "year_start": 2004,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/altea/5p-2004-2015.webp"
+      }
+    }
+  ]
+}

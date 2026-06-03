@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "seat",
+    "name": "SEAT"
+  },
+  "slug": "ibiza",
+  "name": "ibiza",
+  "generations": [
+    {
+      "slug": "ibiza-0",
+      "name": "ibiza 1",
+      "year_start": 1984,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/ibiza/mk1-021a-1984-1991.webp"
+      }
+    },
+    {
+      "slug": "ibiza-1",
+      "name": "ibiza 2",
+      "year_start": 1991,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/ibiza/mk1-021a-1991-1993.webp"
+      }
+    },
+    {
+      "slug": "ibiza-2",
+      "name": "ibiza 3",
+      "year_start": 1993,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/ibiza/mk2-6k-1993-1999.webp"
+      }
+    },
+    {
+      "slug": "ibiza-3",
+      "name": "ibiza 4",
+      "year_start": 1999,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/ibiza/mk2-6k-1999-2002.webp"
+      }
+    },
+    {
+      "slug": "ibiza-4",
+      "name": "ibiza 5",
+      "year_start": 2002,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/ibiza/mk3-6l-2002-2008.webp"
+      }
+    },
+    {
+      "slug": "ibiza-5",
+      "name": "ibiza 6",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/ibiza/mk4-6j-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "ibiza-6",
+      "name": "ibiza 7",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/ibiza/mk4-6j-6p-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "ibiza-7",
+      "name": "ibiza 8",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/ibiza/mk5-6f-kj1-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "ibiza-8",
+      "name": "ibiza 9",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seat/ibiza/mk5-6f-kj1-2021-now.webp"
+      }
+    }
+  ]
+}
