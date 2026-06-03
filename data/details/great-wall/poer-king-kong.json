@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "poer-king-kong",
+  "name": "poer-king-kong",
+  "generations": [
+    {
+      "slug": "poer-king-kong-0",
+      "name": "poer-king-kong 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/poer-king-kong/2022-now.webp"
+      }
+    }
+  ]
+}

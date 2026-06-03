@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "cannon-alpha",
+  "name": "cannon-alpha",
+  "generations": [
+    {
+      "slug": "cannon-alpha-0",
+      "name": "cannon-alpha 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/cannon-alpha/2024-now.webp"
+      }
+    }
+  ]
+}

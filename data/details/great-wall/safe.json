@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "safe",
+  "name": "safe",
+  "generations": [
+    {
+      "slug": "safe-0",
+      "name": "safe 1",
+      "year_start": 2001,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/safe/g5-2001-2010.webp"
+      }
+    }
+  ]
+}

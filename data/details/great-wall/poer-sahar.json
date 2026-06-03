@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "poer-sahar",
+  "name": "poer-sahar",
+  "generations": [
+    {
+      "slug": "poer-sahar-0",
+      "name": "poer-sahar 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/poer-sahar/2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "cowry",
+  "name": "cowry",
+  "generations": [
+    {
+      "slug": "cowry-0",
+      "name": "cowry 1",
+      "year_start": 2007,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/cowry/2007-2014.webp"
+      }
+    }
+  ]
+}

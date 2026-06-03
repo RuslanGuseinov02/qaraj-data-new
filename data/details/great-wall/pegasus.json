@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "pegasus",
+  "name": "pegasus",
+  "generations": [
+    {
+      "slug": "pegasus-0",
+      "name": "pegasus 1",
+      "year_start": 2002,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/pegasus/2002-2007.webp"
+      }
+    }
+  ]
+}

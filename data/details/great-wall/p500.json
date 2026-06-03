@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "p500",
+  "name": "p500",
+  "generations": [
+    {
+      "slug": "p500-0",
+      "name": "p500 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/p500/2024-now.webp"
+      }
+    }
+  ]
+}

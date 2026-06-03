@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "pao",
+  "name": "pao",
+  "generations": [
+    {
+      "slug": "pao-0",
+      "name": "pao 1",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/pao/2019-2023.webp"
+      }
+    },
+    {
+      "slug": "pao-1",
+      "name": "pao 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/pao/2023-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "wey-07",
+  "name": "wey-07",
+  "generations": [
+    {
+      "slug": "wey-07-0",
+      "name": "wey-07 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/wey-07/2024-now.webp"
+      }
+    }
+  ]
+}

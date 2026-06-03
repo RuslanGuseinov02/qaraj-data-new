@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "deer",
+  "name": "deer",
+  "generations": [
+    {
+      "slug": "deer-0",
+      "name": "deer 1",
+      "year_start": 1996,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/deer/1996-2013.webp"
+      }
+    }
+  ]
+}

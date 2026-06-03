@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "v80",
+  "name": "v80",
+  "generations": [
+    {
+      "slug": "v80-0",
+      "name": "v80 1",
+      "year_start": 2007,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/v80/2007-2014.webp"
+      }
+    }
+  ]
+}

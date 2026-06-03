@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "hover-h6",
+  "name": "hover-h6",
+  "generations": [
+    {
+      "slug": "hover-h6-0",
+      "name": "hover-h6 1",
+      "year_start": 2011,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/hover-h6/2011-2020.webp"
+      }
+    }
+  ]
+}

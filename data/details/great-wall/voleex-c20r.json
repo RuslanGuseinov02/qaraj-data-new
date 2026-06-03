@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "voleex-c20r",
+  "name": "voleex-c20r",
+  "generations": [
+    {
+      "slug": "voleex-c20r-0",
+      "name": "voleex-c20r 1",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/voleex-c20r/2011-2013.webp"
+      }
+    }
+  ]
+}

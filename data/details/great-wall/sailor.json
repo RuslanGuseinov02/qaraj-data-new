@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "sailor",
+  "name": "sailor",
+  "generations": [
+    {
+      "slug": "sailor-0",
+      "name": "sailor 1",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/sailor/2004-2010.webp"
+      }
+    }
+  ]
+}

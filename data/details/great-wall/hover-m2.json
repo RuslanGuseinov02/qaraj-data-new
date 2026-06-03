@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "hover-m2",
+  "name": "hover-m2",
+  "generations": [
+    {
+      "slug": "hover-m2-0",
+      "name": "hover-m2 1",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/hover-m2/2010-2014.webp"
+      }
+    }
+  ]
+}

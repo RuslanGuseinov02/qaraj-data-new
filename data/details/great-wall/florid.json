@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "florid",
+  "name": "florid",
+  "generations": [
+    {
+      "slug": "florid-0",
+      "name": "florid 1",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/florid/2009-2013.webp"
+      }
+    },
+    {
+      "slug": "florid-1",
+      "name": "florid 2",
+      "year_start": 2011,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/florid/2011-2011.webp"
+      }
+    }
+  ]
+}

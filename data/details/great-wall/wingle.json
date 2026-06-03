@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "wingle",
+  "name": "wingle",
+  "generations": [
+    {
+      "slug": "wingle-0",
+      "name": "wingle 1",
+      "year_start": 2005,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/wingle/2005-2011.webp"
+      }
+    },
+    {
+      "slug": "wingle-1",
+      "name": "wingle 2",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/wingle/2011-2016.webp"
+      }
+    }
+  ]
+}

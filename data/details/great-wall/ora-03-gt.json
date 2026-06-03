@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "ora-03-gt",
+  "name": "ora-03-gt",
+  "generations": [
+    {
+      "slug": "ora-03-gt-0",
+      "name": "ora-03-gt 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/ora-03-gt/es11-2023-now.webp"
+      }
+    }
+  ]
+}

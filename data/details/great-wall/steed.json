@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "steed",
+  "name": "steed",
+  "generations": [
+    {
+      "slug": "steed-0",
+      "name": "steed 1",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/steed/2020-2025.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "sing",
+  "name": "sing",
+  "generations": [
+    {
+      "slug": "sing-0",
+      "name": "sing 1",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/sing/2004-2010.webp"
+      }
+    }
+  ]
+}

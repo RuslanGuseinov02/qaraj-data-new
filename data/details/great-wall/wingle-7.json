@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "wingle-7",
+  "name": "wingle-7",
+  "generations": [
+    {
+      "slug": "wingle-7-0",
+      "name": "wingle-7 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/wingle-7/2018-now.webp"
+      }
+    }
+  ]
+}

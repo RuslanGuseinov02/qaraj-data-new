@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "king-kong-cannon",
+  "name": "king-kong-cannon",
+  "generations": [
+    {
+      "slug": "king-kong-cannon-0",
+      "name": "king-kong-cannon 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/king-kong-cannon/2021-now.webp"
+      }
+    }
+  ]
+}

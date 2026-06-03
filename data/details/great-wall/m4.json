@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "m4",
+  "name": "m4",
+  "generations": [
+    {
+      "slug": "m4-0",
+      "name": "m4 1",
+      "year_start": 2012,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/m4/2012-2020.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "great-wall",
+    "name": "GREAT-WALL"
+  },
+  "slug": "p-series",
+  "name": "p-series",
+  "generations": [
+    {
+      "slug": "p-series-0",
+      "name": "p-series 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/great-wall/p-series/2020-now.webp"
+      }
+    }
+  ]
+}
