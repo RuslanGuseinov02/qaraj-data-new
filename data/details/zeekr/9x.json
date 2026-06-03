@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zeekr",
+    "name": "ZEEKR"
+  },
+  "slug": "9x",
+  "name": "9x",
+  "generations": [
+    {
+      "slug": "9x-0",
+      "name": "9x 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zeekr/9x/ex1h-2025-now.webp"
+      }
+    }
+  ]
+}

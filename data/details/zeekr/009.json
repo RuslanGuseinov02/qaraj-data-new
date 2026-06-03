@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zeekr",
+    "name": "ZEEKR"
+  },
+  "slug": "009",
+  "name": "009",
+  "generations": [
+    {
+      "slug": "009-0",
+      "name": "009 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zeekr/009/2022-now.webp"
+      }
+    }
+  ]
+}

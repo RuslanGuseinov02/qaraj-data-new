@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "zeekr",
+    "name": "ZEEKR"
+  },
+  "slug": "7x",
+  "name": "7x",
+  "generations": [
+    {
+      "slug": "7x-0",
+      "name": "7x 1",
+      "year_start": 2024,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zeekr/7x/2024-2025.webp"
+      }
+    },
+    {
+      "slug": "7x-1",
+      "name": "7x 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zeekr/7x/2025-now.webp"
+      }
+    }
+  ]
+}

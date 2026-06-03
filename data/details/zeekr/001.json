@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "zeekr",
+    "name": "ZEEKR"
+  },
+  "slug": "001",
+  "name": "001",
+  "generations": [
+    {
+      "slug": "001-0",
+      "name": "001 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zeekr/001/2021-2024.webp"
+      }
+    },
+    {
+      "slug": "001-1",
+      "name": "001 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zeekr/001/2023-now.webp"
+      }
+    }
+  ]
+}
