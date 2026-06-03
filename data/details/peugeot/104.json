@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "104",
+  "name": "104",
+  "generations": [
+    {
+      "slug": "104-0",
+      "name": "104 1",
+      "year_start": 1972,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/104/1972-1988.webp"
+      }
+    }
+  ]
+}

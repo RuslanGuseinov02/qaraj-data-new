@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "504",
+  "name": "504",
+  "generations": [
+    {
+      "slug": "504-0",
+      "name": "504 1",
+      "year_start": 1968,
+      "year_end": 1984,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/504/1968-1984.webp"
+      }
+    }
+  ]
+}

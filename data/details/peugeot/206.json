@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "206",
+  "name": "206",
+  "generations": [
+    {
+      "slug": "206-0",
+      "name": "206 1",
+      "year_start": 1998,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/206/jm-1998-2010.webp"
+      }
+    }
+  ]
+}

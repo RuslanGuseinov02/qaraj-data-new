@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "304",
+  "name": "304",
+  "generations": [
+    {
+      "slug": "304-0",
+      "name": "304 1",
+      "year_start": 1969,
+      "year_end": 1980,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/304/04m-1969-1980.webp"
+      }
+    }
+  ]
+}

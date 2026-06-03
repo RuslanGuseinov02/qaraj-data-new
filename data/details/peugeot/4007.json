@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "4007",
+  "name": "4007",
+  "generations": [
+    {
+      "slug": "4007-0",
+      "name": "4007 1",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/4007/gs-2007-2012.webp"
+      }
+    }
+  ]
+}

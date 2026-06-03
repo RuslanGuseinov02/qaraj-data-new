@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "bipper",
+  "name": "bipper",
+  "generations": [
+    {
+      "slug": "bipper-0",
+      "name": "bipper 1",
+      "year_start": 2008,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/bipper/225-2008-2018.webp"
+      }
+    }
+  ]
+}

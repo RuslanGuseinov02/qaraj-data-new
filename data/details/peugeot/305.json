@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "305",
+  "name": "305",
+  "generations": [
+    {
+      "slug": "305-0",
+      "name": "305 1",
+      "year_start": 1977,
+      "year_end": 1982,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/305/phase-1-1977-1982.webp"
+      }
+    },
+    {
+      "slug": "305-1",
+      "name": "305 2",
+      "year_start": 1983,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/305/phase-2-1983-1989.webp"
+      }
+    }
+  ]
+}

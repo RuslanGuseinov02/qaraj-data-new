@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "508-rxh",
+  "name": "508-rxh",
+  "generations": [
+    {
+      "slug": "508-rxh-0",
+      "name": "508-rxh 1",
+      "year_start": 2012,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/508-rxh/2012-2014.webp"
+      }
+    },
+    {
+      "slug": "508-rxh-1",
+      "name": "508-rxh 2",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/508-rxh/2015-2018.webp"
+      }
+    }
+  ]
+}

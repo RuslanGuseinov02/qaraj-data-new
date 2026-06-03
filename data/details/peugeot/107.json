@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "107",
+  "name": "107",
+  "generations": [
+    {
+      "slug": "107-0",
+      "name": "107 1",
+      "year_start": 2005,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/107/ab10-2005-2014.webp"
+      }
+    }
+  ]
+}

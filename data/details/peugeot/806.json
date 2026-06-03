@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "806",
+  "name": "806",
+  "generations": [
+    {
+      "slug": "806-0",
+      "name": "806 1",
+      "year_start": 1994,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/806/1994-2002.webp"
+      }
+    }
+  ]
+}

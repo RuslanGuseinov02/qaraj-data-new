@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "partner-origin",
+  "name": "partner-origin",
+  "generations": [
+    {
+      "slug": "partner-origin-0",
+      "name": "partner-origin 1",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/partner-origin/m59-2008-2011.webp"
+      }
+    }
+  ]
+}

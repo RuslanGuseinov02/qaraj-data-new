@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "204",
+  "name": "204",
+  "generations": [
+    {
+      "slug": "204-0",
+      "name": "204 1",
+      "year_start": 1965,
+      "year_end": 1977,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/204/mk1-1965-1977.webp"
+      }
+    }
+  ]
+}

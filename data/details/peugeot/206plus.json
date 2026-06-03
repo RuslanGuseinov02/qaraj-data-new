@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "206plus",
+  "name": "206plus",
+  "generations": [
+    {
+      "slug": "206plus-0",
+      "name": "206plus 1",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/206plus/jm-2009-2012.webp"
+      }
+    }
+  ]
+}

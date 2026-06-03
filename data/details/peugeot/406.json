@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "406",
+  "name": "406",
+  "generations": [
+    {
+      "slug": "406-0",
+      "name": "406 1",
+      "year_start": 1995,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/406/1995-2004.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "508l",
+  "name": "508l",
+  "generations": [
+    {
+      "slug": "508l-0",
+      "name": "508l 1",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/508l/2019-2025.webp"
+      }
+    }
+  ]
+}

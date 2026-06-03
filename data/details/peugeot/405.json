@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "405",
+  "name": "405",
+  "generations": [
+    {
+      "slug": "405-0",
+      "name": "405 1",
+      "year_start": 1987,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/405/1987-1999.webp"
+      }
+    }
+  ]
+}

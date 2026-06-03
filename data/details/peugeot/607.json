@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "607",
+  "name": "607",
+  "generations": [
+    {
+      "slug": "607-0",
+      "name": "607 1",
+      "year_start": 1999,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/607/1999-2010.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "partner-rapid",
+  "name": "partner-rapid",
+  "generations": [
+    {
+      "slug": "partner-rapid-0",
+      "name": "partner-rapid 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/partner-rapid/327-2021-now.webp"
+      }
+    }
+  ]
+}

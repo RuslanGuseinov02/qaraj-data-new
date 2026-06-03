@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "traveller",
+  "name": "traveller",
+  "generations": [
+    {
+      "slug": "traveller-0",
+      "name": "traveller 1",
+      "year_start": 2016,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/traveller/k0-2016-2024.webp"
+      }
+    },
+    {
+      "slug": "traveller-1",
+      "name": "traveller 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/traveller/k0-2024-now.webp"
+      }
+    }
+  ]
+}

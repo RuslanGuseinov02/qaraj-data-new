@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "207",
+  "name": "207",
+  "generations": [
+    {
+      "slug": "207-0",
+      "name": "207 1",
+      "year_start": 2008,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/207/jm-2008-2014.webp"
+      }
+    },
+    {
+      "slug": "207-1",
+      "name": "207 2",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/207/pf1-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "207-2",
+      "name": "207 3",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/207/pf1-2009-2014.webp"
+      }
+    }
+  ]
+}

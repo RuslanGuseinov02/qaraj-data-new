@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "408",
+  "name": "408",
+  "generations": [
+    {
+      "slug": "408-0",
+      "name": "408 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/408/p54-2022-2026.webp"
+      }
+    },
+    {
+      "slug": "408-1",
+      "name": "408 2",
+      "year_start": 2026,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/408/p54-2026-now.webp"
+      }
+    },
+    {
+      "slug": "408-2",
+      "name": "408 3",
+      "year_start": 2010,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/408/t7-2010-2017.webp"
+      }
+    },
+    {
+      "slug": "408-3",
+      "name": "408 4",
+      "year_start": 2015,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/408/t7-2015-2022.webp"
+      }
+    },
+    {
+      "slug": "408-4",
+      "name": "408 5",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/408/t9-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "408-5",
+      "name": "408 6",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/408/t9-2018-2022.webp"
+      }
+    },
+    {
+      "slug": "408-6",
+      "name": "408 7",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/408/t9-2022-2026.webp"
+      }
+    }
+  ]
+}

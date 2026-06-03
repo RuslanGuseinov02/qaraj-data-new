@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "5008",
+  "name": "5008",
+  "generations": [
+    {
+      "slug": "5008-0",
+      "name": "5008 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/5008/p67-2024-now.webp"
+      }
+    },
+    {
+      "slug": "5008-1",
+      "name": "5008 2",
+      "year_start": 2009,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/5008/t8-2009-2016.webp"
+      }
+    },
+    {
+      "slug": "5008-2",
+      "name": "5008 3",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/5008/t87-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "5008-3",
+      "name": "5008 4",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/5008/t87-2020-2025.webp"
+      }
+    }
+  ]
+}

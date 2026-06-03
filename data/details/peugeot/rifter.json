@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "rifter",
+  "name": "rifter",
+  "generations": [
+    {
+      "slug": "rifter-0",
+      "name": "rifter 1",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/rifter/k9-2018-2024.webp"
+      }
+    },
+    {
+      "slug": "rifter-1",
+      "name": "rifter 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/rifter/k9-2024-now.webp"
+      }
+    }
+  ]
+}

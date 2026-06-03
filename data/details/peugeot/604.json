@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "604",
+  "name": "604",
+  "generations": [
+    {
+      "slug": "604-0",
+      "name": "604 1",
+      "year_start": 1977,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/604/1977-1987.webp"
+      }
+    }
+  ]
+}

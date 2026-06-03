@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "208",
+  "name": "208",
+  "generations": [
+    {
+      "slug": "208-0",
+      "name": "208 1",
+      "year_start": 2012,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/208/a9-2012-2021.webp"
+      }
+    },
+    {
+      "slug": "208-1",
+      "name": "208 2",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/208/p21-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "208-2",
+      "name": "208 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/208/p21-2023-now.webp"
+      }
+    }
+  ]
+}

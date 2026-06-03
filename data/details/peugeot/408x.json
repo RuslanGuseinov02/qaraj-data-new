@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "408x",
+  "name": "408x",
+  "generations": [
+    {
+      "slug": "408x-0",
+      "name": "408x 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/408x/p54-2023-now.webp"
+      }
+    }
+  ]
+}

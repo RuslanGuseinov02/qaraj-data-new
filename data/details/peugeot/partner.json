@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "partner",
+  "name": "partner",
+  "generations": [
+    {
+      "slug": "partner-0",
+      "name": "partner 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/partner/b9-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "partner-1",
+      "name": "partner 2",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/partner/b9-2012-2015.webp"
+      }
+    },
+    {
+      "slug": "partner-2",
+      "name": "partner 3",
+      "year_start": 2015,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/partner/b9-2015-2023.webp"
+      }
+    },
+    {
+      "slug": "partner-3",
+      "name": "partner 4",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/partner/k9-2018-2024.webp"
+      }
+    },
+    {
+      "slug": "partner-4",
+      "name": "partner 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/partner/k9-2024-now.webp"
+      }
+    },
+    {
+      "slug": "partner-5",
+      "name": "partner 6",
+      "year_start": 1996,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/partner/m49-m59-1996-2008.webp"
+      }
+    },
+    {
+      "slug": "partner-6",
+      "name": "partner 7",
+      "year_start": 2010,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/partner/m59-2010-2022.webp"
+      }
+    }
+  ]
+}

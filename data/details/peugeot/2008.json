@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "2008",
+  "name": "2008",
+  "generations": [
+    {
+      "slug": "2008-0",
+      "name": "2008 1",
+      "year_start": 2013,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/2008/a94-2013-2019.webp"
+      }
+    },
+    {
+      "slug": "2008-1",
+      "name": "2008 2",
+      "year_start": 2016,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/2008/a94-2016-2022.webp"
+      }
+    },
+    {
+      "slug": "2008-2",
+      "name": "2008 3",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/2008/p24-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "2008-3",
+      "name": "2008 4",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/2008/p24-2023-now.webp"
+      }
+    }
+  ]
+}

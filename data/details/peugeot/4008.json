@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "4008",
+  "name": "4008",
+  "generations": [
+    {
+      "slug": "4008-0",
+      "name": "4008 1",
+      "year_start": 2012,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/4008/gs-2012-2017.webp"
+      }
+    },
+    {
+      "slug": "4008-1",
+      "name": "4008 2",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/4008/p84e-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "4008-2",
+      "name": "4008 3",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/4008/p84e-2020-2026.webp"
+      }
+    }
+  ]
+}

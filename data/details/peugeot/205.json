@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "205",
+  "name": "205",
+  "generations": [
+    {
+      "slug": "205-0",
+      "name": "205 1",
+      "year_start": 1983,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/205/1983-1998.webp"
+      }
+    }
+  ]
+}

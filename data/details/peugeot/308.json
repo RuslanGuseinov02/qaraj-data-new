@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "308",
+  "name": "308",
+  "generations": [
+    {
+      "slug": "308-0",
+      "name": "308 1",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/308/p5-2021-2025.webp"
+      }
+    },
+    {
+      "slug": "308-1",
+      "name": "308 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/308/p5-2025-now.webp"
+      }
+    },
+    {
+      "slug": "308-2",
+      "name": "308 3",
+      "year_start": 2007,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/308/t7-2007-2015.webp"
+      }
+    },
+    {
+      "slug": "308-3",
+      "name": "308 4",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/308/t9-2013-2018.webp"
+      }
+    },
+    {
+      "slug": "308-4",
+      "name": "308 5",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/308/t9-2017-2022.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "landtrek",
+  "name": "landtrek",
+  "generations": [
+    {
+      "slug": "landtrek-0",
+      "name": "landtrek 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/landtrek/2020-2026.webp"
+      }
+    }
+  ]
+}

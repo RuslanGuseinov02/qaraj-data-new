@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "peugeot",
+    "name": "PEUGEOT"
+  },
+  "slug": "boxer",
+  "name": "boxer",
+  "generations": [
+    {
+      "slug": "boxer-0",
+      "name": "boxer 1",
+      "year_start": 1994,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/boxer/230-1994-2001.webp"
+      }
+    },
+    {
+      "slug": "boxer-1",
+      "name": "boxer 2",
+      "year_start": 2002,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/boxer/244-2002-2006.webp"
+      }
+    },
+    {
+      "slug": "boxer-2",
+      "name": "boxer 3",
+      "year_start": 2007,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/boxer/250-2007-2014.webp"
+      }
+    },
+    {
+      "slug": "boxer-3",
+      "name": "boxer 4",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/boxer/290-2015-2026.webp"
+      }
+    },
+    {
+      "slug": "boxer-4",
+      "name": "boxer 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/peugeot/boxer/290-2024-now.webp"
+      }
+    }
+  ]
+}
