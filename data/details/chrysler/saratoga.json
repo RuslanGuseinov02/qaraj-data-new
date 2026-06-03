@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "saratoga",
+  "name": "saratoga",
+  "generations": [
+    {
+      "slug": "saratoga-0",
+      "name": "saratoga 1",
+      "year_start": 1957,
+      "year_end": 1958,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/saratoga/1957-1958.webp"
+      }
+    },
+    {
+      "slug": "saratoga-1",
+      "name": "saratoga 2",
+      "year_start": 1959,
+      "year_end": 1959,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/saratoga/1959-1959.webp"
+      }
+    },
+    {
+      "slug": "saratoga-2",
+      "name": "saratoga 3",
+      "year_start": 1960,
+      "year_end": 1960,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/saratoga/1960-1960.webp"
+      }
+    },
+    {
+      "slug": "saratoga-3",
+      "name": "saratoga 4",
+      "year_start": 1989,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/saratoga/1989-1995.webp"
+      }
+    }
+  ]
+}

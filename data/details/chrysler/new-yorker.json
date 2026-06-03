@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "new-yorker",
+  "name": "new-yorker",
+  "generations": [
+    {
+      "slug": "new-yorker-0",
+      "name": "new-yorker 1",
+      "year_start": 1989,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/new-yorker/c-body-1989-1993.webp"
+      }
+    },
+    {
+      "slug": "new-yorker-1",
+      "name": "new-yorker 2",
+      "year_start": 1982,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/new-yorker/e-body-1982-1988.webp"
+      }
+    },
+    {
+      "slug": "new-yorker-2",
+      "name": "new-yorker 3",
+      "year_start": 1994,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/new-yorker/lh1-1994-1998.webp"
+      }
+    }
+  ]
+}

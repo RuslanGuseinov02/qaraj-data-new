@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "fifth-avenue",
+  "name": "fifth-avenue",
+  "generations": [
+    {
+      "slug": "fifth-avenue-0",
+      "name": "fifth-avenue 1",
+      "year_start": 1984,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/fifth-avenue/m-body-1984-1989.webp"
+      }
+    },
+    {
+      "slug": "fifth-avenue-1",
+      "name": "fifth-avenue 2",
+      "year_start": 1990,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/fifth-avenue/y-body-1990-1993.webp"
+      }
+    }
+  ]
+}

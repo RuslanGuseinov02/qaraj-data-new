@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "pt-cruiser",
+  "name": "pt-cruiser",
+  "generations": [
+    {
+      "slug": "pt-cruiser-0",
+      "name": "pt-cruiser 1",
+      "year_start": 2000,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/pt-cruiser/pt-2000-2005.webp"
+      }
+    },
+    {
+      "slug": "pt-cruiser-1",
+      "name": "pt-cruiser 2",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/pt-cruiser/pt-2006-2010.webp"
+      }
+    }
+  ]
+}

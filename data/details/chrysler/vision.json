@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "vision",
+  "name": "vision",
+  "generations": [
+    {
+      "slug": "vision-0",
+      "name": "vision 1",
+      "year_start": 1992,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/vision/1992-1998.webp"
+      }
+    }
+  ]
+}

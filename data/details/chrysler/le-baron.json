@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "le-baron",
+  "name": "le-baron",
+  "generations": [
+    {
+      "slug": "le-baron-0",
+      "name": "le-baron 1",
+      "year_start": 1989,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/le-baron/h-body-1989-1995.webp"
+      }
+    },
+    {
+      "slug": "le-baron-1",
+      "name": "le-baron 2",
+      "year_start": 1982,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/le-baron/k-body-1982-1988.webp"
+      }
+    },
+    {
+      "slug": "le-baron-2",
+      "name": "le-baron 3",
+      "year_start": 1977,
+      "year_end": 1981,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/le-baron/m-body-1977-1981.webp"
+      }
+    }
+  ]
+}

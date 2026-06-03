@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "grand-voyager",
+  "name": "grand-voyager",
+  "generations": [
+    {
+      "slug": "grand-voyager-0",
+      "name": "grand-voyager 1",
+      "year_start": 1990,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/grand-voyager/es-1990-1995.webp"
+      }
+    },
+    {
+      "slug": "grand-voyager-1",
+      "name": "grand-voyager 2",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/grand-voyager/gs-1995-2000.webp"
+      }
+    },
+    {
+      "slug": "grand-voyager-2",
+      "name": "grand-voyager 3",
+      "year_start": 2000,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/grand-voyager/rg-2000-2007.webp"
+      }
+    },
+    {
+      "slug": "grand-voyager-3",
+      "name": "grand-voyager 4",
+      "year_start": 2008,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/grand-voyager/rt-2008-2015.webp"
+      }
+    }
+  ]
+}

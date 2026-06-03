@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "grand-caravan",
+  "name": "grand-caravan",
+  "generations": [
+    {
+      "slug": "grand-caravan-0",
+      "name": "grand-caravan 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/grand-caravan/ru-2021-now.webp"
+      }
+    }
+  ]
+}

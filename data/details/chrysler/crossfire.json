@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "crossfire",
+  "name": "crossfire",
+  "generations": [
+    {
+      "slug": "crossfire-0",
+      "name": "crossfire 1",
+      "year_start": 2003,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/crossfire/zh-2003-2008.webp"
+      }
+    }
+  ]
+}

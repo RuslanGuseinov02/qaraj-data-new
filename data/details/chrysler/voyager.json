@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "voyager",
+  "name": "voyager",
+  "generations": [
+    {
+      "slug": "voyager-0",
+      "name": "voyager 1",
+      "year_start": 1988,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/voyager/as-1988-1990.webp"
+      }
+    },
+    {
+      "slug": "voyager-1",
+      "name": "voyager 2",
+      "year_start": 1991,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/voyager/es-1991-1995.webp"
+      }
+    },
+    {
+      "slug": "voyager-2",
+      "name": "voyager 3",
+      "year_start": 1996,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/voyager/gs-1996-2000.webp"
+      }
+    },
+    {
+      "slug": "voyager-3",
+      "name": "voyager 4",
+      "year_start": 2001,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/voyager/rg-2001-2007.webp"
+      }
+    },
+    {
+      "slug": "voyager-4",
+      "name": "voyager 5",
+      "year_start": 2008,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/voyager/rt-2008-2016.webp"
+      }
+    },
+    {
+      "slug": "voyager-5",
+      "name": "voyager 6",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/voyager/ru-2020-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "300c-srt-8",
+  "name": "300c-srt-8",
+  "generations": [
+    {
+      "slug": "300c-srt-8-0",
+      "name": "300c-srt-8 1",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/300c-srt-8/lx1-2004-2010.webp"
+      }
+    },
+    {
+      "slug": "300c-srt-8-1",
+      "name": "300c-srt-8 2",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/300c-srt-8/lx2-2011-2014.webp"
+      }
+    }
+  ]
+}

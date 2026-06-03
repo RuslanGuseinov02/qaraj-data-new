@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "dynasty",
+  "name": "dynasty",
+  "generations": [
+    {
+      "slug": "dynasty-0",
+      "name": "dynasty 1",
+      "year_start": 1988,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/dynasty/1988-1993.webp"
+      }
+    }
+  ]
+}

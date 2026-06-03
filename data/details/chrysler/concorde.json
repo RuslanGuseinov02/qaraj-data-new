@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "concorde",
+  "name": "concorde",
+  "generations": [
+    {
+      "slug": "concorde-0",
+      "name": "concorde 1",
+      "year_start": 1992,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/concorde/lh1-1992-1997.webp"
+      }
+    },
+    {
+      "slug": "concorde-1",
+      "name": "concorde 2",
+      "year_start": 1998,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/concorde/lh2-1998-2004.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "cirrus",
+  "name": "cirrus",
+  "generations": [
+    {
+      "slug": "cirrus-0",
+      "name": "cirrus 1",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/cirrus/ja-1995-2000.webp"
+      }
+    }
+  ]
+}

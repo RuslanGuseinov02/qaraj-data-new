@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "300",
+  "name": "300",
+  "generations": [
+    {
+      "slug": "300-0",
+      "name": "300 1",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/300/ld-2011-2014.webp"
+      }
+    },
+    {
+      "slug": "300-1",
+      "name": "300 2",
+      "year_start": 2015,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/300/ld-2015-2024.webp"
+      }
+    },
+    {
+      "slug": "300-2",
+      "name": "300 3",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/300/lx-2004-2010.webp"
+      }
+    }
+  ]
+}

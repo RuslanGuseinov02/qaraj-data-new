@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "sebring",
+  "name": "sebring",
+  "generations": [
+    {
+      "slug": "sebring-0",
+      "name": "sebring 1",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/sebring/fj-jx-1995-2000.webp"
+      }
+    },
+    {
+      "slug": "sebring-1",
+      "name": "sebring 2",
+      "year_start": 2001,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/sebring/jr-st-2001-2006.webp"
+      }
+    },
+    {
+      "slug": "sebring-2",
+      "name": "sebring 3",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/sebring/js-2007-2010.webp"
+      }
+    }
+  ]
+}

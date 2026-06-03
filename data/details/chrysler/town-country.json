@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "town-country",
+  "name": "town-country",
+  "generations": [
+    {
+      "slug": "town-country-0",
+      "name": "town-country 1",
+      "year_start": 1988,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/town-country/as-1988-1990.webp"
+      }
+    },
+    {
+      "slug": "town-country-1",
+      "name": "town-country 2",
+      "year_start": 1991,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/town-country/es-1991-1994.webp"
+      }
+    },
+    {
+      "slug": "town-country-2",
+      "name": "town-country 3",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/town-country/gs-1995-2000.webp"
+      }
+    },
+    {
+      "slug": "town-country-3",
+      "name": "town-country 4",
+      "year_start": 2001,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/town-country/rg-2001-2004.webp"
+      }
+    },
+    {
+      "slug": "town-country-4",
+      "name": "town-country 5",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/town-country/rg-2005-2007.webp"
+      }
+    },
+    {
+      "slug": "town-country-5",
+      "name": "town-country 6",
+      "year_start": 2008,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/town-country/rt-2008-2016.webp"
+      }
+    }
+  ]
+}

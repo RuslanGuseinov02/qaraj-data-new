@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "lhs",
+  "name": "lhs",
+  "generations": [
+    {
+      "slug": "lhs-0",
+      "name": "lhs 1",
+      "year_start": 1994,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/lhs/lh1-1994-1997.webp"
+      }
+    },
+    {
+      "slug": "lhs-1",
+      "name": "lhs 2",
+      "year_start": 1998,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/lhs/lh2-1998-2001.webp"
+      }
+    }
+  ]
+}

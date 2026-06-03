@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "neon",
+  "name": "neon",
+  "generations": [
+    {
+      "slug": "neon-0",
+      "name": "neon 1",
+      "year_start": 1994,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/neon/1994-1999.webp"
+      }
+    },
+    {
+      "slug": "neon-1",
+      "name": "neon 2",
+      "year_start": 1999,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/neon/1999-2005.webp"
+      }
+    }
+  ]
+}

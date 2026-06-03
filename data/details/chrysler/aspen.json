@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "aspen",
+  "name": "aspen",
+  "generations": [
+    {
+      "slug": "aspen-0",
+      "name": "aspen 1",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/aspen/wk-2006-2009.webp"
+      }
+    }
+  ]
+}

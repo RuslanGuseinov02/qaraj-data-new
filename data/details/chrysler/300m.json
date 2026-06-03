@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "300m",
+  "name": "300m",
+  "generations": [
+    {
+      "slug": "300m-0",
+      "name": "300m 1",
+      "year_start": 1998,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/300m/lr-1998-2004.webp"
+      }
+    }
+  ]
+}

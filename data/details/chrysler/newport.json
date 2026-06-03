@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "chrysler",
+    "name": "CHRYSLER"
+  },
+  "slug": "newport",
+  "name": "newport",
+  "generations": [
+    {
+      "slug": "newport-0",
+      "name": "newport 1",
+      "year_start": 1961,
+      "year_end": 1964,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/newport/1961-1964.webp"
+      }
+    },
+    {
+      "slug": "newport-1",
+      "name": "newport 2",
+      "year_start": 1965,
+      "year_end": 1968,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/newport/1965-1968.webp"
+      }
+    },
+    {
+      "slug": "newport-2",
+      "name": "newport 3",
+      "year_start": 1969,
+      "year_end": 1973,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/newport/1969-1973.webp"
+      }
+    },
+    {
+      "slug": "newport-3",
+      "name": "newport 4",
+      "year_start": 1974,
+      "year_end": 1978,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/newport/1974-1978.webp"
+      }
+    },
+    {
+      "slug": "newport-4",
+      "name": "newport 5",
+      "year_start": 1979,
+      "year_end": 1981,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chrysler/newport/1979-1981.webp"
+      }
+    }
+  ]
+}
