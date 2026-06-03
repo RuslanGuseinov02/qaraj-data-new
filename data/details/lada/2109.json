@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "2109",
+  "name": "2109",
+  "generations": [
+    {
+      "slug": "2109-0",
+      "name": "2109 1",
+      "year_start": 1987,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/2109/2109x-samara-1987-2011.webp"
+      }
+    }
+  ]
+}

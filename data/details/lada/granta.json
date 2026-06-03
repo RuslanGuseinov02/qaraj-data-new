@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "granta",
+  "name": "granta",
+  "generations": [
+    {
+      "slug": "granta-0",
+      "name": "granta 1",
+      "year_start": 2011,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/granta/2190x-2011-2018.webp"
+      }
+    },
+    {
+      "slug": "granta-1",
+      "name": "granta 2",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/granta/2190x-2018-now.webp"
+      }
+    }
+  ]
+}

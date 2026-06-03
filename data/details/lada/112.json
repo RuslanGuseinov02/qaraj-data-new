@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "112",
+  "name": "112",
+  "generations": [
+    {
+      "slug": "112-0",
+      "name": "112 1",
+      "year_start": 1999,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/112/2112x-1999-2009.webp"
+      }
+    }
+  ]
+}

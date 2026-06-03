@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "niva-sport",
+  "name": "niva-sport",
+  "generations": [
+    {
+      "slug": "niva-sport-0",
+      "name": "niva-sport 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/niva-sport/2121x-2024-now.webp"
+      }
+    }
+  ]
+}

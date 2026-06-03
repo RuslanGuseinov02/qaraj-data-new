@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "111",
+  "name": "111",
+  "generations": [
+    {
+      "slug": "111-0",
+      "name": "111 1",
+      "year_start": 1997,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/111/2111x-1997-2015.webp"
+      }
+    }
+  ]
+}

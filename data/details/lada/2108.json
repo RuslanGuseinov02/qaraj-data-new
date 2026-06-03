@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "2108",
+  "name": "2108",
+  "generations": [
+    {
+      "slug": "2108-0",
+      "name": "2108 1",
+      "year_start": 1984,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/2108/2108x-samara-1984-2005.webp"
+      }
+    }
+  ]
+}

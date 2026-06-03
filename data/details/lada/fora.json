@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "fora",
+  "name": "fora",
+  "generations": [
+    {
+      "slug": "fora-0",
+      "name": "fora 1",
+      "year_start": 1995,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/fora/2121x-1995-2011.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "iskra-sw-cross",
+  "name": "iskra-sw-cross",
+  "generations": [
+    {
+      "slug": "iskra-sw-cross-0",
+      "name": "iskra-sw-cross 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/iskra-sw-cross/2025-now.webp"
+      }
+    }
+  ]
+}

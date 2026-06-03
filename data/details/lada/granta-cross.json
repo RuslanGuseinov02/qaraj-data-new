@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "granta-cross",
+  "name": "granta-cross",
+  "generations": [
+    {
+      "slug": "granta-cross-0",
+      "name": "granta-cross 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/granta-cross/2190x-2019-now.webp"
+      }
+    }
+  ]
+}

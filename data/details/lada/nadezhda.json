@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "nadezhda",
+  "name": "nadezhda",
+  "generations": [
+    {
+      "slug": "nadezhda-0",
+      "name": "nadezhda 1",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/nadezhda/2120x-1998-2002.webp"
+      }
+    },
+    {
+      "slug": "nadezhda-1",
+      "name": "nadezhda 2",
+      "year_start": 2002,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/nadezhda/2120x-2002-2006.webp"
+      }
+    }
+  ]
+}

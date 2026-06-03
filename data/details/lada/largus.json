@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "largus",
+  "name": "largus",
+  "generations": [
+    {
+      "slug": "largus-0",
+      "name": "largus 1",
+      "year_start": 2012,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/largus/b0-2012-2018.webp"
+      }
+    },
+    {
+      "slug": "largus-1",
+      "name": "largus 2",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/largus/b0-2019-2021.webp"
+      }
+    },
+    {
+      "slug": "largus-2",
+      "name": "largus 3",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/largus/b0-2021-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "niva-legend",
+  "name": "niva-legend",
+  "generations": [
+    {
+      "slug": "niva-legend-0",
+      "name": "niva-legend 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/niva-legend/2121x-2131x-2021-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "niva-bronto",
+  "name": "niva-bronto",
+  "generations": [
+    {
+      "slug": "niva-bronto-0",
+      "name": "niva-bronto 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/niva-bronto/2121x-2021-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "1300",
+  "name": "1300",
+  "generations": [
+    {
+      "slug": "1300-0",
+      "name": "1300 1",
+      "year_start": 1974,
+      "year_end": 1985,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/1300/210x-1974-1985.webp"
+      }
+    }
+  ]
+}

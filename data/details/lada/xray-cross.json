@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "xray-cross",
+  "name": "xray-cross",
+  "generations": [
+    {
+      "slug": "xray-cross-0",
+      "name": "xray-cross 1",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/xray-cross/b0-2018-2022.webp"
+      }
+    }
+  ]
+}

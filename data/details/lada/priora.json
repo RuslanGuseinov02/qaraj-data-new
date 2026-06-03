@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "priora",
+  "name": "priora",
+  "generations": [
+    {
+      "slug": "priora-0",
+      "name": "priora 1",
+      "year_start": 2007,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/priora/217x-2007-2013.webp"
+      }
+    },
+    {
+      "slug": "priora-1",
+      "name": "priora 2",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/priora/217x-2014-2018.webp"
+      }
+    }
+  ]
+}

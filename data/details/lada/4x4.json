@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "4x4",
+  "name": "4x4",
+  "generations": [
+    {
+      "slug": "4x4-0",
+      "name": "4x4 1",
+      "year_start": 1977,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/4x4/2121x-1977-1994.webp"
+      }
+    },
+    {
+      "slug": "4x4-1",
+      "name": "4x4 2",
+      "year_start": 1994,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/4x4/2121x-2131x-1994-2014.webp"
+      }
+    },
+    {
+      "slug": "4x4-2",
+      "name": "4x4 3",
+      "year_start": 2014,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/4x4/2121x-2131x-2014-2021.webp"
+      }
+    }
+  ]
+}

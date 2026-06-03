@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "4x4-urban",
+  "name": "4x4-urban",
+  "generations": [
+    {
+      "slug": "4x4-urban-0",
+      "name": "4x4-urban 1",
+      "year_start": 2014,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/4x4-urban/2121x-2131x-2014-2021.webp"
+      }
+    }
+  ]
+}

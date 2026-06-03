@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "vesta-sw-sport",
+  "name": "vesta-sw-sport",
+  "generations": [
+    {
+      "slug": "vesta-sw-sport-0",
+      "name": "vesta-sw-sport 1",
+      "year_start": 2026,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/vesta-sw-sport/b-c-2026-now.webp"
+      }
+    }
+  ]
+}

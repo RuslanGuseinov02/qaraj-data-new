@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "niva",
+  "name": "niva",
+  "generations": [
+    {
+      "slug": "niva-0",
+      "name": "niva 1",
+      "year_start": 1977,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/niva/2121x-1977-1994.webp"
+      }
+    },
+    {
+      "slug": "niva-1",
+      "name": "niva 2",
+      "year_start": 1994,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/niva/2121x-2131x-1994-2009.webp"
+      }
+    },
+    {
+      "slug": "niva-2",
+      "name": "niva 3",
+      "year_start": 2020,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/niva/2123x-2020-2021.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "kalina",
+  "name": "kalina",
+  "generations": [
+    {
+      "slug": "kalina-0",
+      "name": "kalina 1",
+      "year_start": 2004,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/kalina/111x-2004-2012.webp"
+      }
+    },
+    {
+      "slug": "kalina-1",
+      "name": "kalina 2",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/kalina/219x-2013-2018.webp"
+      }
+    }
+  ]
+}

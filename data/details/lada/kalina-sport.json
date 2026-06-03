@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "kalina-sport",
+  "name": "kalina-sport",
+  "generations": [
+    {
+      "slug": "kalina-sport-0",
+      "name": "kalina-sport 1",
+      "year_start": 2008,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/kalina-sport/111x-2008-2014.webp"
+      }
+    },
+    {
+      "slug": "kalina-sport-1",
+      "name": "kalina-sport 2",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/kalina-sport/219x-2014-2018.webp"
+      }
+    }
+  ]
+}

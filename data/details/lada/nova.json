@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "nova",
+  "name": "nova",
+  "generations": [
+    {
+      "slug": "nova-0",
+      "name": "nova 1",
+      "year_start": 1982,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/nova/210x-1982-1998.webp"
+      }
+    }
+  ]
+}

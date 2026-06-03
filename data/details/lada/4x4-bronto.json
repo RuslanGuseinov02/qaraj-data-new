@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "4x4-bronto",
+  "name": "4x4-bronto",
+  "generations": [
+    {
+      "slug": "4x4-bronto-0",
+      "name": "4x4-bronto 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/4x4-bronto/2121x-2017-2020.webp"
+      }
+    }
+  ]
+}

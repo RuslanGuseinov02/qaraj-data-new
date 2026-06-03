@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "lada",
+    "name": "LADA"
+  },
+  "slug": "samara",
+  "name": "samara",
+  "generations": [
+    {
+      "slug": "samara-0",
+      "name": "samara 1",
+      "year_start": 1984,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/samara/210x-1984-2000.webp"
+      }
+    },
+    {
+      "slug": "samara-1",
+      "name": "samara 2",
+      "year_start": 2001,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lada/samara/211x-2001-2013.webp"
+      }
+    }
+  ]
+}
