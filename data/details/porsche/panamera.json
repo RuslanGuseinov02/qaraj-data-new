@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "porsche",
+    "name": "PORSCHE"
+  },
+  "slug": "panamera",
+  "name": "panamera",
+  "generations": [
+    {
+      "slug": "panamera-0",
+      "name": "panamera 1",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/panamera/g1-970-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "panamera-1",
+      "name": "panamera 2",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/panamera/g1-970-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "panamera-2",
+      "name": "panamera 3",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/panamera/g2-971-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "panamera-3",
+      "name": "panamera 4",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/panamera/g2-971-2020-2024.webp"
+      }
+    },
+    {
+      "slug": "panamera-4",
+      "name": "panamera 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/panamera/g3-972-2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "porsche",
+    "name": "PORSCHE"
+  },
+  "slug": "taycan",
+  "name": "taycan",
+  "generations": [
+    {
+      "slug": "taycan-0",
+      "name": "taycan 1",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/taycan/2020-2024.webp"
+      }
+    },
+    {
+      "slug": "taycan-1",
+      "name": "taycan 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/taycan/2024-now.webp"
+      }
+    }
+  ]
+}

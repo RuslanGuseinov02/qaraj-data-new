@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "porsche",
+    "name": "PORSCHE"
+  },
+  "slug": "cayenne",
+  "name": "cayenne",
+  "generations": [
+    {
+      "slug": "cayenne-0",
+      "name": "cayenne 1",
+      "year_start": 2002,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/cayenne/e1-9pa-2002-2007.webp"
+      }
+    },
+    {
+      "slug": "cayenne-1",
+      "name": "cayenne 2",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/cayenne/e1-9pa-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "cayenne-2",
+      "name": "cayenne 3",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/cayenne/e2-92a-2010-2014.webp"
+      }
+    },
+    {
+      "slug": "cayenne-3",
+      "name": "cayenne 4",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/cayenne/e2-92a-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "cayenne-4",
+      "name": "cayenne 5",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/cayenne/e3-9y-2018-2023.webp"
+      }
+    },
+    {
+      "slug": "cayenne-5",
+      "name": "cayenne 6",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/cayenne/e3-9y-2023-now.webp"
+      }
+    }
+  ]
+}

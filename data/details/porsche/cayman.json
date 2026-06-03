@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "porsche",
+    "name": "PORSCHE"
+  },
+  "slug": "cayman",
+  "name": "cayman",
+  "generations": [
+    {
+      "slug": "cayman-0",
+      "name": "cayman 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/cayman/981-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "cayman-1",
+      "name": "cayman 2",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/cayman/987-2005-2009.webp"
+      }
+    },
+    {
+      "slug": "cayman-2",
+      "name": "cayman 3",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/cayman/987-2009-2013.webp"
+      }
+    }
+  ]
+}

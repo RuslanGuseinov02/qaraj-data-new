@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "porsche",
+    "name": "PORSCHE"
+  },
+  "slug": "924",
+  "name": "924",
+  "generations": [
+    {
+      "slug": "924-0",
+      "name": "924 1",
+      "year_start": 1976,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/924/1976-1988.webp"
+      }
+    }
+  ]
+}

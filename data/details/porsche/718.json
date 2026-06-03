@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "porsche",
+    "name": "PORSCHE"
+  },
+  "slug": "718",
+  "name": "718",
+  "generations": [
+    {
+      "slug": "718-0",
+      "name": "718 1",
+      "year_start": 2016,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/718/982-2016-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "porsche",
+    "name": "PORSCHE"
+  },
+  "slug": "boxster",
+  "name": "boxster",
+  "generations": [
+    {
+      "slug": "boxster-0",
+      "name": "boxster 1",
+      "year_start": 2012,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/boxster/981-2012-2017.webp"
+      }
+    },
+    {
+      "slug": "boxster-1",
+      "name": "boxster 2",
+      "year_start": 1996,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/boxster/986-1996-2004.webp"
+      }
+    },
+    {
+      "slug": "boxster-2",
+      "name": "boxster 3",
+      "year_start": 2004,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/boxster/987-2004-2009.webp"
+      }
+    },
+    {
+      "slug": "boxster-3",
+      "name": "boxster 4",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/boxster/987-2009-2012.webp"
+      }
+    }
+  ]
+}

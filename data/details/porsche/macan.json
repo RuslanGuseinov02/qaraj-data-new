@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "porsche",
+    "name": "PORSCHE"
+  },
+  "slug": "macan",
+  "name": "macan",
+  "generations": [
+    {
+      "slug": "macan-0",
+      "name": "macan 1",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/macan/95b-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "macan-1",
+      "name": "macan 2",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/macan/95b-2019-2021.webp"
+      }
+    },
+    {
+      "slug": "macan-2",
+      "name": "macan 3",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/macan/95b-2021-2025.webp"
+      }
+    },
+    {
+      "slug": "macan-3",
+      "name": "macan 4",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/porsche/macan/xab-2024-now.webp"
+      }
+    }
+  ]
+}
