@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "e-outback",
+  "name": "e-outback",
+  "generations": [
+    {
+      "slug": "e-outback-0",
+      "name": "e-outback 1",
+      "year_start": 2026,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/e-outback/ea10-2026-now.webp"
+      }
+    }
+  ]
+}

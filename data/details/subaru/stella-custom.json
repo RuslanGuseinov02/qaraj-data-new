@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "stella-custom",
+  "name": "stella-custom",
+  "generations": [
+    {
+      "slug": "stella-custom-0",
+      "name": "stella-custom 1",
+      "year_start": 2011,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/stella-custom/la100-110-2011-2012.webp"
+      }
+    },
+    {
+      "slug": "stella-custom-1",
+      "name": "stella-custom 2",
+      "year_start": 2013,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/stella-custom/la100-110-2013-2014.webp"
+      }
+    },
+    {
+      "slug": "stella-custom-2",
+      "name": "stella-custom 3",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/stella-custom/la150-160-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "stella-custom-3",
+      "name": "stella-custom 4",
+      "year_start": 2017,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/stella-custom/la150-160-2017-2024.webp"
+      }
+    },
+    {
+      "slug": "stella-custom-4",
+      "name": "stella-custom 5",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/stella-custom/rn-2006-2011.webp"
+      }
+    }
+  ]
+}

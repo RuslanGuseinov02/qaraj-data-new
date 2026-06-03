@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "solterra",
+  "name": "solterra",
+  "generations": [
+    {
+      "slug": "solterra-0",
+      "name": "solterra 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/solterra/ea10-2022-now.webp"
+      }
+    },
+    {
+      "slug": "solterra-1",
+      "name": "solterra 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/solterra/ea10-2025-now.webp"
+      }
+    }
+  ]
+}

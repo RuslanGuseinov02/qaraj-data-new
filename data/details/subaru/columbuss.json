@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "columbuss",
+  "name": "columbuss",
+  "generations": [
+    {
+      "slug": "columbuss-0",
+      "name": "columbuss 1",
+      "year_start": 1994,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/columbuss/fa-1994-1998.webp"
+      }
+    },
+    {
+      "slug": "columbuss-1",
+      "name": "columbuss 2",
+      "year_start": 1983,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/columbuss/kj-1983-1993.webp"
+      }
+    }
+  ]
+}

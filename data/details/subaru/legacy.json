@@ -1,0 +1,120 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "legacy",
+  "name": "legacy",
+  "generations": [
+    {
+      "slug": "legacy-0",
+      "name": "legacy 1",
+      "year_start": 1989,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/legacy/bc-bf-1989-1993.webp"
+      }
+    },
+    {
+      "slug": "legacy-1",
+      "name": "legacy 2",
+      "year_start": 1994,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/legacy/bd-bg-1994-1998.webp"
+      }
+    },
+    {
+      "slug": "legacy-2",
+      "name": "legacy 3",
+      "year_start": 1998,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/legacy/be-bh-1998-2003.webp"
+      }
+    },
+    {
+      "slug": "legacy-3",
+      "name": "legacy 4",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/legacy/bl-bp-2003-2007.webp"
+      }
+    },
+    {
+      "slug": "legacy-4",
+      "name": "legacy 5",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/legacy/bl-bp-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "legacy-5",
+      "name": "legacy 6",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/legacy/bm-br-2009-2012.webp"
+      }
+    },
+    {
+      "slug": "legacy-6",
+      "name": "legacy 7",
+      "year_start": 2012,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/legacy/bm-br-2012-2014.webp"
+      }
+    },
+    {
+      "slug": "legacy-7",
+      "name": "legacy 8",
+      "year_start": 2015,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/legacy/bn-2015-2022.webp"
+      }
+    },
+    {
+      "slug": "legacy-8",
+      "name": "legacy 9",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/legacy/bn-2018-2022.webp"
+      }
+    },
+    {
+      "slug": "legacy-9",
+      "name": "legacy 10",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/legacy/bw-2022-now.webp"
+      }
+    },
+    {
+      "slug": "legacy-10",
+      "name": "legacy 11",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/legacy/bw-bt-2020-2022.webp"
+      }
+    }
+  ]
+}

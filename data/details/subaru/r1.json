@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "r1",
+  "name": "r1",
+  "generations": [
+    {
+      "slug": "r1-0",
+      "name": "r1 1",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/r1/rj-2005-2010.webp"
+      }
+    }
+  ]
+}

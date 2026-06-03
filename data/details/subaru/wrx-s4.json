@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "wrx-s4",
+  "name": "wrx-s4",
+  "generations": [
+    {
+      "slug": "wrx-s4-0",
+      "name": "wrx-s4 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/wrx-s4/va-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "wrx-s4-1",
+      "name": "wrx-s4 2",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/wrx-s4/va-2018-2021.webp"
+      }
+    },
+    {
+      "slug": "wrx-s4-2",
+      "name": "wrx-s4 3",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/wrx-s4/vb-2021-now.webp"
+      }
+    }
+  ]
+}

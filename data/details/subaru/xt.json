@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "xt",
+  "name": "xt",
+  "generations": [
+    {
+      "slug": "xt-0",
+      "name": "xt 1",
+      "year_start": 1985,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/xt/ax-1985-1991.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "impreza-wrx-sti",
+  "name": "impreza-wrx-sti",
+  "generations": [
+    {
+      "slug": "impreza-wrx-sti-0",
+      "name": "impreza-wrx-sti 1",
+      "year_start": 1992,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza-wrx-sti/gc-gf-1992-2000.webp"
+      }
+    },
+    {
+      "slug": "impreza-wrx-sti-1",
+      "name": "impreza-wrx-sti 2",
+      "year_start": 2003,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza-wrx-sti/gd-2003-2005.webp"
+      }
+    },
+    {
+      "slug": "impreza-wrx-sti-2",
+      "name": "impreza-wrx-sti 3",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza-wrx-sti/gd-2005-2007.webp"
+      }
+    },
+    {
+      "slug": "impreza-wrx-sti-3",
+      "name": "impreza-wrx-sti 4",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza-wrx-sti/gd-gg-2000-2003.webp"
+      }
+    },
+    {
+      "slug": "impreza-wrx-sti-4",
+      "name": "impreza-wrx-sti 5",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza-wrx-sti/gr-2008-2010.webp"
+      }
+    },
+    {
+      "slug": "impreza-wrx-sti-5",
+      "name": "impreza-wrx-sti 6",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza-wrx-sti/gr-gv-2010-2014.webp"
+      }
+    }
+  ]
+}

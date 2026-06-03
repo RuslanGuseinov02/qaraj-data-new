@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "vivio",
+  "name": "vivio",
+  "generations": [
+    {
+      "slug": "vivio-0",
+      "name": "vivio 1",
+      "year_start": 1992,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/vivio/kk-kw-1992-1999.webp"
+      }
+    }
+  ]
+}

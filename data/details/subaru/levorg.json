@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "levorg",
+  "name": "levorg",
+  "generations": [
+    {
+      "slug": "levorg-0",
+      "name": "levorg 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/levorg/vm-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "levorg-1",
+      "name": "levorg 2",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/levorg/vm-2017-2022.webp"
+      }
+    },
+    {
+      "slug": "levorg-2",
+      "name": "levorg 3",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/levorg/vn-2020-now.webp"
+      }
+    }
+  ]
+}

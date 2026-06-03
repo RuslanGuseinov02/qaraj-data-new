@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "trezia",
+  "name": "trezia",
+  "generations": [
+    {
+      "slug": "trezia-0",
+      "name": "trezia 1",
+      "year_start": 2010,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/trezia/ncp-nsp-2010-2016.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "legacy-grand-wagon",
+  "name": "legacy-grand-wagon",
+  "generations": [
+    {
+      "slug": "legacy-grand-wagon-0",
+      "name": "legacy-grand-wagon 1",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/legacy-grand-wagon/bg-1995-1998.webp"
+      }
+    }
+  ]
+}

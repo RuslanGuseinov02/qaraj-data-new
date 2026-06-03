@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "chiffon-custom",
+  "name": "chiffon-custom",
+  "generations": [
+    {
+      "slug": "chiffon-custom-0",
+      "name": "chiffon-custom 1",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/chiffon-custom/la600-610-2016-2019.webp"
+      }
+    },
+    {
+      "slug": "chiffon-custom-1",
+      "name": "chiffon-custom 2",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/chiffon-custom/la650-660-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "chiffon-custom-2",
+      "name": "chiffon-custom 3",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/chiffon-custom/la650-660-2022-now.webp"
+      }
+    }
+  ]
+}

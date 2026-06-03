@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "lucra-custom",
+  "name": "lucra-custom",
+  "generations": [
+    {
+      "slug": "lucra-custom-0",
+      "name": "lucra-custom 1",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/lucra-custom/l4-2010-2015.webp"
+      }
+    }
+  ]
+}

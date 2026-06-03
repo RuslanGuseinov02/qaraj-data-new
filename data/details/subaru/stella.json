@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "stella",
+  "name": "stella",
+  "generations": [
+    {
+      "slug": "stella-0",
+      "name": "stella 1",
+      "year_start": 2011,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/stella/la100-110-2011-2012.webp"
+      }
+    },
+    {
+      "slug": "stella-1",
+      "name": "stella 2",
+      "year_start": 2013,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/stella/la100-110-2013-2014.webp"
+      }
+    },
+    {
+      "slug": "stella-2",
+      "name": "stella 3",
+      "year_start": 2014,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/stella/la150-160-2014-2024.webp"
+      }
+    },
+    {
+      "slug": "stella-3",
+      "name": "stella 4",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/stella/rn-2006-2011.webp"
+      }
+    }
+  ]
+}

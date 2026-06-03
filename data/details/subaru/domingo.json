@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "domingo",
+  "name": "domingo",
+  "generations": [
+    {
+      "slug": "domingo-0",
+      "name": "domingo 1",
+      "year_start": 1994,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/domingo/fa-1994-1998.webp"
+      }
+    },
+    {
+      "slug": "domingo-1",
+      "name": "domingo 2",
+      "year_start": 1983,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/domingo/kj-1983-1994.webp"
+      }
+    }
+  ]
+}

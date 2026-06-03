@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "crosstrek",
+  "name": "crosstrek",
+  "generations": [
+    {
+      "slug": "crosstrek-0",
+      "name": "crosstrek 1",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/crosstrek/gp-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "crosstrek-1",
+      "name": "crosstrek 2",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/crosstrek/gt-2018-2021.webp"
+      }
+    },
+    {
+      "slug": "crosstrek-2",
+      "name": "crosstrek 3",
+      "year_start": 2021,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/crosstrek/gt-2021-2023.webp"
+      }
+    },
+    {
+      "slug": "crosstrek-3",
+      "name": "crosstrek 4",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/crosstrek/gu-2022-now.webp"
+      }
+    }
+  ]
+}

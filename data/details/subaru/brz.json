@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "brz",
+  "name": "brz",
+  "generations": [
+    {
+      "slug": "brz-0",
+      "name": "brz 1",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/brz/zn6-zc6-2012-2016.webp"
+      }
+    },
+    {
+      "slug": "brz-1",
+      "name": "brz 2",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/brz/zn6-zc6-2017-2023.webp"
+      }
+    },
+    {
+      "slug": "brz-2",
+      "name": "brz 3",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/brz/zn8-zd8-2021-now.webp"
+      }
+    }
+  ]
+}

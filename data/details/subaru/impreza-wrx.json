@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "impreza-wrx",
+  "name": "impreza-wrx",
+  "generations": [
+    {
+      "slug": "impreza-wrx-0",
+      "name": "impreza-wrx 1",
+      "year_start": 1992,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza-wrx/gc-gf-1992-2000.webp"
+      }
+    },
+    {
+      "slug": "impreza-wrx-1",
+      "name": "impreza-wrx 2",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza-wrx/gd-gg-2000-2003.webp"
+      }
+    },
+    {
+      "slug": "impreza-wrx-2",
+      "name": "impreza-wrx 3",
+      "year_start": 2003,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza-wrx/gd-gg-2003-2005.webp"
+      }
+    },
+    {
+      "slug": "impreza-wrx-3",
+      "name": "impreza-wrx 4",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza-wrx/gd-gg-2005-2007.webp"
+      }
+    },
+    {
+      "slug": "impreza-wrx-4",
+      "name": "impreza-wrx 5",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza-wrx/gr-gv-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "impreza-wrx-5",
+      "name": "impreza-wrx 6",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza-wrx/gr-gv-2010-2014.webp"
+      }
+    }
+  ]
+}

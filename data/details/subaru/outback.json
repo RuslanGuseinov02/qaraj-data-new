@@ -1,0 +1,120 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "outback",
+  "name": "outback",
+  "generations": [
+    {
+      "slug": "outback-0",
+      "name": "outback 1",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/outback/bg-1995-1998.webp"
+      }
+    },
+    {
+      "slug": "outback-1",
+      "name": "outback 2",
+      "year_start": 1998,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/outback/bh-1998-2003.webp"
+      }
+    },
+    {
+      "slug": "outback-2",
+      "name": "outback 3",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/outback/bp-2003-2007.webp"
+      }
+    },
+    {
+      "slug": "outback-3",
+      "name": "outback 4",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/outback/bp-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "outback-4",
+      "name": "outback 5",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/outback/br-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "outback-5",
+      "name": "outback 6",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/outback/br-2012-2015.webp"
+      }
+    },
+    {
+      "slug": "outback-6",
+      "name": "outback 7",
+      "year_start": 2014,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/outback/bs-2014-2022.webp"
+      }
+    },
+    {
+      "slug": "outback-7",
+      "name": "outback 8",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/outback/bs-2018-2022.webp"
+      }
+    },
+    {
+      "slug": "outback-8",
+      "name": "outback 9",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/outback/bt-2020-now.webp"
+      }
+    },
+    {
+      "slug": "outback-9",
+      "name": "outback 10",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/outback/bt-2022-2025.webp"
+      }
+    },
+    {
+      "slug": "outback-10",
+      "name": "outback 11",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/outback/bu-2025-now.webp"
+      }
+    }
+  ]
+}

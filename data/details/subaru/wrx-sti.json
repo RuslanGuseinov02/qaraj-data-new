@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "wrx-sti",
+  "name": "wrx-sti",
+  "generations": [
+    {
+      "slug": "wrx-sti-0",
+      "name": "wrx-sti 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/wrx-sti/va-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "wrx-sti-1",
+      "name": "wrx-sti 2",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/wrx-sti/va-2018-2023.webp"
+      }
+    }
+  ]
+}

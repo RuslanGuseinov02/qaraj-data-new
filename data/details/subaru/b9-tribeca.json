@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "b9-tribeca",
+  "name": "b9-tribeca",
+  "generations": [
+    {
+      "slug": "b9-tribeca-0",
+      "name": "b9-tribeca 1",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/b9-tribeca/b9-2005-2007.webp"
+      }
+    }
+  ]
+}

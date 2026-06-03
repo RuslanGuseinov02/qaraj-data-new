@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "justy",
+  "name": "justy",
+  "generations": [
+    {
+      "slug": "justy-0",
+      "name": "justy 1",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/justy/ht-2003-2007.webp"
+      }
+    },
+    {
+      "slug": "justy-1",
+      "name": "justy 2",
+      "year_start": 1984,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/justy/ka-1984-1988.webp"
+      }
+    },
+    {
+      "slug": "justy-2",
+      "name": "justy 3",
+      "year_start": 1989,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/justy/ka-1989-1994.webp"
+      }
+    },
+    {
+      "slug": "justy-3",
+      "name": "justy 4",
+      "year_start": 2007,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/justy/m300-2007-2011.webp"
+      }
+    },
+    {
+      "slug": "justy-4",
+      "name": "justy 5",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/justy/m900-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "justy-5",
+      "name": "justy 6",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/justy/m900-2020-now.webp"
+      }
+    },
+    {
+      "slug": "justy-6",
+      "name": "justy 7",
+      "year_start": 1995,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/justy/sf-1995-2003.webp"
+      }
+    }
+  ]
+}

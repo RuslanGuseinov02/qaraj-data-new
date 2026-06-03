@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "legacy-lancaster",
+  "name": "legacy-lancaster",
+  "generations": [
+    {
+      "slug": "legacy-lancaster-0",
+      "name": "legacy-lancaster 1",
+      "year_start": 1996,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/legacy-lancaster/bg-1996-1998.webp"
+      }
+    },
+    {
+      "slug": "legacy-lancaster-1",
+      "name": "legacy-lancaster 2",
+      "year_start": 1998,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/legacy-lancaster/bh-1998-2003.webp"
+      }
+    }
+  ]
+}

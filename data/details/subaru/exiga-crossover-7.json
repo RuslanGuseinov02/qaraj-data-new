@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "exiga-crossover-7",
+  "name": "exiga-crossover-7",
+  "generations": [
+    {
+      "slug": "exiga-crossover-7-0",
+      "name": "exiga-crossover-7 1",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/exiga-crossover-7/ya-2015-2018.webp"
+      }
+    }
+  ]
+}

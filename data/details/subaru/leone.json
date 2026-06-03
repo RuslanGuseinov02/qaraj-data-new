@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "leone",
+  "name": "leone",
+  "generations": [
+    {
+      "slug": "leone-0",
+      "name": "leone 1",
+      "year_start": 1971,
+      "year_end": 1979,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/leone/1971-1979.webp"
+      }
+    },
+    {
+      "slug": "leone-1",
+      "name": "leone 2",
+      "year_start": 1979,
+      "year_end": 1984,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/leone/1979-1984.webp"
+      }
+    },
+    {
+      "slug": "leone-2",
+      "name": "leone 3",
+      "year_start": 1984,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/leone/1984-1994.webp"
+      }
+    }
+  ]
+}

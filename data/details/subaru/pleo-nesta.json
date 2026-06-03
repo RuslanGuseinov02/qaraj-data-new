@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "pleo-nesta",
+  "name": "pleo-nesta",
+  "generations": [
+    {
+      "slug": "pleo-nesta-0",
+      "name": "pleo-nesta 1",
+      "year_start": 1999,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/pleo-nesta/ra-rv-1999-2003.webp"
+      }
+    }
+  ]
+}

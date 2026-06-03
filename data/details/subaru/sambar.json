@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "sambar",
+  "name": "sambar",
+  "generations": [
+    {
+      "slug": "sambar-0",
+      "name": "sambar 1",
+      "year_start": 1992,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/sambar/kv-1992-1999.webp"
+      }
+    },
+    {
+      "slug": "sambar-1",
+      "name": "sambar 2",
+      "year_start": 2012,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/sambar/s3-2012-2017.webp"
+      }
+    },
+    {
+      "slug": "sambar-2",
+      "name": "sambar 3",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/sambar/s3-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "sambar-3",
+      "name": "sambar 4",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/sambar/s7-2022-now.webp"
+      }
+    },
+    {
+      "slug": "sambar-4",
+      "name": "sambar 5",
+      "year_start": 1999,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/sambar/tv-1999-2002.webp"
+      }
+    },
+    {
+      "slug": "sambar-5",
+      "name": "sambar 6",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/sambar/tv-2002-2005.webp"
+      }
+    },
+    {
+      "slug": "sambar-6",
+      "name": "sambar 7",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/sambar/tv-2005-2009.webp"
+      }
+    },
+    {
+      "slug": "sambar-7",
+      "name": "sambar 8",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/sambar/tv-2008-2012.webp"
+      }
+    }
+  ]
+}

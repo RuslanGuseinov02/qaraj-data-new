@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "e-series",
+  "name": "e-series",
+  "generations": [
+    {
+      "slug": "e-series-0",
+      "name": "e-series 1",
+      "year_start": 1994,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/e-series/fa-1994-1998.webp"
+      }
+    },
+    {
+      "slug": "e-series-1",
+      "name": "e-series 2",
+      "year_start": 1983,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/e-series/kj-1983-1993.webp"
+      }
+    }
+  ]
+}

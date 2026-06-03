@@ -1,0 +1,110 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "impreza",
+  "name": "impreza",
+  "generations": [
+    {
+      "slug": "impreza-0",
+      "name": "impreza 1",
+      "year_start": 1992,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza/g1-1992-2000.webp"
+      }
+    },
+    {
+      "slug": "impreza-1",
+      "name": "impreza 2",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza/g2-2000-2003.webp"
+      }
+    },
+    {
+      "slug": "impreza-2",
+      "name": "impreza 3",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza/g2-2002-2005.webp"
+      }
+    },
+    {
+      "slug": "impreza-3",
+      "name": "impreza 4",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza/g2-2005-2007.webp"
+      }
+    },
+    {
+      "slug": "impreza-4",
+      "name": "impreza 5",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza/g3-2007-2012.webp"
+      }
+    },
+    {
+      "slug": "impreza-5",
+      "name": "impreza 6",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza/g4-2012-2016.webp"
+      }
+    },
+    {
+      "slug": "impreza-6",
+      "name": "impreza 7",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza/g4-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "impreza-7",
+      "name": "impreza 8",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza/g5-2017-2022.webp"
+      }
+    },
+    {
+      "slug": "impreza-8",
+      "name": "impreza 9",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza/g5-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "impreza-9",
+      "name": "impreza 10",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza/gu-2023-now.webp"
+      }
+    }
+  ]
+}

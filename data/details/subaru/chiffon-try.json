@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "chiffon-try",
+  "name": "chiffon-try",
+  "generations": [
+    {
+      "slug": "chiffon-try-0",
+      "name": "chiffon-try 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/chiffon-try/la650-660-2024-now.webp"
+      }
+    }
+  ]
+}

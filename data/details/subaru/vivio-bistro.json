@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "vivio-bistro",
+  "name": "vivio-bistro",
+  "generations": [
+    {
+      "slug": "vivio-bistro-0",
+      "name": "vivio-bistro 1",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/vivio-bistro/kk-1995-1998.webp"
+      }
+    }
+  ]
+}

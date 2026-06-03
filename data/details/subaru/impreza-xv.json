@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "impreza-xv",
+  "name": "impreza-xv",
+  "generations": [
+    {
+      "slug": "impreza-xv-0",
+      "name": "impreza-xv 1",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/impreza-xv/gh-2010-2012.webp"
+      }
+    }
+  ]
+}

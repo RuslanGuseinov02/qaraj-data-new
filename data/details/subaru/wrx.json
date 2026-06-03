@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "wrx",
+  "name": "wrx",
+  "generations": [
+    {
+      "slug": "wrx-0",
+      "name": "wrx 1",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/wrx/va-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "wrx-1",
+      "name": "wrx 2",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/wrx/va-2018-2023.webp"
+      }
+    },
+    {
+      "slug": "wrx-2",
+      "name": "wrx 3",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/wrx/vb-2022-now.webp"
+      }
+    }
+  ]
+}

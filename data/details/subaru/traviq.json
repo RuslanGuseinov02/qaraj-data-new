@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "traviq",
+  "name": "traviq",
+  "generations": [
+    {
+      "slug": "traviq-0",
+      "name": "traviq 1",
+      "year_start": 2001,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/traviq/xm-2001-2005.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "sambar-dias",
+  "name": "sambar-dias",
+  "generations": [
+    {
+      "slug": "sambar-dias-0",
+      "name": "sambar-dias 1",
+      "year_start": 1992,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/sambar-dias/kv-1992-1999.webp"
+      }
+    },
+    {
+      "slug": "sambar-dias-1",
+      "name": "sambar-dias 2",
+      "year_start": 1999,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/sambar-dias/tv-1999-2005.webp"
+      }
+    }
+  ]
+}

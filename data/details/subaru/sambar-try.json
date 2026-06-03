@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "sambar-try",
+  "name": "sambar-try",
+  "generations": [
+    {
+      "slug": "sambar-try-0",
+      "name": "sambar-try 1",
+      "year_start": 1989,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/sambar-try/kr-1989-1990.webp"
+      }
+    },
+    {
+      "slug": "sambar-try-1",
+      "name": "sambar-try 2",
+      "year_start": 1990,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/sambar-try/kv-1990-1993.webp"
+      }
+    }
+  ]
+}

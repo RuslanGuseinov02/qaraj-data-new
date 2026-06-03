@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "svx",
+  "name": "svx",
+  "generations": [
+    {
+      "slug": "svx-0",
+      "name": "svx 1",
+      "year_start": 1992,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/svx/cx-1992-1997.webp"
+      }
+    }
+  ]
+}

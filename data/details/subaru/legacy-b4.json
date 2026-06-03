@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "legacy-b4",
+  "name": "legacy-b4",
+  "generations": [
+    {
+      "slug": "legacy-b4-0",
+      "name": "legacy-b4 1",
+      "year_start": 1998,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/legacy-b4/be-1998-2003.webp"
+      }
+    },
+    {
+      "slug": "legacy-b4-1",
+      "name": "legacy-b4 2",
+      "year_start": 2003,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/legacy-b4/bl-2003-2009.webp"
+      }
+    },
+    {
+      "slug": "legacy-b4-2",
+      "name": "legacy-b4 3",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/legacy-b4/bm-2009-2014.webp"
+      }
+    },
+    {
+      "slug": "legacy-b4-3",
+      "name": "legacy-b4 4",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/legacy-b4/bn-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "legacy-b4-4",
+      "name": "legacy-b4 5",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/legacy-b4/bn-2018-2020.webp"
+      }
+    }
+  ]
+}

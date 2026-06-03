@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "xt6",
+  "name": "xt6",
+  "generations": [
+    {
+      "slug": "xt6-0",
+      "name": "xt6 1",
+      "year_start": 1988,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/xt6/ax-1988-1991.webp"
+      }
+    }
+  ]
+}

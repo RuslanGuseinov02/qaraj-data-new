@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "sumo",
+  "name": "sumo",
+  "generations": [
+    {
+      "slug": "sumo-0",
+      "name": "sumo 1",
+      "year_start": 1994,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/sumo/fa-1994-1998.webp"
+      }
+    },
+    {
+      "slug": "sumo-1",
+      "name": "sumo 2",
+      "year_start": 1983,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/sumo/kj-1983-1993.webp"
+      }
+    }
+  ]
+}

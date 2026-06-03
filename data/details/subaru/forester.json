@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "forester",
+  "name": "forester",
+  "generations": [
+    {
+      "slug": "forester-0",
+      "name": "forester 1",
+      "year_start": 1997,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/forester/sf-1997-2002.webp"
+      }
+    },
+    {
+      "slug": "forester-1",
+      "name": "forester 2",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/forester/sg-2002-2005.webp"
+      }
+    },
+    {
+      "slug": "forester-2",
+      "name": "forester 3",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/forester/sg-2005-2008.webp"
+      }
+    },
+    {
+      "slug": "forester-3",
+      "name": "forester 4",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/forester/sh-2008-2013.webp"
+      }
+    },
+    {
+      "slug": "forester-4",
+      "name": "forester 5",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/forester/sj-2012-2016.webp"
+      }
+    },
+    {
+      "slug": "forester-5",
+      "name": "forester 6",
+      "year_start": 2015,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/forester/sj-2015-2022.webp"
+      }
+    },
+    {
+      "slug": "forester-6",
+      "name": "forester 7",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/forester/sk-2018-2023.webp"
+      }
+    },
+    {
+      "slug": "forester-7",
+      "name": "forester 8",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/forester/sk-2021-now.webp"
+      }
+    },
+    {
+      "slug": "forester-8",
+      "name": "forester 9",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/forester/sl-2023-now.webp"
+      }
+    }
+  ]
+}

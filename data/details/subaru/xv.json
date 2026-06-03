@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "xv",
+  "name": "xv",
+  "generations": [
+    {
+      "slug": "xv-0",
+      "name": "xv 1",
+      "year_start": 2012,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/xv/gp-2012-2017.webp"
+      }
+    },
+    {
+      "slug": "xv-1",
+      "name": "xv 2",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/xv/gt-2017-2022.webp"
+      }
+    },
+    {
+      "slug": "xv-2",
+      "name": "xv 3",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/xv/gt-2020-now.webp"
+      }
+    }
+  ]
+}

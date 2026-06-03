@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "alcyone",
+  "name": "alcyone",
+  "generations": [
+    {
+      "slug": "alcyone-0",
+      "name": "alcyone 1",
+      "year_start": 1989,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/alcyone/ax-1989-1991.webp"
+      }
+    },
+    {
+      "slug": "alcyone-1",
+      "name": "alcyone 2",
+      "year_start": 1991,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/alcyone/cx-1991-1997.webp"
+      }
+    }
+  ]
+}

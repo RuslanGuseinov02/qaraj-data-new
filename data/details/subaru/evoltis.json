@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "evoltis",
+  "name": "evoltis",
+  "generations": [
+    {
+      "slug": "evoltis-0",
+      "name": "evoltis 1",
+      "year_start": 2021,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/evoltis/2021-2023.webp"
+      }
+    },
+    {
+      "slug": "evoltis-1",
+      "name": "evoltis 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/evoltis/2023-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "trailseeker",
+  "name": "trailseeker",
+  "generations": [
+    {
+      "slug": "trailseeker-0",
+      "name": "trailseeker 1",
+      "year_start": 2026,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/trailseeker/ea10-2026-now.webp"
+      }
+    }
+  ]
+}

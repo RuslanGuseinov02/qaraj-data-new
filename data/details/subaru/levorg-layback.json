@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "subaru",
+    "name": "SUBARU"
+  },
+  "slug": "levorg-layback",
+  "name": "levorg-layback",
+  "generations": [
+    {
+      "slug": "levorg-layback-0",
+      "name": "levorg-layback 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/subaru/levorg-layback/vn-2023-now.webp"
+      }
+    }
+  ]
+}
