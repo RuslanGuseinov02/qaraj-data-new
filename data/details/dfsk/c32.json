@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dfsk",
+    "name": "DFSK"
+  },
+  "slug": "c32",
+  "name": "c32",
+  "generations": [
+    {
+      "slug": "c32-0",
+      "name": "c32 1",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dfsk/c32/2017-2026.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "dfsk",
+    "name": "DFSK"
+  },
+  "slug": "ec35",
+  "name": "ec35",
+  "generations": [
+    {
+      "slug": "ec35-0",
+      "name": "ec35 1",
+      "year_start": 2018,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dfsk/ec35/2018-2025.webp"
+      }
+    },
+    {
+      "slug": "ec35-1",
+      "name": "ec35 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dfsk/ec35/2021-2026.webp"
+      }
+    }
+  ]
+}

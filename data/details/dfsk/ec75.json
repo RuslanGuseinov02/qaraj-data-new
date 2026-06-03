@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dfsk",
+    "name": "DFSK"
+  },
+  "slug": "ec75",
+  "name": "ec75",
+  "generations": [
+    {
+      "slug": "ec75-0",
+      "name": "ec75 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dfsk/ec75/2023-now.webp"
+      }
+    }
+  ]
+}

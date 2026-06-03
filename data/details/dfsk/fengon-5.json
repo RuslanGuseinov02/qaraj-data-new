@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dfsk",
+    "name": "DFSK"
+  },
+  "slug": "fengon-5",
+  "name": "fengon-5",
+  "generations": [
+    {
+      "slug": "fengon-5-0",
+      "name": "fengon-5 1",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dfsk/fengon-5/2020-2025.webp"
+      }
+    }
+  ]
+}

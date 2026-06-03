@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dfsk",
+    "name": "DFSK"
+  },
+  "slug": "glory-i-auto",
+  "name": "glory-i-auto",
+  "generations": [
+    {
+      "slug": "glory-i-auto-0",
+      "name": "glory-i-auto 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dfsk/glory-i-auto/2020-now.webp"
+      }
+    }
+  ]
+}

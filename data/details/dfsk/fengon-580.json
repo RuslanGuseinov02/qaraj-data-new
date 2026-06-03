@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dfsk",
+    "name": "DFSK"
+  },
+  "slug": "fengon-580",
+  "name": "fengon-580",
+  "generations": [
+    {
+      "slug": "fengon-580-0",
+      "name": "fengon-580 1",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dfsk/fengon-580/2020-2024.webp"
+      }
+    }
+  ]
+}

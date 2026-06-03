@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dfsk",
+    "name": "DFSK"
+  },
+  "slug": "super-cab",
+  "name": "super-cab",
+  "generations": [
+    {
+      "slug": "super-cab-0",
+      "name": "super-cab 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dfsk/super-cab/2020-now.webp"
+      }
+    }
+  ]
+}

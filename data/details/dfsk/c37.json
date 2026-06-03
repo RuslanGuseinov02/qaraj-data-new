@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dfsk",
+    "name": "DFSK"
+  },
+  "slug": "c37",
+  "name": "c37",
+  "generations": [
+    {
+      "slug": "c37-0",
+      "name": "c37 1",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dfsk/c37/2017-2026.webp"
+      }
+    }
+  ]
+}

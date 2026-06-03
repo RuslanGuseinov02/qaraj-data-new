@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dfsk",
+    "name": "DFSK"
+  },
+  "slug": "ix5",
+  "name": "ix5",
+  "generations": [
+    {
+      "slug": "ix5-0",
+      "name": "ix5 1",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dfsk/ix5/2020-2025.webp"
+      }
+    }
+  ]
+}

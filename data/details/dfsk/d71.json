@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dfsk",
+    "name": "DFSK"
+  },
+  "slug": "d71",
+  "name": "d71",
+  "generations": [
+    {
+      "slug": "d71-0",
+      "name": "d71 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dfsk/d71/2020-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dfsk",
+    "name": "DFSK"
+  },
+  "slug": "560",
+  "name": "560",
+  "generations": [
+    {
+      "slug": "560-0",
+      "name": "560 1",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dfsk/560/2019-2025.webp"
+      }
+    }
+  ]
+}
