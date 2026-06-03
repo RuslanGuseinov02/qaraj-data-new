@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dr",
+    "name": "DR"
+  },
+  "slug": "city-cross",
+  "name": "city-cross",
+  "generations": [
+    {
+      "slug": "city-cross-0",
+      "name": "city-cross 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dr/city-cross/2013-2016.webp"
+      }
+    }
+  ]
+}

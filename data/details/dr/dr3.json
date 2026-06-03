@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dr",
+    "name": "DR"
+  },
+  "slug": "dr3",
+  "name": "dr3",
+  "generations": [
+    {
+      "slug": "dr3-0",
+      "name": "dr3 1",
+      "year_start": 2016,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dr/dr3/2016-2022.webp"
+      }
+    }
+  ]
+}

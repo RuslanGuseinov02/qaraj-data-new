@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dr",
+    "name": "DR"
+  },
+  "slug": "dr1",
+  "name": "dr1",
+  "generations": [
+    {
+      "slug": "dr1-0",
+      "name": "dr1 1",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dr/dr1/2009-2014.webp"
+      }
+    }
+  ]
+}

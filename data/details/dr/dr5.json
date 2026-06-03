@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "dr",
+    "name": "DR"
+  },
+  "slug": "dr5",
+  "name": "dr5",
+  "generations": [
+    {
+      "slug": "dr5-0",
+      "name": "dr5 1",
+      "year_start": 2007,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dr/dr5/2007-2014.webp"
+      }
+    },
+    {
+      "slug": "dr5-1",
+      "name": "dr5 2",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dr/dr5/2014-2017.webp"
+      }
+    },
+    {
+      "slug": "dr5-2",
+      "name": "dr5 3",
+      "year_start": 2017,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dr/dr5/2017-2017.webp"
+      }
+    }
+  ]
+}

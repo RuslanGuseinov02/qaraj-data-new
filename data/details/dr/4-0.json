@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dr",
+    "name": "DR"
+  },
+  "slug": "4-0",
+  "name": "4-0",
+  "generations": [
+    {
+      "slug": "4-0-0",
+      "name": "4-0 1",
+      "year_start": 2021,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dr/4-0/2021-2023.webp"
+      }
+    }
+  ]
+}
