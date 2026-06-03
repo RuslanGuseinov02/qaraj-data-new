@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "tesla",
+    "name": "TESLA"
+  },
+  "slug": "roadster",
+  "name": "roadster",
+  "generations": [
+    {
+      "slug": "roadster-0",
+      "name": "roadster 1",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tesla/roadster/2006-2010.webp"
+      }
+    },
+    {
+      "slug": "roadster-1",
+      "name": "roadster 2",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tesla/roadster/2011-2014.webp"
+      }
+    },
+    {
+      "slug": "roadster-2",
+      "name": "roadster 3",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tesla/roadster/2025-now.webp"
+      }
+    }
+  ]
+}

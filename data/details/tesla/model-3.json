@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "tesla",
+    "name": "TESLA"
+  },
+  "slug": "model-3",
+  "name": "model-3",
+  "generations": [
+    {
+      "slug": "model-3-0",
+      "name": "model-3 1",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tesla/model-3/2017-2023.webp"
+      }
+    },
+    {
+      "slug": "model-3-1",
+      "name": "model-3 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tesla/model-3/2023-now.webp"
+      }
+    }
+  ]
+}

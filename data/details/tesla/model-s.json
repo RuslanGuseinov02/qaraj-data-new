@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "tesla",
+    "name": "TESLA"
+  },
+  "slug": "model-s",
+  "name": "model-s",
+  "generations": [
+    {
+      "slug": "model-s-0",
+      "name": "model-s 1",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tesla/model-s/2012-2016.webp"
+      }
+    },
+    {
+      "slug": "model-s-1",
+      "name": "model-s 2",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tesla/model-s/2017-2021.webp"
+      }
+    },
+    {
+      "slug": "model-s-2",
+      "name": "model-s 3",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tesla/model-s/2021-now.webp"
+      }
+    }
+  ]
+}

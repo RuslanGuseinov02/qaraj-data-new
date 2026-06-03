@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "tesla",
+    "name": "TESLA"
+  },
+  "slug": "model-y",
+  "name": "model-y",
+  "generations": [
+    {
+      "slug": "model-y-0",
+      "name": "model-y 1",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tesla/model-y/2020-2025.webp"
+      }
+    },
+    {
+      "slug": "model-y-1",
+      "name": "model-y 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tesla/model-y/2025-now.webp"
+      }
+    }
+  ]
+}
