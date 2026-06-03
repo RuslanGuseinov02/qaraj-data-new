@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "vaz",
+    "name": "VAZ"
+  },
+  "slug": "2131",
+  "name": "2131",
+  "generations": [
+    {
+      "slug": "2131-0",
+      "name": "2131 1",
+      "year_start": 1993,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vaz/2131/2131x-1993-2009.webp"
+      }
+    }
+  ]
+}

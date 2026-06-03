@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "vaz",
+    "name": "VAZ"
+  },
+  "slug": "2121-niva",
+  "name": "2121-niva",
+  "generations": [
+    {
+      "slug": "2121-niva-0",
+      "name": "2121-niva 1",
+      "year_start": 1977,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vaz/2121-niva/2121x-1977-2009.webp"
+      }
+    }
+  ]
+}

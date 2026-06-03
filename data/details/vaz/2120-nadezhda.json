@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "vaz",
+    "name": "VAZ"
+  },
+  "slug": "2120-nadezhda",
+  "name": "2120-nadezhda",
+  "generations": [
+    {
+      "slug": "2120-nadezhda-0",
+      "name": "2120-nadezhda 1",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vaz/2120-nadezhda/2120x-1998-2002.webp"
+      }
+    },
+    {
+      "slug": "2120-nadezhda-1",
+      "name": "2120-nadezhda 2",
+      "year_start": 2002,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vaz/2120-nadezhda/2120x-2002-2006.webp"
+      }
+    }
+  ]
+}
