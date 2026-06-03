@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maextro",
+    "name": "MAEXTRO"
+  },
+  "slug": "s800",
+  "name": "s800",
+  "generations": [
+    {
+      "slug": "s800-0",
+      "name": "s800 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maextro/s800/2024-now.webp"
+      }
+    }
+  ]
+}
