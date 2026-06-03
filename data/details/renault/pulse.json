@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "pulse",
+  "name": "pulse",
+  "generations": [
+    {
+      "slug": "pulse-0",
+      "name": "pulse 1",
+      "year_start": 2012,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/pulse/k13-2012-2017.webp"
+      }
+    }
+  ]
+}

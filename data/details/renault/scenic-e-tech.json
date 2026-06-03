@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "scenic-e-tech",
+  "name": "scenic-e-tech",
+  "generations": [
+    {
+      "slug": "scenic-e-tech-0",
+      "name": "scenic-e-tech 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/scenic-e-tech/2023-now.webp"
+      }
+    }
+  ]
+}

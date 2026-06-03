@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "koleos",
+  "name": "koleos",
+  "generations": [
+    {
+      "slug": "koleos-0",
+      "name": "koleos 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/koleos/ar1-2025-now.webp"
+      }
+    },
+    {
+      "slug": "koleos-1",
+      "name": "koleos 2",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/koleos/hc-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "koleos-2",
+      "name": "koleos 3",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/koleos/hc-2019-2026.webp"
+      }
+    },
+    {
+      "slug": "koleos-3",
+      "name": "koleos 4",
+      "year_start": 2007,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/koleos/hy-2007-2011.webp"
+      }
+    },
+    {
+      "slug": "koleos-4",
+      "name": "koleos 5",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/koleos/hy-2011-2015.webp"
+      }
+    }
+  ]
+}

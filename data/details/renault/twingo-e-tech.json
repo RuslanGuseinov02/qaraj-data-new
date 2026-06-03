@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "twingo-e-tech",
+  "name": "twingo-e-tech",
+  "generations": [
+    {
+      "slug": "twingo-e-tech-0",
+      "name": "twingo-e-tech 1",
+      "year_start": 2026,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/twingo-e-tech/2026-now.webp"
+      }
+    }
+  ]
+}

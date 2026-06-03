@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "mobilize-duo",
+  "name": "mobilize-duo",
+  "generations": [
+    {
+      "slug": "mobilize-duo-0",
+      "name": "mobilize-duo 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/mobilize-duo/2024-now.webp"
+      }
+    }
+  ]
+}

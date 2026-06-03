@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "espace",
+  "name": "espace",
+  "generations": [
+    {
+      "slug": "espace-0",
+      "name": "espace 1",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/espace/2023-2025.webp"
+      }
+    },
+    {
+      "slug": "espace-1",
+      "name": "espace 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/espace/2025-now.webp"
+      }
+    },
+    {
+      "slug": "espace-2",
+      "name": "espace 3",
+      "year_start": 1984,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/espace/j11-1984-1991.webp"
+      }
+    },
+    {
+      "slug": "espace-3",
+      "name": "espace 4",
+      "year_start": 1991,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/espace/j63-1991-1996.webp"
+      }
+    },
+    {
+      "slug": "espace-4",
+      "name": "espace 5",
+      "year_start": 2002,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/espace/j81-2002-2014.webp"
+      }
+    },
+    {
+      "slug": "espace-5",
+      "name": "espace 6",
+      "year_start": 1996,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/espace/je0-1996-2002.webp"
+      }
+    },
+    {
+      "slug": "espace-6",
+      "name": "espace 7",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/espace/jfc-2015-2020.webp"
+      }
+    },
+    {
+      "slug": "espace-7",
+      "name": "espace 8",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/espace/jfc-2020-2023.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "kangoo-stepway",
+  "name": "kangoo-stepway",
+  "generations": [
+    {
+      "slug": "kangoo-stepway-0",
+      "name": "kangoo-stepway 1",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/kangoo-stepway/2018-2024.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "arkana",
+  "name": "arkana",
+  "generations": [
+    {
+      "slug": "arkana-0",
+      "name": "arkana 1",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/arkana/ljc-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "arkana-1",
+      "name": "arkana 2",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/arkana/ljl-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "arkana-2",
+      "name": "arkana 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/arkana/ljl-2023-now.webp"
+      }
+    }
+  ]
+}

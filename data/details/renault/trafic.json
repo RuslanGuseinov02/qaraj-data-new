@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "trafic",
+  "name": "trafic",
+  "generations": [
+    {
+      "slug": "trafic-0",
+      "name": "trafic 1",
+      "year_start": 1980,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/trafic/tx-1980-2001.webp"
+      }
+    },
+    {
+      "slug": "trafic-1",
+      "name": "trafic 2",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/trafic/x82-2014-2019.webp"
+      }
+    },
+    {
+      "slug": "trafic-2",
+      "name": "trafic 3",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/trafic/x82-2019-2021.webp"
+      }
+    },
+    {
+      "slug": "trafic-3",
+      "name": "trafic 4",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/trafic/x82-2021-now.webp"
+      }
+    },
+    {
+      "slug": "trafic-4",
+      "name": "trafic 5",
+      "year_start": 2001,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/trafic/x83-2001-2006.webp"
+      }
+    },
+    {
+      "slug": "trafic-5",
+      "name": "trafic 6",
+      "year_start": 2007,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/trafic/x83-2007-2014.webp"
+      }
+    }
+  ]
+}

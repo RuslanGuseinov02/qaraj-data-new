@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "logan",
+  "name": "logan",
+  "generations": [
+    {
+      "slug": "logan-0",
+      "name": "logan 1",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/logan/l8-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "logan-1",
+      "name": "logan 2",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/logan/l8-2019-2026.webp"
+      }
+    },
+    {
+      "slug": "logan-2",
+      "name": "logan 3",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/logan/ls-ks-2004-2008.webp"
+      }
+    },
+    {
+      "slug": "logan-3",
+      "name": "logan 4",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/logan/ls-ks-2009-2014.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "kangoo-compact",
+  "name": "kangoo-compact",
+  "generations": [
+    {
+      "slug": "kangoo-compact-0",
+      "name": "kangoo-compact 1",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/kangoo-compact/fw-2008-2013.webp"
+      }
+    },
+    {
+      "slug": "kangoo-compact-1",
+      "name": "kangoo-compact 2",
+      "year_start": 2013,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/kangoo-compact/fw-2013-2019.webp"
+      }
+    }
+  ]
+}

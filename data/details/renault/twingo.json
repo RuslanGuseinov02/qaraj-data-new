@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "twingo",
+  "name": "twingo",
+  "generations": [
+    {
+      "slug": "twingo-0",
+      "name": "twingo 1",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/twingo/bcm-2014-2019.webp"
+      }
+    },
+    {
+      "slug": "twingo-1",
+      "name": "twingo 2",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/twingo/bcm-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "twingo-2",
+      "name": "twingo 3",
+      "year_start": 1992,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/twingo/c06-1992-2007.webp"
+      }
+    },
+    {
+      "slug": "twingo-3",
+      "name": "twingo 4",
+      "year_start": 2007,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/twingo/cn0-2007-2011.webp"
+      }
+    },
+    {
+      "slug": "twingo-4",
+      "name": "twingo 5",
+      "year_start": 2012,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/twingo/cn0-2012-2014.webp"
+      }
+    }
+  ]
+}

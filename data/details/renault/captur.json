@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "captur",
+  "name": "captur",
+  "generations": [
+    {
+      "slug": "captur-0",
+      "name": "captur 1",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/captur/ha-global-2017-2022.webp"
+      }
+    },
+    {
+      "slug": "captur-1",
+      "name": "captur 2",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/captur/ha-global-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "captur-2",
+      "name": "captur 3",
+      "year_start": 2013,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/captur/j87-2013-2020.webp"
+      }
+    },
+    {
+      "slug": "captur-3",
+      "name": "captur 4",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/captur/j87-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "captur-4",
+      "name": "captur 5",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/captur/jb-je-2019-2025.webp"
+      }
+    },
+    {
+      "slug": "captur-5",
+      "name": "captur 6",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/captur/jb-je-2024-now.webp"
+      }
+    }
+  ]
+}

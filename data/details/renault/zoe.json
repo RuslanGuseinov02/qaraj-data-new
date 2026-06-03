@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "zoe",
+  "name": "zoe",
+  "generations": [
+    {
+      "slug": "zoe-0",
+      "name": "zoe 1",
+      "year_start": 2012,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/zoe/bfm-2012-2022.webp"
+      }
+    },
+    {
+      "slug": "zoe-1",
+      "name": "zoe 2",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/zoe/bfm-2019-2024.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "fluence",
+  "name": "fluence",
+  "generations": [
+    {
+      "slug": "fluence-0",
+      "name": "fluence 1",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/fluence/l30-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "fluence-1",
+      "name": "fluence 2",
+      "year_start": 2012,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/fluence/l30-2012-2019.webp"
+      }
+    }
+  ]
+}

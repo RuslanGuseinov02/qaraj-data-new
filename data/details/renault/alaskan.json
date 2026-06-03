@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "alaskan",
+  "name": "alaskan",
+  "generations": [
+    {
+      "slug": "alaskan-0",
+      "name": "alaskan 1",
+      "year_start": 2016,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/alaskan/d23-2016-now.webp"
+      }
+    }
+  ]
+}

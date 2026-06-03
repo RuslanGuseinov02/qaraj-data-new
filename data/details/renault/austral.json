@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "austral",
+  "name": "austral",
+  "generations": [
+    {
+      "slug": "austral-0",
+      "name": "austral 1",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/austral/hhn-2022-2025.webp"
+      }
+    },
+    {
+      "slug": "austral-1",
+      "name": "austral 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/austral/hhn-2024-now.webp"
+      }
+    }
+  ]
+}

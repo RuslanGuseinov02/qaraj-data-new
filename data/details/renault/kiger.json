@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "kiger",
+  "name": "kiger",
+  "generations": [
+    {
+      "slug": "kiger-0",
+      "name": "kiger 1",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/kiger/2021-2025.webp"
+      }
+    },
+    {
+      "slug": "kiger-1",
+      "name": "kiger 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/kiger/2025-now.webp"
+      }
+    }
+  ]
+}

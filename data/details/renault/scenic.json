@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "scenic",
+  "name": "scenic",
+  "generations": [
+    {
+      "slug": "scenic-0",
+      "name": "scenic 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/scenic/j9-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "scenic-1",
+      "name": "scenic 2",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/scenic/j9-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "scenic-2",
+      "name": "scenic 3",
+      "year_start": 1996,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/scenic/ja-1996-2003.webp"
+      }
+    },
+    {
+      "slug": "scenic-3",
+      "name": "scenic 4",
+      "year_start": 2003,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/scenic/jm-2003-2009.webp"
+      }
+    },
+    {
+      "slug": "scenic-4",
+      "name": "scenic 5",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/scenic/jz-2009-2012.webp"
+      }
+    },
+    {
+      "slug": "scenic-5",
+      "name": "scenic 6",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/scenic/jz-2012-2016.webp"
+      }
+    }
+  ]
+}

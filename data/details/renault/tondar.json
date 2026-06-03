@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "tondar",
+  "name": "tondar",
+  "generations": [
+    {
+      "slug": "tondar-0",
+      "name": "tondar 1",
+      "year_start": 2007,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/tondar/ls-ks-2007-2021.webp"
+      }
+    }
+  ]
+}

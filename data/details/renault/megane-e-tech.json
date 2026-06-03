@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "megane-e-tech",
+  "name": "megane-e-tech",
+  "generations": [
+    {
+      "slug": "megane-e-tech-0",
+      "name": "megane-e-tech 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/megane-e-tech/2022-now.webp"
+      }
+    }
+  ]
+}

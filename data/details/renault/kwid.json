@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "kwid",
+  "name": "kwid",
+  "generations": [
+    {
+      "slug": "kwid-0",
+      "name": "kwid 1",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/kwid/bw-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "kwid-1",
+      "name": "kwid 2",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/kwid/bw-2019-2026.webp"
+      }
+    },
+    {
+      "slug": "kwid-2",
+      "name": "kwid 3",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/kwid/bw-2025-now.webp"
+      }
+    }
+  ]
+}

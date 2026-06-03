@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "kangoo-van",
+  "name": "kangoo-van",
+  "generations": [
+    {
+      "slug": "kangoo-van-0",
+      "name": "kangoo-van 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/kangoo-van/kfk-2021-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "symbol",
+  "name": "symbol",
+  "generations": [
+    {
+      "slug": "symbol-0",
+      "name": "symbol 1",
+      "year_start": 2002,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/symbol/lb-2002-2008.webp"
+      }
+    },
+    {
+      "slug": "symbol-1",
+      "name": "symbol 2",
+      "year_start": 2012,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/symbol/ls-2012-2017.webp"
+      }
+    },
+    {
+      "slug": "symbol-2",
+      "name": "symbol 3",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/symbol/ls-2018-2022.webp"
+      }
+    },
+    {
+      "slug": "symbol-3",
+      "name": "symbol 4",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/symbol/lu-2008-2012.webp"
+      }
+    }
+  ]
+}

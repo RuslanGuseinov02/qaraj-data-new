@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "express",
+  "name": "express",
+  "generations": [
+    {
+      "slug": "express-0",
+      "name": "express 1",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/express/ffk-kfk-2020-2025.webp"
+      }
+    }
+  ]
+}

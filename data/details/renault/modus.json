@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "modus",
+  "name": "modus",
+  "generations": [
+    {
+      "slug": "modus-0",
+      "name": "modus 1",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/modus/f-jp0-2004-2008.webp"
+      }
+    },
+    {
+      "slug": "modus-1",
+      "name": "modus 2",
+      "year_start": 2008,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/modus/f-jp0-2008-2015.webp"
+      }
+    }
+  ]
+}

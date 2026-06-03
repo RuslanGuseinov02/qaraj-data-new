@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "kangoo-rapid",
+  "name": "kangoo-rapid",
+  "generations": [
+    {
+      "slug": "kangoo-rapid-0",
+      "name": "kangoo-rapid 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/kangoo-rapid/kfk-2021-now.webp"
+      }
+    }
+  ]
+}

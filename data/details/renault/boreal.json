@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "boreal",
+  "name": "boreal",
+  "generations": [
+    {
+      "slug": "boreal-0",
+      "name": "boreal 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/boreal/r1310-2025-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "megane",
+  "name": "megane",
+  "generations": [
+    {
+      "slug": "megane-0",
+      "name": "megane 1",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/megane/9a-2016-2021.webp"
+      }
+    },
+    {
+      "slug": "megane-1",
+      "name": "megane 2",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/megane/9a-2020-2025.webp"
+      }
+    },
+    {
+      "slug": "megane-2",
+      "name": "megane 3",
+      "year_start": 2002,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/megane/m0-2002-2009.webp"
+      }
+    },
+    {
+      "slug": "megane-3",
+      "name": "megane 4",
+      "year_start": 1995,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/megane/x64-1995-2002.webp"
+      }
+    },
+    {
+      "slug": "megane-4",
+      "name": "megane 5",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/megane/z0-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "megane-5",
+      "name": "megane 6",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/megane/z0-2013-2016.webp"
+      }
+    }
+  ]
+}

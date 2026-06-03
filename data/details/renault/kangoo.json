@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "kangoo",
+  "name": "kangoo",
+  "generations": [
+    {
+      "slug": "kangoo-0",
+      "name": "kangoo 1",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/kangoo/fc-fw-2008-2013.webp"
+      }
+    },
+    {
+      "slug": "kangoo-1",
+      "name": "kangoo 2",
+      "year_start": 2013,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/kangoo/fc-fw-2013-2022.webp"
+      }
+    },
+    {
+      "slug": "kangoo-2",
+      "name": "kangoo 3",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/kangoo/ffk-kfk-2021-now.webp"
+      }
+    },
+    {
+      "slug": "kangoo-3",
+      "name": "kangoo 4",
+      "year_start": 1997,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/kangoo/kc-kw-1997-2003.webp"
+      }
+    },
+    {
+      "slug": "kangoo-4",
+      "name": "kangoo 5",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/kangoo/kc-kw-2003-2007.webp"
+      }
+    },
+    {
+      "slug": "kangoo-5",
+      "name": "kangoo 6",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/kangoo/kc-kw-vll-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "kangoo-6",
+      "name": "kangoo 7",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/kangoo/m0-2018-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "sandero",
+  "name": "sandero",
+  "generations": [
+    {
+      "slug": "sandero-0",
+      "name": "sandero 1",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/sandero/b52-2013-2018.webp"
+      }
+    },
+    {
+      "slug": "sandero-1",
+      "name": "sandero 2",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/sandero/b52-2019-2026.webp"
+      }
+    },
+    {
+      "slug": "sandero-2",
+      "name": "sandero 3",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/sandero/b52-2022-2024.webp"
+      }
+    },
+    {
+      "slug": "sandero-3",
+      "name": "sandero 4",
+      "year_start": 2007,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/sandero/b90-2007-2013.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "thalia",
+  "name": "thalia",
+  "generations": [
+    {
+      "slug": "thalia-0",
+      "name": "thalia 1",
+      "year_start": 2002,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/thalia/lb-2002-2008.webp"
+      }
+    },
+    {
+      "slug": "thalia-1",
+      "name": "thalia 2",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/thalia/lu-2008-2013.webp"
+      }
+    }
+  ]
+}

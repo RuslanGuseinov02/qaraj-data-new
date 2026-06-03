@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "triber",
+  "name": "triber",
+  "generations": [
+    {
+      "slug": "triber-0",
+      "name": "triber 1",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/triber/2019-2025.webp"
+      }
+    },
+    {
+      "slug": "triber-1",
+      "name": "triber 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/triber/2025-now.webp"
+      }
+    }
+  ]
+}

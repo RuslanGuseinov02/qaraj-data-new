@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "fuego",
+  "name": "fuego",
+  "generations": [
+    {
+      "slug": "fuego-0",
+      "name": "fuego 1",
+      "year_start": 1980,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/fuego/136-1980-1992.webp"
+      }
+    }
+  ]
+}

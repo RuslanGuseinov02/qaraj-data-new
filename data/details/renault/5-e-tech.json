@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "5-e-tech",
+  "name": "5-e-tech",
+  "generations": [
+    {
+      "slug": "5-e-tech-0",
+      "name": "5-e-tech 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/5-e-tech/2024-now.webp"
+      }
+    }
+  ]
+}

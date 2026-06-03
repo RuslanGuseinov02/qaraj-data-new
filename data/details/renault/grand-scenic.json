@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "grand-scenic",
+  "name": "grand-scenic",
+  "generations": [
+    {
+      "slug": "grand-scenic-0",
+      "name": "grand-scenic 1",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/grand-scenic/jm-2003-2006.webp"
+      }
+    },
+    {
+      "slug": "grand-scenic-1",
+      "name": "grand-scenic 2",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/grand-scenic/jm-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "grand-scenic-2",
+      "name": "grand-scenic 3",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/grand-scenic/jz-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "grand-scenic-3",
+      "name": "grand-scenic 4",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/grand-scenic/jz-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "grand-scenic-4",
+      "name": "grand-scenic 5",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/grand-scenic/r9-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "grand-scenic-5",
+      "name": "grand-scenic 6",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/grand-scenic/r9-2020-2023.webp"
+      }
+    }
+  ]
+}

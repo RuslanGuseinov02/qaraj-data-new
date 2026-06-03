@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "master",
+  "name": "master",
+  "generations": [
+    {
+      "slug": "master-0",
+      "name": "master 1",
+      "year_start": 1998,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/master/fd-jd-1998-2003.webp"
+      }
+    },
+    {
+      "slug": "master-1",
+      "name": "master 2",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/master/fd-jd-2004-2010.webp"
+      }
+    },
+    {
+      "slug": "master-2",
+      "name": "master 3",
+      "year_start": 2010,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/master/fv-jv-2010-2022.webp"
+      }
+    },
+    {
+      "slug": "master-3",
+      "name": "master 4",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/master/fv-jv-2019-2025.webp"
+      }
+    },
+    {
+      "slug": "master-4",
+      "name": "master 5",
+      "year_start": 1980,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/master/t-p-1980-1997.webp"
+      }
+    },
+    {
+      "slug": "master-5",
+      "name": "master 6",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/master/xdd-2024-now.webp"
+      }
+    }
+  ]
+}

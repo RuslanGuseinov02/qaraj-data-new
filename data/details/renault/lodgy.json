@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "lodgy",
+  "name": "lodgy",
+  "generations": [
+    {
+      "slug": "lodgy-0",
+      "name": "lodgy 1",
+      "year_start": 2012,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/lodgy/2012-2017.webp"
+      }
+    },
+    {
+      "slug": "lodgy-1",
+      "name": "lodgy 2",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/lodgy/2017-2022.webp"
+      }
+    }
+  ]
+}

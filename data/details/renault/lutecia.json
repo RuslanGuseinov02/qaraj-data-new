@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "lutecia",
+  "name": "lutecia",
+  "generations": [
+    {
+      "slug": "lutecia-0",
+      "name": "lutecia 1",
+      "year_start": 1991,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/lutecia/b-c57-1991-1997.webp"
+      }
+    },
+    {
+      "slug": "lutecia-1",
+      "name": "lutecia 2",
+      "year_start": 1998,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/lutecia/bb-cb-1998-2005.webp"
+      }
+    },
+    {
+      "slug": "lutecia-2",
+      "name": "lutecia 3",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/lutecia/bf-2020-2025.webp"
+      }
+    },
+    {
+      "slug": "lutecia-3",
+      "name": "lutecia 4",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/lutecia/bf-2025-now.webp"
+      }
+    },
+    {
+      "slug": "lutecia-4",
+      "name": "lutecia 5",
+      "year_start": 2013,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/lutecia/bh-2013-2020.webp"
+      }
+    },
+    {
+      "slug": "lutecia-5",
+      "name": "lutecia 6",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/lutecia/br-cr-2006-2008.webp"
+      }
+    },
+    {
+      "slug": "lutecia-6",
+      "name": "lutecia 7",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/lutecia/br-cr-2009-2012.webp"
+      }
+    }
+  ]
+}

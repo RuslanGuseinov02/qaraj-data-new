@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "talisman",
+  "name": "talisman",
+  "generations": [
+    {
+      "slug": "talisman-0",
+      "name": "talisman 1",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/talisman/2015-2020.webp"
+      }
+    },
+    {
+      "slug": "talisman-1",
+      "name": "talisman 2",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/talisman/2020-2022.webp"
+      }
+    },
+    {
+      "slug": "talisman-2",
+      "name": "talisman 3",
+      "year_start": 2012,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/talisman/l47-2012-2013.webp"
+      }
+    }
+  ]
+}

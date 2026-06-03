@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "kadjar",
+  "name": "kadjar",
+  "generations": [
+    {
+      "slug": "kadjar-0",
+      "name": "kadjar 1",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/kadjar/ha-hl-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "kadjar-1",
+      "name": "kadjar 2",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/kadjar/ha-hl-2018-2024.webp"
+      }
+    }
+  ]
+}

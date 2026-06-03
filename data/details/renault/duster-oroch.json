@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "duster-oroch",
+  "name": "duster-oroch",
+  "generations": [
+    {
+      "slug": "duster-oroch-0",
+      "name": "duster-oroch 1",
+      "year_start": 2015,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/duster-oroch/hs-2015-2021.webp"
+      }
+    },
+    {
+      "slug": "duster-oroch-1",
+      "name": "duster-oroch 2",
+      "year_start": 2021,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/duster-oroch/hs-2021-2022.webp"
+      }
+    }
+  ]
+}

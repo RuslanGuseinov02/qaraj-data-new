@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "vel-satis",
+  "name": "vel-satis",
+  "generations": [
+    {
+      "slug": "vel-satis-0",
+      "name": "vel-satis 1",
+      "year_start": 2002,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/vel-satis/bj0-2002-2004.webp"
+      }
+    },
+    {
+      "slug": "vel-satis-1",
+      "name": "vel-satis 2",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/vel-satis/bj0-2005-2009.webp"
+      }
+    }
+  ]
+}

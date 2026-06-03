@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "rafale",
+  "name": "rafale",
+  "generations": [
+    {
+      "slug": "rafale-0",
+      "name": "rafale 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/rafale/dhn-2024-now.webp"
+      }
+    }
+  ]
+}

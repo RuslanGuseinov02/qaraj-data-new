@@ -1,0 +1,120 @@
+{
+  "make": {
+    "slug": "renault",
+    "name": "RENAULT"
+  },
+  "slug": "clio",
+  "name": "clio",
+  "generations": [
+    {
+      "slug": "clio-0",
+      "name": "clio 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/clio/2025-now.webp"
+      }
+    },
+    {
+      "slug": "clio-1",
+      "name": "clio 2",
+      "year_start": 1990,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/clio/b57-c57-1990-1996.webp"
+      }
+    },
+    {
+      "slug": "clio-2",
+      "name": "clio 3",
+      "year_start": 1996,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/clio/b57-c57-1996-1998.webp"
+      }
+    },
+    {
+      "slug": "clio-3",
+      "name": "clio 4",
+      "year_start": 1998,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/clio/bb-cb-1998-2001.webp"
+      }
+    },
+    {
+      "slug": "clio-4",
+      "name": "clio 5",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/clio/bh-kh-2012-2016.webp"
+      }
+    },
+    {
+      "slug": "clio-5",
+      "name": "clio 6",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/clio/bh-kh-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "clio-6",
+      "name": "clio 7",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/clio/bja-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "clio-7",
+      "name": "clio 8",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/clio/bja-2023-2026.webp"
+      }
+    },
+    {
+      "slug": "clio-8",
+      "name": "clio 9",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/clio/br-cr-kr-2005-2009.webp"
+      }
+    },
+    {
+      "slug": "clio-9",
+      "name": "clio 10",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/clio/br-cr-kr-2009-2014.webp"
+      }
+    },
+    {
+      "slug": "clio-10",
+      "name": "clio 11",
+      "year_start": 2001,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault/clio/cb-bb-2001-2008.webp"
+      }
+    }
+  ]
+}
