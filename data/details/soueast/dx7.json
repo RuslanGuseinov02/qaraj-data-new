@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "soueast",
+    "name": "SOUEAST"
+  },
+  "slug": "dx7",
+  "name": "dx7",
+  "generations": [
+    {
+      "slug": "dx7-0",
+      "name": "dx7 1",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/soueast/dx7/2014-2018.webp"
+      }
+    },
+    {
+      "slug": "dx7-1",
+      "name": "dx7 2",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/soueast/dx7/2018-2023.webp"
+      }
+    },
+    {
+      "slug": "dx7-2",
+      "name": "dx7 3",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/soueast/dx7/2020-2023.webp"
+      }
+    }
+  ]
+}

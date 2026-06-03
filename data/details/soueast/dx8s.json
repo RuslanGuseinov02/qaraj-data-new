@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "soueast",
+    "name": "SOUEAST"
+  },
+  "slug": "dx8s",
+  "name": "dx8s",
+  "generations": [
+    {
+      "slug": "dx8s-0",
+      "name": "dx8s 1",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/soueast/dx8s/2022-2024.webp"
+      }
+    }
+  ]
+}

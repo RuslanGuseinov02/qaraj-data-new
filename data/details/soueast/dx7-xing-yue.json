@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "soueast",
+    "name": "SOUEAST"
+  },
+  "slug": "dx7-xing-yue",
+  "name": "dx7-xing-yue",
+  "generations": [
+    {
+      "slug": "dx7-xing-yue-0",
+      "name": "dx7-xing-yue 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/soueast/dx7-xing-yue/2020-2023.webp"
+      }
+    }
+  ]
+}

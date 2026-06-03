@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "soueast",
+    "name": "SOUEAST"
+  },
+  "slug": "dx7-prime",
+  "name": "dx7-prime",
+  "generations": [
+    {
+      "slug": "dx7-prime-0",
+      "name": "dx7-prime 1",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/soueast/dx7-prime/2018-2023.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "soueast",
+    "name": "SOUEAST"
+  },
+  "slug": "s07",
+  "name": "s07",
+  "generations": [
+    {
+      "slug": "s07-0",
+      "name": "s07 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/soueast/s07/2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "soueast",
+    "name": "SOUEAST"
+  },
+  "slug": "dx3",
+  "name": "dx3",
+  "generations": [
+    {
+      "slug": "dx3-0",
+      "name": "dx3 1",
+      "year_start": 2016,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/soueast/dx3/2016-2022.webp"
+      }
+    },
+    {
+      "slug": "dx3-1",
+      "name": "dx3 2",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/soueast/dx3/2019-2023.webp"
+      }
+    }
+  ]
+}

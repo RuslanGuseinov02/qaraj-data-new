@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "soueast",
+    "name": "SOUEAST"
+  },
+  "slug": "a5",
+  "name": "a5",
+  "generations": [
+    {
+      "slug": "a5-0",
+      "name": "a5 1",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/soueast/a5/2018-2023.webp"
+      }
+    }
+  ]
+}

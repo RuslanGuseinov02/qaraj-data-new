@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "soueast",
+    "name": "SOUEAST"
+  },
+  "slug": "delica",
+  "name": "delica",
+  "generations": [
+    {
+      "slug": "delica-0",
+      "name": "delica 1",
+      "year_start": 2008,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/soueast/delica/2008-2014.webp"
+      }
+    }
+  ]
+}

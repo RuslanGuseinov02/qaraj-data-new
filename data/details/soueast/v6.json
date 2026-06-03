@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "soueast",
+    "name": "SOUEAST"
+  },
+  "slug": "v6",
+  "name": "v6",
+  "generations": [
+    {
+      "slug": "v6-0",
+      "name": "v6 1",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/soueast/v6/2013-2017.webp"
+      }
+    }
+  ]
+}

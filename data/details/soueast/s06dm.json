@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "soueast",
+    "name": "SOUEAST"
+  },
+  "slug": "s06dm",
+  "name": "s06dm",
+  "generations": [
+    {
+      "slug": "s06dm-0",
+      "name": "s06dm 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/soueast/s06dm/2024-now.webp"
+      }
+    }
+  ]
+}
