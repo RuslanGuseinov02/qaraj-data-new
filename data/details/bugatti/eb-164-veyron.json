@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "bugatti",
+    "name": "BUGATTI"
+  },
+  "slug": "eb-164-veyron",
+  "name": "eb-164-veyron",
+  "generations": [
+    {
+      "slug": "eb-164-veyron-0",
+      "name": "eb-164-veyron 1",
+      "year_start": 2005,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bugatti/eb-164-veyron/2005-2015.webp"
+      }
+    }
+  ]
+}

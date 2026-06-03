@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "bugatti",
+    "name": "BUGATTI"
+  },
+  "slug": "eb-110",
+  "name": "eb-110",
+  "generations": [
+    {
+      "slug": "eb-110-0",
+      "name": "eb-110 1",
+      "year_start": 1991,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bugatti/eb-110/1991-1995.webp"
+      }
+    }
+  ]
+}

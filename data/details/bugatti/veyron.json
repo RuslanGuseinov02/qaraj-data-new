@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "bugatti",
+    "name": "BUGATTI"
+  },
+  "slug": "veyron",
+  "name": "veyron",
+  "generations": [
+    {
+      "slug": "veyron-0",
+      "name": "veyron 1",
+      "year_start": 2005,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bugatti/veyron/2005-2015.webp"
+      }
+    }
+  ]
+}

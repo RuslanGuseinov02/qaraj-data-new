@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "bugatti",
+    "name": "BUGATTI"
+  },
+  "slug": "eb112",
+  "name": "eb112",
+  "generations": [
+    {
+      "slug": "eb112-0",
+      "name": "eb112 1",
+      "year_start": 1993,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/bugatti/eb112/1993-1995.webp"
+      }
+    }
+  ]
+}
