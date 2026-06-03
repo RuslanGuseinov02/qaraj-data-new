@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lamborghini",
+    "name": "LAMBORGHINI"
+  },
+  "slug": "temerario",
+  "name": "temerario",
+  "generations": [
+    {
+      "slug": "temerario-0",
+      "name": "temerario 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lamborghini/temerario/2025-now.webp"
+      }
+    }
+  ]
+}

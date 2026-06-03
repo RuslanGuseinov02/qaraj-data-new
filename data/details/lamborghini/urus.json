@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "lamborghini",
+    "name": "LAMBORGHINI"
+  },
+  "slug": "urus",
+  "name": "urus",
+  "generations": [
+    {
+      "slug": "urus-0",
+      "name": "urus 1",
+      "year_start": 2018,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lamborghini/urus/2018-2025.webp"
+      }
+    },
+    {
+      "slug": "urus-1",
+      "name": "urus 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lamborghini/urus/2024-now.webp"
+      }
+    }
+  ]
+}

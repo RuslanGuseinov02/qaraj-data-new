@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "lamborghini",
+    "name": "LAMBORGHINI"
+  },
+  "slug": "diablo-roadster",
+  "name": "diablo-roadster",
+  "generations": [
+    {
+      "slug": "diablo-roadster-0",
+      "name": "diablo-roadster 1",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lamborghini/diablo-roadster/1995-1998.webp"
+      }
+    },
+    {
+      "slug": "diablo-roadster-1",
+      "name": "diablo-roadster 2",
+      "year_start": 1999,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lamborghini/diablo-roadster/1999-2001.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lamborghini",
+    "name": "LAMBORGHINI"
+  },
+  "slug": "revuelto",
+  "name": "revuelto",
+  "generations": [
+    {
+      "slug": "revuelto-0",
+      "name": "revuelto 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lamborghini/revuelto/2023-now.webp"
+      }
+    }
+  ]
+}

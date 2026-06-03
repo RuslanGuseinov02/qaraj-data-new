@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "lamborghini",
+    "name": "LAMBORGHINI"
+  },
+  "slug": "gallardo",
+  "name": "gallardo",
+  "generations": [
+    {
+      "slug": "gallardo-0",
+      "name": "gallardo 1",
+      "year_start": 2003,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lamborghini/gallardo/2003-2008.webp"
+      }
+    },
+    {
+      "slug": "gallardo-1",
+      "name": "gallardo 2",
+      "year_start": 2008,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lamborghini/gallardo/2008-2014.webp"
+      }
+    }
+  ]
+}

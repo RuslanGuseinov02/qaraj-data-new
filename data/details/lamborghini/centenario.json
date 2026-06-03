@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lamborghini",
+    "name": "LAMBORGHINI"
+  },
+  "slug": "centenario",
+  "name": "centenario",
+  "generations": [
+    {
+      "slug": "centenario-0",
+      "name": "centenario 1",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lamborghini/centenario/2016-2018.webp"
+      }
+    }
+  ]
+}
