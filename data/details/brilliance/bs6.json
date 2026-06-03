@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "brilliance",
+    "name": "BRILLIANCE"
+  },
+  "slug": "bs6",
+  "name": "bs6",
+  "generations": [
+    {
+      "slug": "bs6-0",
+      "name": "bs6 1",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/brilliance/bs6/2007-2010.webp"
+      }
+    }
+  ]
+}

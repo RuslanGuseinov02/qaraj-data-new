@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "brilliance",
+    "name": "BRILLIANCE"
+  },
+  "slug": "v5",
+  "name": "v5",
+  "generations": [
+    {
+      "slug": "v5-0",
+      "name": "v5 1",
+      "year_start": 2012,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/brilliance/v5/2012-2019.webp"
+      }
+    },
+    {
+      "slug": "v5-1",
+      "name": "v5 2",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/brilliance/v5/2017-2020.webp"
+      }
+    }
+  ]
+}

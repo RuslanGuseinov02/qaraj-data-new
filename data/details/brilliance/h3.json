@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "brilliance",
+    "name": "BRILLIANCE"
+  },
+  "slug": "h3",
+  "name": "h3",
+  "generations": [
+    {
+      "slug": "h3-0",
+      "name": "h3 1",
+      "year_start": 2017,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/brilliance/h3/2017-2017.webp"
+      }
+    }
+  ]
+}

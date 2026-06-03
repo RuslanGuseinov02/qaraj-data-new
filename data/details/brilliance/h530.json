@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "brilliance",
+    "name": "BRILLIANCE"
+  },
+  "slug": "h530",
+  "name": "h530",
+  "generations": [
+    {
+      "slug": "h530-0",
+      "name": "h530 1",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/brilliance/h530/2011-2017.webp"
+      }
+    }
+  ]
+}

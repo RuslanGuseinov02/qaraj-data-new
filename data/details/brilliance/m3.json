@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "brilliance",
+    "name": "BRILLIANCE"
+  },
+  "slug": "m3",
+  "name": "m3",
+  "generations": [
+    {
+      "slug": "m3-0",
+      "name": "m3 1",
+      "year_start": 2007,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/brilliance/m3/2007-2007.webp"
+      }
+    }
+  ]
+}

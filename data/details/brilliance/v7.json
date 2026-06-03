@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "brilliance",
+    "name": "BRILLIANCE"
+  },
+  "slug": "v7",
+  "name": "v7",
+  "generations": [
+    {
+      "slug": "v7-0",
+      "name": "v7 1",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/brilliance/v7/2018-2020.webp"
+      }
+    }
+  ]
+}

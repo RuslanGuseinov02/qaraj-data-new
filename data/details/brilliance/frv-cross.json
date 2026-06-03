@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "brilliance",
+    "name": "BRILLIANCE"
+  },
+  "slug": "frv-cross",
+  "name": "frv-cross",
+  "generations": [
+    {
+      "slug": "frv-cross-0",
+      "name": "frv-cross 1",
+      "year_start": 2009,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/brilliance/frv-cross/2009-2018.webp"
+      }
+    }
+  ]
+}
