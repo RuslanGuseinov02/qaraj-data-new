@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "cupra",
+    "name": "CUPRA"
+  },
+  "slug": "terramar",
+  "name": "terramar",
+  "generations": [
+    {
+      "slug": "terramar-0",
+      "name": "terramar 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cupra/terramar/2024-now.webp"
+      }
+    }
+  ]
+}

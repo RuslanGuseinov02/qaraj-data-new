@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "cupra",
+    "name": "CUPRA"
+  },
+  "slug": "born",
+  "name": "born",
+  "generations": [
+    {
+      "slug": "born-0",
+      "name": "born 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cupra/born/2021-now.webp"
+      }
+    }
+  ]
+}
