@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "sehol",
+    "name": "SEHOL"
+  },
+  "slug": "e40x",
+  "name": "e40x",
+  "generations": [
+    {
+      "slug": "e40x-0",
+      "name": "e40x 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/sehol/e40x/2020-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "sehol",
+    "name": "SEHOL"
+  },
+  "slug": "x7",
+  "name": "x7",
+  "generations": [
+    {
+      "slug": "x7-0",
+      "name": "x7 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/sehol/x7/2020-now.webp"
+      }
+    }
+  ]
+}
