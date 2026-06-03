@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "li",
+    "name": "LI"
+  },
+  "slug": "mega",
+  "name": "mega",
+  "generations": [
+    {
+      "slug": "mega-0",
+      "name": "mega 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/li/mega/2024-now.webp"
+      }
+    }
+  ]
+}
