@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maserati",
+    "name": "MASERATI"
+  },
+  "slug": "grecale",
+  "name": "grecale",
+  "generations": [
+    {
+      "slug": "grecale-0",
+      "name": "grecale 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maserati/grecale/m182-2022-now.webp"
+      }
+    }
+  ]
+}

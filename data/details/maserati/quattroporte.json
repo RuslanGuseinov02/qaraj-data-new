@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "maserati",
+    "name": "MASERATI"
+  },
+  "slug": "quattroporte",
+  "name": "quattroporte",
+  "generations": [
+    {
+      "slug": "quattroporte-0",
+      "name": "quattroporte 1",
+      "year_start": 1994,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maserati/quattroporte/am337-1994-2001.webp"
+      }
+    },
+    {
+      "slug": "quattroporte-1",
+      "name": "quattroporte 2",
+      "year_start": 2003,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maserati/quattroporte/m139-2003-2008.webp"
+      }
+    },
+    {
+      "slug": "quattroporte-2",
+      "name": "quattroporte 3",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maserati/quattroporte/m139-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "quattroporte-3",
+      "name": "quattroporte 4",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maserati/quattroporte/m156-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "quattroporte-4",
+      "name": "quattroporte 5",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maserati/quattroporte/m156-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "quattroporte-5",
+      "name": "quattroporte 6",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maserati/quattroporte/m156-2020-2024.webp"
+      }
+    }
+  ]
+}

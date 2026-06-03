@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maserati",
+    "name": "MASERATI"
+  },
+  "slug": "gransport",
+  "name": "gransport",
+  "generations": [
+    {
+      "slug": "gransport-0",
+      "name": "gransport 1",
+      "year_start": 2004,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maserati/gransport/2004-2007.webp"
+      }
+    }
+  ]
+}

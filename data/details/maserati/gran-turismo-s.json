@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maserati",
+    "name": "MASERATI"
+  },
+  "slug": "gran-turismo-s",
+  "name": "gran-turismo-s",
+  "generations": [
+    {
+      "slug": "gran-turismo-s-0",
+      "name": "gran-turismo-s 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maserati/gran-turismo-s/m145-2008-2012.webp"
+      }
+    }
+  ]
+}

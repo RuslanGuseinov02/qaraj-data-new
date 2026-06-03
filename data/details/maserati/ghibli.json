@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "maserati",
+    "name": "MASERATI"
+  },
+  "slug": "ghibli",
+  "name": "ghibli",
+  "generations": [
+    {
+      "slug": "ghibli-0",
+      "name": "ghibli 1",
+      "year_start": 1992,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maserati/ghibli/am336-1992-1998.webp"
+      }
+    },
+    {
+      "slug": "ghibli-1",
+      "name": "ghibli 2",
+      "year_start": 2013,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maserati/ghibli/m157-2013-2020.webp"
+      }
+    },
+    {
+      "slug": "ghibli-2",
+      "name": "ghibli 3",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maserati/ghibli/m157-2020-2025.webp"
+      }
+    }
+  ]
+}

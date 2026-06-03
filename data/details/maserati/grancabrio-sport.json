@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maserati",
+    "name": "MASERATI"
+  },
+  "slug": "grancabrio-sport",
+  "name": "grancabrio-sport",
+  "generations": [
+    {
+      "slug": "grancabrio-sport-0",
+      "name": "grancabrio-sport 1",
+      "year_start": 2011,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maserati/grancabrio-sport/m145-2011-2019.webp"
+      }
+    }
+  ]
+}

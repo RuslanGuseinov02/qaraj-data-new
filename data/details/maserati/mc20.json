@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maserati",
+    "name": "MASERATI"
+  },
+  "slug": "mc20",
+  "name": "mc20",
+  "generations": [
+    {
+      "slug": "mc20-0",
+      "name": "mc20 1",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maserati/mc20/2020-2025.webp"
+      }
+    }
+  ]
+}

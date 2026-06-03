@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "maserati",
+    "name": "MASERATI"
+  },
+  "slug": "granturismo-mc",
+  "name": "granturismo-mc",
+  "generations": [
+    {
+      "slug": "granturismo-mc-0",
+      "name": "granturismo-mc 1",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maserati/granturismo-mc/m145-2011-2013.webp"
+      }
+    },
+    {
+      "slug": "granturismo-mc-1",
+      "name": "granturismo-mc 2",
+      "year_start": 2013,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maserati/granturismo-mc/m145-2013-2019.webp"
+      }
+    }
+  ]
+}

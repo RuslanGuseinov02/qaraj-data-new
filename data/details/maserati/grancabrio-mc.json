@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maserati",
+    "name": "MASERATI"
+  },
+  "slug": "grancabrio-mc",
+  "name": "grancabrio-mc",
+  "generations": [
+    {
+      "slug": "grancabrio-mc-0",
+      "name": "grancabrio-mc 1",
+      "year_start": 2012,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maserati/grancabrio-mc/m145-2012-2019.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maserati",
+    "name": "MASERATI"
+  },
+  "slug": "mcpura",
+  "name": "mcpura",
+  "generations": [
+    {
+      "slug": "mcpura-0",
+      "name": "mcpura 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maserati/mcpura/2025-now.webp"
+      }
+    }
+  ]
+}
