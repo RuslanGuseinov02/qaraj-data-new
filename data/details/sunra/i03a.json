@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "sunra",
+    "name": "SUNRA"
+  },
+  "slug": "i03a",
+  "name": "i03a",
+  "generations": [
+    {
+      "slug": "i03a-0",
+      "name": "i03a 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/sunra/i03a/2021-now.webp"
+      }
+    }
+  ]
+}
