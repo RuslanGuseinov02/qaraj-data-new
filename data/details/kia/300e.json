@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "300e",
+  "name": "300e",
+  "generations": [
+    {
+      "slug": "300e-0",
+      "name": "300e 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/300e/2017-2020.webp"
+      }
+    }
+  ]
+}

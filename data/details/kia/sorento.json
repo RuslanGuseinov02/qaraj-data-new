@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "sorento",
+  "name": "sorento",
+  "generations": [
+    {
+      "slug": "sorento-0",
+      "name": "sorento 1",
+      "year_start": 2002,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sorento/bl-2002-2011.webp"
+      }
+    },
+    {
+      "slug": "sorento-1",
+      "name": "sorento 2",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sorento/mq4-2020-2024.webp"
+      }
+    },
+    {
+      "slug": "sorento-2",
+      "name": "sorento 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sorento/mq4-2023-now.webp"
+      }
+    },
+    {
+      "slug": "sorento-3",
+      "name": "sorento 4",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sorento/um-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "sorento-4",
+      "name": "sorento 5",
+      "year_start": 2017,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sorento/um-2017-2018.webp"
+      }
+    },
+    {
+      "slug": "sorento-5",
+      "name": "sorento 6",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sorento/um-2018-2020.webp"
+      }
+    },
+    {
+      "slug": "sorento-6",
+      "name": "sorento 7",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sorento/xm-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "sorento-7",
+      "name": "sorento 8",
+      "year_start": 2013,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sorento/xm-2013-2020.webp"
+      }
+    }
+  ]
+}

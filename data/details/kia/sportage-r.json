@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "sportage-r",
+  "name": "sportage-r",
+  "generations": [
+    {
+      "slug": "sportage-r-0",
+      "name": "sportage-r 1",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sportage-r/sl-2011-2016.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "avella",
+  "name": "avella",
+  "generations": [
+    {
+      "slug": "avella-0",
+      "name": "avella 1",
+      "year_start": 1995,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/avella/1995-2003.webp"
+      }
+    }
+  ]
+}

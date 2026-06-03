@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "forte",
+  "name": "forte",
+  "generations": [
+    {
+      "slug": "forte-0",
+      "name": "forte 1",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/forte/bd-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "forte-1",
+      "name": "forte 2",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/forte/bd-2021-2025.webp"
+      }
+    },
+    {
+      "slug": "forte-2",
+      "name": "forte 3",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/forte/td-2008-2013.webp"
+      }
+    },
+    {
+      "slug": "forte-3",
+      "name": "forte 4",
+      "year_start": 2014,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/forte/yd-2014-2016.webp"
+      }
+    },
+    {
+      "slug": "forte-4",
+      "name": "forte 5",
+      "year_start": 2017,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/forte/yd-2017-2018.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "rio-x-line",
+  "name": "rio-x-line",
+  "generations": [
+    {
+      "slug": "rio-x-line-0",
+      "name": "rio-x-line 1",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/rio-x-line/yb-2017-2021.webp"
+      }
+    }
+  ]
+}

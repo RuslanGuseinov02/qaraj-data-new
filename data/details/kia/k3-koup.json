@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "k3-koup",
+  "name": "k3-koup",
+  "generations": [
+    {
+      "slug": "k3-koup-0",
+      "name": "k3-koup 1",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/k3-koup/yk-2013-2017.webp"
+      }
+    }
+  ]
+}

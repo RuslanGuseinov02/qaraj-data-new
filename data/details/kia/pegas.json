@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "pegas",
+  "name": "pegas",
+  "generations": [
+    {
+      "slug": "pegas-0",
+      "name": "pegas 1",
+      "year_start": 2017,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/pegas/pb-2017-2024.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "ev9",
+  "name": "ev9",
+  "generations": [
+    {
+      "slug": "ev9-0",
+      "name": "ev9 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/ev9/2023-now.webp"
+      }
+    }
+  ]
+}

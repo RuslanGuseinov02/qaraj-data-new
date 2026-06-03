@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "pride",
+  "name": "pride",
+  "generations": [
+    {
+      "slug": "pride-0",
+      "name": "pride 1",
+      "year_start": 2005,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/pride/jb-2005-2011.webp"
+      }
+    },
+    {
+      "slug": "pride-1",
+      "name": "pride 2",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/pride/ub-2011-2014.webp"
+      }
+    },
+    {
+      "slug": "pride-2",
+      "name": "pride 3",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/pride/ub-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "pride-3",
+      "name": "pride 4",
+      "year_start": 1990,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/pride/wa-1990-2002.webp"
+      }
+    }
+  ]
+}

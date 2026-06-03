@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "grand-carnival",
+  "name": "grand-carnival",
+  "generations": [
+    {
+      "slug": "grand-carnival-0",
+      "name": "grand-carnival 1",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/grand-carnival/vq-2006-2010.webp"
+      }
+    },
+    {
+      "slug": "grand-carnival-1",
+      "name": "grand-carnival 2",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/grand-carnival/vq-2010-2014.webp"
+      }
+    },
+    {
+      "slug": "grand-carnival-2",
+      "name": "grand-carnival 3",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/grand-carnival/yp-2014-2019.webp"
+      }
+    },
+    {
+      "slug": "grand-carnival-3",
+      "name": "grand-carnival 4",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/grand-carnival/yp-2019-2021.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "k2",
+  "name": "k2",
+  "generations": [
+    {
+      "slug": "k2-0",
+      "name": "k2 1",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/k2/ub-2011-2016.webp"
+      }
+    },
+    {
+      "slug": "k2-1",
+      "name": "k2 2",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/k2/yb-2017-2020.webp"
+      }
+    }
+  ]
+}

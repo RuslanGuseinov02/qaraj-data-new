@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "ev3",
+  "name": "ev3",
+  "generations": [
+    {
+      "slug": "ev3-0",
+      "name": "ev3 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/ev3/sv-2024-now.webp"
+      }
+    }
+  ]
+}

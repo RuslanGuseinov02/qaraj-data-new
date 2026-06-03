@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "kx5",
+  "name": "kx5",
+  "generations": [
+    {
+      "slug": "kx5-0",
+      "name": "kx5 1",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/kx5/ql-2016-2019.webp"
+      }
+    },
+    {
+      "slug": "kx5-1",
+      "name": "kx5 2",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/kx5/ql-2019-2023.webp"
+      }
+    }
+  ]
+}

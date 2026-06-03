@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "sephia",
+  "name": "sephia",
+  "generations": [
+    {
+      "slug": "sephia-0",
+      "name": "sephia 1",
+      "year_start": 1992,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sephia/1992-1999.webp"
+      }
+    },
+    {
+      "slug": "sephia-1",
+      "name": "sephia 2",
+      "year_start": 1997,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sephia/1997-2001.webp"
+      }
+    },
+    {
+      "slug": "sephia-2",
+      "name": "sephia 3",
+      "year_start": 2001,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sephia/2001-2004.webp"
+      }
+    }
+  ]
+}

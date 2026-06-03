@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "cerato",
+  "name": "cerato",
+  "generations": [
+    {
+      "slug": "cerato-0",
+      "name": "cerato 1",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/cerato/bd-2018-2023.webp"
+      }
+    },
+    {
+      "slug": "cerato-1",
+      "name": "cerato 2",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/cerato/bd-2021-2025.webp"
+      }
+    },
+    {
+      "slug": "cerato-2",
+      "name": "cerato 3",
+      "year_start": 2003,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/cerato/ld-2003-2008.webp"
+      }
+    },
+    {
+      "slug": "cerato-3",
+      "name": "cerato 4",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/cerato/td-2008-2013.webp"
+      }
+    },
+    {
+      "slug": "cerato-4",
+      "name": "cerato 5",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/cerato/yd-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "cerato-5",
+      "name": "cerato 6",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/cerato/yd-2016-2019.webp"
+      }
+    }
+  ]
+}

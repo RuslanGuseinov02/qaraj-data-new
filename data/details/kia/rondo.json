@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "rondo",
+  "name": "rondo",
+  "generations": [
+    {
+      "slug": "rondo-0",
+      "name": "rondo 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/rondo/rp-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "rondo-1",
+      "name": "rondo 2",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/rondo/rp-2016-2018.webp"
+      }
+    },
+    {
+      "slug": "rondo-2",
+      "name": "rondo 3",
+      "year_start": 2006,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/rondo/un-2006-2013.webp"
+      }
+    }
+  ]
+}

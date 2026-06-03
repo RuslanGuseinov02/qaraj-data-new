@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "k8",
+  "name": "k8",
+  "generations": [
+    {
+      "slug": "k8-0",
+      "name": "k8 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/k8/gl3-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "k8-1",
+      "name": "k8 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/k8/gl3-2024-now.webp"
+      }
+    }
+  ]
+}

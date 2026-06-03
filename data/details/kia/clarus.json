@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "clarus",
+  "name": "clarus",
+  "generations": [
+    {
+      "slug": "clarus-0",
+      "name": "clarus 1",
+      "year_start": 1996,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/clarus/k9-1996-1998.webp"
+      }
+    },
+    {
+      "slug": "clarus-1",
+      "name": "clarus 2",
+      "year_start": 1998,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/clarus/k9-1998-2001.webp"
+      }
+    }
+  ]
+}

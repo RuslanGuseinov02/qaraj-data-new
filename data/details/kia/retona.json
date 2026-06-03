@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "retona",
+  "name": "retona",
+  "generations": [
+    {
+      "slug": "retona-0",
+      "name": "retona 1",
+      "year_start": 1998,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/retona/1998-2003.webp"
+      }
+    }
+  ]
+}

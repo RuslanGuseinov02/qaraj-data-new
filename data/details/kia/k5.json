@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "k5",
+  "name": "k5",
+  "generations": [
+    {
+      "slug": "k5-0",
+      "name": "k5 1",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/k5/dl3-2020-2025.webp"
+      }
+    },
+    {
+      "slug": "k5-1",
+      "name": "k5 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/k5/dl3-2024-now.webp"
+      }
+    },
+    {
+      "slug": "k5-2",
+      "name": "k5 3",
+      "year_start": 2015,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/k5/jf-2015-2021.webp"
+      }
+    },
+    {
+      "slug": "k5-3",
+      "name": "k5 4",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/k5/jf-2018-2020.webp"
+      }
+    },
+    {
+      "slug": "k5-4",
+      "name": "k5 5",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/k5/tf-2010-2015.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "pro-ceed",
+  "name": "pro-ceed",
+  "generations": [
+    {
+      "slug": "pro-ceed-0",
+      "name": "pro-ceed 1",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/pro-ceed/ed-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "pro-ceed-1",
+      "name": "pro-ceed 2",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/pro-ceed/ed-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "pro-ceed-2",
+      "name": "pro-ceed 3",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/pro-ceed/jd-2013-2018.webp"
+      }
+    }
+  ]
+}

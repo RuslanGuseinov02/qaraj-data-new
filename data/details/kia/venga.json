@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "venga",
+  "name": "venga",
+  "generations": [
+    {
+      "slug": "venga-0",
+      "name": "venga 1",
+      "year_start": 2009,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/venga/yn-2009-2015.webp"
+      }
+    },
+    {
+      "slug": "venga-1",
+      "name": "venga 2",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/venga/yn-2015-2019.webp"
+      }
+    }
+  ]
+}

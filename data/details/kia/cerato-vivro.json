@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "cerato-vivro",
+  "name": "cerato-vivro",
+  "generations": [
+    {
+      "slug": "cerato-vivro-0",
+      "name": "cerato-vivro 1",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/cerato-vivro/bd-2019-2021.webp"
+      }
+    }
+  ]
+}

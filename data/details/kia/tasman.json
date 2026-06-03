@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "tasman",
+  "name": "tasman",
+  "generations": [
+    {
+      "slug": "tasman-0",
+      "name": "tasman 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/tasman/tk-2025-now.webp"
+      }
+    }
+  ]
+}

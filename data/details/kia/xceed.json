@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "xceed",
+  "name": "xceed",
+  "generations": [
+    {
+      "slug": "xceed-0",
+      "name": "xceed 1",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/xceed/cd-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "xceed-1",
+      "name": "xceed 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/xceed/cd-2022-now.webp"
+      }
+    }
+  ]
+}

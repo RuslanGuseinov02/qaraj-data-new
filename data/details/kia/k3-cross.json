@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "k3-cross",
+  "name": "k3-cross",
+  "generations": [
+    {
+      "slug": "k3-cross-0",
+      "name": "k3-cross 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/k3-cross/bl7-2024-now.webp"
+      }
+    }
+  ]
+}

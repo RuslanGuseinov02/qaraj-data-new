@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "mentor",
+  "name": "mentor",
+  "generations": [
+    {
+      "slug": "mentor-0",
+      "name": "mentor 1",
+      "year_start": 1994,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/mentor/1994-1997.webp"
+      }
+    },
+    {
+      "slug": "mentor-1",
+      "name": "mentor 2",
+      "year_start": 1998,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/mentor/1998-2000.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "spectra",
+  "name": "spectra",
+  "generations": [
+    {
+      "slug": "spectra-0",
+      "name": "spectra 1",
+      "year_start": 2005,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/spectra/ld-2005-2006.webp"
+      }
+    },
+    {
+      "slug": "spectra-1",
+      "name": "spectra 2",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/spectra/ld-2007-2009.webp"
+      }
+    },
+    {
+      "slug": "spectra-2",
+      "name": "spectra 3",
+      "year_start": 2000,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/spectra/sd-2000-2001.webp"
+      }
+    },
+    {
+      "slug": "spectra-3",
+      "name": "spectra 4",
+      "year_start": 2000,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/spectra/sd-2000-2002.webp"
+      }
+    },
+    {
+      "slug": "spectra-4",
+      "name": "spectra 5",
+      "year_start": 2002,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/spectra/sd-2002-2004.webp"
+      }
+    },
+    {
+      "slug": "spectra-5",
+      "name": "spectra 6",
+      "year_start": 2004,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/spectra/sd-2004-2011.webp"
+      }
+    }
+  ]
+}

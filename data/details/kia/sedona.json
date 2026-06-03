@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "sedona",
+  "name": "sedona",
+  "generations": [
+    {
+      "slug": "sedona-0",
+      "name": "sedona 1",
+      "year_start": 1998,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sedona/kv-ii-1998-2006.webp"
+      }
+    },
+    {
+      "slug": "sedona-1",
+      "name": "sedona 2",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sedona/vq-2006-2010.webp"
+      }
+    },
+    {
+      "slug": "sedona-2",
+      "name": "sedona 3",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sedona/vq-2010-2014.webp"
+      }
+    },
+    {
+      "slug": "sedona-3",
+      "name": "sedona 4",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sedona/yp-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "sedona-4",
+      "name": "sedona 5",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sedona/yp-2019-2021.webp"
+      }
+    }
+  ]
+}

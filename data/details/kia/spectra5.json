@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "spectra5",
+  "name": "spectra5",
+  "generations": [
+    {
+      "slug": "spectra5-0",
+      "name": "spectra5 1",
+      "year_start": 2005,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/spectra5/ld-2005-2006.webp"
+      }
+    },
+    {
+      "slug": "spectra5-1",
+      "name": "spectra5 2",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/spectra5/ld-2007-2009.webp"
+      }
+    }
+  ]
+}

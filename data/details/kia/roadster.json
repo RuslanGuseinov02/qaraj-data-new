@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "roadster",
+  "name": "roadster",
+  "generations": [
+    {
+      "slug": "roadster-0",
+      "name": "roadster 1",
+      "year_start": 1998,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/roadster/gn-1998-1999.webp"
+      }
+    }
+  ]
+}

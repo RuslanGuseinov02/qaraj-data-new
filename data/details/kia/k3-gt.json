@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "k3-gt",
+  "name": "k3-gt",
+  "generations": [
+    {
+      "slug": "k3-gt-0",
+      "name": "k3-gt 1",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/k3-gt/bd-2018-2021.webp"
+      }
+    },
+    {
+      "slug": "k3-gt-1",
+      "name": "k3-gt 2",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/k3-gt/bd-2021-2024.webp"
+      }
+    }
+  ]
+}

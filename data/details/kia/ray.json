@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "ray",
+  "name": "ray",
+  "generations": [
+    {
+      "slug": "ray-0",
+      "name": "ray 1",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/ray/ta-2011-2017.webp"
+      }
+    },
+    {
+      "slug": "ray-1",
+      "name": "ray 2",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/ray/ta-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "ray-2",
+      "name": "ray 3",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/ray/ta-2022-now.webp"
+      }
+    }
+  ]
+}

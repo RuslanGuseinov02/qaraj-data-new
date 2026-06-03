@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "spectra-wing",
+  "name": "spectra-wing",
+  "generations": [
+    {
+      "slug": "spectra-wing-0",
+      "name": "spectra-wing 1",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/spectra-wing/sd-2000-2003.webp"
+      }
+    }
+  ]
+}

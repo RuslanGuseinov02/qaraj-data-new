@@ -1,0 +1,130 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "rio",
+  "name": "rio",
+  "generations": [
+    {
+      "slug": "rio-0",
+      "name": "rio 1",
+      "year_start": 2000,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/rio/dc-2000-2002.webp"
+      }
+    },
+    {
+      "slug": "rio-1",
+      "name": "rio 2",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/rio/dc-2002-2005.webp"
+      }
+    },
+    {
+      "slug": "rio-2",
+      "name": "rio 3",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/rio/fb-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "rio-3",
+      "name": "rio 4",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/rio/fb-2020-2022.webp"
+      }
+    },
+    {
+      "slug": "rio-4",
+      "name": "rio 5",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/rio/jb-2005-2009.webp"
+      }
+    },
+    {
+      "slug": "rio-5",
+      "name": "rio 6",
+      "year_start": 2009,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/rio/jb-2009-2011.webp"
+      }
+    },
+    {
+      "slug": "rio-6",
+      "name": "rio 7",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/rio/qb-2011-2017.webp"
+      }
+    },
+    {
+      "slug": "rio-7",
+      "name": "rio 8",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/rio/ub-2011-2015.webp"
+      }
+    },
+    {
+      "slug": "rio-8",
+      "name": "rio 9",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/rio/ub-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "rio-9",
+      "name": "rio 10",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/rio/yb-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "rio-10",
+      "name": "rio 11",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/rio/yb-2018-2023.webp"
+      }
+    },
+    {
+      "slug": "rio-11",
+      "name": "rio 12",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/rio/yb-2020-2024.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "sportage-ace",
+  "name": "sportage-ace",
+  "generations": [
+    {
+      "slug": "sportage-ace-0",
+      "name": "sportage-ace 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sportage-ace/np-2021-2024.webp"
+      }
+    }
+  ]
+}

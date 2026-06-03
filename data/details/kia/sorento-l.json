@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "sorento-l",
+  "name": "sorento-l",
+  "generations": [
+    {
+      "slug": "sorento-l-0",
+      "name": "sorento-l 1",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sorento-l/um-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "sorento-l-1",
+      "name": "sorento-l 2",
+      "year_start": 2018,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sorento-l/um-2018-2019.webp"
+      }
+    }
+  ]
+}

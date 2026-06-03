@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "magentis",
+  "name": "magentis",
+  "generations": [
+    {
+      "slug": "magentis-0",
+      "name": "magentis 1",
+      "year_start": 2000,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/magentis/2000-2002.webp"
+      }
+    },
+    {
+      "slug": "magentis-1",
+      "name": "magentis 2",
+      "year_start": 2002,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/magentis/2002-2006.webp"
+      }
+    },
+    {
+      "slug": "magentis-2",
+      "name": "magentis 3",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/magentis/2006-2009.webp"
+      }
+    },
+    {
+      "slug": "magentis-3",
+      "name": "magentis 4",
+      "year_start": 2009,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/magentis/2009-2010.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "k3000s",
+  "name": "k3000s",
+  "generations": [
+    {
+      "slug": "k3000s-0",
+      "name": "k3000s 1",
+      "year_start": 2014,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/k3000s/2014-2020.webp"
+      }
+    }
+  ]
+}

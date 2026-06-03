@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "k4",
+  "name": "k4",
+  "generations": [
+    {
+      "slug": "k4-0",
+      "name": "k4 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/k4/cl4-2024-now.webp"
+      }
+    },
+    {
+      "slug": "k4-1",
+      "name": "k4 2",
+      "year_start": 2014,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/k4/pf-2014-2020.webp"
+      }
+    }
+  ]
+}

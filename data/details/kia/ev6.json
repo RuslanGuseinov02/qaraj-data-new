@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "ev6",
+  "name": "ev6",
+  "generations": [
+    {
+      "slug": "ev6-0",
+      "name": "ev6 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/ev6/cv-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "ev6-1",
+      "name": "ev6 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/ev6/cv-2024-now.webp"
+      }
+    }
+  ]
+}

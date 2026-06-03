@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "cerato-classic",
+  "name": "cerato-classic",
+  "generations": [
+    {
+      "slug": "cerato-classic-0",
+      "name": "cerato-classic 1",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/cerato-classic/yd-2018-2020.webp"
+      }
+    }
+  ]
+}

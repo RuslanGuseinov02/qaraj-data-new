@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "quoris",
+  "name": "quoris",
+  "generations": [
+    {
+      "slug": "quoris-0",
+      "name": "quoris 1",
+      "year_start": 2012,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/quoris/kh-2012-2019.webp"
+      }
+    }
+  ]
+}

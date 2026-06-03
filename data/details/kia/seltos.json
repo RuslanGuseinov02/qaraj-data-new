@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "seltos",
+  "name": "seltos",
+  "generations": [
+    {
+      "slug": "seltos-0",
+      "name": "seltos 1",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/seltos/sp2-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "seltos-1",
+      "name": "seltos 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/seltos/sp2-2023-now.webp"
+      }
+    },
+    {
+      "slug": "seltos-2",
+      "name": "seltos 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/seltos/sp2c-2023-now.webp"
+      }
+    },
+    {
+      "slug": "seltos-3",
+      "name": "seltos 4",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/seltos/sp2i-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "seltos-4",
+      "name": "seltos 5",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/seltos/sp2i-2023-now.webp"
+      }
+    }
+  ]
+}

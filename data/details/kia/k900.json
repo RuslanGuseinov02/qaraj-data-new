@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "k900",
+  "name": "k900",
+  "generations": [
+    {
+      "slug": "k900-0",
+      "name": "k900 1",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/k900/kh-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "k900-1",
+      "name": "k900 2",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/k900/rj-2019-2022.webp"
+      }
+    }
+  ]
+}

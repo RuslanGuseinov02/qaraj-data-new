@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "niro-plus",
+  "name": "niro-plus",
+  "generations": [
+    {
+      "slug": "niro-plus-0",
+      "name": "niro-plus 1",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/niro-plus/de-2022-2024.webp"
+      }
+    }
+  ]
+}

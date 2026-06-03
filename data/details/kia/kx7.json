@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "kx7",
+  "name": "kx7",
+  "generations": [
+    {
+      "slug": "kx7-0",
+      "name": "kx7 1",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/kx7/um-2017-2021.webp"
+      }
+    }
+  ]
+}

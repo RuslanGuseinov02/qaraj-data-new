@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "k2500",
+  "name": "k2500",
+  "generations": [
+    {
+      "slug": "k2500-0",
+      "name": "k2500 1",
+      "year_start": 2004,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/k2500/pu-2004-2020.webp"
+      }
+    },
+    {
+      "slug": "k2500-1",
+      "name": "k2500 2",
+      "year_start": 2014,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/k2500/pu-2014-now.webp"
+      }
+    }
+  ]
+}

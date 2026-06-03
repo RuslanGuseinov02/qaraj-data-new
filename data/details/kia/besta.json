@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "besta",
+  "name": "besta",
+  "generations": [
+    {
+      "slug": "besta-0",
+      "name": "besta 1",
+      "year_start": 1985,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/besta/1985-1997.webp"
+      }
+    },
+    {
+      "slug": "besta-1",
+      "name": "besta 2",
+      "year_start": 1998,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/besta/1998-2004.webp"
+      }
+    },
+    {
+      "slug": "besta-2",
+      "name": "besta 3",
+      "year_start": 2005,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/besta/2005-2005.webp"
+      }
+    }
+  ]
+}

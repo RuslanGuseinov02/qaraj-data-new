@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "stinger",
+  "name": "stinger",
+  "generations": [
+    {
+      "slug": "stinger-0",
+      "name": "stinger 1",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/stinger/ck-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "stinger-1",
+      "name": "stinger 2",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/stinger/ck-2020-2024.webp"
+      }
+    }
+  ]
+}

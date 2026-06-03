@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "x-trek",
+  "name": "x-trek",
+  "generations": [
+    {
+      "slug": "x-trek-0",
+      "name": "x-trek 1",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/x-trek/2003-2006.webp"
+      }
+    }
+  ]
+}

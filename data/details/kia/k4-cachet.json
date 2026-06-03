@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "k4-cachet",
+  "name": "k4-cachet",
+  "generations": [
+    {
+      "slug": "k4-cachet-0",
+      "name": "k4-cachet 1",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/k4-cachet/2017-2021.webp"
+      }
+    }
+  ]
+}

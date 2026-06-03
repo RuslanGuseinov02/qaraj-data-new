@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "optima",
+  "name": "optima",
+  "generations": [
+    {
+      "slug": "optima-0",
+      "name": "optima 1",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/optima/jf-2016-2018.webp"
+      }
+    },
+    {
+      "slug": "optima-1",
+      "name": "optima 2",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/optima/jf-2018-2020.webp"
+      }
+    },
+    {
+      "slug": "optima-2",
+      "name": "optima 3",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/optima/mg-2006-2008.webp"
+      }
+    },
+    {
+      "slug": "optima-3",
+      "name": "optima 4",
+      "year_start": 2009,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/optima/mg-2009-2010.webp"
+      }
+    },
+    {
+      "slug": "optima-4",
+      "name": "optima 5",
+      "year_start": 2000,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/optima/ms-2000-2002.webp"
+      }
+    },
+    {
+      "slug": "optima-5",
+      "name": "optima 6",
+      "year_start": 2002,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/optima/ms-2002-2006.webp"
+      }
+    },
+    {
+      "slug": "optima-6",
+      "name": "optima 7",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/optima/tf-2010-2013.webp"
+      }
+    },
+    {
+      "slug": "optima-7",
+      "name": "optima 8",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/optima/tf-2013-2016.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "soul",
+  "name": "soul",
+  "generations": [
+    {
+      "slug": "soul-0",
+      "name": "soul 1",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/soul/am-2008-2011.webp"
+      }
+    },
+    {
+      "slug": "soul-1",
+      "name": "soul 2",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/soul/am-2011-2013.webp"
+      }
+    },
+    {
+      "slug": "soul-2",
+      "name": "soul 3",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/soul/ps-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "soul-3",
+      "name": "soul 4",
+      "year_start": 2017,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/soul/ps-2017-2019.webp"
+      }
+    },
+    {
+      "slug": "soul-4",
+      "name": "soul 5",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/soul/sk3-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "soul-5",
+      "name": "soul 6",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/soul/sk3-2023-now.webp"
+      }
+    }
+  ]
+}

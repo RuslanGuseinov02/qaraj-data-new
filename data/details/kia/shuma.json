@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "shuma",
+  "name": "shuma",
+  "generations": [
+    {
+      "slug": "shuma-0",
+      "name": "shuma 1",
+      "year_start": 1996,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/shuma/fb-1996-2001.webp"
+      }
+    },
+    {
+      "slug": "shuma-1",
+      "name": "shuma 2",
+      "year_start": 2001,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/shuma/fb-2001-2004.webp"
+      }
+    },
+    {
+      "slug": "shuma-2",
+      "name": "shuma 3",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/shuma/td-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "shuma-3",
+      "name": "shuma 4",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/shuma/yd-2014-2017.webp"
+      }
+    }
+  ]
+}

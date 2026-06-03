@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "forte-r",
+  "name": "forte-r",
+  "generations": [
+    {
+      "slug": "forte-r-0",
+      "name": "forte-r 1",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/forte-r/nd-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "forte-r-1",
+      "name": "forte-r 2",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/forte-r/td-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "forte-r-2",
+      "name": "forte-r 3",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/forte-r/td-2014-2017.webp"
+      }
+    }
+  ]
+}

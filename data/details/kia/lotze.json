@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "lotze",
+  "name": "lotze",
+  "generations": [
+    {
+      "slug": "lotze-0",
+      "name": "lotze 1",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/lotze/mg-2005-2008.webp"
+      }
+    },
+    {
+      "slug": "lotze-1",
+      "name": "lotze 2",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/lotze/mg-2008-2010.webp"
+      }
+    }
+  ]
+}

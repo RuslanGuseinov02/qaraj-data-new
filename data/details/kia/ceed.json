@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "ceed",
+  "name": "ceed",
+  "generations": [
+    {
+      "slug": "ceed-0",
+      "name": "ceed 1",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/ceed/cd-2018-2021.webp"
+      }
+    },
+    {
+      "slug": "ceed-1",
+      "name": "ceed 2",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/ceed/cd-2021-2025.webp"
+      }
+    }
+  ]
+}

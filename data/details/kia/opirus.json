@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "opirus",
+  "name": "opirus",
+  "generations": [
+    {
+      "slug": "opirus-0",
+      "name": "opirus 1",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/opirus/2003-2006.webp"
+      }
+    },
+    {
+      "slug": "opirus-1",
+      "name": "opirus 2",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/opirus/2006-2010.webp"
+      }
+    }
+  ]
+}

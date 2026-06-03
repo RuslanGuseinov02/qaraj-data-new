@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "mohave",
+  "name": "mohave",
+  "generations": [
+    {
+      "slug": "mohave-0",
+      "name": "mohave 1",
+      "year_start": 2008,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/mohave/hm-2008-2016.webp"
+      }
+    },
+    {
+      "slug": "mohave-1",
+      "name": "mohave 2",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/mohave/hm-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "mohave-2",
+      "name": "mohave 3",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/mohave/hm2-2020-2025.webp"
+      }
+    }
+  ]
+}

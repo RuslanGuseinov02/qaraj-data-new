@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "picanto-x-line",
+  "name": "picanto-x-line",
+  "generations": [
+    {
+      "slug": "picanto-x-line-0",
+      "name": "picanto-x-line 1",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/picanto-x-line/ja-2020-2024.webp"
+      }
+    }
+  ]
+}

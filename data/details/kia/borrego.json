@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "borrego",
+  "name": "borrego",
+  "generations": [
+    {
+      "slug": "borrego-0",
+      "name": "borrego 1",
+      "year_start": 2008,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/borrego/2008-2018.webp"
+      }
+    }
+  ]
+}

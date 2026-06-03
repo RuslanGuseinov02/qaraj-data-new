@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "ev4",
+  "name": "ev4",
+  "generations": [
+    {
+      "slug": "ev4-0",
+      "name": "ev4 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/ev4/ct-2025-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "elan",
+  "name": "elan",
+  "generations": [
+    {
+      "slug": "elan-0",
+      "name": "elan 1",
+      "year_start": 1996,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/elan/1996-1999.webp"
+      }
+    }
+  ]
+}

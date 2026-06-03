@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "credos",
+  "name": "credos",
+  "generations": [
+    {
+      "slug": "credos-0",
+      "name": "credos 1",
+      "year_start": 1995,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/credos/1995-2001.webp"
+      }
+    }
+  ]
+}

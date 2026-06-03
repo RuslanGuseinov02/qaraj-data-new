@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "kia",
+    "name": "KIA"
+  },
+  "slug": "sonet",
+  "name": "sonet",
+  "generations": [
+    {
+      "slug": "sonet-0",
+      "name": "sonet 1",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sonet/qy-2020-2024.webp"
+      }
+    },
+    {
+      "slug": "sonet-1",
+      "name": "sonet 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kia/sonet/qy-2024-now.webp"
+      }
+    }
+  ]
+}
