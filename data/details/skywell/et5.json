@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "skywell",
+    "name": "SKYWELL"
+  },
+  "slug": "et5",
+  "name": "et5",
+  "generations": [
+    {
+      "slug": "et5-0",
+      "name": "et5 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skywell/et5/2020-now.webp"
+      }
+    }
+  ]
+}

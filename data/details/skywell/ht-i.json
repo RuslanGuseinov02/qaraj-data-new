@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "skywell",
+    "name": "SKYWELL"
+  },
+  "slug": "ht-i",
+  "name": "ht-i",
+  "generations": [
+    {
+      "slug": "ht-i-0",
+      "name": "ht-i 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skywell/ht-i/2023-now.webp"
+      }
+    }
+  ]
+}

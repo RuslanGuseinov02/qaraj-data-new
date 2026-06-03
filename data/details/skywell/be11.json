@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "skywell",
+    "name": "SKYWELL"
+  },
+  "slug": "be11",
+  "name": "be11",
+  "generations": [
+    {
+      "slug": "be11-0",
+      "name": "be11 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skywell/be11/2024-now.webp"
+      }
+    }
+  ]
+}
