@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hindustan",
+    "name": "HINDUSTAN"
+  },
+  "slug": "ambassador",
+  "name": "ambassador",
+  "generations": [
+    {
+      "slug": "ambassador-0",
+      "name": "ambassador 1",
+      "year_start": 1957,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hindustan/ambassador/1957-2014.webp"
+      }
+    }
+  ]
+}
