@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jetour",
+    "name": "JETOUR"
+  },
+  "slug": "x50",
+  "name": "x50",
+  "generations": [
+    {
+      "slug": "x50-0",
+      "name": "x50 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jetour/x50/2024-now.webp"
+      }
+    }
+  ]
+}

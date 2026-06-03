@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jetour",
+    "name": "JETOUR"
+  },
+  "slug": "traveler",
+  "name": "traveler",
+  "generations": [
+    {
+      "slug": "traveler-0",
+      "name": "traveler 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jetour/traveler/2023-now.webp"
+      }
+    }
+  ]
+}

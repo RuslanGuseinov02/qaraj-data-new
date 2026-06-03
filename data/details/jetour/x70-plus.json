@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "jetour",
+    "name": "JETOUR"
+  },
+  "slug": "x70-plus",
+  "name": "x70-plus",
+  "generations": [
+    {
+      "slug": "x70-plus-0",
+      "name": "x70-plus 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jetour/x70-plus/2020-now.webp"
+      }
+    },
+    {
+      "slug": "x70-plus-1",
+      "name": "x70-plus 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jetour/x70-plus/2024-now.webp"
+      }
+    }
+  ]
+}

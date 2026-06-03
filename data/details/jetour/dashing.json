@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "jetour",
+    "name": "JETOUR"
+  },
+  "slug": "dashing",
+  "name": "dashing",
+  "generations": [
+    {
+      "slug": "dashing-0",
+      "name": "dashing 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jetour/dashing/2022-now.webp"
+      }
+    },
+    {
+      "slug": "dashing-1",
+      "name": "dashing 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jetour/dashing/2024-now.webp"
+      }
+    }
+  ]
+}

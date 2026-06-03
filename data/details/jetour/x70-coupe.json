@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jetour",
+    "name": "JETOUR"
+  },
+  "slug": "x70-coupe",
+  "name": "x70-coupe",
+  "generations": [
+    {
+      "slug": "x70-coupe-0",
+      "name": "x70-coupe 1",
+      "year_start": 2020,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jetour/x70-coupe/2020-2021.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jetour",
+    "name": "JETOUR"
+  },
+  "slug": "t1",
+  "name": "t1",
+  "generations": [
+    {
+      "slug": "t1-0",
+      "name": "t1 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jetour/t1/2024-now.webp"
+      }
+    }
+  ]
+}

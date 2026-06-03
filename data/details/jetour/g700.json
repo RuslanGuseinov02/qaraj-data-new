@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jetour",
+    "name": "JETOUR"
+  },
+  "slug": "g700",
+  "name": "g700",
+  "generations": [
+    {
+      "slug": "g700-0",
+      "name": "g700 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jetour/g700/2025-now.webp"
+      }
+    }
+  ]
+}

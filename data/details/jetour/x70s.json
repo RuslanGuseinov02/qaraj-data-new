@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "jetour",
+    "name": "JETOUR"
+  },
+  "slug": "x70s",
+  "name": "x70s",
+  "generations": [
+    {
+      "slug": "x70s-0",
+      "name": "x70s 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jetour/x70s/2020-2023.webp"
+      }
+    },
+    {
+      "slug": "x70s-1",
+      "name": "x70s 2",
+      "year_start": 2023,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jetour/x70s/2023-2023.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jetour",
+    "name": "JETOUR"
+  },
+  "slug": "x90-plus",
+  "name": "x90-plus",
+  "generations": [
+    {
+      "slug": "x90-plus-0",
+      "name": "x90-plus 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jetour/x90-plus/2021-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jetour",
+    "name": "JETOUR"
+  },
+  "slug": "x95",
+  "name": "x95",
+  "generations": [
+    {
+      "slug": "x95-0",
+      "name": "x95 1",
+      "year_start": 2020,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jetour/x95/2020-2021.webp"
+      }
+    }
+  ]
+}
