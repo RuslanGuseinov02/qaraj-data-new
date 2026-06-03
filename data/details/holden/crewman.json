@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "crewman",
+  "name": "crewman",
+  "generations": [
+    {
+      "slug": "crewman-0",
+      "name": "crewman 1",
+      "year_start": 2003,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/crewman/vy-2003-2004.webp"
+      }
+    },
+    {
+      "slug": "crewman-1",
+      "name": "crewman 2",
+      "year_start": 2004,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/crewman/vz-2004-2007.webp"
+      }
+    }
+  ]
+}

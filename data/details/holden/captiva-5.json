@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "captiva-5",
+  "name": "captiva-5",
+  "generations": [
+    {
+      "slug": "captiva-5-0",
+      "name": "captiva-5 1",
+      "year_start": 2006,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/captiva-5/cg-2006-2015.webp"
+      }
+    }
+  ]
+}

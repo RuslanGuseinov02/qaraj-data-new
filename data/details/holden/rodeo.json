@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "rodeo",
+  "name": "rodeo",
+  "generations": [
+    {
+      "slug": "rodeo-0",
+      "name": "rodeo 1",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/rodeo/ra-2003-2006.webp"
+      }
+    },
+    {
+      "slug": "rodeo-1",
+      "name": "rodeo 2",
+      "year_start": 2007,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/rodeo/ra-2007-2008.webp"
+      }
+    },
+    {
+      "slug": "rodeo-2",
+      "name": "rodeo 3",
+      "year_start": 1998,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/rodeo/tf-1998-2003.webp"
+      }
+    }
+  ]
+}

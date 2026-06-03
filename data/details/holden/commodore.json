@@ -1,0 +1,140 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "commodore",
+  "name": "commodore",
+  "generations": [
+    {
+      "slug": "commodore-0",
+      "name": "commodore 1",
+      "year_start": 2006,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/commodore/ve-2006-2013.webp"
+      }
+    },
+    {
+      "slug": "commodore-1",
+      "name": "commodore 2",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/commodore/vf-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "commodore-2",
+      "name": "commodore 3",
+      "year_start": 1984,
+      "year_end": 1986,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/commodore/vk-1984-1986.webp"
+      }
+    },
+    {
+      "slug": "commodore-3",
+      "name": "commodore 4",
+      "year_start": 1986,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/commodore/vl-1986-1988.webp"
+      }
+    },
+    {
+      "slug": "commodore-4",
+      "name": "commodore 5",
+      "year_start": 1988,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/commodore/vn-1988-1991.webp"
+      }
+    },
+    {
+      "slug": "commodore-5",
+      "name": "commodore 6",
+      "year_start": 1991,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/commodore/vp-1991-1993.webp"
+      }
+    },
+    {
+      "slug": "commodore-6",
+      "name": "commodore 7",
+      "year_start": 1993,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/commodore/vr-1993-1995.webp"
+      }
+    },
+    {
+      "slug": "commodore-7",
+      "name": "commodore 8",
+      "year_start": 1995,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/commodore/vs-1995-1997.webp"
+      }
+    },
+    {
+      "slug": "commodore-8",
+      "name": "commodore 9",
+      "year_start": 1997,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/commodore/vt-1997-2000.webp"
+      }
+    },
+    {
+      "slug": "commodore-9",
+      "name": "commodore 10",
+      "year_start": 2000,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/commodore/vx-2000-2002.webp"
+      }
+    },
+    {
+      "slug": "commodore-10",
+      "name": "commodore 11",
+      "year_start": 2002,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/commodore/vy-2002-2004.webp"
+      }
+    },
+    {
+      "slug": "commodore-11",
+      "name": "commodore 12",
+      "year_start": 2004,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/commodore/vz-2004-2007.webp"
+      }
+    },
+    {
+      "slug": "commodore-12",
+      "name": "commodore 13",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/commodore/zb-2018-2021.webp"
+      }
+    }
+  ]
+}

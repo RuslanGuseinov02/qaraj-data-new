@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "monaro",
+  "name": "monaro",
+  "generations": [
+    {
+      "slug": "monaro-0",
+      "name": "monaro 1",
+      "year_start": 2001,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/monaro/v2-2001-2003.webp"
+      }
+    },
+    {
+      "slug": "monaro-1",
+      "name": "monaro 2",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/monaro/vz-2004-2006.webp"
+      }
+    }
+  ]
+}

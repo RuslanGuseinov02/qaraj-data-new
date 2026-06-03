@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "viva",
+  "name": "viva",
+  "generations": [
+    {
+      "slug": "viva-0",
+      "name": "viva 1",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/viva/jf-2005-2009.webp"
+      }
+    }
+  ]
+}

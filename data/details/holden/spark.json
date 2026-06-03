@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "spark",
+  "name": "spark",
+  "generations": [
+    {
+      "slug": "spark-0",
+      "name": "spark 1",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/spark/mp-2016-2018.webp"
+      }
+    }
+  ]
+}

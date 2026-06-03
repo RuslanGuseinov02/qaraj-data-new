@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "colorado-7",
+  "name": "colorado-7",
+  "generations": [
+    {
+      "slug": "colorado-7-0",
+      "name": "colorado-7 1",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/colorado-7/rg-2012-2016.webp"
+      }
+    }
+  ]
+}

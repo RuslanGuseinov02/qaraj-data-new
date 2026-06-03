@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "malibu",
+  "name": "malibu",
+  "generations": [
+    {
+      "slug": "malibu-0",
+      "name": "malibu 1",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/malibu/v300-2013-2017.webp"
+      }
+    }
+  ]
+}

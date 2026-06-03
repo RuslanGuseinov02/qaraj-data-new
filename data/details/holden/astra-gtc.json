@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "astra-gtc",
+  "name": "astra-gtc",
+  "generations": [
+    {
+      "slug": "astra-gtc-0",
+      "name": "astra-gtc 1",
+      "year_start": 2015,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/astra-gtc/pj-2015-2016.webp"
+      }
+    }
+  ]
+}

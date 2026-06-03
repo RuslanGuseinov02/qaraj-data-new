@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "barina-spark",
+  "name": "barina-spark",
+  "generations": [
+    {
+      "slug": "barina-spark-0",
+      "name": "barina-spark 1",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/barina-spark/mj-2010-2012.webp"
+      }
+    },
+    {
+      "slug": "barina-spark-1",
+      "name": "barina-spark 2",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/barina-spark/mj-2013-2015.webp"
+      }
+    }
+  ]
+}

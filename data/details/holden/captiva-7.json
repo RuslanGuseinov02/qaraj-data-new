@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "captiva-7",
+  "name": "captiva-7",
+  "generations": [
+    {
+      "slug": "captiva-7-0",
+      "name": "captiva-7 1",
+      "year_start": 2006,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/captiva-7/cg-2006-2015.webp"
+      }
+    },
+    {
+      "slug": "captiva-7-1",
+      "name": "captiva-7 2",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/captiva-7/cg2-2014-2018.webp"
+      }
+    }
+  ]
+}

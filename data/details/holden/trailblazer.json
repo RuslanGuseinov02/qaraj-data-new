@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "trailblazer",
+  "name": "trailblazer",
+  "generations": [
+    {
+      "slug": "trailblazer-0",
+      "name": "trailblazer 1",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/trailblazer/rg-2016-2021.webp"
+      }
+    }
+  ]
+}

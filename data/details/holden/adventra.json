@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "adventra",
+  "name": "adventra",
+  "generations": [
+    {
+      "slug": "adventra-0",
+      "name": "adventra 1",
+      "year_start": 2003,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/adventra/vy-2003-2005.webp"
+      }
+    },
+    {
+      "slug": "adventra-1",
+      "name": "adventra 2",
+      "year_start": 2005,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/adventra/vz-2005-2006.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "cruze",
+  "name": "cruze",
+  "generations": [
+    {
+      "slug": "cruze-0",
+      "name": "cruze 1",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/cruze/jg-2008-2011.webp"
+      }
+    },
+    {
+      "slug": "cruze-1",
+      "name": "cruze 2",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/cruze/jh-2011-2014.webp"
+      }
+    },
+    {
+      "slug": "cruze-2",
+      "name": "cruze 3",
+      "year_start": 2015,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/cruze/jh-2015-2016.webp"
+      }
+    },
+    {
+      "slug": "cruze-3",
+      "name": "cruze 4",
+      "year_start": 2001,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/cruze/yg-2001-2006.webp"
+      }
+    }
+  ]
+}

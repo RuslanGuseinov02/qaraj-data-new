@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "one-tonner",
+  "name": "one-tonner",
+  "generations": [
+    {
+      "slug": "one-tonner-0",
+      "name": "one-tonner 1",
+      "year_start": 2003,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/one-tonner/vy-2003-2004.webp"
+      }
+    },
+    {
+      "slug": "one-tonner-1",
+      "name": "one-tonner 2",
+      "year_start": 2004,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/one-tonner/vz-2004-2007.webp"
+      }
+    }
+  ]
+}

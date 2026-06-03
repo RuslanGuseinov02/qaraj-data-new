@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "tigra",
+  "name": "tigra",
+  "generations": [
+    {
+      "slug": "tigra-0",
+      "name": "tigra 1",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/tigra/xc-2005-2008.webp"
+      }
+    }
+  ]
+}

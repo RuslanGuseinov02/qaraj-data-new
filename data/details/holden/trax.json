@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "trax",
+  "name": "trax",
+  "generations": [
+    {
+      "slug": "trax-0",
+      "name": "trax 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/trax/tj-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "trax-1",
+      "name": "trax 2",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/trax/tj-2016-2021.webp"
+      }
+    }
+  ]
+}

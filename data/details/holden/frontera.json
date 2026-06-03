@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "frontera",
+  "name": "frontera",
+  "generations": [
+    {
+      "slug": "frontera-0",
+      "name": "frontera 1",
+      "year_start": 1999,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/frontera/ue-1999-2003.webp"
+      }
+    },
+    {
+      "slug": "frontera-1",
+      "name": "frontera 2",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/frontera/ut-1995-1998.webp"
+      }
+    }
+  ]
+}

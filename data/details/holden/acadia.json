@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "acadia",
+  "name": "acadia",
+  "generations": [
+    {
+      "slug": "acadia-0",
+      "name": "acadia 1",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/acadia/c1xx-2018-2021.webp"
+      }
+    }
+  ]
+}

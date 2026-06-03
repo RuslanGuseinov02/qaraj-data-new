@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "caprice",
+  "name": "caprice",
+  "generations": [
+    {
+      "slug": "caprice-0",
+      "name": "caprice 1",
+      "year_start": 1990,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/caprice/vq-1990-1993.webp"
+      }
+    },
+    {
+      "slug": "caprice-1",
+      "name": "caprice 2",
+      "year_start": 1994,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/caprice/vr-1994-1995.webp"
+      }
+    },
+    {
+      "slug": "caprice-2",
+      "name": "caprice 3",
+      "year_start": 1996,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/caprice/vs-1996-1998.webp"
+      }
+    },
+    {
+      "slug": "caprice-3",
+      "name": "caprice 4",
+      "year_start": 1999,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/caprice/wh-1999-2002.webp"
+      }
+    },
+    {
+      "slug": "caprice-4",
+      "name": "caprice 5",
+      "year_start": 2003,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/caprice/wk-2003-2004.webp"
+      }
+    },
+    {
+      "slug": "caprice-5",
+      "name": "caprice 6",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/caprice/wl-2004-2006.webp"
+      }
+    },
+    {
+      "slug": "caprice-6",
+      "name": "caprice 7",
+      "year_start": 2006,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/caprice/wm-2006-2012.webp"
+      }
+    },
+    {
+      "slug": "caprice-7",
+      "name": "caprice 8",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/caprice/wn-2013-2017.webp"
+      }
+    }
+  ]
+}

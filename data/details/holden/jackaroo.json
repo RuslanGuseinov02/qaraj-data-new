@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "jackaroo",
+  "name": "jackaroo",
+  "generations": [
+    {
+      "slug": "jackaroo-0",
+      "name": "jackaroo 1",
+      "year_start": 1985,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/jackaroo/l1-1985-1991.webp"
+      }
+    },
+    {
+      "slug": "jackaroo-1",
+      "name": "jackaroo 2",
+      "year_start": 1992,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/jackaroo/l2-1992-2004.webp"
+      }
+    }
+  ]
+}

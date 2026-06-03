@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "barina",
+  "name": "barina",
+  "generations": [
+    {
+      "slug": "barina-0",
+      "name": "barina 1",
+      "year_start": 1994,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/barina/sb-1994-2000.webp"
+      }
+    },
+    {
+      "slug": "barina-1",
+      "name": "barina 2",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/barina/tk-2005-2008.webp"
+      }
+    },
+    {
+      "slug": "barina-2",
+      "name": "barina 3",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/barina/tk-2008-2011.webp"
+      }
+    },
+    {
+      "slug": "barina-3",
+      "name": "barina 4",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/barina/tm-2011-2016.webp"
+      }
+    },
+    {
+      "slug": "barina-4",
+      "name": "barina 5",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/barina/tm-2016-2018.webp"
+      }
+    },
+    {
+      "slug": "barina-5",
+      "name": "barina 6",
+      "year_start": 2001,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/barina/xc-2001-2005.webp"
+      }
+    }
+  ]
+}

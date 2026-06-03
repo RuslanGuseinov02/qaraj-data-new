@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "apollo",
+  "name": "apollo",
+  "generations": [
+    {
+      "slug": "apollo-0",
+      "name": "apollo 1",
+      "year_start": 1989,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/apollo/jk-jl-1989-1992.webp"
+      }
+    },
+    {
+      "slug": "apollo-1",
+      "name": "apollo 2",
+      "year_start": 1993,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/apollo/jm-jp-1993-1996.webp"
+      }
+    }
+  ]
+}

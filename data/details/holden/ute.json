@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "ute",
+  "name": "ute",
+  "generations": [
+    {
+      "slug": "ute-0",
+      "name": "ute 1",
+      "year_start": 2007,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/ute/ve-2007-2013.webp"
+      }
+    },
+    {
+      "slug": "ute-1",
+      "name": "ute 2",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/ute/vf-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "ute-2",
+      "name": "ute 3",
+      "year_start": 2000,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/ute/vu-2000-2002.webp"
+      }
+    },
+    {
+      "slug": "ute-3",
+      "name": "ute 4",
+      "year_start": 2002,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/ute/vy-2002-2004.webp"
+      }
+    },
+    {
+      "slug": "ute-4",
+      "name": "ute 5",
+      "year_start": 2004,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/ute/vz-2004-2007.webp"
+      }
+    }
+  ]
+}

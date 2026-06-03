@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "vectra",
+  "name": "vectra",
+  "generations": [
+    {
+      "slug": "vectra-0",
+      "name": "vectra 1",
+      "year_start": 1997,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/vectra/js-1997-1998.webp"
+      }
+    },
+    {
+      "slug": "vectra-1",
+      "name": "vectra 2",
+      "year_start": 1998,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/vectra/js-1998-2001.webp"
+      }
+    },
+    {
+      "slug": "vectra-2",
+      "name": "vectra 3",
+      "year_start": 2002,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/vectra/zc-2002-2006.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "astra",
+  "name": "astra",
+  "generations": [
+    {
+      "slug": "astra-0",
+      "name": "astra 1",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/astra/ah-2005-2009.webp"
+      }
+    },
+    {
+      "slug": "astra-1",
+      "name": "astra 2",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/astra/bk-bl-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "astra-2",
+      "name": "astra 3",
+      "year_start": 2020,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/astra/bk-bl-2020-2021.webp"
+      }
+    },
+    {
+      "slug": "astra-3",
+      "name": "astra 4",
+      "year_start": 1998,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/astra/ts-1998-2005.webp"
+      }
+    }
+  ]
+}

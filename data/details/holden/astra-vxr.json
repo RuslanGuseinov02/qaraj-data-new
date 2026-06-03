@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "holden",
+    "name": "HOLDEN"
+  },
+  "slug": "astra-vxr",
+  "name": "astra-vxr",
+  "generations": [
+    {
+      "slug": "astra-vxr-0",
+      "name": "astra-vxr 1",
+      "year_start": 2015,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/holden/astra-vxr/pj-2015-2016.webp"
+      }
+    }
+  ]
+}
