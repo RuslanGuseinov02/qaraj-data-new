@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "qqme",
+  "name": "qqme",
+  "generations": [
+    {
+      "slug": "qqme-0",
+      "name": "qqme 1",
+      "year_start": 2009,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/qqme/2009-2010.webp"
+      }
+    }
+  ]
+}

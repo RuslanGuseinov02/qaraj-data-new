@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "jaggi",
+  "name": "jaggi",
+  "generations": [
+    {
+      "slug": "jaggi-0",
+      "name": "jaggi 1",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/jaggi/2006-2010.webp"
+      }
+    },
+    {
+      "slug": "jaggi-1",
+      "name": "jaggi 2",
+      "year_start": 2011,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/jaggi/2011-2012.webp"
+      }
+    }
+  ]
+}

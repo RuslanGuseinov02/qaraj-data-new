@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "sweet",
+  "name": "sweet",
+  "generations": [
+    {
+      "slug": "sweet-0",
+      "name": "sweet 1",
+      "year_start": 2005,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/sweet/2005-2012.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "bonus-3",
+  "name": "bonus-3",
+  "generations": [
+    {
+      "slug": "bonus-3-0",
+      "name": "bonus-3 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/bonus-3/2013-2016.webp"
+      }
+    }
+  ]
+}

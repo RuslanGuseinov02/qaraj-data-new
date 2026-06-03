@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "grand-tiggo",
+  "name": "grand-tiggo",
+  "generations": [
+    {
+      "slug": "grand-tiggo-0",
+      "name": "grand-tiggo 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/grand-tiggo/2014-2017.webp"
+      }
+    },
+    {
+      "slug": "grand-tiggo-1",
+      "name": "grand-tiggo 2",
+      "year_start": 2017,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/grand-tiggo/2017-2019.webp"
+      }
+    }
+  ]
+}

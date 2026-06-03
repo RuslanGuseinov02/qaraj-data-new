@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "fulwin-2",
+  "name": "fulwin-2",
+  "generations": [
+    {
+      "slug": "fulwin-2-0",
+      "name": "fulwin-2 1",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/fulwin-2/2010-2014.webp"
+      }
+    },
+    {
+      "slug": "fulwin-2-1",
+      "name": "fulwin-2 2",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/fulwin-2/2013-2016.webp"
+      }
+    }
+  ]
+}

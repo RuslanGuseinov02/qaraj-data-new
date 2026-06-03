@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "tiggo-8",
+  "name": "tiggo-8",
+  "generations": [
+    {
+      "slug": "tiggo-8-0",
+      "name": "tiggo-8 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/tiggo-8/2024-now.webp"
+      }
+    },
+    {
+      "slug": "tiggo-8-1",
+      "name": "tiggo-8 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/tiggo-8/2025-now.webp"
+      }
+    },
+    {
+      "slug": "tiggo-8-2",
+      "name": "tiggo-8 3",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/tiggo-8/t18-2018-2023.webp"
+      }
+    },
+    {
+      "slug": "tiggo-8-3",
+      "name": "tiggo-8 4",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/tiggo-8/t18-2019-2024.webp"
+      }
+    }
+  ]
+}

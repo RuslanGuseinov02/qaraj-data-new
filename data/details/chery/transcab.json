@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "transcab",
+  "name": "transcab",
+  "generations": [
+    {
+      "slug": "transcab-0",
+      "name": "transcab 1",
+      "year_start": 2013,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/transcab/2013-2019.webp"
+      }
+    }
+  ]
+}

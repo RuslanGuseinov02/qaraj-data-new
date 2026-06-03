@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "tiggo",
+  "name": "tiggo",
+  "generations": [
+    {
+      "slug": "tiggo-0",
+      "name": "tiggo 1",
+      "year_start": 2005,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/tiggo/2005-2014.webp"
+      }
+    },
+    {
+      "slug": "tiggo-1",
+      "name": "tiggo 2",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/tiggo/2013-2016.webp"
+      }
+    }
+  ]
+}

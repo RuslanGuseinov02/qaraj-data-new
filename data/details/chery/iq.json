@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "iq",
+  "name": "iq",
+  "generations": [
+    {
+      "slug": "iq-0",
+      "name": "iq 1",
+      "year_start": 2003,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/iq/s11-2003-2013.webp"
+      }
+    },
+    {
+      "slug": "iq-1",
+      "name": "iq 2",
+      "year_start": 2013,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/iq/s15-2013-2020.webp"
+      }
+    }
+  ]
+}

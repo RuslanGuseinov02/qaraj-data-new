@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "p10",
+  "name": "p10",
+  "generations": [
+    {
+      "slug": "p10-0",
+      "name": "p10 1",
+      "year_start": 2010,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/p10/2010-2018.webp"
+      }
+    }
+  ]
+}

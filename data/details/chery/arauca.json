@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "arauca",
+  "name": "arauca",
+  "generations": [
+    {
+      "slug": "arauca-0",
+      "name": "arauca 1",
+      "year_start": 2007,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/arauca/2007-2016.webp"
+      }
+    },
+    {
+      "slug": "arauca-1",
+      "name": "arauca 2",
+      "year_start": 2018,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/arauca/2018-2019.webp"
+      }
+    }
+  ]
+}

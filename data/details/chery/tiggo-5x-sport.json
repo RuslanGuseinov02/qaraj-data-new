@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "tiggo-5x-sport",
+  "name": "tiggo-5x-sport",
+  "generations": [
+    {
+      "slug": "tiggo-5x-sport-0",
+      "name": "tiggo-5x-sport 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/tiggo-5x-sport/2024-now.webp"
+      }
+    }
+  ]
+}

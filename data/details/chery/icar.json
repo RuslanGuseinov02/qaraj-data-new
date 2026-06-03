@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "icar",
+  "name": "icar",
+  "generations": [
+    {
+      "slug": "icar-0",
+      "name": "icar 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/icar/2022-now.webp"
+      }
+    }
+  ]
+}

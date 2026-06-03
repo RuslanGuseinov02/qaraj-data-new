@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "practivan-karry",
+  "name": "practivan-karry",
+  "generations": [
+    {
+      "slug": "practivan-karry-0",
+      "name": "practivan-karry 1",
+      "year_start": 2013,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/practivan-karry/2013-2021.webp"
+      }
+    }
+  ]
+}

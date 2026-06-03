@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "arrizo-8-pro",
+  "name": "arrizo-8-pro",
+  "generations": [
+    {
+      "slug": "arrizo-8-pro-0",
+      "name": "arrizo-8-pro 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/arrizo-8-pro/2024-now.webp"
+      }
+    }
+  ]
+}

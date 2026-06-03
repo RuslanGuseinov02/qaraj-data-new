@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "tengo",
+  "name": "tengo",
+  "generations": [
+    {
+      "slug": "tengo-0",
+      "name": "tengo 1",
+      "year_start": 2010,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/tengo/2010-2011.webp"
+      }
+    }
+  ]
+}

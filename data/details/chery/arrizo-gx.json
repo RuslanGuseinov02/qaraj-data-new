@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "arrizo-gx",
+  "name": "arrizo-gx",
+  "generations": [
+    {
+      "slug": "arrizo-gx-0",
+      "name": "arrizo-gx 1",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/arrizo-gx/2018-2022.webp"
+      }
+    }
+  ]
+}

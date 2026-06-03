@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "alia",
+  "name": "alia",
+  "generations": [
+    {
+      "slug": "alia-0",
+      "name": "alia 1",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/alia/2008-2011.webp"
+      }
+    },
+    {
+      "slug": "alia-1",
+      "name": "alia 2",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/alia/2020-2023.webp"
+      }
+    }
+  ]
+}

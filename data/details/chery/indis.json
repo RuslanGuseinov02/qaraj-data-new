@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "indis",
+  "name": "indis",
+  "generations": [
+    {
+      "slug": "indis-0",
+      "name": "indis 1",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/indis/2011-2016.webp"
+      }
+    }
+  ]
+}

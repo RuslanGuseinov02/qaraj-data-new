@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "eastar",
+  "name": "eastar",
+  "generations": [
+    {
+      "slug": "eastar-0",
+      "name": "eastar 1",
+      "year_start": 2003,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/eastar/2003-2012.webp"
+      }
+    },
+    {
+      "slug": "eastar-1",
+      "name": "eastar 2",
+      "year_start": 2008,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/eastar/2008-2015.webp"
+      }
+    },
+    {
+      "slug": "eastar-2",
+      "name": "eastar 3",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/eastar/2012-2015.webp"
+      }
+    }
+  ]
+}

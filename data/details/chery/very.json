@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "very",
+  "name": "very",
+  "generations": [
+    {
+      "slug": "very-0",
+      "name": "very 1",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/very/2011-2016.webp"
+      }
+    }
+  ]
+}

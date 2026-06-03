@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "little-ant",
+  "name": "little-ant",
+  "generations": [
+    {
+      "slug": "little-ant-0",
+      "name": "little-ant 1",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/little-ant/classic-edition-2022-2025.webp"
+      }
+    },
+    {
+      "slug": "little-ant-1",
+      "name": "little-ant 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/little-ant/new-edition-2023-now.webp"
+      }
+    }
+  ]
+}

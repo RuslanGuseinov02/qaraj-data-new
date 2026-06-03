@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "cielo",
+  "name": "cielo",
+  "generations": [
+    {
+      "slug": "cielo-0",
+      "name": "cielo 1",
+      "year_start": 2008,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/cielo/2008-2014.webp"
+      }
+    }
+  ]
+}

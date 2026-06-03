@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "destiny",
+  "name": "destiny",
+  "generations": [
+    {
+      "slug": "destiny-0",
+      "name": "destiny 1",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/destiny/2009-2014.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "niche",
+  "name": "niche",
+  "generations": [
+    {
+      "slug": "niche-0",
+      "name": "niche 1",
+      "year_start": 2011,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/niche/2011-2011.webp"
+      }
+    }
+  ]
+}

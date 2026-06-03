@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "tiggo-8-honor",
+  "name": "tiggo-8-honor",
+  "generations": [
+    {
+      "slug": "tiggo-8-honor-0",
+      "name": "tiggo-8-honor 1",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/tiggo-8-honor/2023-2025.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "arrizo-7e",
+  "name": "arrizo-7e",
+  "generations": [
+    {
+      "slug": "arrizo-7e-0",
+      "name": "arrizo-7e 1",
+      "year_start": 2016,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/arrizo-7e/2016-2017.webp"
+      }
+    }
+  ]
+}

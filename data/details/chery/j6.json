@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "j6",
+  "name": "j6",
+  "generations": [
+    {
+      "slug": "j6-0",
+      "name": "j6 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/j6/2024-now.webp"
+      }
+    }
+  ]
+}

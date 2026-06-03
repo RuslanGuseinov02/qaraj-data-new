@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "cowin",
+  "name": "cowin",
+  "generations": [
+    {
+      "slug": "cowin-0",
+      "name": "cowin 1",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/cowin/2004-2008.webp"
+      }
+    }
+  ]
+}

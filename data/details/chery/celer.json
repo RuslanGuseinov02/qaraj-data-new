@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "celer",
+  "name": "celer",
+  "generations": [
+    {
+      "slug": "celer-0",
+      "name": "celer 1",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/celer/2010-2015.webp"
+      }
+    },
+    {
+      "slug": "celer-1",
+      "name": "celer 2",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/celer/2015-2019.webp"
+      }
+    }
+  ]
+}

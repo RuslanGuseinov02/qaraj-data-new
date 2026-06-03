@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "tiggo-5x-pro",
+  "name": "tiggo-5x-pro",
+  "generations": [
+    {
+      "slug": "tiggo-5x-pro-0",
+      "name": "tiggo-5x-pro 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/tiggo-5x-pro/2022-now.webp"
+      }
+    }
+  ]
+}

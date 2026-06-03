@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "campus",
+  "name": "campus",
+  "generations": [
+    {
+      "slug": "campus-0",
+      "name": "campus 1",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/campus/2011-2014.webp"
+      }
+    }
+  ]
+}

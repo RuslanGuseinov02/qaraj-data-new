@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "s22",
+  "name": "s22",
+  "generations": [
+    {
+      "slug": "s22-0",
+      "name": "s22 1",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/s22/2014-2019.webp"
+      }
+    }
+  ]
+}

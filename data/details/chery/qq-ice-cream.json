@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "qq-ice-cream",
+  "name": "qq-ice-cream",
+  "generations": [
+    {
+      "slug": "qq-ice-cream-0",
+      "name": "qq-ice-cream 1",
+      "year_start": 2021,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/qq-ice-cream/2021-2023.webp"
+      }
+    },
+    {
+      "slug": "qq-ice-cream-1",
+      "name": "qq-ice-cream 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/qq-ice-cream/2023-now.webp"
+      }
+    }
+  ]
+}

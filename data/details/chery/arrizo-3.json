@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "arrizo-3",
+  "name": "arrizo-3",
+  "generations": [
+    {
+      "slug": "arrizo-3-0",
+      "name": "arrizo-3 1",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/arrizo-3/2015-2017.webp"
+      }
+    },
+    {
+      "slug": "arrizo-3-1",
+      "name": "arrizo-3 2",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/arrizo-3/2017-2020.webp"
+      }
+    }
+  ]
+}

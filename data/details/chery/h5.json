@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "h5",
+  "name": "h5",
+  "generations": [
+    {
+      "slug": "h5-0",
+      "name": "h5 1",
+      "year_start": 2010,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/h5/2010-2016.webp"
+      }
+    }
+  ]
+}

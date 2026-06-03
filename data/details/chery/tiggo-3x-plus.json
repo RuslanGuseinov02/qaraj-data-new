@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "tiggo-3x-plus",
+  "name": "tiggo-3x-plus",
+  "generations": [
+    {
+      "slug": "tiggo-3x-plus-0",
+      "name": "tiggo-3x-plus 1",
+      "year_start": 2021,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/tiggo-3x-plus/2021-2023.webp"
+      }
+    }
+  ]
+}

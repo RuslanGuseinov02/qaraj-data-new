@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "tiggo-7l",
+  "name": "tiggo-7l",
+  "generations": [
+    {
+      "slug": "tiggo-7l-0",
+      "name": "tiggo-7l 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/tiggo-7l/2024-now.webp"
+      }
+    }
+  ]
+}

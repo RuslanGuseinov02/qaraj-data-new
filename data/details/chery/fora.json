@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "fora",
+  "name": "fora",
+  "generations": [
+    {
+      "slug": "fora-0",
+      "name": "fora 1",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/fora/2006-2010.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "b14",
+  "name": "b14",
+  "generations": [
+    {
+      "slug": "b14-0",
+      "name": "b14 1",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/b14/2006-2008.webp"
+      }
+    }
+  ]
+}

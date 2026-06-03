@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "tiggo-8-plus-c-dm",
+  "name": "tiggo-8-plus-c-dm",
+  "generations": [
+    {
+      "slug": "tiggo-8-plus-c-dm-0",
+      "name": "tiggo-8-plus-c-dm 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/tiggo-8-plus-c-dm/2024-now.webp"
+      }
+    }
+  ]
+}

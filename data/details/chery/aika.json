@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "aika",
+  "name": "aika",
+  "generations": [
+    {
+      "slug": "aika-0",
+      "name": "aika 1",
+      "year_start": 2013,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/aika/2013-2013.webp"
+      }
+    }
+  ]
+}

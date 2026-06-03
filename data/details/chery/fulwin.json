@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "fulwin",
+  "name": "fulwin",
+  "generations": [
+    {
+      "slug": "fulwin-0",
+      "name": "fulwin 1",
+      "year_start": 1999,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/fulwin/1999-2006.webp"
+      }
+    }
+  ]
+}

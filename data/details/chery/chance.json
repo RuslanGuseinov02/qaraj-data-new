@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "chance",
+  "name": "chance",
+  "generations": [
+    {
+      "slug": "chance-0",
+      "name": "chance 1",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/chance/2010-2012.webp"
+      }
+    },
+    {
+      "slug": "chance-1",
+      "name": "chance 2",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/chance/2020-2023.webp"
+      }
+    }
+  ]
+}

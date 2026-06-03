@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chery",
+    "name": "CHERY"
+  },
+  "slug": "kimo",
+  "name": "kimo",
+  "generations": [
+    {
+      "slug": "kimo-0",
+      "name": "kimo 1",
+      "year_start": 2008,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/kimo/2008-2015.webp"
+      }
+    },
+    {
+      "slug": "kimo-1",
+      "name": "kimo 2",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chery/kimo/2020-2023.webp"
+      }
+    }
+  ]
+}
