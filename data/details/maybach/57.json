@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maybach",
+    "name": "MAYBACH"
+  },
+  "slug": "57",
+  "name": "57",
+  "generations": [
+    {
+      "slug": "57-0",
+      "name": "57 1",
+      "year_start": 2002,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maybach/57/2002-2012.webp"
+      }
+    }
+  ]
+}
