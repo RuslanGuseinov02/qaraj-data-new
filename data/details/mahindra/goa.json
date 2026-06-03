@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "goa",
+  "name": "goa",
+  "generations": [
+    {
+      "slug": "goa-0",
+      "name": "goa 1",
+      "year_start": 2002,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/goa/2002-2018.webp"
+      }
+    },
+    {
+      "slug": "goa-1",
+      "name": "goa 2",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/goa/2019-2022.webp"
+      }
+    }
+  ]
+}

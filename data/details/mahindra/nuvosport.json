@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "nuvosport",
+  "name": "nuvosport",
+  "generations": [
+    {
+      "slug": "nuvosport-0",
+      "name": "nuvosport 1",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/nuvosport/2016-2018.webp"
+      }
+    }
+  ]
+}

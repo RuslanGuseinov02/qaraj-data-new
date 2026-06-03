@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "e2o-plus",
+  "name": "e2o-plus",
+  "generations": [
+    {
+      "slug": "e2o-plus-0",
+      "name": "e2o-plus 1",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/e2o-plus/2017-2022.webp"
+      }
+    }
+  ]
+}

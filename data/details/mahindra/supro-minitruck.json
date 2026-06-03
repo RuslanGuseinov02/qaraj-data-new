@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "supro-minitruck",
+  "name": "supro-minitruck",
+  "generations": [
+    {
+      "slug": "supro-minitruck-0",
+      "name": "supro-minitruck 1",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/supro-minitruck/2015-now.webp"
+      }
+    }
+  ]
+}

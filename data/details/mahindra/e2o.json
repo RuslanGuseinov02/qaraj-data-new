@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "e2o",
+  "name": "e2o",
+  "generations": [
+    {
+      "slug": "e2o-0",
+      "name": "e2o 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/e2o/2013-2016.webp"
+      }
+    }
+  ]
+}

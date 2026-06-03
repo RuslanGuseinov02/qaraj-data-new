@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "bolero-maxi-truck",
+  "name": "bolero-maxi-truck",
+  "generations": [
+    {
+      "slug": "bolero-maxi-truck-0",
+      "name": "bolero-maxi-truck 1",
+      "year_start": 2013,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/bolero-maxi-truck/2013-2023.webp"
+      }
+    }
+  ]
+}

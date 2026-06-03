@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "verito-vibe",
+  "name": "verito-vibe",
+  "generations": [
+    {
+      "slug": "verito-vibe-0",
+      "name": "verito-vibe 1",
+      "year_start": 2013,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/verito-vibe/2013-2020.webp"
+      }
+    }
+  ]
+}

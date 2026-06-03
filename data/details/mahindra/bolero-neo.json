@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "bolero-neo",
+  "name": "bolero-neo",
+  "generations": [
+    {
+      "slug": "bolero-neo-0",
+      "name": "bolero-neo 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/bolero-neo/2021-now.webp"
+      }
+    }
+  ]
+}

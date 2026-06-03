@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "pik-up",
+  "name": "pik-up",
+  "generations": [
+    {
+      "slug": "pik-up-0",
+      "name": "pik-up 1",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/pik-up/2007-2009.webp"
+      }
+    },
+    {
+      "slug": "pik-up-1",
+      "name": "pik-up 2",
+      "year_start": 2009,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/pik-up/2009-2017.webp"
+      }
+    },
+    {
+      "slug": "pik-up-2",
+      "name": "pik-up 3",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/pik-up/2017-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "scorpio",
+  "name": "scorpio",
+  "generations": [
+    {
+      "slug": "scorpio-0",
+      "name": "scorpio 1",
+      "year_start": 2002,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/scorpio/2002-2020.webp"
+      }
+    },
+    {
+      "slug": "scorpio-1",
+      "name": "scorpio 2",
+      "year_start": 2014,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/scorpio/2014-2022.webp"
+      }
+    },
+    {
+      "slug": "scorpio-2",
+      "name": "scorpio 3",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/scorpio/z101-2022-now.webp"
+      }
+    }
+  ]
+}

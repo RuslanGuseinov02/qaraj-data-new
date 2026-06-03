@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "kuv100",
+  "name": "kuv100",
+  "generations": [
+    {
+      "slug": "kuv100-0",
+      "name": "kuv100 1",
+      "year_start": 2016,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/kuv100/2016-2017.webp"
+      }
+    },
+    {
+      "slug": "kuv100-1",
+      "name": "kuv100 2",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/kuv100/2018-now.webp"
+      }
+    }
+  ]
+}

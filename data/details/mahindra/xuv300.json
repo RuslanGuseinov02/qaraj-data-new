@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "xuv300",
+  "name": "xuv300",
+  "generations": [
+    {
+      "slug": "xuv300-0",
+      "name": "xuv300 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/xuv300/2019-now.webp"
+      }
+    }
+  ]
+}

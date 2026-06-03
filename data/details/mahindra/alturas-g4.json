@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "alturas-g4",
+  "name": "alturas-g4",
+  "generations": [
+    {
+      "slug": "alturas-g4-0",
+      "name": "alturas-g4 1",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/alturas-g4/2018-2022.webp"
+      }
+    }
+  ]
+}

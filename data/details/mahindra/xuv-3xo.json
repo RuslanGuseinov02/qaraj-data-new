@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "xuv-3xo",
+  "name": "xuv-3xo",
+  "generations": [
+    {
+      "slug": "xuv-3xo-0",
+      "name": "xuv-3xo 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/xuv-3xo/2024-now.webp"
+      }
+    }
+  ]
+}

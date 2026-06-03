@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "quanto",
+  "name": "quanto",
+  "generations": [
+    {
+      "slug": "quanto-0",
+      "name": "quanto 1",
+      "year_start": 2012,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/quanto/2012-2018.webp"
+      }
+    }
+  ]
+}

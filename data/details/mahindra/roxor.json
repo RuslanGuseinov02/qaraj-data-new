@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "roxor",
+  "name": "roxor",
+  "generations": [
+    {
+      "slug": "roxor-0",
+      "name": "roxor 1",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/roxor/2018-2021.webp"
+      }
+    },
+    {
+      "slug": "roxor-1",
+      "name": "roxor 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/roxor/2022-now.webp"
+      }
+    }
+  ]
+}

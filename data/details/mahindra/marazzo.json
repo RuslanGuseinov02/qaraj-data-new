@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "marazzo",
+  "name": "marazzo",
+  "generations": [
+    {
+      "slug": "marazzo-0",
+      "name": "marazzo 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/marazzo/2018-now.webp"
+      }
+    }
+  ]
+}

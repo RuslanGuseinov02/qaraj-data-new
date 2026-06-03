@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "thar",
+  "name": "thar",
+  "generations": [
+    {
+      "slug": "thar-0",
+      "name": "thar 1",
+      "year_start": 2010,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/thar/2010-2020.webp"
+      }
+    },
+    {
+      "slug": "thar-1",
+      "name": "thar 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/thar/2020-now.webp"
+      }
+    }
+  ]
+}

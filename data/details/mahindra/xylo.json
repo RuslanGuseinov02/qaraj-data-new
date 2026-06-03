@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "xylo",
+  "name": "xylo",
+  "generations": [
+    {
+      "slug": "xylo-0",
+      "name": "xylo 1",
+      "year_start": 2009,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/xylo/2009-2019.webp"
+      }
+    }
+  ]
+}

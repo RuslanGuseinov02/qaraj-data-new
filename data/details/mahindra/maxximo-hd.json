@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "maxximo-hd",
+  "name": "maxximo-hd",
+  "generations": [
+    {
+      "slug": "maxximo-hd-0",
+      "name": "maxximo-hd 1",
+      "year_start": 2010,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/maxximo-hd/2010-2022.webp"
+      }
+    }
+  ]
+}

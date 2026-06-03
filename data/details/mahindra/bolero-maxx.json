@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "bolero-maxx",
+  "name": "bolero-maxx",
+  "generations": [
+    {
+      "slug": "bolero-maxx-0",
+      "name": "bolero-maxx 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/bolero-maxx/2024-now.webp"
+      }
+    }
+  ]
+}

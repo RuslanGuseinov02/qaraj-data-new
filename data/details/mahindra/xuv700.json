@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "xuv700",
+  "name": "xuv700",
+  "generations": [
+    {
+      "slug": "xuv700-0",
+      "name": "xuv700 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/xuv700/2021-now.webp"
+      }
+    }
+  ]
+}

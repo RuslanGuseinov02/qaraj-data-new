@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "supro-maxitruck",
+  "name": "supro-maxitruck",
+  "generations": [
+    {
+      "slug": "supro-maxitruck-0",
+      "name": "supro-maxitruck 1",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/supro-maxitruck/2015-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "jeeto",
+  "name": "jeeto",
+  "generations": [
+    {
+      "slug": "jeeto-0",
+      "name": "jeeto 1",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/jeeto/2015-now.webp"
+      }
+    }
+  ]
+}

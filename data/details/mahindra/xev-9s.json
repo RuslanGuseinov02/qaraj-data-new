@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "xev-9s",
+  "name": "xev-9s",
+  "generations": [
+    {
+      "slug": "xev-9s-0",
+      "name": "xev-9s 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/xev-9s/2025-now.webp"
+      }
+    }
+  ]
+}

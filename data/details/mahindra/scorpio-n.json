@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mahindra",
+    "name": "MAHINDRA"
+  },
+  "slug": "scorpio-n",
+  "name": "scorpio-n",
+  "generations": [
+    {
+      "slug": "scorpio-n-0",
+      "name": "scorpio-n 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mahindra/scorpio-n/z101-2022-now.webp"
+      }
+    }
+  ]
+}
