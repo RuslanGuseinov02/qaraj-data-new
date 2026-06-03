@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "gmc",
+    "name": "GMC"
+  },
+  "slug": "terrain",
+  "name": "terrain",
+  "generations": [
+    {
+      "slug": "terrain-0",
+      "name": "terrain 1",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/terrain/2008-2010.webp"
+      }
+    },
+    {
+      "slug": "terrain-1",
+      "name": "terrain 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/terrain/2025-now.webp"
+      }
+    },
+    {
+      "slug": "terrain-2",
+      "name": "terrain 3",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/terrain/gm-d2xx-2018-2021.webp"
+      }
+    },
+    {
+      "slug": "terrain-3",
+      "name": "terrain 4",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/terrain/gm-d2xx-2022-now.webp"
+      }
+    },
+    {
+      "slug": "terrain-4",
+      "name": "terrain 5",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/terrain/gm-theta-2010-2015.webp"
+      }
+    },
+    {
+      "slug": "terrain-5",
+      "name": "terrain 6",
+      "year_start": 2016,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/terrain/gm-theta-2016-2017.webp"
+      }
+    }
+  ]
+}

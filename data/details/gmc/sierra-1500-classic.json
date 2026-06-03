@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "gmc",
+    "name": "GMC"
+  },
+  "slug": "sierra-1500-classic",
+  "name": "sierra-1500-classic",
+  "generations": [
+    {
+      "slug": "sierra-1500-classic-0",
+      "name": "sierra-1500-classic 1",
+      "year_start": 2007,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/sierra-1500-classic/gmt800-2007-2007.webp"
+      }
+    }
+  ]
+}

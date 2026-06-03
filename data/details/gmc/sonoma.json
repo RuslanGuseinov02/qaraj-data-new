@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "gmc",
+    "name": "GMC"
+  },
+  "slug": "sonoma",
+  "name": "sonoma",
+  "generations": [
+    {
+      "slug": "sonoma-0",
+      "name": "sonoma 1",
+      "year_start": 1982,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/sonoma/gmt325-1982-1993.webp"
+      }
+    },
+    {
+      "slug": "sonoma-1",
+      "name": "sonoma 2",
+      "year_start": 1994,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/sonoma/gmt400-1994-2004.webp"
+      }
+    }
+  ]
+}

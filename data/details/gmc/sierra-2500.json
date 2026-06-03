@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "gmc",
+    "name": "GMC"
+  },
+  "slug": "sierra-2500",
+  "name": "sierra-2500",
+  "generations": [
+    {
+      "slug": "sierra-2500-0",
+      "name": "sierra-2500 1",
+      "year_start": 1999,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/sierra-2500/gmt800-1999-2006.webp"
+      }
+    },
+    {
+      "slug": "sierra-2500-1",
+      "name": "sierra-2500 2",
+      "year_start": 2007,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/sierra-2500/gmt900-2007-2014.webp"
+      }
+    },
+    {
+      "slug": "sierra-2500-2",
+      "name": "sierra-2500 3",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/sierra-2500/k2xx-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "sierra-2500-3",
+      "name": "sierra-2500 4",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/sierra-2500/t1xx-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "sierra-2500-4",
+      "name": "sierra-2500 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/sierra-2500/t1xx-2024-now.webp"
+      }
+    }
+  ]
+}

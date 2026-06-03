@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "gmc",
+    "name": "GMC"
+  },
+  "slug": "jimmy",
+  "name": "jimmy",
+  "generations": [
+    {
+      "slug": "jimmy-0",
+      "name": "jimmy 1",
+      "year_start": 1992,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/jimmy/gmt400-1992-1994.webp"
+      }
+    },
+    {
+      "slug": "jimmy-1",
+      "name": "jimmy 2",
+      "year_start": 1995,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/jimmy/gmt400-1995-2005.webp"
+      }
+    },
+    {
+      "slug": "jimmy-2",
+      "name": "jimmy 3",
+      "year_start": 1982,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/jimmy/s-15-1982-1991.webp"
+      }
+    }
+  ]
+}

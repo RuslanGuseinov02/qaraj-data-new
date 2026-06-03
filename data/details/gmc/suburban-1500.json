@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "gmc",
+    "name": "GMC"
+  },
+  "slug": "suburban-1500",
+  "name": "suburban-1500",
+  "generations": [
+    {
+      "slug": "suburban-1500-0",
+      "name": "suburban-1500 1",
+      "year_start": 1973,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/suburban-1500/c-k-series-1973-1991.webp"
+      }
+    },
+    {
+      "slug": "suburban-1500-1",
+      "name": "suburban-1500 2",
+      "year_start": 1992,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/suburban-1500/gmt400-1992-1999.webp"
+      }
+    },
+    {
+      "slug": "suburban-1500-2",
+      "name": "suburban-1500 3",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/suburban-1500/gmt800-2000-2006.webp"
+      }
+    }
+  ]
+}

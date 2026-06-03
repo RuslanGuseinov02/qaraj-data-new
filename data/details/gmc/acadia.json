@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "gmc",
+    "name": "GMC"
+  },
+  "slug": "acadia",
+  "name": "acadia",
+  "generations": [
+    {
+      "slug": "acadia-0",
+      "name": "acadia 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/acadia/2024-now.webp"
+      }
+    },
+    {
+      "slug": "acadia-1",
+      "name": "acadia 2",
+      "year_start": 2017,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/acadia/c1xx-2017-2019.webp"
+      }
+    },
+    {
+      "slug": "acadia-2",
+      "name": "acadia 3",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/acadia/c1xx-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "acadia-3",
+      "name": "acadia 4",
+      "year_start": 2006,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/acadia/gmt968-2006-2012.webp"
+      }
+    },
+    {
+      "slug": "acadia-4",
+      "name": "acadia 5",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/acadia/gmt968-2013-2016.webp"
+      }
+    }
+  ]
+}

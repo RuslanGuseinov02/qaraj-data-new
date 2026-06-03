@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "gmc",
+    "name": "GMC"
+  },
+  "slug": "sierra-1500",
+  "name": "sierra-1500",
+  "generations": [
+    {
+      "slug": "sierra-1500-0",
+      "name": "sierra-1500 1",
+      "year_start": 1988,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/sierra-1500/gmt400-1988-1998.webp"
+      }
+    },
+    {
+      "slug": "sierra-1500-1",
+      "name": "sierra-1500 2",
+      "year_start": 1999,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/sierra-1500/gmt800-1999-2006.webp"
+      }
+    },
+    {
+      "slug": "sierra-1500-2",
+      "name": "sierra-1500 3",
+      "year_start": 2007,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/sierra-1500/gmt900-2007-2013.webp"
+      }
+    },
+    {
+      "slug": "sierra-1500-3",
+      "name": "sierra-1500 4",
+      "year_start": 2014,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/sierra-1500/gmtk2-2014-2015.webp"
+      }
+    },
+    {
+      "slug": "sierra-1500-4",
+      "name": "sierra-1500 5",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/sierra-1500/gmtk2-2016-2018.webp"
+      }
+    },
+    {
+      "slug": "sierra-1500-5",
+      "name": "sierra-1500 6",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/sierra-1500/gmtt1-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "sierra-1500-6",
+      "name": "sierra-1500 7",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/sierra-1500/gmtt1-2022-now.webp"
+      }
+    }
+  ]
+}

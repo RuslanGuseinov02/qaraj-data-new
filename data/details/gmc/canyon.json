@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "gmc",
+    "name": "GMC"
+  },
+  "slug": "canyon",
+  "name": "canyon",
+  "generations": [
+    {
+      "slug": "canyon-0",
+      "name": "canyon 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/canyon/gmt-31xx-2-2023-now.webp"
+      }
+    },
+    {
+      "slug": "canyon-1",
+      "name": "canyon 2",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/canyon/gmt-31xx-2015-2020.webp"
+      }
+    },
+    {
+      "slug": "canyon-2",
+      "name": "canyon 3",
+      "year_start": 2021,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/canyon/gmt-31xx-2021-2022.webp"
+      }
+    },
+    {
+      "slug": "canyon-3",
+      "name": "canyon 4",
+      "year_start": 2004,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/canyon/gmt355-2004-2012.webp"
+      }
+    }
+  ]
+}

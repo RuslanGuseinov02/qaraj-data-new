@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "gmc",
+    "name": "GMC"
+  },
+  "slug": "yukon",
+  "name": "yukon",
+  "generations": [
+    {
+      "slug": "yukon-0",
+      "name": "yukon 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/yukon/2025-now.webp"
+      }
+    },
+    {
+      "slug": "yukon-1",
+      "name": "yukon 2",
+      "year_start": 1991,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/yukon/gmt400-1991-1999.webp"
+      }
+    },
+    {
+      "slug": "yukon-2",
+      "name": "yukon 3",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/yukon/gmt800-2000-2006.webp"
+      }
+    },
+    {
+      "slug": "yukon-3",
+      "name": "yukon 4",
+      "year_start": 2007,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/yukon/gmt900-2007-2014.webp"
+      }
+    },
+    {
+      "slug": "yukon-4",
+      "name": "yukon 5",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/yukon/gmtk2-2015-2020.webp"
+      }
+    },
+    {
+      "slug": "yukon-5",
+      "name": "yukon 6",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/yukon/gmtt1-2021-2024.webp"
+      }
+    }
+  ]
+}

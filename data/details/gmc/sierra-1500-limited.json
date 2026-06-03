@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "gmc",
+    "name": "GMC"
+  },
+  "slug": "sierra-1500-limited",
+  "name": "sierra-1500-limited",
+  "generations": [
+    {
+      "slug": "sierra-1500-limited-0",
+      "name": "sierra-1500-limited 1",
+      "year_start": 2019,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/sierra-1500-limited/gmtk2-2019-2019.webp"
+      }
+    },
+    {
+      "slug": "sierra-1500-limited-1",
+      "name": "sierra-1500-limited 2",
+      "year_start": 2022,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/sierra-1500-limited/gmtt1-2022-2022.webp"
+      }
+    }
+  ]
+}

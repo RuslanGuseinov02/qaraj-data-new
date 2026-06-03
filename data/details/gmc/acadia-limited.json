@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "gmc",
+    "name": "GMC"
+  },
+  "slug": "acadia-limited",
+  "name": "acadia-limited",
+  "generations": [
+    {
+      "slug": "acadia-limited-0",
+      "name": "acadia-limited 1",
+      "year_start": 2017,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/acadia-limited/gmt968-2017-2017.webp"
+      }
+    }
+  ]
+}

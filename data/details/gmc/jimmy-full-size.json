@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "gmc",
+    "name": "GMC"
+  },
+  "slug": "jimmy-full-size",
+  "name": "jimmy-full-size",
+  "generations": [
+    {
+      "slug": "jimmy-full-size-0",
+      "name": "jimmy-full-size 1",
+      "year_start": 1969,
+      "year_end": 1972,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/jimmy-full-size/1969-1972.webp"
+      }
+    },
+    {
+      "slug": "jimmy-full-size-1",
+      "name": "jimmy-full-size 2",
+      "year_start": 1973,
+      "year_end": 1981,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/jimmy-full-size/1973-1981.webp"
+      }
+    },
+    {
+      "slug": "jimmy-full-size-2",
+      "name": "jimmy-full-size 3",
+      "year_start": 1982,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/jimmy-full-size/1982-1991.webp"
+      }
+    }
+  ]
+}

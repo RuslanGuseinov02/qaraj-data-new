@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "gmc",
+    "name": "GMC"
+  },
+  "slug": "safari",
+  "name": "safari",
+  "generations": [
+    {
+      "slug": "safari-0",
+      "name": "safari 1",
+      "year_start": 1985,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/safari/1985-1994.webp"
+      }
+    },
+    {
+      "slug": "safari-1",
+      "name": "safari 2",
+      "year_start": 1995,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gmc/safari/1995-2005.webp"
+      }
+    }
+  ]
+}
