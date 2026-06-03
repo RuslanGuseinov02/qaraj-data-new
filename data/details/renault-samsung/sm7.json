@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "renault-samsung",
+    "name": "RENAULT-SAMSUNG"
+  },
+  "slug": "sm7",
+  "name": "sm7",
+  "generations": [
+    {
+      "slug": "sm7-0",
+      "name": "sm7 1",
+      "year_start": 2004,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault-samsung/sm7/ex2-2004-2011.webp"
+      }
+    },
+    {
+      "slug": "sm7-1",
+      "name": "sm7 2",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault-samsung/sm7/l47-2011-2014.webp"
+      }
+    },
+    {
+      "slug": "sm7-2",
+      "name": "sm7 3",
+      "year_start": 2014,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault-samsung/sm7/l47-2014-2020.webp"
+      }
+    }
+  ]
+}

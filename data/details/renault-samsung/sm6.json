@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "renault-samsung",
+    "name": "RENAULT-SAMSUNG"
+  },
+  "slug": "sm6",
+  "name": "sm6",
+  "generations": [
+    {
+      "slug": "sm6-0",
+      "name": "sm6 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault-samsung/sm6/lfd-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "sm6-1",
+      "name": "sm6 2",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault-samsung/sm6/lfd-2020-2022.webp"
+      }
+    }
+  ]
+}

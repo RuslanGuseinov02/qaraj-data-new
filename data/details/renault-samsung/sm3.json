@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "renault-samsung",
+    "name": "RENAULT-SAMSUNG"
+  },
+  "slug": "sm3",
+  "name": "sm3",
+  "generations": [
+    {
+      "slug": "sm3-0",
+      "name": "sm3 1",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault-samsung/sm3/g10-2002-2005.webp"
+      }
+    },
+    {
+      "slug": "sm3-1",
+      "name": "sm3 2",
+      "year_start": 2005,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault-samsung/sm3/g10-2005-2011.webp"
+      }
+    },
+    {
+      "slug": "sm3-2",
+      "name": "sm3 3",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault-samsung/sm3/l38-2009-2014.webp"
+      }
+    },
+    {
+      "slug": "sm3-3",
+      "name": "sm3 4",
+      "year_start": 2014,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault-samsung/sm3/l38-2014-2020.webp"
+      }
+    }
+  ]
+}

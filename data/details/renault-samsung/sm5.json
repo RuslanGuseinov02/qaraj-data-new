@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "renault-samsung",
+    "name": "RENAULT-SAMSUNG"
+  },
+  "slug": "sm5",
+  "name": "sm5",
+  "generations": [
+    {
+      "slug": "sm5-0",
+      "name": "sm5 1",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault-samsung/sm5/df-a34-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "sm5-1",
+      "name": "sm5 2",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault-samsung/sm5/ex1-a34-2005-2007.webp"
+      }
+    },
+    {
+      "slug": "sm5-2",
+      "name": "sm5 3",
+      "year_start": 2010,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault-samsung/sm5/l43-2010-2019.webp"
+      }
+    }
+  ]
+}

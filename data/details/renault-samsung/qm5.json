@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "renault-samsung",
+    "name": "RENAULT-SAMSUNG"
+  },
+  "slug": "qm5",
+  "name": "qm5",
+  "generations": [
+    {
+      "slug": "qm5-0",
+      "name": "qm5 1",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault-samsung/qm5/hy-2008-2011.webp"
+      }
+    },
+    {
+      "slug": "qm5-1",
+      "name": "qm5 2",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault-samsung/qm5/hy-2011-2013.webp"
+      }
+    },
+    {
+      "slug": "qm5-2",
+      "name": "qm5 3",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/renault-samsung/qm5/hy-2013-2016.webp"
+      }
+    }
+  ]
+}
