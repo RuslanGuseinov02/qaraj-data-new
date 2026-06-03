@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "kicks",
+  "name": "kicks",
+  "generations": [
+    {
+      "slug": "kicks-0",
+      "name": "kicks 1",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/kicks/d15-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "kicks-1",
+      "name": "kicks 2",
+      "year_start": 2016,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/kicks/p15-2016-2022.webp"
+      }
+    },
+    {
+      "slug": "kicks-2",
+      "name": "kicks 3",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/kicks/p15-2020-now.webp"
+      }
+    },
+    {
+      "slug": "kicks-3",
+      "name": "kicks 4",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/kicks/p16-2024-now.webp"
+      }
+    }
+  ]
+}

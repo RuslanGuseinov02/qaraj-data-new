@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "300zx",
+  "name": "300zx",
+  "generations": [
+    {
+      "slug": "300zx-0",
+      "name": "300zx 1",
+      "year_start": 1984,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/300zx/z31-1984-1990.webp"
+      }
+    },
+    {
+      "slug": "300zx-1",
+      "name": "300zx 2",
+      "year_start": 1990,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/300zx/z32-1990-1996.webp"
+      }
+    }
+  ]
+}

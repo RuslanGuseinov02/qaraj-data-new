@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "prairie-liberty",
+  "name": "prairie-liberty",
+  "generations": [
+    {
+      "slug": "prairie-liberty-0",
+      "name": "prairie-liberty 1",
+      "year_start": 1998,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/prairie-liberty/m12-1998-2001.webp"
+      }
+    }
+  ]
+}

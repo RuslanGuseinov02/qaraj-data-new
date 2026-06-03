@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "ad",
+  "name": "ad",
+  "generations": [
+    {
+      "slug": "ad-0",
+      "name": "ad 1",
+      "year_start": 1990,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/ad/y10-1990-1999.webp"
+      }
+    },
+    {
+      "slug": "ad-1",
+      "name": "ad 2",
+      "year_start": 1999,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/ad/y11-1999-2008.webp"
+      }
+    },
+    {
+      "slug": "ad-2",
+      "name": "ad 3",
+      "year_start": 2006,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/ad/y12-2006-2016.webp"
+      }
+    },
+    {
+      "slug": "ad-3",
+      "name": "ad 4",
+      "year_start": 2016,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/ad/y12-2016-now.webp"
+      }
+    }
+  ]
+}

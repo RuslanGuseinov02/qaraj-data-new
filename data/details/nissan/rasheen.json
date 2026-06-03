@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "rasheen",
+  "name": "rasheen",
+  "generations": [
+    {
+      "slug": "rasheen-0",
+      "name": "rasheen 1",
+      "year_start": 1994,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/rasheen/1994-2000.webp"
+      }
+    },
+    {
+      "slug": "rasheen-1",
+      "name": "rasheen 2",
+      "year_start": 1998,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/rasheen/forza-1998-2000.webp"
+      }
+    }
+  ]
+}

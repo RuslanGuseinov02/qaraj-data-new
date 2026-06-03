@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "sunny-rz-1",
+  "name": "sunny-rz-1",
+  "generations": [
+    {
+      "slug": "sunny-rz-1-0",
+      "name": "sunny-rz-1 1",
+      "year_start": 1986,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sunny-rz-1/b12-1986-1989.webp"
+      }
+    }
+  ]
+}

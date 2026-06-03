@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "rogue-select",
+  "name": "rogue-select",
+  "generations": [
+    {
+      "slug": "rogue-select-0",
+      "name": "rogue-select 1",
+      "year_start": 2014,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/rogue-select/2014-2015.webp"
+      }
+    }
+  ]
+}

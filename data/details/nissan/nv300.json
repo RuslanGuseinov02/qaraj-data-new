@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "nv300",
+  "name": "nv300",
+  "generations": [
+    {
+      "slug": "nv300-0",
+      "name": "nv300 1",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/nv300/2016-2021.webp"
+      }
+    },
+    {
+      "slug": "nv300-1",
+      "name": "nv300 2",
+      "year_start": 2021,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/nv300/2021-2021.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "sunny-box",
+  "name": "sunny-box",
+  "generations": [
+    {
+      "slug": "sunny-box-0",
+      "name": "sunny-box 1",
+      "year_start": 1990,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sunny-box/y10-1990-2000.webp"
+      }
+    }
+  ]
+}

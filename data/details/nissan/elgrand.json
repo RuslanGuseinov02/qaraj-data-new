@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "elgrand",
+  "name": "elgrand",
+  "generations": [
+    {
+      "slug": "elgrand-0",
+      "name": "elgrand 1",
+      "year_start": 1997,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/elgrand/e50-1997-2000.webp"
+      }
+    },
+    {
+      "slug": "elgrand-1",
+      "name": "elgrand 2",
+      "year_start": 2000,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/elgrand/e50-2000-2002.webp"
+      }
+    },
+    {
+      "slug": "elgrand-2",
+      "name": "elgrand 3",
+      "year_start": 2002,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/elgrand/e51-2002-2004.webp"
+      }
+    },
+    {
+      "slug": "elgrand-3",
+      "name": "elgrand 4",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/elgrand/e51-2004-2010.webp"
+      }
+    },
+    {
+      "slug": "elgrand-4",
+      "name": "elgrand 5",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/elgrand/e52-2010-2013.webp"
+      }
+    },
+    {
+      "slug": "elgrand-5",
+      "name": "elgrand 6",
+      "year_start": 2014,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/elgrand/e52-2014-2020.webp"
+      }
+    },
+    {
+      "slug": "elgrand-6",
+      "name": "elgrand 7",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/elgrand/e52-2020-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "march",
+  "name": "march",
+  "generations": [
+    {
+      "slug": "march-0",
+      "name": "march 1",
+      "year_start": 1982,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/march/k10-1982-1992.webp"
+      }
+    },
+    {
+      "slug": "march-1",
+      "name": "march 2",
+      "year_start": 1992,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/march/k11-1992-2002.webp"
+      }
+    },
+    {
+      "slug": "march-2",
+      "name": "march 3",
+      "year_start": 2002,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/march/k12-2002-2010.webp"
+      }
+    },
+    {
+      "slug": "march-3",
+      "name": "march 4",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/march/k13-2010-2012.webp"
+      }
+    },
+    {
+      "slug": "march-4",
+      "name": "march 5",
+      "year_start": 2013,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/march/k13-2013-2023.webp"
+      }
+    },
+    {
+      "slug": "march-5",
+      "name": "march 6",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/march/k13-2021-now.webp"
+      }
+    }
+  ]
+}

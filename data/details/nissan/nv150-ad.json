@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "nv150-ad",
+  "name": "nv150-ad",
+  "generations": [
+    {
+      "slug": "nv150-ad-0",
+      "name": "nv150-ad 1",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/nv150-ad/y12-2016-2021.webp"
+      }
+    }
+  ]
+}

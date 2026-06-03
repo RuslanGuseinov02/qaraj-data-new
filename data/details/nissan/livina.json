@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "livina",
+  "name": "livina",
+  "generations": [
+    {
+      "slug": "livina-0",
+      "name": "livina 1",
+      "year_start": 2007,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/livina/l10-2007-2013.webp"
+      }
+    },
+    {
+      "slug": "livina-1",
+      "name": "livina 2",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/livina/l11-2013-2015.webp"
+      }
+    },
+    {
+      "slug": "livina-2",
+      "name": "livina 3",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/livina/nd-2019-now.webp"
+      }
+    }
+  ]
+}

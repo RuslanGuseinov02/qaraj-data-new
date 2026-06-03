@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "homy-coach",
+  "name": "homy-coach",
+  "generations": [
+    {
+      "slug": "homy-coach-0",
+      "name": "homy-coach 1",
+      "year_start": 1986,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/homy-coach/e24-1986-1990.webp"
+      }
+    },
+    {
+      "slug": "homy-coach-1",
+      "name": "homy-coach 2",
+      "year_start": 1990,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/homy-coach/e24-1990-1999.webp"
+      }
+    }
+  ]
+}

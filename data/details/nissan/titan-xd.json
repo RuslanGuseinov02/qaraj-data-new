@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "titan-xd",
+  "name": "titan-xd",
+  "generations": [
+    {
+      "slug": "titan-xd-0",
+      "name": "titan-xd 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/titan-xd/2016-2020.webp"
+      }
+    },
+    {
+      "slug": "titan-xd-1",
+      "name": "titan-xd 2",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/titan-xd/2020-2024.webp"
+      }
+    }
+  ]
+}

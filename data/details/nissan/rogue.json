@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "rogue",
+  "name": "rogue",
+  "generations": [
+    {
+      "slug": "rogue-0",
+      "name": "rogue 1",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/rogue/2008-2010.webp"
+      }
+    },
+    {
+      "slug": "rogue-1",
+      "name": "rogue 2",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/rogue/2011-2013.webp"
+      }
+    },
+    {
+      "slug": "rogue-2",
+      "name": "rogue 3",
+      "year_start": 2014,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/rogue/2014-2016.webp"
+      }
+    },
+    {
+      "slug": "rogue-3",
+      "name": "rogue 4",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/rogue/2017-2021.webp"
+      }
+    },
+    {
+      "slug": "rogue-4",
+      "name": "rogue 5",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/rogue/t33-2020-2024.webp"
+      }
+    },
+    {
+      "slug": "rogue-5",
+      "name": "rogue 6",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/rogue/t33-2024-now.webp"
+      }
+    }
+  ]
+}

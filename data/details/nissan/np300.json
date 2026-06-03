@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "np300",
+  "name": "np300",
+  "generations": [
+    {
+      "slug": "np300-0",
+      "name": "np300 1",
+      "year_start": 2008,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/np300/d22-2008-2021.webp"
+      }
+    },
+    {
+      "slug": "np300-1",
+      "name": "np300 2",
+      "year_start": 2014,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/np300/d23-2014-2020.webp"
+      }
+    },
+    {
+      "slug": "np300-2",
+      "name": "np300 3",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/np300/d23-2020-2024.webp"
+      }
+    }
+  ]
+}

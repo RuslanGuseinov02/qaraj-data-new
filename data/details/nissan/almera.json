@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "almera",
+  "name": "almera",
+  "generations": [
+    {
+      "slug": "almera-0",
+      "name": "almera 1",
+      "year_start": 2012,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/almera/g15-2012-2019.webp"
+      }
+    },
+    {
+      "slug": "almera-1",
+      "name": "almera 2",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/almera/n15-1995-2000.webp"
+      }
+    },
+    {
+      "slug": "almera-2",
+      "name": "almera 3",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/almera/n16-2000-2006.webp"
+      }
+    },
+    {
+      "slug": "almera-3",
+      "name": "almera 4",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/almera/n17-2011-2014.webp"
+      }
+    },
+    {
+      "slug": "almera-4",
+      "name": "almera 5",
+      "year_start": 2015,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/almera/n17-2015-2023.webp"
+      }
+    },
+    {
+      "slug": "almera-5",
+      "name": "almera 6",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/almera/n18-2020-now.webp"
+      }
+    },
+    {
+      "slug": "almera-6",
+      "name": "almera 7",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/almera/n18-2023-now.webp"
+      }
+    }
+  ]
+}

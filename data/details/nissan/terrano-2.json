@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "terrano-2",
+  "name": "terrano-2",
+  "generations": [
+    {
+      "slug": "terrano-2-0",
+      "name": "terrano-2 1",
+      "year_start": 1993,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/terrano-2/r20-1993-1996.webp"
+      }
+    },
+    {
+      "slug": "terrano-2-1",
+      "name": "terrano-2 2",
+      "year_start": 1996,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/terrano-2/r20-1996-2000.webp"
+      }
+    },
+    {
+      "slug": "terrano-2-2",
+      "name": "terrano-2 3",
+      "year_start": 2000,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/terrano-2/r20-2000-2002.webp"
+      }
+    },
+    {
+      "slug": "terrano-2-3",
+      "name": "terrano-2 4",
+      "year_start": 2002,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/terrano-2/r20-2002-2006.webp"
+      }
+    }
+  ]
+}

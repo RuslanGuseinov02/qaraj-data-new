@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "versa",
+  "name": "versa",
+  "generations": [
+    {
+      "slug": "versa-0",
+      "name": "versa 1",
+      "year_start": 2006,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/versa/2006-2012.webp"
+      }
+    },
+    {
+      "slug": "versa-1",
+      "name": "versa 2",
+      "year_start": 2012,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/versa/n17-2012-2014.webp"
+      }
+    },
+    {
+      "slug": "versa-2",
+      "name": "versa 3",
+      "year_start": 2015,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/versa/n17-2015-2022.webp"
+      }
+    },
+    {
+      "slug": "versa-3",
+      "name": "versa 4",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/versa/n18-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "versa-4",
+      "name": "versa 5",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/versa/n18-2023-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "moco",
+  "name": "moco",
+  "generations": [
+    {
+      "slug": "moco-0",
+      "name": "moco 1",
+      "year_start": 2002,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/moco/2002-2006.webp"
+      }
+    },
+    {
+      "slug": "moco-1",
+      "name": "moco 2",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/moco/2006-2011.webp"
+      }
+    },
+    {
+      "slug": "moco-2",
+      "name": "moco 3",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/moco/2011-2016.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "qashqai",
+  "name": "qashqai",
+  "generations": [
+    {
+      "slug": "qashqai-0",
+      "name": "qashqai 1",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/qashqai/j10-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "qashqai-1",
+      "name": "qashqai 2",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/qashqai/j10-2010-2013.webp"
+      }
+    },
+    {
+      "slug": "qashqai-2",
+      "name": "qashqai 3",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/qashqai/j10-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "qashqai-3",
+      "name": "qashqai 4",
+      "year_start": 2013,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/qashqai/j11-2013-2019.webp"
+      }
+    },
+    {
+      "slug": "qashqai-4",
+      "name": "qashqai 5",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/qashqai/j11-2017-2023.webp"
+      }
+    },
+    {
+      "slug": "qashqai-5",
+      "name": "qashqai 6",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/qashqai/j11-2024-now.webp"
+      }
+    },
+    {
+      "slug": "qashqai-6",
+      "name": "qashqai 7",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/qashqai/j12-2021-now.webp"
+      }
+    },
+    {
+      "slug": "qashqai-7",
+      "name": "qashqai 8",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/qashqai/j12-2024-now.webp"
+      }
+    }
+  ]
+}

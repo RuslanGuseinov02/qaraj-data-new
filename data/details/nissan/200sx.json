@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "200sx",
+  "name": "200sx",
+  "generations": [
+    {
+      "slug": "200sx-0",
+      "name": "200sx 1",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/200sx/b14-1995-1998.webp"
+      }
+    },
+    {
+      "slug": "200sx-1",
+      "name": "200sx 2",
+      "year_start": 1988,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/200sx/s13-1988-1993.webp"
+      }
+    },
+    {
+      "slug": "200sx-2",
+      "name": "200sx 3",
+      "year_start": 1993,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/200sx/s14-1993-2000.webp"
+      }
+    },
+    {
+      "slug": "200sx-3",
+      "name": "200sx 4",
+      "year_start": 2000,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/200sx/s15-2000-2002.webp"
+      }
+    }
+  ]
+}

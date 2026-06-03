@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "safari",
+  "name": "safari",
+  "generations": [
+    {
+      "slug": "safari-0",
+      "name": "safari 1",
+      "year_start": 1987,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/safari/y60-1987-1997.webp"
+      }
+    },
+    {
+      "slug": "safari-1",
+      "name": "safari 2",
+      "year_start": 1997,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/safari/y61-1997-2007.webp"
+      }
+    }
+  ]
+}

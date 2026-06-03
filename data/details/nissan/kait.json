@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "kait",
+  "name": "kait",
+  "generations": [
+    {
+      "slug": "kait-0",
+      "name": "kait 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/kait/2025-now.webp"
+      }
+    }
+  ]
+}

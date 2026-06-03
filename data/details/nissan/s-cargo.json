@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "s-cargo",
+  "name": "s-cargo",
+  "generations": [
+    {
+      "slug": "s-cargo-0",
+      "name": "s-cargo 1",
+      "year_start": 1989,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/s-cargo/1989-1991.webp"
+      }
+    }
+  ]
+}

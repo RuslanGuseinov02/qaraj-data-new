@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "tsuru",
+  "name": "tsuru",
+  "generations": [
+    {
+      "slug": "tsuru-0",
+      "name": "tsuru 1",
+      "year_start": 1992,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/tsuru/1992-2018.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "presage",
+  "name": "presage",
+  "generations": [
+    {
+      "slug": "presage-0",
+      "name": "presage 1",
+      "year_start": 1998,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/presage/1998-2003.webp"
+      }
+    },
+    {
+      "slug": "presage-1",
+      "name": "presage 2",
+      "year_start": 2003,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/presage/2003-2009.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "cima",
+  "name": "cima",
+  "generations": [
+    {
+      "slug": "cima-0",
+      "name": "cima 1",
+      "year_start": 2001,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/cima/f50-2001-2010.webp"
+      }
+    },
+    {
+      "slug": "cima-1",
+      "name": "cima 2",
+      "year_start": 1991,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/cima/y32-1991-1996.webp"
+      }
+    },
+    {
+      "slug": "cima-2",
+      "name": "cima 3",
+      "year_start": 1996,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/cima/y33-1996-2000.webp"
+      }
+    },
+    {
+      "slug": "cima-3",
+      "name": "cima 4",
+      "year_start": 2012,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/cima/y51-2012-2022.webp"
+      }
+    }
+  ]
+}

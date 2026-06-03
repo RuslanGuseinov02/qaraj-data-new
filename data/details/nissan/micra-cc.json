@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "micra-cc",
+  "name": "micra-cc",
+  "generations": [
+    {
+      "slug": "micra-cc-0",
+      "name": "micra-cc 1",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/micra-cc/k12-2007-2010.webp"
+      }
+    }
+  ]
+}

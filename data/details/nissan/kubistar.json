@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "kubistar",
+  "name": "kubistar",
+  "generations": [
+    {
+      "slug": "kubistar-0",
+      "name": "kubistar 1",
+      "year_start": 2003,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/kubistar/2003-2008.webp"
+      }
+    }
+  ]
+}

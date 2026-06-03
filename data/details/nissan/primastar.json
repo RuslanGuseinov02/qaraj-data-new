@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "primastar",
+  "name": "primastar",
+  "generations": [
+    {
+      "slug": "primastar-0",
+      "name": "primastar 1",
+      "year_start": 2001,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/primastar/2001-2015.webp"
+      }
+    },
+    {
+      "slug": "primastar-1",
+      "name": "primastar 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/primastar/2021-now.webp"
+      }
+    }
+  ]
+}

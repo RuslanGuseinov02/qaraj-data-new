@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "patrol-safari",
+  "name": "patrol-safari",
+  "generations": [
+    {
+      "slug": "patrol-safari-0",
+      "name": "patrol-safari 1",
+      "year_start": 2011,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/patrol-safari/y61-2011-now.webp"
+      }
+    }
+  ]
+}

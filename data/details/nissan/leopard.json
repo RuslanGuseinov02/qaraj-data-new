@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "leopard",
+  "name": "leopard",
+  "generations": [
+    {
+      "slug": "leopard-0",
+      "name": "leopard 1",
+      "year_start": 1986,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/leopard/f31-1986-1992.webp"
+      }
+    },
+    {
+      "slug": "leopard-1",
+      "name": "leopard 2",
+      "year_start": 1992,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/leopard/y32-1992-1996.webp"
+      }
+    },
+    {
+      "slug": "leopard-2",
+      "name": "leopard 3",
+      "year_start": 1996,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/leopard/y33-1996-2000.webp"
+      }
+    }
+  ]
+}

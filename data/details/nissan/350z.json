@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "350z",
+  "name": "350z",
+  "generations": [
+    {
+      "slug": "350z-0",
+      "name": "350z 1",
+      "year_start": 2002,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/350z/z33-2002-2009.webp"
+      }
+    }
+  ]
+}

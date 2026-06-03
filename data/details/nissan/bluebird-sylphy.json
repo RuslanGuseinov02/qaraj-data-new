@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "bluebird-sylphy",
+  "name": "bluebird-sylphy",
+  "generations": [
+    {
+      "slug": "bluebird-sylphy-0",
+      "name": "bluebird-sylphy 1",
+      "year_start": 2000,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/bluebird-sylphy/g10-2000-2005.webp"
+      }
+    },
+    {
+      "slug": "bluebird-sylphy-1",
+      "name": "bluebird-sylphy 2",
+      "year_start": 2005,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/bluebird-sylphy/g11-2005-2012.webp"
+      }
+    }
+  ]
+}

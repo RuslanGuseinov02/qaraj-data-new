@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "datsun",
+  "name": "datsun",
+  "generations": [
+    {
+      "slug": "datsun-0",
+      "name": "datsun 1",
+      "year_start": 1989,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/datsun/d21-1989-1992.webp"
+      }
+    },
+    {
+      "slug": "datsun-1",
+      "name": "datsun 2",
+      "year_start": 1992,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/datsun/d21-1992-1996.webp"
+      }
+    },
+    {
+      "slug": "datsun-2",
+      "name": "datsun 3",
+      "year_start": 1997,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/datsun/d22-1997-2002.webp"
+      }
+    }
+  ]
+}

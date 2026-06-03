@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "n6",
+  "name": "n6",
+  "generations": [
+    {
+      "slug": "n6-0",
+      "name": "n6 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/n6/2025-now.webp"
+      }
+    }
+  ]
+}

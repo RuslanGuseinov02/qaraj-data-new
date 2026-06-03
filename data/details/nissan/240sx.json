@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "240sx",
+  "name": "240sx",
+  "generations": [
+    {
+      "slug": "240sx-0",
+      "name": "240sx 1",
+      "year_start": 1989,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/240sx/s13-1989-1994.webp"
+      }
+    },
+    {
+      "slug": "240sx-1",
+      "name": "240sx 2",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/240sx/s14-1995-1998.webp"
+      }
+    }
+  ]
+}

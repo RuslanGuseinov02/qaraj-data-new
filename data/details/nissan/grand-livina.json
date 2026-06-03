@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "grand-livina",
+  "name": "grand-livina",
+  "generations": [
+    {
+      "slug": "grand-livina-0",
+      "name": "grand-livina 1",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/grand-livina/l10-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "grand-livina-1",
+      "name": "grand-livina 2",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/grand-livina/l10-2011-2013.webp"
+      }
+    },
+    {
+      "slug": "grand-livina-2",
+      "name": "grand-livina 3",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/grand-livina/l11-2014-2019.webp"
+      }
+    }
+  ]
+}

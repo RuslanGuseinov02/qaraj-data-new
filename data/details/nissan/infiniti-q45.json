@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "infiniti-q45",
+  "name": "infiniti-q45",
+  "generations": [
+    {
+      "slug": "infiniti-q45-0",
+      "name": "infiniti-q45 1",
+      "year_start": 1989,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/infiniti-q45/g50-1989-1993.webp"
+      }
+    },
+    {
+      "slug": "infiniti-q45-1",
+      "name": "infiniti-q45 2",
+      "year_start": 1993,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/infiniti-q45/g50-1993-1996.webp"
+      }
+    }
+  ]
+}

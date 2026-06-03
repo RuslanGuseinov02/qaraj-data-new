@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "nv200-vanette",
+  "name": "nv200-vanette",
+  "generations": [
+    {
+      "slug": "nv200-vanette-0",
+      "name": "nv200-vanette 1",
+      "year_start": 2009,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/nv200-vanette/2009-now.webp"
+      }
+    }
+  ]
+}

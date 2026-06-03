@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "crew",
+  "name": "crew",
+  "generations": [
+    {
+      "slug": "crew-0",
+      "name": "crew 1",
+      "year_start": 1993,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/crew/1993-2009.webp"
+      }
+    }
+  ]
+}

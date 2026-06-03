@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "truck",
+  "name": "truck",
+  "generations": [
+    {
+      "slug": "truck-0",
+      "name": "truck 1",
+      "year_start": 1990,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/truck/d21-1990-1997.webp"
+      }
+    }
+  ]
+}

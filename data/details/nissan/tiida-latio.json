@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "tiida-latio",
+  "name": "tiida-latio",
+  "generations": [
+    {
+      "slug": "tiida-latio-0",
+      "name": "tiida-latio 1",
+      "year_start": 2004,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/tiida-latio/c11-2004-2012.webp"
+      }
+    }
+  ]
+}

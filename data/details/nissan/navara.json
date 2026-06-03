@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "navara",
+  "name": "navara",
+  "generations": [
+    {
+      "slug": "navara-0",
+      "name": "navara 1",
+      "year_start": 1986,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/navara/d21-1986-1992.webp"
+      }
+    },
+    {
+      "slug": "navara-1",
+      "name": "navara 2",
+      "year_start": 1992,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/navara/d21-1992-1997.webp"
+      }
+    },
+    {
+      "slug": "navara-2",
+      "name": "navara 3",
+      "year_start": 1997,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/navara/d22-1997-2000.webp"
+      }
+    },
+    {
+      "slug": "navara-3",
+      "name": "navara 4",
+      "year_start": 2001,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/navara/d22-2001-2004.webp"
+      }
+    },
+    {
+      "slug": "navara-4",
+      "name": "navara 5",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/navara/d23-2017-now.webp"
+      }
+    },
+    {
+      "slug": "navara-5",
+      "name": "navara 6",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/navara/d23-2020-now.webp"
+      }
+    },
+    {
+      "slug": "navara-6",
+      "name": "navara 7",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/navara/d40-2005-2010.webp"
+      }
+    },
+    {
+      "slug": "navara-7",
+      "name": "navara 8",
+      "year_start": 2010,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/navara/d40-2010-2016.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "dayz",
+  "name": "dayz",
+  "generations": [
+    {
+      "slug": "dayz-0",
+      "name": "dayz 1",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/dayz/2013-2015.webp"
+      }
+    },
+    {
+      "slug": "dayz-1",
+      "name": "dayz 2",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/dayz/2015-2019.webp"
+      }
+    },
+    {
+      "slug": "dayz-2",
+      "name": "dayz 3",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/dayz/2019-2023.webp"
+      }
+    },
+    {
+      "slug": "dayz-3",
+      "name": "dayz 4",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/dayz/2023-now.webp"
+      }
+    }
+  ]
+}

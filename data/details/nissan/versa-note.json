@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "versa-note",
+  "name": "versa-note",
+  "generations": [
+    {
+      "slug": "versa-note-0",
+      "name": "versa-note 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/versa-note/2013-2016.webp"
+      }
+    },
+    {
+      "slug": "versa-note-1",
+      "name": "versa-note 2",
+      "year_start": 2017,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/versa-note/2017-2019.webp"
+      }
+    }
+  ]
+}

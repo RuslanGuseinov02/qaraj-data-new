@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "titan",
+  "name": "titan",
+  "generations": [
+    {
+      "slug": "titan-0",
+      "name": "titan 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/titan/2017-2020.webp"
+      }
+    },
+    {
+      "slug": "titan-1",
+      "name": "titan 2",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/titan/2020-2024.webp"
+      }
+    },
+    {
+      "slug": "titan-2",
+      "name": "titan 3",
+      "year_start": 2004,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/titan/a60-2004-2015.webp"
+      }
+    }
+  ]
+}

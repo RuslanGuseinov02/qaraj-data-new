@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "mistral",
+  "name": "mistral",
+  "generations": [
+    {
+      "slug": "mistral-0",
+      "name": "mistral 1",
+      "year_start": 1994,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/mistral/1994-1996.webp"
+      }
+    },
+    {
+      "slug": "mistral-1",
+      "name": "mistral 2",
+      "year_start": 1997,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/mistral/1997-1999.webp"
+      }
+    }
+  ]
+}

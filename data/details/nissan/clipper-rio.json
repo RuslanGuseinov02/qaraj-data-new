@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "clipper-rio",
+  "name": "clipper-rio",
+  "generations": [
+    {
+      "slug": "clipper-rio-0",
+      "name": "clipper-rio 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/clipper-rio/2024-now.webp"
+      }
+    },
+    {
+      "slug": "clipper-rio-1",
+      "name": "clipper-rio 2",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/clipper-rio/u71-u72-2007-2012.webp"
+      }
+    }
+  ]
+}

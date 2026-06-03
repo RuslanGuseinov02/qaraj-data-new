@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "kix",
+  "name": "kix",
+  "generations": [
+    {
+      "slug": "kix-0",
+      "name": "kix 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/kix/2008-2012.webp"
+      }
+    }
+  ]
+}

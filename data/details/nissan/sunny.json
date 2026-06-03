@@ -1,0 +1,130 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "sunny",
+  "name": "sunny",
+  "generations": [
+    {
+      "slug": "sunny-0",
+      "name": "sunny 1",
+      "year_start": 1981,
+      "year_end": 1986,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sunny/b11-1981-1986.webp"
+      }
+    },
+    {
+      "slug": "sunny-1",
+      "name": "sunny 2",
+      "year_start": 1990,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sunny/b13-1990-1993.webp"
+      }
+    },
+    {
+      "slug": "sunny-2",
+      "name": "sunny 3",
+      "year_start": 1994,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sunny/b14-1994-1999.webp"
+      }
+    },
+    {
+      "slug": "sunny-3",
+      "name": "sunny 4",
+      "year_start": 1998,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sunny/b15-1998-2004.webp"
+      }
+    },
+    {
+      "slug": "sunny-4",
+      "name": "sunny 5",
+      "year_start": 1986,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sunny/n13-1986-1991.webp"
+      }
+    },
+    {
+      "slug": "sunny-5",
+      "name": "sunny 6",
+      "year_start": 1990,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sunny/n14-1990-1995.webp"
+      }
+    },
+    {
+      "slug": "sunny-6",
+      "name": "sunny 7",
+      "year_start": 2000,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sunny/n16-2000-2005.webp"
+      }
+    },
+    {
+      "slug": "sunny-7",
+      "name": "sunny 8",
+      "year_start": 2007,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sunny/n16-2007-2011.webp"
+      }
+    },
+    {
+      "slug": "sunny-8",
+      "name": "sunny 9",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sunny/n17-2011-2014.webp"
+      }
+    },
+    {
+      "slug": "sunny-9",
+      "name": "sunny 10",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sunny/n17-2015-now.webp"
+      }
+    },
+    {
+      "slug": "sunny-10",
+      "name": "sunny 11",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sunny/n18-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "sunny-11",
+      "name": "sunny 12",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sunny/n18-2023-now.webp"
+      }
+    }
+  ]
+}

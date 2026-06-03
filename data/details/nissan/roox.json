@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "roox",
+  "name": "roox",
+  "generations": [
+    {
+      "slug": "roox-0",
+      "name": "roox 1",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/roox/2009-2013.webp"
+      }
+    },
+    {
+      "slug": "roox-1",
+      "name": "roox 2",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/roox/2020-2023.webp"
+      }
+    },
+    {
+      "slug": "roox-2",
+      "name": "roox 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/roox/2023-now.webp"
+      }
+    },
+    {
+      "slug": "roox-3",
+      "name": "roox 4",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/roox/2025-now.webp"
+      }
+    }
+  ]
+}

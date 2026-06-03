@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "armada",
+  "name": "armada",
+  "generations": [
+    {
+      "slug": "armada-0",
+      "name": "armada 1",
+      "year_start": 2004,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/armada/wa60-2004-2007.webp"
+      }
+    },
+    {
+      "slug": "armada-1",
+      "name": "armada 2",
+      "year_start": 2008,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/armada/wa60-2008-2016.webp"
+      }
+    },
+    {
+      "slug": "armada-2",
+      "name": "armada 3",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/armada/y62-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "armada-3",
+      "name": "armada 4",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/armada/y62-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "armada-4",
+      "name": "armada 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/armada/y63-2024-now.webp"
+      }
+    }
+  ]
+}

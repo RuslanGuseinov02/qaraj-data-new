@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "rnessa",
+  "name": "rnessa",
+  "generations": [
+    {
+      "slug": "rnessa-0",
+      "name": "rnessa 1",
+      "year_start": 1997,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/rnessa/1997-2001.webp"
+      }
+    }
+  ]
+}

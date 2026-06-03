@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "avenir",
+  "name": "avenir",
+  "generations": [
+    {
+      "slug": "avenir-0",
+      "name": "avenir 1",
+      "year_start": 1990,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/avenir/w10-1990-1995.webp"
+      }
+    },
+    {
+      "slug": "avenir-1",
+      "name": "avenir 2",
+      "year_start": 1998,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/avenir/w11-1998-2000.webp"
+      }
+    },
+    {
+      "slug": "avenir-2",
+      "name": "avenir 3",
+      "year_start": 2000,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/avenir/w11-2000-2005.webp"
+      }
+    }
+  ]
+}

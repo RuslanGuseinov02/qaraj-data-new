@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "nv100-clipper-rio",
+  "name": "nv100-clipper-rio",
+  "generations": [
+    {
+      "slug": "nv100-clipper-rio-0",
+      "name": "nv100-clipper-rio 1",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/nv100-clipper-rio/2013-2015.webp"
+      }
+    },
+    {
+      "slug": "nv100-clipper-rio-1",
+      "name": "nv100-clipper-rio 2",
+      "year_start": 2015,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/nv100-clipper-rio/2015-2024.webp"
+      }
+    }
+  ]
+}

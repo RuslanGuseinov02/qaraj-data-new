@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "primera",
+  "name": "primera",
+  "generations": [
+    {
+      "slug": "primera-0",
+      "name": "primera 1",
+      "year_start": 1990,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/primera/p10-1990-1995.webp"
+      }
+    },
+    {
+      "slug": "primera-1",
+      "name": "primera 2",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/primera/p11-1995-2000.webp"
+      }
+    },
+    {
+      "slug": "primera-2",
+      "name": "primera 3",
+      "year_start": 1999,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/primera/p11-1999-2002.webp"
+      }
+    },
+    {
+      "slug": "primera-3",
+      "name": "primera 4",
+      "year_start": 2001,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/primera/p12-2001-2008.webp"
+      }
+    }
+  ]
+}

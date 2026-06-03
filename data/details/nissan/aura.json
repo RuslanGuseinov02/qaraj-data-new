@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "aura",
+  "name": "aura",
+  "generations": [
+    {
+      "slug": "aura-0",
+      "name": "aura 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/aura/e13-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "aura-1",
+      "name": "aura 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/aura/e13-2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "nv250",
+  "name": "nv250",
+  "generations": [
+    {
+      "slug": "nv250-0",
+      "name": "nv250 1",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/nv250/2019-2022.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "patrol",
+  "name": "patrol",
+  "generations": [
+    {
+      "slug": "patrol-0",
+      "name": "patrol 1",
+      "year_start": 1988,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/patrol/y60-1988-1998.webp"
+      }
+    },
+    {
+      "slug": "patrol-1",
+      "name": "patrol 2",
+      "year_start": 1997,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/patrol/y61-1997-2004.webp"
+      }
+    },
+    {
+      "slug": "patrol-2",
+      "name": "patrol 3",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/patrol/y61-2004-2010.webp"
+      }
+    },
+    {
+      "slug": "patrol-3",
+      "name": "patrol 4",
+      "year_start": 2011,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/patrol/y61-2011-now.webp"
+      }
+    },
+    {
+      "slug": "patrol-4",
+      "name": "patrol 5",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/patrol/y62-2010-2015.webp"
+      }
+    },
+    {
+      "slug": "patrol-5",
+      "name": "patrol 6",
+      "year_start": 2014,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/patrol/y62-2014-2020.webp"
+      }
+    },
+    {
+      "slug": "patrol-6",
+      "name": "patrol 7",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/patrol/y62-2020-now.webp"
+      }
+    },
+    {
+      "slug": "patrol-7",
+      "name": "patrol 8",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/patrol/y63-2024-now.webp"
+      }
+    }
+  ]
+}

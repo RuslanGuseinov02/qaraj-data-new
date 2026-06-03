@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "370z",
+  "name": "370z",
+  "generations": [
+    {
+      "slug": "370z-0",
+      "name": "370z 1",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/370z/z34-2009-2012.webp"
+      }
+    },
+    {
+      "slug": "370z-1",
+      "name": "370z 2",
+      "year_start": 2012,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/370z/z34-2012-2023.webp"
+      }
+    }
+  ]
+}

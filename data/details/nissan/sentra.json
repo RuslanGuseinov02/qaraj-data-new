@@ -1,0 +1,130 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "sentra",
+  "name": "sentra",
+  "generations": [
+    {
+      "slug": "sentra-0",
+      "name": "sentra 1",
+      "year_start": 1985,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sentra/b12-1985-1990.webp"
+      }
+    },
+    {
+      "slug": "sentra-1",
+      "name": "sentra 2",
+      "year_start": 1990,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sentra/b13-1990-1994.webp"
+      }
+    },
+    {
+      "slug": "sentra-2",
+      "name": "sentra 3",
+      "year_start": 1995,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sentra/b13-1995-2016.webp"
+      }
+    },
+    {
+      "slug": "sentra-3",
+      "name": "sentra 4",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sentra/b14-1995-1999.webp"
+      }
+    },
+    {
+      "slug": "sentra-4",
+      "name": "sentra 5",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sentra/b15-2000-2006.webp"
+      }
+    },
+    {
+      "slug": "sentra-5",
+      "name": "sentra 6",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sentra/b16-2007-2009.webp"
+      }
+    },
+    {
+      "slug": "sentra-6",
+      "name": "sentra 7",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sentra/b16-2010-2012.webp"
+      }
+    },
+    {
+      "slug": "sentra-7",
+      "name": "sentra 8",
+      "year_start": 2012,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sentra/b17-2012-now.webp"
+      }
+    },
+    {
+      "slug": "sentra-8",
+      "name": "sentra 9",
+      "year_start": 2016,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sentra/b17-2016-2022.webp"
+      }
+    },
+    {
+      "slug": "sentra-9",
+      "name": "sentra 10",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sentra/b18-2020-2024.webp"
+      }
+    },
+    {
+      "slug": "sentra-10",
+      "name": "sentra 11",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sentra/b18-2023-now.webp"
+      }
+    },
+    {
+      "slug": "sentra-11",
+      "name": "sentra 12",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sentra/b19-2025-now.webp"
+      }
+    }
+  ]
+}

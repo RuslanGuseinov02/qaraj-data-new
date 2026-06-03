@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "cedric",
+  "name": "cedric",
+  "generations": [
+    {
+      "slug": "cedric-0",
+      "name": "cedric 1",
+      "year_start": 1983,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/cedric/y30-1983-1999.webp"
+      }
+    },
+    {
+      "slug": "cedric-1",
+      "name": "cedric 2",
+      "year_start": 1987,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/cedric/y31-1987-2014.webp"
+      }
+    },
+    {
+      "slug": "cedric-2",
+      "name": "cedric 3",
+      "year_start": 1991,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/cedric/y32-1991-1995.webp"
+      }
+    },
+    {
+      "slug": "cedric-3",
+      "name": "cedric 4",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/cedric/y33-1995-1999.webp"
+      }
+    },
+    {
+      "slug": "cedric-4",
+      "name": "cedric 5",
+      "year_start": 1999,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/cedric/y34-1999-2004.webp"
+      }
+    }
+  ]
+}

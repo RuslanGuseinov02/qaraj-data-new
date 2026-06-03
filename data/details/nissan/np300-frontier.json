@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "np300-frontier",
+  "name": "np300-frontier",
+  "generations": [
+    {
+      "slug": "np300-frontier-0",
+      "name": "np300-frontier 1",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/np300-frontier/d23-2015-2020.webp"
+      }
+    },
+    {
+      "slug": "np300-frontier-1",
+      "name": "np300-frontier 2",
+      "year_start": 2020,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/np300-frontier/d23-2020-2021.webp"
+      }
+    }
+  ]
+}

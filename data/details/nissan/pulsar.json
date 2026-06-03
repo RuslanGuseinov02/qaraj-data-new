@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "pulsar",
+  "name": "pulsar",
+  "generations": [
+    {
+      "slug": "pulsar-0",
+      "name": "pulsar 1",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/pulsar/b17-c12-2013-2015.webp"
+      }
+    },
+    {
+      "slug": "pulsar-1",
+      "name": "pulsar 2",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/pulsar/b17-c12-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "pulsar-2",
+      "name": "pulsar 3",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/pulsar/c13-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "pulsar-3",
+      "name": "pulsar 4",
+      "year_start": 1990,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/pulsar/n14-1990-1995.webp"
+      }
+    },
+    {
+      "slug": "pulsar-4",
+      "name": "pulsar 5",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/pulsar/n15-1995-2000.webp"
+      }
+    },
+    {
+      "slug": "pulsar-5",
+      "name": "pulsar 6",
+      "year_start": 2000,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/pulsar/n16-2000-2005.webp"
+      }
+    }
+  ]
+}

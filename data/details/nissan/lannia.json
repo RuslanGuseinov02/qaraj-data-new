@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "lannia",
+  "name": "lannia",
+  "generations": [
+    {
+      "slug": "lannia-0",
+      "name": "lannia 1",
+      "year_start": 2016,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/lannia/2016-2024.webp"
+      }
+    }
+  ]
+}

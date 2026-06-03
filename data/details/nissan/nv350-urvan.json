@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "nv350-urvan",
+  "name": "nv350-urvan",
+  "generations": [
+    {
+      "slug": "nv350-urvan-0",
+      "name": "nv350-urvan 1",
+      "year_start": 2012,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/nv350-urvan/e26-2012-now.webp"
+      }
+    }
+  ]
+}

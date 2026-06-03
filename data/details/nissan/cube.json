@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "cube",
+  "name": "cube",
+  "generations": [
+    {
+      "slug": "cube-0",
+      "name": "cube 1",
+      "year_start": 1998,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/cube/z10-1998-2003.webp"
+      }
+    },
+    {
+      "slug": "cube-1",
+      "name": "cube 2",
+      "year_start": 2002,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/cube/z11-2002-2008.webp"
+      }
+    },
+    {
+      "slug": "cube-2",
+      "name": "cube 3",
+      "year_start": 2008,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/cube/z12-2008-2020.webp"
+      }
+    }
+  ]
+}

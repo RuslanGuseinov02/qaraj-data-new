@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "x-terra",
+  "name": "x-terra",
+  "generations": [
+    {
+      "slug": "x-terra-0",
+      "name": "x-terra 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/x-terra/d23-2021-now.webp"
+      }
+    }
+  ]
+}

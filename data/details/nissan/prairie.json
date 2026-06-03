@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "prairie",
+  "name": "prairie",
+  "generations": [
+    {
+      "slug": "prairie-0",
+      "name": "prairie 1",
+      "year_start": 1982,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/prairie/m10-1982-1988.webp"
+      }
+    },
+    {
+      "slug": "prairie-1",
+      "name": "prairie 2",
+      "year_start": 1988,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/prairie/m11-1988-1995.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "micra",
+  "name": "micra",
+  "generations": [
+    {
+      "slug": "micra-0",
+      "name": "micra 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/micra/2025-now.webp"
+      }
+    },
+    {
+      "slug": "micra-1",
+      "name": "micra 2",
+      "year_start": 1982,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/micra/k10-1982-1989.webp"
+      }
+    },
+    {
+      "slug": "micra-2",
+      "name": "micra 3",
+      "year_start": 1989,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/micra/k10-1989-1992.webp"
+      }
+    },
+    {
+      "slug": "micra-3",
+      "name": "micra 4",
+      "year_start": 1992,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/micra/k11-1992-1998.webp"
+      }
+    },
+    {
+      "slug": "micra-4",
+      "name": "micra 5",
+      "year_start": 1998,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/micra/k11-1998-2000.webp"
+      }
+    },
+    {
+      "slug": "micra-5",
+      "name": "micra 6",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/micra/k11-2000-2003.webp"
+      }
+    },
+    {
+      "slug": "micra-6",
+      "name": "micra 7",
+      "year_start": 2003,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/micra/k12-2003-2005.webp"
+      }
+    },
+    {
+      "slug": "micra-7",
+      "name": "micra 8",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/micra/k12-2005-2007.webp"
+      }
+    },
+    {
+      "slug": "micra-8",
+      "name": "micra 9",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/micra/k12-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "micra-9",
+      "name": "micra 10",
+      "year_start": 2010,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/micra/k13-2010-2017.webp"
+      }
+    },
+    {
+      "slug": "micra-10",
+      "name": "micra 11",
+      "year_start": 2014,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/micra/k13-2014-2023.webp"
+      }
+    },
+    {
+      "slug": "micra-11",
+      "name": "micra 12",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/micra/k14-2017-2023.webp"
+      }
+    }
+  ]
+}

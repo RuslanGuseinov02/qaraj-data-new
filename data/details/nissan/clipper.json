@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "clipper",
+  "name": "clipper",
+  "generations": [
+    {
+      "slug": "clipper-0",
+      "name": "clipper 1",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/clipper/2003-2006.webp"
+      }
+    },
+    {
+      "slug": "clipper-1",
+      "name": "clipper 2",
+      "year_start": 2006,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/clipper/2006-2012.webp"
+      }
+    },
+    {
+      "slug": "clipper-2",
+      "name": "clipper 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/clipper/2024-now.webp"
+      }
+    }
+  ]
+}

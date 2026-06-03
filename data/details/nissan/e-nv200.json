@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "e-nv200",
+  "name": "e-nv200",
+  "generations": [
+    {
+      "slug": "e-nv200-0",
+      "name": "e-nv200 1",
+      "year_start": 2014,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/e-nv200/2014-2024.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "frontier",
+  "name": "frontier",
+  "generations": [
+    {
+      "slug": "frontier-0",
+      "name": "frontier 1",
+      "year_start": 1997,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/frontier/d22-1997-2000.webp"
+      }
+    },
+    {
+      "slug": "frontier-1",
+      "name": "frontier 2",
+      "year_start": 2001,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/frontier/d22-2001-2004.webp"
+      }
+    },
+    {
+      "slug": "frontier-2",
+      "name": "frontier 3",
+      "year_start": 2005,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/frontier/d22-2005-2016.webp"
+      }
+    },
+    {
+      "slug": "frontier-3",
+      "name": "frontier 4",
+      "year_start": 2015,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/frontier/d23-2015-2022.webp"
+      }
+    },
+    {
+      "slug": "frontier-4",
+      "name": "frontier 5",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/frontier/d23-2020-now.webp"
+      }
+    },
+    {
+      "slug": "frontier-5",
+      "name": "frontier 6",
+      "year_start": 2005,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/frontier/d40-2005-2021.webp"
+      }
+    },
+    {
+      "slug": "frontier-6",
+      "name": "frontier 7",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/frontier/d41-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "frontier-7",
+      "name": "frontier 8",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/frontier/d41-2025-now.webp"
+      }
+    }
+  ]
+}

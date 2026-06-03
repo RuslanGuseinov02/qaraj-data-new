@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "skyline-crossover",
+  "name": "skyline-crossover",
+  "generations": [
+    {
+      "slug": "skyline-crossover-0",
+      "name": "skyline-crossover 1",
+      "year_start": 2009,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/skyline-crossover/2009-2016.webp"
+      }
+    }
+  ]
+}

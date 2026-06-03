@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "kicks-play",
+  "name": "kicks-play",
+  "generations": [
+    {
+      "slug": "kicks-play-0",
+      "name": "kicks-play 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/kicks-play/p15-2025-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "gloria",
+  "name": "gloria",
+  "generations": [
+    {
+      "slug": "gloria-0",
+      "name": "gloria 1",
+      "year_start": 1983,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/gloria/y30-1983-1999.webp"
+      }
+    },
+    {
+      "slug": "gloria-1",
+      "name": "gloria 2",
+      "year_start": 1987,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/gloria/y31-1987-1999.webp"
+      }
+    },
+    {
+      "slug": "gloria-2",
+      "name": "gloria 3",
+      "year_start": 1991,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/gloria/y32-1991-1995.webp"
+      }
+    },
+    {
+      "slug": "gloria-3",
+      "name": "gloria 4",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/gloria/y33-1995-1999.webp"
+      }
+    },
+    {
+      "slug": "gloria-4",
+      "name": "gloria 5",
+      "year_start": 1999,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/gloria/y34-1999-2004.webp"
+      }
+    }
+  ]
+}

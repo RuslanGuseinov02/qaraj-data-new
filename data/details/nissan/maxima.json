@@ -1,0 +1,160 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "maxima",
+  "name": "maxima",
+  "generations": [
+    {
+      "slug": "maxima-0",
+      "name": "maxima 1",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/maxima/a32-1995-1999.webp"
+      }
+    },
+    {
+      "slug": "maxima-1",
+      "name": "maxima 2",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/maxima/a32-1995-2000.webp"
+      }
+    },
+    {
+      "slug": "maxima-2",
+      "name": "maxima 3",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/maxima/a33-2000-2003.webp"
+      }
+    },
+    {
+      "slug": "maxima-3",
+      "name": "maxima 4",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/maxima/a33-2000-2006.webp"
+      }
+    },
+    {
+      "slug": "maxima-4",
+      "name": "maxima 5",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/maxima/a34-2004-2006.webp"
+      }
+    },
+    {
+      "slug": "maxima-5",
+      "name": "maxima 6",
+      "year_start": 2007,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/maxima/a34-2007-2008.webp"
+      }
+    },
+    {
+      "slug": "maxima-6",
+      "name": "maxima 7",
+      "year_start": 2009,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/maxima/a35-2009-2015.webp"
+      }
+    },
+    {
+      "slug": "maxima-7",
+      "name": "maxima 8",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/maxima/a36-2016-2018.webp"
+      }
+    },
+    {
+      "slug": "maxima-8",
+      "name": "maxima 9",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/maxima/a36-2018-2023.webp"
+      }
+    },
+    {
+      "slug": "maxima-9",
+      "name": "maxima 10",
+      "year_start": 1981,
+      "year_end": 1984,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/maxima/g910-1981-1984.webp"
+      }
+    },
+    {
+      "slug": "maxima-10",
+      "name": "maxima 11",
+      "year_start": 1988,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/maxima/j30-1988-1994.webp"
+      }
+    },
+    {
+      "slug": "maxima-11",
+      "name": "maxima 12",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/maxima/j31-2003-2006.webp"
+      }
+    },
+    {
+      "slug": "maxima-12",
+      "name": "maxima 13",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/maxima/j31-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "maxima-13",
+      "name": "maxima 14",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/maxima/j32-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "maxima-14",
+      "name": "maxima 15",
+      "year_start": 1985,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/maxima/pu11-1985-1988.webp"
+      }
+    }
+  ]
+}

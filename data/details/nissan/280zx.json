@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "280zx",
+  "name": "280zx",
+  "generations": [
+    {
+      "slug": "280zx-0",
+      "name": "280zx 1",
+      "year_start": 1978,
+      "year_end": 1984,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/280zx/s130-1978-1984.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "lucino",
+  "name": "lucino",
+  "generations": [
+    {
+      "slug": "lucino-0",
+      "name": "lucino 1",
+      "year_start": 1994,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/lucino/n15-b14-1994-2000.webp"
+      }
+    }
+  ]
+}

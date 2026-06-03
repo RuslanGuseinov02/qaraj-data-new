@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "ariya",
+  "name": "ariya",
+  "generations": [
+    {
+      "slug": "ariya-0",
+      "name": "ariya 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/ariya/2020-now.webp"
+      }
+    }
+  ]
+}

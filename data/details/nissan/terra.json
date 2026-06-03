@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "terra",
+  "name": "terra",
+  "generations": [
+    {
+      "slug": "terra-0",
+      "name": "terra 1",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/terra/2018-2024.webp"
+      }
+    },
+    {
+      "slug": "terra-1",
+      "name": "terra 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/terra/2021-now.webp"
+      }
+    }
+  ]
+}

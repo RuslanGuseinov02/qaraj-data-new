@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "n7",
+  "name": "n7",
+  "generations": [
+    {
+      "slug": "n7-0",
+      "name": "n7 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/n7/2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "v16",
+  "name": "v16",
+  "generations": [
+    {
+      "slug": "v16-0",
+      "name": "v16 1",
+      "year_start": 1992,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/v16/1992-2017.webp"
+      }
+    }
+  ]
+}

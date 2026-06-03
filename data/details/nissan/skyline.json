@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "skyline",
+  "name": "skyline",
+  "generations": [
+    {
+      "slug": "skyline-0",
+      "name": "skyline 1",
+      "year_start": 1989,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/skyline/r32-1989-1994.webp"
+      }
+    },
+    {
+      "slug": "skyline-1",
+      "name": "skyline 2",
+      "year_start": 1993,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/skyline/r33-1993-1998.webp"
+      }
+    },
+    {
+      "slug": "skyline-2",
+      "name": "skyline 3",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/skyline/r34-1998-2002.webp"
+      }
+    },
+    {
+      "slug": "skyline-3",
+      "name": "skyline 4",
+      "year_start": 2001,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/skyline/v35-2001-2007.webp"
+      }
+    },
+    {
+      "slug": "skyline-4",
+      "name": "skyline 5",
+      "year_start": 2006,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/skyline/v36-2006-2014.webp"
+      }
+    },
+    {
+      "slug": "skyline-5",
+      "name": "skyline 6",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/skyline/v37-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "skyline-6",
+      "name": "skyline 7",
+      "year_start": 2017,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/skyline/v37-2017-2019.webp"
+      }
+    },
+    {
+      "slug": "skyline-7",
+      "name": "skyline 8",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/skyline/v37-2019-now.webp"
+      }
+    }
+  ]
+}

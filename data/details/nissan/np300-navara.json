@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "np300-navara",
+  "name": "np300-navara",
+  "generations": [
+    {
+      "slug": "np300-navara-0",
+      "name": "np300-navara 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/np300-navara/d23-2014-2017.webp"
+      }
+    }
+  ]
+}

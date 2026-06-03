@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "skystar",
+  "name": "skystar",
+  "generations": [
+    {
+      "slug": "skystar-0",
+      "name": "skystar 1",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/skystar/d22-1998-2002.webp"
+      }
+    },
+    {
+      "slug": "skystar-1",
+      "name": "skystar 2",
+      "year_start": 2002,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/skystar/d22-2002-2012.webp"
+      }
+    }
+  ]
+}

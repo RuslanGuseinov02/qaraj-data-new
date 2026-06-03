@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "sylphy-classic",
+  "name": "sylphy-classic",
+  "generations": [
+    {
+      "slug": "sylphy-classic-0",
+      "name": "sylphy-classic 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sylphy-classic/b17-2020-now.webp"
+      }
+    },
+    {
+      "slug": "sylphy-classic-1",
+      "name": "sylphy-classic 2",
+      "year_start": 2006,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/sylphy-classic/g11-2006-2020.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "fairlady-z",
+  "name": "fairlady-z",
+  "generations": [
+    {
+      "slug": "fairlady-z-0",
+      "name": "fairlady-z 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/fairlady-z/2022-now.webp"
+      }
+    },
+    {
+      "slug": "fairlady-z-1",
+      "name": "fairlady-z 2",
+      "year_start": 1978,
+      "year_end": 1983,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/fairlady-z/s130-z30-1978-1983.webp"
+      }
+    },
+    {
+      "slug": "fairlady-z-2",
+      "name": "fairlady-z 3",
+      "year_start": 1969,
+      "year_end": 1978,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/fairlady-z/s30-1969-1978.webp"
+      }
+    },
+    {
+      "slug": "fairlady-z-3",
+      "name": "fairlady-z 4",
+      "year_start": 1983,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/fairlady-z/z31-1983-1989.webp"
+      }
+    },
+    {
+      "slug": "fairlady-z-4",
+      "name": "fairlady-z 5",
+      "year_start": 1989,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/fairlady-z/z32-1989-1998.webp"
+      }
+    },
+    {
+      "slug": "fairlady-z-5",
+      "name": "fairlady-z 6",
+      "year_start": 1998,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/fairlady-z/z32-1998-2000.webp"
+      }
+    },
+    {
+      "slug": "fairlady-z-6",
+      "name": "fairlady-z 7",
+      "year_start": 2002,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/fairlady-z/z33-2002-2008.webp"
+      }
+    },
+    {
+      "slug": "fairlady-z-7",
+      "name": "fairlady-z 8",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/fairlady-z/z34-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "fairlady-z-8",
+      "name": "fairlady-z 9",
+      "year_start": 2012,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/fairlady-z/z34-2012-2021.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "quest",
+  "name": "quest",
+  "generations": [
+    {
+      "slug": "quest-0",
+      "name": "quest 1",
+      "year_start": 2010,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/quest/re52-2010-2017.webp"
+      }
+    },
+    {
+      "slug": "quest-1",
+      "name": "quest 2",
+      "year_start": 1992,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/quest/v40-1992-1998.webp"
+      }
+    },
+    {
+      "slug": "quest-2",
+      "name": "quest 3",
+      "year_start": 1999,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/quest/v41-1999-2000.webp"
+      }
+    },
+    {
+      "slug": "quest-3",
+      "name": "quest 4",
+      "year_start": 2001,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/quest/v41-2001-2002.webp"
+      }
+    },
+    {
+      "slug": "quest-4",
+      "name": "quest 5",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/quest/v42-2003-2006.webp"
+      }
+    },
+    {
+      "slug": "quest-5",
+      "name": "quest 6",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/quest/v42-2007-2009.webp"
+      }
+    }
+  ]
+}

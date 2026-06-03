@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "murano",
+  "name": "murano",
+  "generations": [
+    {
+      "slug": "murano-0",
+      "name": "murano 1",
+      "year_start": 2003,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/murano/z50-2003-2008.webp"
+      }
+    },
+    {
+      "slug": "murano-1",
+      "name": "murano 2",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/murano/z51-2008-2011.webp"
+      }
+    },
+    {
+      "slug": "murano-2",
+      "name": "murano 3",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/murano/z51-2011-2016.webp"
+      }
+    },
+    {
+      "slug": "murano-3",
+      "name": "murano 4",
+      "year_start": 2015,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/murano/z52-2015-2024.webp"
+      }
+    },
+    {
+      "slug": "murano-4",
+      "name": "murano 5",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/murano/z52-2020-2024.webp"
+      }
+    },
+    {
+      "slug": "murano-5",
+      "name": "murano 6",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/murano/z53-2025-now.webp"
+      }
+    }
+  ]
+}

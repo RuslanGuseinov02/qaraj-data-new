@@ -1,0 +1,110 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "altima",
+  "name": "altima",
+  "generations": [
+    {
+      "slug": "altima-0",
+      "name": "altima 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/altima/2023-now.webp"
+      }
+    },
+    {
+      "slug": "altima-1",
+      "name": "altima 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/altima/2024-now.webp"
+      }
+    },
+    {
+      "slug": "altima-2",
+      "name": "altima 3",
+      "year_start": 1998,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/altima/l30-1998-2001.webp"
+      }
+    },
+    {
+      "slug": "altima-3",
+      "name": "altima 4",
+      "year_start": 2002,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/altima/l31-2002-2006.webp"
+      }
+    },
+    {
+      "slug": "altima-4",
+      "name": "altima 5",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/altima/l32a-d32-2007-2009.webp"
+      }
+    },
+    {
+      "slug": "altima-5",
+      "name": "altima 6",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/altima/l32a-d32-2010-2013.webp"
+      }
+    },
+    {
+      "slug": "altima-6",
+      "name": "altima 7",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/altima/l33-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "altima-7",
+      "name": "altima 8",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/altima/l33-2016-2018.webp"
+      }
+    },
+    {
+      "slug": "altima-8",
+      "name": "altima 9",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/altima/l34-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "altima-9",
+      "name": "altima 10",
+      "year_start": 1993,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/altima/u13-1993-1997.webp"
+      }
+    }
+  ]
+}

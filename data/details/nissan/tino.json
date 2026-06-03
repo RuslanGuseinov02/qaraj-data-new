@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "tino",
+  "name": "tino",
+  "generations": [
+    {
+      "slug": "tino-0",
+      "name": "tino 1",
+      "year_start": 1998,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/tino/1998-2003.webp"
+      }
+    }
+  ]
+}

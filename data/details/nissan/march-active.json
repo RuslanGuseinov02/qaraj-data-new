@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "march-active",
+  "name": "march-active",
+  "generations": [
+    {
+      "slug": "march-active-0",
+      "name": "march-active 1",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/march-active/k13-2013-2018.webp"
+      }
+    }
+  ]
+}

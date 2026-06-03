@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "wingroad",
+  "name": "wingroad",
+  "generations": [
+    {
+      "slug": "wingroad-0",
+      "name": "wingroad 1",
+      "year_start": 1996,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/wingroad/y10-1996-1999.webp"
+      }
+    },
+    {
+      "slug": "wingroad-1",
+      "name": "wingroad 2",
+      "year_start": 1999,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/wingroad/y11-1999-2005.webp"
+      }
+    },
+    {
+      "slug": "wingroad-2",
+      "name": "wingroad 3",
+      "year_start": 2005,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/wingroad/y12-2005-2018.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "tiida",
+  "name": "tiida",
+  "generations": [
+    {
+      "slug": "tiida-0",
+      "name": "tiida 1",
+      "year_start": 2004,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/tiida/c11-2004-2012.webp"
+      }
+    },
+    {
+      "slug": "tiida-1",
+      "name": "tiida 2",
+      "year_start": 2011,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/tiida/c11-2011-2019.webp"
+      }
+    },
+    {
+      "slug": "tiida-2",
+      "name": "tiida 3",
+      "year_start": 2011,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/tiida/c12-2011-2019.webp"
+      }
+    },
+    {
+      "slug": "tiida-3",
+      "name": "tiida 4",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/tiida/c12-2017-2023.webp"
+      }
+    },
+    {
+      "slug": "tiida-4",
+      "name": "tiida 5",
+      "year_start": 2015,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/tiida/c13-2015-2016.webp"
+      }
+    },
+    {
+      "slug": "tiida-5",
+      "name": "tiida 6",
+      "year_start": 2016,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/tiida/c13-2016-now.webp"
+      }
+    }
+  ]
+}

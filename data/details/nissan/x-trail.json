@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "x-trail",
+  "name": "x-trail",
+  "generations": [
+    {
+      "slug": "x-trail-0",
+      "name": "x-trail 1",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/x-trail/t30-2000-2003.webp"
+      }
+    },
+    {
+      "slug": "x-trail-1",
+      "name": "x-trail 2",
+      "year_start": 2001,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/x-trail/t30-2001-2007.webp"
+      }
+    },
+    {
+      "slug": "x-trail-2",
+      "name": "x-trail 3",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/x-trail/t30-2003-2007.webp"
+      }
+    },
+    {
+      "slug": "x-trail-3",
+      "name": "x-trail 4",
+      "year_start": 2010,
+      "year_end": 15,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/x-trail/t31-2007-2010-15.webp"
+      }
+    },
+    {
+      "slug": "x-trail-4",
+      "name": "x-trail 5",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/x-trail/t31-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "x-trail-5",
+      "name": "x-trail 6",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/x-trail/t31-2010-2015.webp"
+      }
+    },
+    {
+      "slug": "x-trail-6",
+      "name": "x-trail 7",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/x-trail/t32-2013-2018.webp"
+      }
+    },
+    {
+      "slug": "x-trail-7",
+      "name": "x-trail 8",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/x-trail/t32-2017-now.webp"
+      }
+    },
+    {
+      "slug": "x-trail-8",
+      "name": "x-trail 9",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/x-trail/t33-2021-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "interstar",
+  "name": "interstar",
+  "generations": [
+    {
+      "slug": "interstar-0",
+      "name": "interstar 1",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/interstar/m1-m2-2022-2024.webp"
+      }
+    },
+    {
+      "slug": "interstar-1",
+      "name": "interstar 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/interstar/nda-ndb-ndc-2024-now.webp"
+      }
+    }
+  ]
+}

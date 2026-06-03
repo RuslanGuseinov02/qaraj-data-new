@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "pathfinder",
+  "name": "pathfinder",
+  "generations": [
+    {
+      "slug": "pathfinder-0",
+      "name": "pathfinder 1",
+      "year_start": 1996,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/pathfinder/r50-1996-1999.webp"
+      }
+    },
+    {
+      "slug": "pathfinder-1",
+      "name": "pathfinder 2",
+      "year_start": 1999,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/pathfinder/r50-1999-2001.webp"
+      }
+    },
+    {
+      "slug": "pathfinder-2",
+      "name": "pathfinder 3",
+      "year_start": 2002,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/pathfinder/r50-2002-2004.webp"
+      }
+    },
+    {
+      "slug": "pathfinder-3",
+      "name": "pathfinder 4",
+      "year_start": 2005,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/pathfinder/r51-2005-2016.webp"
+      }
+    },
+    {
+      "slug": "pathfinder-4",
+      "name": "pathfinder 5",
+      "year_start": 2012,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/pathfinder/r52-2012-2017.webp"
+      }
+    },
+    {
+      "slug": "pathfinder-5",
+      "name": "pathfinder 6",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/pathfinder/r52-2017-2022.webp"
+      }
+    },
+    {
+      "slug": "pathfinder-6",
+      "name": "pathfinder 7",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/pathfinder/r53-2021-now.webp"
+      }
+    },
+    {
+      "slug": "pathfinder-7",
+      "name": "pathfinder 8",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/pathfinder/r53-2023-now.webp"
+      }
+    },
+    {
+      "slug": "pathfinder-8",
+      "name": "pathfinder 9",
+      "year_start": 1985,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/pathfinder/wd21-1985-1995.webp"
+      }
+    }
+  ]
+}

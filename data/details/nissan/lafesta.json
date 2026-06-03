@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "lafesta",
+  "name": "lafesta",
+  "generations": [
+    {
+      "slug": "lafesta-0",
+      "name": "lafesta 1",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/lafesta/b30-2004-2006.webp"
+      }
+    },
+    {
+      "slug": "lafesta-1",
+      "name": "lafesta 2",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/lafesta/b30-2007-2012.webp"
+      }
+    },
+    {
+      "slug": "lafesta-2",
+      "name": "lafesta 3",
+      "year_start": 2011,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/lafesta/b35-2011-2018.webp"
+      }
+    }
+  ]
+}

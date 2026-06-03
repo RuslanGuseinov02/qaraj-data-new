@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "nv100-clipper",
+  "name": "nv100-clipper",
+  "generations": [
+    {
+      "slug": "nv100-clipper-0",
+      "name": "nv100-clipper 1",
+      "year_start": 2012,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/nv100-clipper/2012-2013.webp"
+      }
+    },
+    {
+      "slug": "nv100-clipper-1",
+      "name": "nv100-clipper 2",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/nv100-clipper/2013-2015.webp"
+      }
+    },
+    {
+      "slug": "nv100-clipper-2",
+      "name": "nv100-clipper 3",
+      "year_start": 2015,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/nv100-clipper/2015-2024.webp"
+      }
+    }
+  ]
+}

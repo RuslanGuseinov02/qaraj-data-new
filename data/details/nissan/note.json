@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "note",
+  "name": "note",
+  "generations": [
+    {
+      "slug": "note-0",
+      "name": "note 1",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/note/e11-2005-2008.webp"
+      }
+    },
+    {
+      "slug": "note-1",
+      "name": "note 2",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/note/e11-2008-2013.webp"
+      }
+    },
+    {
+      "slug": "note-2",
+      "name": "note 3",
+      "year_start": 2012,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/note/e12-2012-2018.webp"
+      }
+    },
+    {
+      "slug": "note-3",
+      "name": "note 4",
+      "year_start": 2016,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/note/e12-2016-2022.webp"
+      }
+    },
+    {
+      "slug": "note-4",
+      "name": "note 5",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/note/e13-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "note-5",
+      "name": "note 6",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/note/e13-2023-now.webp"
+      }
+    }
+  ]
+}

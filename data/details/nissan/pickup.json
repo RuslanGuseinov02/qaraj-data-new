@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "pickup",
+  "name": "pickup",
+  "generations": [
+    {
+      "slug": "pickup-0",
+      "name": "pickup 1",
+      "year_start": 1986,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/pickup/d21-1986-1992.webp"
+      }
+    },
+    {
+      "slug": "pickup-1",
+      "name": "pickup 2",
+      "year_start": 1993,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/pickup/d21-1993-1997.webp"
+      }
+    },
+    {
+      "slug": "pickup-2",
+      "name": "pickup 3",
+      "year_start": 2004,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/pickup/d22-2004-2022.webp"
+      }
+    }
+  ]
+}

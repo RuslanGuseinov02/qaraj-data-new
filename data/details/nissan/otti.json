@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "nissan",
+    "name": "NISSAN"
+  },
+  "slug": "otti",
+  "name": "otti",
+  "generations": [
+    {
+      "slug": "otti-0",
+      "name": "otti 1",
+      "year_start": 2005,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/otti/h91-2005-2006.webp"
+      }
+    },
+    {
+      "slug": "otti-1",
+      "name": "otti 2",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/otti/h92-2006-2008.webp"
+      }
+    },
+    {
+      "slug": "otti-2",
+      "name": "otti 3",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nissan/otti/h92-2008-2013.webp"
+      }
+    }
+  ]
+}
