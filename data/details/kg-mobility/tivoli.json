@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kg-mobility",
+    "name": "KG-MOBILITY"
+  },
+  "slug": "tivoli",
+  "name": "tivoli",
+  "generations": [
+    {
+      "slug": "tivoli-0",
+      "name": "tivoli 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kg-mobility/tivoli/2023-now.webp"
+      }
+    }
+  ]
+}

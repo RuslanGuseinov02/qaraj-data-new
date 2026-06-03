@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kg-mobility",
+    "name": "KG-MOBILITY"
+  },
+  "slug": "musso-ev",
+  "name": "musso-ev",
+  "generations": [
+    {
+      "slug": "musso-ev-0",
+      "name": "musso-ev 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kg-mobility/musso-ev/2025-now.webp"
+      }
+    }
+  ]
+}

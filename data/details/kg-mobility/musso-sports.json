@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kg-mobility",
+    "name": "KG-MOBILITY"
+  },
+  "slug": "musso-sports",
+  "name": "musso-sports",
+  "generations": [
+    {
+      "slug": "musso-sports-0",
+      "name": "musso-sports 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kg-mobility/musso-sports/2025-now.webp"
+      }
+    }
+  ]
+}

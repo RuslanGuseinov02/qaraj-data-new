@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kg-mobility",
+    "name": "KG-MOBILITY"
+  },
+  "slug": "xlv",
+  "name": "xlv",
+  "generations": [
+    {
+      "slug": "xlv-0",
+      "name": "xlv 1",
+      "year_start": 2023,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kg-mobility/xlv/2023-2024.webp"
+      }
+    }
+  ]
+}
