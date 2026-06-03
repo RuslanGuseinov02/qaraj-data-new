@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "panoz",
+    "name": "PANOZ"
+  },
+  "slug": "esperante-gtr-1",
+  "name": "esperante-gtr-1",
+  "generations": [
+    {
+      "slug": "esperante-gtr-1-0",
+      "name": "esperante-gtr-1 1",
+      "year_start": 1997,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/panoz/esperante-gtr-1/1997-now.webp"
+      }
+    }
+  ]
+}

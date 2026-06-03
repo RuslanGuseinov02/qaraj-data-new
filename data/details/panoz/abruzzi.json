@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "panoz",
+    "name": "PANOZ"
+  },
+  "slug": "abruzzi",
+  "name": "abruzzi",
+  "generations": [
+    {
+      "slug": "abruzzi-0",
+      "name": "abruzzi 1",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/panoz/abruzzi/2011-2013.webp"
+      }
+    }
+  ]
+}

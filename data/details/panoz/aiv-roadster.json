@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "panoz",
+    "name": "PANOZ"
+  },
+  "slug": "aiv-roadster",
+  "name": "aiv-roadster",
+  "generations": [
+    {
+      "slug": "aiv-roadster-0",
+      "name": "aiv-roadster 1",
+      "year_start": 1996,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/panoz/aiv-roadster/1996-2023.webp"
+      }
+    }
+  ]
+}
