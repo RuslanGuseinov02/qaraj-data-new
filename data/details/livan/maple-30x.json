@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "livan",
+    "name": "LIVAN"
+  },
+  "slug": "maple-30x",
+  "name": "maple-30x",
+  "generations": [
+    {
+      "slug": "maple-30x-0",
+      "name": "maple-30x 1",
+      "year_start": 2020,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/livan/maple-30x/2020-2021.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "livan",
+    "name": "LIVAN"
+  },
+  "slug": "maple-60s",
+  "name": "maple-60s",
+  "generations": [
+    {
+      "slug": "maple-60s-0",
+      "name": "maple-60s 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/livan/maple-60s/2022-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "livan",
+    "name": "LIVAN"
+  },
+  "slug": "x6-pro",
+  "name": "x6-pro",
+  "generations": [
+    {
+      "slug": "x6-pro-0",
+      "name": "x6-pro 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/livan/x6-pro/2023-now.webp"
+      }
+    }
+  ]
+}

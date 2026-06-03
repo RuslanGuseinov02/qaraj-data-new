@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "livan",
+    "name": "LIVAN"
+  },
+  "slug": "maple-80v",
+  "name": "maple-80v",
+  "generations": [
+    {
+      "slug": "maple-80v-0",
+      "name": "maple-80v 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/livan/maple-80v/2021-now.webp"
+      }
+    }
+  ]
+}
