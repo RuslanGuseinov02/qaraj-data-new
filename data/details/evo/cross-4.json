@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "evo",
+    "name": "EVO"
+  },
+  "slug": "cross-4",
+  "name": "cross-4",
+  "generations": [
+    {
+      "slug": "cross-4-0",
+      "name": "cross-4 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/evo/cross-4/2022-now.webp"
+      }
+    }
+  ]
+}

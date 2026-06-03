@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "evo",
+    "name": "EVO"
+  },
+  "slug": "4",
+  "name": "4",
+  "generations": [
+    {
+      "slug": "4-0",
+      "name": "4 1",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/evo/4/2020-2022.webp"
+      }
+    },
+    {
+      "slug": "4-1",
+      "name": "4 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/evo/4/2023-now.webp"
+      }
+    }
+  ]
+}
