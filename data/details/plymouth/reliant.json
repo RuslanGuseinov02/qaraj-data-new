@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "plymouth",
+    "name": "PLYMOUTH"
+  },
+  "slug": "reliant",
+  "name": "reliant",
+  "generations": [
+    {
+      "slug": "reliant-0",
+      "name": "reliant 1",
+      "year_start": 1981,
+      "year_end": 1985,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/plymouth/reliant/k-body-1981-1985.webp"
+      }
+    },
+    {
+      "slug": "reliant-1",
+      "name": "reliant 2",
+      "year_start": 1986,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/plymouth/reliant/k-body-1986-1989.webp"
+      }
+    }
+  ]
+}

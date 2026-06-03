@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "plymouth",
+    "name": "PLYMOUTH"
+  },
+  "slug": "turismo",
+  "name": "turismo",
+  "generations": [
+    {
+      "slug": "turismo-0",
+      "name": "turismo 1",
+      "year_start": 1983,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/plymouth/turismo/l-body-1983-1987.webp"
+      }
+    }
+  ]
+}

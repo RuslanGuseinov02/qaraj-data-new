@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "plymouth",
+    "name": "PLYMOUTH"
+  },
+  "slug": "colt",
+  "name": "colt",
+  "generations": [
+    {
+      "slug": "colt-0",
+      "name": "colt 1",
+      "year_start": 1979,
+      "year_end": 1983,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/plymouth/colt/1979-1983.webp"
+      }
+    },
+    {
+      "slug": "colt-1",
+      "name": "colt 2",
+      "year_start": 1984,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/plymouth/colt/1984-1988.webp"
+      }
+    },
+    {
+      "slug": "colt-2",
+      "name": "colt 3",
+      "year_start": 1989,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/plymouth/colt/1989-1992.webp"
+      }
+    },
+    {
+      "slug": "colt-3",
+      "name": "colt 4",
+      "year_start": 1993,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/plymouth/colt/1993-1994.webp"
+      }
+    }
+  ]
+}

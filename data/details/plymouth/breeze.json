@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "plymouth",
+    "name": "PLYMOUTH"
+  },
+  "slug": "breeze",
+  "name": "breeze",
+  "generations": [
+    {
+      "slug": "breeze-0",
+      "name": "breeze 1",
+      "year_start": 1996,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/plymouth/breeze/1996-2000.webp"
+      }
+    }
+  ]
+}

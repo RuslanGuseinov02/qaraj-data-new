@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "plymouth",
+    "name": "PLYMOUTH"
+  },
+  "slug": "sundance",
+  "name": "sundance",
+  "generations": [
+    {
+      "slug": "sundance-0",
+      "name": "sundance 1",
+      "year_start": 1986,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/plymouth/sundance/1986-1994.webp"
+      }
+    }
+  ]
+}

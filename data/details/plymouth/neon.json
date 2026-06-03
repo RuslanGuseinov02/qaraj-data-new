@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "plymouth",
+    "name": "PLYMOUTH"
+  },
+  "slug": "neon",
+  "name": "neon",
+  "generations": [
+    {
+      "slug": "neon-0",
+      "name": "neon 1",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/plymouth/neon/pl-1-1995-1999.webp"
+      }
+    },
+    {
+      "slug": "neon-1",
+      "name": "neon 2",
+      "year_start": 2000,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/plymouth/neon/pl-2-2000-2001.webp"
+      }
+    }
+  ]
+}

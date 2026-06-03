@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "plymouth",
+    "name": "PLYMOUTH"
+  },
+  "slug": "prowler",
+  "name": "prowler",
+  "generations": [
+    {
+      "slug": "prowler-0",
+      "name": "prowler 1",
+      "year_start": 1997,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/plymouth/prowler/1997-2001.webp"
+      }
+    }
+  ]
+}

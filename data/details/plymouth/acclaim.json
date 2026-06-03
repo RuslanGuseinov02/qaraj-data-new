@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "plymouth",
+    "name": "PLYMOUTH"
+  },
+  "slug": "acclaim",
+  "name": "acclaim",
+  "generations": [
+    {
+      "slug": "acclaim-0",
+      "name": "acclaim 1",
+      "year_start": 1989,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/plymouth/acclaim/aa-body-1989-1995.webp"
+      }
+    }
+  ]
+}

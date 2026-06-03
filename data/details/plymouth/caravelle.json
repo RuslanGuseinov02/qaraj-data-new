@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "plymouth",
+    "name": "PLYMOUTH"
+  },
+  "slug": "caravelle",
+  "name": "caravelle",
+  "generations": [
+    {
+      "slug": "caravelle-0",
+      "name": "caravelle 1",
+      "year_start": 1985,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/plymouth/caravelle/1985-1988.webp"
+      }
+    }
+  ]
+}
