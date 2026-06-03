@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "karl",
+  "name": "karl",
+  "generations": [
+    {
+      "slug": "karl-0",
+      "name": "karl 1",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/karl/a-2015-2019.webp"
+      }
+    }
+  ]
+}

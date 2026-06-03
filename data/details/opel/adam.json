@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "adam",
+  "name": "adam",
+  "generations": [
+    {
+      "slug": "adam-0",
+      "name": "adam 1",
+      "year_start": 2013,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/adam/sccs-2013-2020.webp"
+      }
+    }
+  ]
+}

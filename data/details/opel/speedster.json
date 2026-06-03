@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "speedster",
+  "name": "speedster",
+  "generations": [
+    {
+      "slug": "speedster-0",
+      "name": "speedster 1",
+      "year_start": 2000,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/speedster/2000-2005.webp"
+      }
+    }
+  ]
+}

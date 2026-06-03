@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "arena",
+  "name": "arena",
+  "generations": [
+    {
+      "slug": "arena-0",
+      "name": "arena 1",
+      "year_start": 1997,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/arena/1997-2001.webp"
+      }
+    }
+  ]
+}

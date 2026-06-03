@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "grandland-x",
+  "name": "grandland-x",
+  "generations": [
+    {
+      "slug": "grandland-x-0",
+      "name": "grandland-x 1",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/grandland-x/2017-2023.webp"
+      }
+    }
+  ]
+}

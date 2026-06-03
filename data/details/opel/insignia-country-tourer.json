@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "insignia-country-tourer",
+  "name": "insignia-country-tourer",
+  "generations": [
+    {
+      "slug": "insignia-country-tourer-0",
+      "name": "insignia-country-tourer 1",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/insignia-country-tourer/a-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "insignia-country-tourer-1",
+      "name": "insignia-country-tourer 2",
+      "year_start": 2017,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/insignia-country-tourer/b-2017-2019.webp"
+      }
+    }
+  ]
+}

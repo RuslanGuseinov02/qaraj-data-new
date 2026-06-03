@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "mokka-x",
+  "name": "mokka-x",
+  "generations": [
+    {
+      "slug": "mokka-x-0",
+      "name": "mokka-x 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/mokka-x/2016-2020.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "corsa",
+  "name": "corsa",
+  "generations": [
+    {
+      "slug": "corsa-0",
+      "name": "corsa 1",
+      "year_start": 1982,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/corsa/a-s83-1982-1993.webp"
+      }
+    },
+    {
+      "slug": "corsa-1",
+      "name": "corsa 2",
+      "year_start": 1993,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/corsa/b-s93-1993-2000.webp"
+      }
+    },
+    {
+      "slug": "corsa-2",
+      "name": "corsa 3",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/corsa/c-x01-2000-2006.webp"
+      }
+    },
+    {
+      "slug": "corsa-3",
+      "name": "corsa 4",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/corsa/d-s07-2006-2010.webp"
+      }
+    },
+    {
+      "slug": "corsa-4",
+      "name": "corsa 5",
+      "year_start": 2010,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/corsa/d-s07-2010-2011.webp"
+      }
+    },
+    {
+      "slug": "corsa-5",
+      "name": "corsa 6",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/corsa/d-s07-2011-2014.webp"
+      }
+    },
+    {
+      "slug": "corsa-6",
+      "name": "corsa 7",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/corsa/e-x15-2014-2019.webp"
+      }
+    },
+    {
+      "slug": "corsa-7",
+      "name": "corsa 8",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/corsa/f-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "corsa-8",
+      "name": "corsa 9",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/corsa/f-2023-now.webp"
+      }
+    }
+  ]
+}

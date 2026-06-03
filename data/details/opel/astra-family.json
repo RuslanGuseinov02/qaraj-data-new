@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "astra-family",
+  "name": "astra-family",
+  "generations": [
+    {
+      "slug": "astra-family-0",
+      "name": "astra-family 1",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/astra-family/h-2011-2014.webp"
+      }
+    }
+  ]
+}

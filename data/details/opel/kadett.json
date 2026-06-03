@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "kadett",
+  "name": "kadett",
+  "generations": [
+    {
+      "slug": "kadett-0",
+      "name": "kadett 1",
+      "year_start": 1979,
+      "year_end": 1984,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/kadett/d-1979-1984.webp"
+      }
+    },
+    {
+      "slug": "kadett-1",
+      "name": "kadett 2",
+      "year_start": 1984,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/kadett/e-1984-1994.webp"
+      }
+    }
+  ]
+}

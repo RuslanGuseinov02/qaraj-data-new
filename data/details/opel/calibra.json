@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "calibra",
+  "name": "calibra",
+  "generations": [
+    {
+      "slug": "calibra-0",
+      "name": "calibra 1",
+      "year_start": 1990,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/calibra/1990-1997.webp"
+      }
+    }
+  ]
+}

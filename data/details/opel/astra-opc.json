@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "astra-opc",
+  "name": "astra-opc",
+  "generations": [
+    {
+      "slug": "astra-opc-0",
+      "name": "astra-opc 1",
+      "year_start": 2011,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/astra-opc/j-2011-2018.webp"
+      }
+    }
+  ]
+}

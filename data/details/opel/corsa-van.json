@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "corsa-van",
+  "name": "corsa-van",
+  "generations": [
+    {
+      "slug": "corsa-van-0",
+      "name": "corsa-van 1",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/corsa-van/d-2006-2011.webp"
+      }
+    },
+    {
+      "slug": "corsa-van-1",
+      "name": "corsa-van 2",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/corsa-van/d-2011-2015.webp"
+      }
+    },
+    {
+      "slug": "corsa-van-2",
+      "name": "corsa-van 3",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/corsa-van/e-2015-2018.webp"
+      }
+    }
+  ]
+}

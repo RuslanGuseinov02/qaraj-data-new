@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "zafira-life",
+  "name": "zafira-life",
+  "generations": [
+    {
+      "slug": "zafira-life-0",
+      "name": "zafira-life 1",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/zafira-life/c-2019-2025.webp"
+      }
+    },
+    {
+      "slug": "zafira-life-1",
+      "name": "zafira-life 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/zafira-life/c-2024-now.webp"
+      }
+    }
+  ]
+}

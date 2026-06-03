@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "agila",
+  "name": "agila",
+  "generations": [
+    {
+      "slug": "agila-0",
+      "name": "agila 1",
+      "year_start": 2000,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/agila/a-h00-2000-2007.webp"
+      }
+    },
+    {
+      "slug": "agila-1",
+      "name": "agila 2",
+      "year_start": 2007,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/agila/b-h-b-2007-2014.webp"
+      }
+    }
+  ]
+}

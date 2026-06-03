@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "movano",
+  "name": "movano",
+  "generations": [
+    {
+      "slug": "movano-0",
+      "name": "movano 1",
+      "year_start": 1998,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/movano/a-1998-2003.webp"
+      }
+    },
+    {
+      "slug": "movano-1",
+      "name": "movano 2",
+      "year_start": 2003,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/movano/a-2003-2010.webp"
+      }
+    },
+    {
+      "slug": "movano-2",
+      "name": "movano 3",
+      "year_start": 2010,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/movano/b-2010-2021.webp"
+      }
+    },
+    {
+      "slug": "movano-3",
+      "name": "movano 4",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/movano/c-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "movano-4",
+      "name": "movano 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/movano/c-2024-now.webp"
+      }
+    }
+  ]
+}

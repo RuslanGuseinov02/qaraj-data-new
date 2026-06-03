@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "mokka",
+  "name": "mokka",
+  "generations": [
+    {
+      "slug": "mokka-0",
+      "name": "mokka 1",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/mokka/a-j13-2012-2016.webp"
+      }
+    },
+    {
+      "slug": "mokka-1",
+      "name": "mokka 2",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/mokka/b-p2qo-2020-2025.webp"
+      }
+    },
+    {
+      "slug": "mokka-2",
+      "name": "mokka 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/mokka/b-p2qo-2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "manta",
+  "name": "manta",
+  "generations": [
+    {
+      "slug": "manta-0",
+      "name": "manta 1",
+      "year_start": 1970,
+      "year_end": 1975,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/manta/a-1970-1975.webp"
+      }
+    },
+    {
+      "slug": "manta-1",
+      "name": "manta 2",
+      "year_start": 1975,
+      "year_end": 1981,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/manta/b1-1975-1981.webp"
+      }
+    },
+    {
+      "slug": "manta-2",
+      "name": "manta 3",
+      "year_start": 1982,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/manta/b2-1982-1988.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "vectra",
+  "name": "vectra",
+  "generations": [
+    {
+      "slug": "vectra-0",
+      "name": "vectra 1",
+      "year_start": 1988,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/vectra/a-1988-1995.webp"
+      }
+    },
+    {
+      "slug": "vectra-1",
+      "name": "vectra 2",
+      "year_start": 1995,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/vectra/b-1995-2002.webp"
+      }
+    },
+    {
+      "slug": "vectra-2",
+      "name": "vectra 3",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/vectra/c-2002-2005.webp"
+      }
+    },
+    {
+      "slug": "vectra-3",
+      "name": "vectra 4",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/vectra/c-2005-2008.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "signum",
+  "name": "signum",
+  "generations": [
+    {
+      "slug": "signum-0",
+      "name": "signum 1",
+      "year_start": 2003,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/signum/2003-2005.webp"
+      }
+    },
+    {
+      "slug": "signum-1",
+      "name": "signum 2",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/signum/2005-2008.webp"
+      }
+    }
+  ]
+}

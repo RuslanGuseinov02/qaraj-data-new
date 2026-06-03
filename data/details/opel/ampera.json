@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "ampera",
+  "name": "ampera",
+  "generations": [
+    {
+      "slug": "ampera-0",
+      "name": "ampera 1",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/ampera/d1joi-2011-2016.webp"
+      }
+    }
+  ]
+}

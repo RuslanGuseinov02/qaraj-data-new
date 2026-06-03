@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "senator",
+  "name": "senator",
+  "generations": [
+    {
+      "slug": "senator-0",
+      "name": "senator 1",
+      "year_start": 1978,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/senator/a-1978-1987.webp"
+      }
+    },
+    {
+      "slug": "senator-1",
+      "name": "senator 2",
+      "year_start": 1987,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/senator/b-1987-1993.webp"
+      }
+    }
+  ]
+}

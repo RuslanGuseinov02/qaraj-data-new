@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "astra-gtc",
+  "name": "astra-gtc",
+  "generations": [
+    {
+      "slug": "astra-gtc-0",
+      "name": "astra-gtc 1",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/astra-gtc/h-2004-2010.webp"
+      }
+    },
+    {
+      "slug": "astra-gtc-1",
+      "name": "astra-gtc 2",
+      "year_start": 2011,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/astra-gtc/j-2011-2018.webp"
+      }
+    }
+  ]
+}

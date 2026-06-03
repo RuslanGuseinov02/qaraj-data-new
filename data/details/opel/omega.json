@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "omega",
+  "name": "omega",
+  "generations": [
+    {
+      "slug": "omega-0",
+      "name": "omega 1",
+      "year_start": 1986,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/omega/a-1986-1994.webp"
+      }
+    },
+    {
+      "slug": "omega-1",
+      "name": "omega 2",
+      "year_start": 1994,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/omega/b-1994-2004.webp"
+      }
+    }
+  ]
+}

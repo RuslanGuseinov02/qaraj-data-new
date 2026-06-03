@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "astra",
+  "name": "astra",
+  "generations": [
+    {
+      "slug": "astra-0",
+      "name": "astra 1",
+      "year_start": 1991,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/astra/f-t92-1991-1998.webp"
+      }
+    },
+    {
+      "slug": "astra-1",
+      "name": "astra 2",
+      "year_start": 1998,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/astra/g-t98-1998-2005.webp"
+      }
+    },
+    {
+      "slug": "astra-2",
+      "name": "astra 3",
+      "year_start": 2004,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/astra/h-a04-2004-2007.webp"
+      }
+    },
+    {
+      "slug": "astra-3",
+      "name": "astra 4",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/astra/h-a04-2007-2009.webp"
+      }
+    },
+    {
+      "slug": "astra-4",
+      "name": "astra 5",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/astra/j-p10-2009-2012.webp"
+      }
+    },
+    {
+      "slug": "astra-5",
+      "name": "astra 6",
+      "year_start": 2012,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/astra/j-p10-2012-2017.webp"
+      }
+    },
+    {
+      "slug": "astra-6",
+      "name": "astra 7",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/astra/k-b16-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "astra-7",
+      "name": "astra 8",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/astra/k-b16-2019-2021.webp"
+      }
+    },
+    {
+      "slug": "astra-8",
+      "name": "astra 9",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/astra/l-c02-2021-now.webp"
+      }
+    }
+  ]
+}

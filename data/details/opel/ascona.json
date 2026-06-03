@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "ascona",
+  "name": "ascona",
+  "generations": [
+    {
+      "slug": "ascona-0",
+      "name": "ascona 1",
+      "year_start": 1970,
+      "year_end": 1975,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/ascona/a-1970-1975.webp"
+      }
+    },
+    {
+      "slug": "ascona-1",
+      "name": "ascona 2",
+      "year_start": 1975,
+      "year_end": 1981,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/ascona/b-1975-1981.webp"
+      }
+    },
+    {
+      "slug": "ascona-2",
+      "name": "ascona 3",
+      "year_start": 1981,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/ascona/c-1981-1988.webp"
+      }
+    }
+  ]
+}

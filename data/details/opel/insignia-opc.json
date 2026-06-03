@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "insignia-opc",
+  "name": "insignia-opc",
+  "generations": [
+    {
+      "slug": "insignia-opc-0",
+      "name": "insignia-opc 1",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/insignia-opc/a-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "insignia-opc-1",
+      "name": "insignia-opc 2",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/insignia-opc/a-2013-2017.webp"
+      }
+    }
+  ]
+}

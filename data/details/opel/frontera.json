@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "frontera",
+  "name": "frontera",
+  "generations": [
+    {
+      "slug": "frontera-0",
+      "name": "frontera 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/frontera/2024-now.webp"
+      }
+    },
+    {
+      "slug": "frontera-1",
+      "name": "frontera 2",
+      "year_start": 1991,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/frontera/a-1991-1995.webp"
+      }
+    },
+    {
+      "slug": "frontera-2",
+      "name": "frontera 3",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/frontera/a-1995-1998.webp"
+      }
+    },
+    {
+      "slug": "frontera-3",
+      "name": "frontera 4",
+      "year_start": 1998,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/frontera/b-1998-2004.webp"
+      }
+    }
+  ]
+}

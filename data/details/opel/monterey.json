@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "opel",
+    "name": "OPEL"
+  },
+  "slug": "monterey",
+  "name": "monterey",
+  "generations": [
+    {
+      "slug": "monterey-0",
+      "name": "monterey 1",
+      "year_start": 1991,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/monterey/a-1991-1998.webp"
+      }
+    },
+    {
+      "slug": "monterey-1",
+      "name": "monterey 2",
+      "year_start": 1998,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/opel/monterey/a-1998-1999.webp"
+      }
+    }
+  ]
+}
