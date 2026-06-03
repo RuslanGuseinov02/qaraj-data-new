@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "venucia",
+    "name": "VENUCIA"
+  },
+  "slug": "r50x",
+  "name": "r50x",
+  "generations": [
+    {
+      "slug": "r50x-0",
+      "name": "r50x 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/venucia/r50x/2013-2016.webp"
+      }
+    }
+  ]
+}

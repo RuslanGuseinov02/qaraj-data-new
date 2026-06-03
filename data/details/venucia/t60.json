@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "venucia",
+    "name": "VENUCIA"
+  },
+  "slug": "t60",
+  "name": "t60",
+  "generations": [
+    {
+      "slug": "t60-0",
+      "name": "t60 1",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/venucia/t60/2018-2023.webp"
+      }
+    }
+  ]
+}

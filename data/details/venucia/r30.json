@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "venucia",
+    "name": "VENUCIA"
+  },
+  "slug": "r30",
+  "name": "r30",
+  "generations": [
+    {
+      "slug": "r30-0",
+      "name": "r30 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/venucia/r30/2014-2017.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "venucia",
+    "name": "VENUCIA"
+  },
+  "slug": "d60ev",
+  "name": "d60ev",
+  "generations": [
+    {
+      "slug": "d60ev-0",
+      "name": "d60ev 1",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/venucia/d60ev/2019-2023.webp"
+      }
+    }
+  ]
+}

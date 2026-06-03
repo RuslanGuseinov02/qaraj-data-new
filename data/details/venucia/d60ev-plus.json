@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "venucia",
+    "name": "VENUCIA"
+  },
+  "slug": "d60ev-plus",
+  "name": "d60ev-plus",
+  "generations": [
+    {
+      "slug": "d60ev-plus-0",
+      "name": "d60ev-plus 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/venucia/d60ev-plus/2022-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "venucia",
+    "name": "VENUCIA"
+  },
+  "slug": "v-online-dd-i-killer-whale",
+  "name": "v-online-dd-i-killer-whale",
+  "generations": [
+    {
+      "slug": "v-online-dd-i-killer-whale-0",
+      "name": "v-online-dd-i-killer-whale 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/venucia/v-online-dd-i-killer-whale/2025-now.webp"
+      }
+    }
+  ]
+}
