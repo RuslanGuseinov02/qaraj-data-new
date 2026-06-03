@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maruti",
+    "name": "MARUTI"
+  },
+  "slug": "jimny",
+  "name": "jimny",
+  "generations": [
+    {
+      "slug": "jimny-0",
+      "name": "jimny 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/jimny/jb64-2018-now.webp"
+      }
+    }
+  ]
+}

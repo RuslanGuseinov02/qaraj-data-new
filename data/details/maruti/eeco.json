@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maruti",
+    "name": "MARUTI"
+  },
+  "slug": "eeco",
+  "name": "eeco",
+  "generations": [
+    {
+      "slug": "eeco-0",
+      "name": "eeco 1",
+      "year_start": 2010,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/eeco/2010-now.webp"
+      }
+    }
+  ]
+}

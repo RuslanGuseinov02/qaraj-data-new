@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maruti",
+    "name": "MARUTI"
+  },
+  "slug": "a-star",
+  "name": "a-star",
+  "generations": [
+    {
+      "slug": "a-star-0",
+      "name": "a-star 1",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/a-star/2009-2014.webp"
+      }
+    }
+  ]
+}

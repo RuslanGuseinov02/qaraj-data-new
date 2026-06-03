@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maruti",
+    "name": "MARUTI"
+  },
+  "slug": "gypsy",
+  "name": "gypsy",
+  "generations": [
+    {
+      "slug": "gypsy-0",
+      "name": "gypsy 1",
+      "year_start": 1985,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/gypsy/1985-2020.webp"
+      }
+    }
+  ]
+}

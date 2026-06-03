@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "maruti",
+    "name": "MARUTI"
+  },
+  "slug": "celerio",
+  "name": "celerio",
+  "generations": [
+    {
+      "slug": "celerio-0",
+      "name": "celerio 1",
+      "year_start": 2014,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/celerio/2014-2021.webp"
+      }
+    },
+    {
+      "slug": "celerio-1",
+      "name": "celerio 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/celerio/2022-now.webp"
+      }
+    }
+  ]
+}

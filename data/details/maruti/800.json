@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maruti",
+    "name": "MARUTI"
+  },
+  "slug": "800",
+  "name": "800",
+  "generations": [
+    {
+      "slug": "800-0",
+      "name": "800 1",
+      "year_start": 1983,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/800/1983-2012.webp"
+      }
+    }
+  ]
+}

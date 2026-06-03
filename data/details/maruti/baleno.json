@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "maruti",
+    "name": "MARUTI"
+  },
+  "slug": "baleno",
+  "name": "baleno",
+  "generations": [
+    {
+      "slug": "baleno-0",
+      "name": "baleno 1",
+      "year_start": 1999,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/baleno/1999-2007.webp"
+      }
+    },
+    {
+      "slug": "baleno-1",
+      "name": "baleno 2",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/baleno/2015-2018.webp"
+      }
+    },
+    {
+      "slug": "baleno-2",
+      "name": "baleno 3",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/baleno/2019-2021.webp"
+      }
+    },
+    {
+      "slug": "baleno-3",
+      "name": "baleno 4",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/baleno/2022-now.webp"
+      }
+    }
+  ]
+}

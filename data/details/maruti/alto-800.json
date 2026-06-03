@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "maruti",
+    "name": "MARUTI"
+  },
+  "slug": "alto-800",
+  "name": "alto-800",
+  "generations": [
+    {
+      "slug": "alto-800-0",
+      "name": "alto-800 1",
+      "year_start": 2014,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/alto-800/2014-2016.webp"
+      }
+    },
+    {
+      "slug": "alto-800-1",
+      "name": "alto-800 2",
+      "year_start": 2017,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/alto-800/2017-2018.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maruti",
+    "name": "MARUTI"
+  },
+  "slug": "swift-dzire",
+  "name": "swift-dzire",
+  "generations": [
+    {
+      "slug": "swift-dzire-0",
+      "name": "swift-dzire 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/swift-dzire/2008-2012.webp"
+      }
+    }
+  ]
+}

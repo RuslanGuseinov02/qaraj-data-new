@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maruti",
+    "name": "MARUTI"
+  },
+  "slug": "celerio-x",
+  "name": "celerio-x",
+  "generations": [
+    {
+      "slug": "celerio-x-0",
+      "name": "celerio-x 1",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/celerio-x/2018-2021.webp"
+      }
+    }
+  ]
+}

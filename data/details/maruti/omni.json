@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maruti",
+    "name": "MARUTI"
+  },
+  "slug": "omni",
+  "name": "omni",
+  "generations": [
+    {
+      "slug": "omni-0",
+      "name": "omni 1",
+      "year_start": 2005,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/omni/2005-2020.webp"
+      }
+    }
+  ]
+}

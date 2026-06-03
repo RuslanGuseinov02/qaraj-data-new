@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maruti",
+    "name": "MARUTI"
+  },
+  "slug": "ignis",
+  "name": "ignis",
+  "generations": [
+    {
+      "slug": "ignis-0",
+      "name": "ignis 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/ignis/ff21-2020-now.webp"
+      }
+    }
+  ]
+}

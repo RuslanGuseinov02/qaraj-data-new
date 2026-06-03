@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "maruti",
+    "name": "MARUTI"
+  },
+  "slug": "dzire",
+  "name": "dzire",
+  "generations": [
+    {
+      "slug": "dzire-0",
+      "name": "dzire 1",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/dzire/2012-2015.webp"
+      }
+    },
+    {
+      "slug": "dzire-1",
+      "name": "dzire 2",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/dzire/2015-2017.webp"
+      }
+    },
+    {
+      "slug": "dzire-2",
+      "name": "dzire 3",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/dzire/2017-2020.webp"
+      }
+    },
+    {
+      "slug": "dzire-3",
+      "name": "dzire 4",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/dzire/2020-2024.webp"
+      }
+    },
+    {
+      "slug": "dzire-4",
+      "name": "dzire 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/dzire/2024-now.webp"
+      }
+    }
+  ]
+}

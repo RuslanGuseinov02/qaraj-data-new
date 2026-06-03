@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "maruti",
+    "name": "MARUTI"
+  },
+  "slug": "swift",
+  "name": "swift",
+  "generations": [
+    {
+      "slug": "swift-0",
+      "name": "swift 1",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/swift/2005-2010.webp"
+      }
+    },
+    {
+      "slug": "swift-1",
+      "name": "swift 2",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/swift/2011-2017.webp"
+      }
+    },
+    {
+      "slug": "swift-2",
+      "name": "swift 3",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/swift/2018-2023.webp"
+      }
+    },
+    {
+      "slug": "swift-3",
+      "name": "swift 4",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/swift/2024-now.webp"
+      }
+    }
+  ]
+}

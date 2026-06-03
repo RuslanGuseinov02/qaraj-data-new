@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maruti",
+    "name": "MARUTI"
+  },
+  "slug": "zen-estilo",
+  "name": "zen-estilo",
+  "generations": [
+    {
+      "slug": "zen-estilo-0",
+      "name": "zen-estilo 1",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/zen-estilo/2006-2009.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "maruti",
+    "name": "MARUTI"
+  },
+  "slug": "grand-vitara",
+  "name": "grand-vitara",
+  "generations": [
+    {
+      "slug": "grand-vitara-0",
+      "name": "grand-vitara 1",
+      "year_start": 2007,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/grand-vitara/2007-2016.webp"
+      }
+    },
+    {
+      "slug": "grand-vitara-1",
+      "name": "grand-vitara 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/grand-vitara/ym-2022-now.webp"
+      }
+    }
+  ]
+}

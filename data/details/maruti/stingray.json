@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maruti",
+    "name": "MARUTI"
+  },
+  "slug": "stingray",
+  "name": "stingray",
+  "generations": [
+    {
+      "slug": "stingray-0",
+      "name": "stingray 1",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maruti/stingray/2013-2017.webp"
+      }
+    }
+  ]
+}
