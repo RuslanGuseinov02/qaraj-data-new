@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mclaren",
+    "name": "MCLAREN"
+  },
+  "slug": "600lt-spider",
+  "name": "600lt-spider",
+  "generations": [
+    {
+      "slug": "600lt-spider-0",
+      "name": "600lt-spider 1",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mclaren/600lt-spider/2019-2021.webp"
+      }
+    }
+  ]
+}

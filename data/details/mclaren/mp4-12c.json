@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mclaren",
+    "name": "MCLAREN"
+  },
+  "slug": "mp4-12c",
+  "name": "mp4-12c",
+  "generations": [
+    {
+      "slug": "mp4-12c-0",
+      "name": "mp4-12c 1",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mclaren/mp4-12c/2011-2014.webp"
+      }
+    }
+  ]
+}

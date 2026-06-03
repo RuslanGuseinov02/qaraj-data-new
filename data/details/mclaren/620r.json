@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mclaren",
+    "name": "MCLAREN"
+  },
+  "slug": "620r",
+  "name": "620r",
+  "generations": [
+    {
+      "slug": "620r-0",
+      "name": "620r 1",
+      "year_start": 2020,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mclaren/620r/2020-2021.webp"
+      }
+    }
+  ]
+}

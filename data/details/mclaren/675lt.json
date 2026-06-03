@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mclaren",
+    "name": "MCLAREN"
+  },
+  "slug": "675lt",
+  "name": "675lt",
+  "generations": [
+    {
+      "slug": "675lt-0",
+      "name": "675lt 1",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mclaren/675lt/2015-2017.webp"
+      }
+    }
+  ]
+}

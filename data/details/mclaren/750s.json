@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mclaren",
+    "name": "MCLAREN"
+  },
+  "slug": "750s",
+  "name": "750s",
+  "generations": [
+    {
+      "slug": "750s-0",
+      "name": "750s 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mclaren/750s/2023-now.webp"
+      }
+    }
+  ]
+}

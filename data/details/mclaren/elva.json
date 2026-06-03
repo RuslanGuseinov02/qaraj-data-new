@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mclaren",
+    "name": "MCLAREN"
+  },
+  "slug": "elva",
+  "name": "elva",
+  "generations": [
+    {
+      "slug": "elva-0",
+      "name": "elva 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mclaren/elva/2020-2023.webp"
+      }
+    }
+  ]
+}

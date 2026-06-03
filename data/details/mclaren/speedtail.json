@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mclaren",
+    "name": "MCLAREN"
+  },
+  "slug": "speedtail",
+  "name": "speedtail",
+  "generations": [
+    {
+      "slug": "speedtail-0",
+      "name": "speedtail 1",
+      "year_start": 2020,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mclaren/speedtail/2020-2020.webp"
+      }
+    }
+  ]
+}

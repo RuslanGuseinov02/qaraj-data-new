@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mclaren",
+    "name": "MCLAREN"
+  },
+  "slug": "570s",
+  "name": "570s",
+  "generations": [
+    {
+      "slug": "570s-0",
+      "name": "570s 1",
+      "year_start": 2015,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mclaren/570s/2015-2021.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mclaren",
+    "name": "MCLAREN"
+  },
+  "slug": "650s",
+  "name": "650s",
+  "generations": [
+    {
+      "slug": "650s-0",
+      "name": "650s 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mclaren/650s/2014-2017.webp"
+      }
+    }
+  ]
+}
