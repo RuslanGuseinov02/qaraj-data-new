@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "saturn",
+    "name": "SATURN"
+  },
+  "slug": "vue",
+  "name": "vue",
+  "generations": [
+    {
+      "slug": "vue-0",
+      "name": "vue 1",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/saturn/vue/2002-2005.webp"
+      }
+    },
+    {
+      "slug": "vue-1",
+      "name": "vue 2",
+      "year_start": 2006,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/saturn/vue/2006-2007.webp"
+      }
+    },
+    {
+      "slug": "vue-2",
+      "name": "vue 3",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/saturn/vue/2008-2010.webp"
+      }
+    }
+  ]
+}

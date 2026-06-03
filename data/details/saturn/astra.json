@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "saturn",
+    "name": "SATURN"
+  },
+  "slug": "astra",
+  "name": "astra",
+  "generations": [
+    {
+      "slug": "astra-0",
+      "name": "astra 1",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/saturn/astra/2008-2010.webp"
+      }
+    }
+  ]
+}

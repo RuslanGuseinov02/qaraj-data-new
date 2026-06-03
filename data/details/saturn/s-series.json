@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "saturn",
+    "name": "SATURN"
+  },
+  "slug": "s-series",
+  "name": "s-series",
+  "generations": [
+    {
+      "slug": "s-series-0",
+      "name": "s-series 1",
+      "year_start": 1991,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/saturn/s-series/1991-1996.webp"
+      }
+    },
+    {
+      "slug": "s-series-1",
+      "name": "s-series 2",
+      "year_start": 1997,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/saturn/s-series/1997-1999.webp"
+      }
+    },
+    {
+      "slug": "s-series-2",
+      "name": "s-series 3",
+      "year_start": 2000,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/saturn/s-series/2000-2002.webp"
+      }
+    }
+  ]
+}

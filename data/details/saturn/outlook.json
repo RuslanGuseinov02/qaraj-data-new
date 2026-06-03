@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "saturn",
+    "name": "SATURN"
+  },
+  "slug": "outlook",
+  "name": "outlook",
+  "generations": [
+    {
+      "slug": "outlook-0",
+      "name": "outlook 1",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/saturn/outlook/2006-2010.webp"
+      }
+    }
+  ]
+}

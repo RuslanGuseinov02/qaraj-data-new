@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "saturn",
+    "name": "SATURN"
+  },
+  "slug": "ion",
+  "name": "ion",
+  "generations": [
+    {
+      "slug": "ion-0",
+      "name": "ion 1",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/saturn/ion/2003-2007.webp"
+      }
+    }
+  ]
+}
