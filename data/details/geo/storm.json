@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geo",
+    "name": "GEO"
+  },
+  "slug": "storm",
+  "name": "storm",
+  "generations": [
+    {
+      "slug": "storm-0",
+      "name": "storm 1",
+      "year_start": 1990,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geo/storm/gm-r-1990-1993.webp"
+      }
+    }
+  ]
+}

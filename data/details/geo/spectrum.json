@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geo",
+    "name": "GEO"
+  },
+  "slug": "spectrum",
+  "name": "spectrum",
+  "generations": [
+    {
+      "slug": "spectrum-0",
+      "name": "spectrum 1",
+      "year_start": 1985,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geo/spectrum/jt150-1985-1990.webp"
+      }
+    }
+  ]
+}

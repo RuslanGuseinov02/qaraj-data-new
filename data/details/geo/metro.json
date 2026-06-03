@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "geo",
+    "name": "GEO"
+  },
+  "slug": "metro",
+  "name": "metro",
+  "generations": [
+    {
+      "slug": "metro-0",
+      "name": "metro 1",
+      "year_start": 1989,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geo/metro/gm-m-1989-1994.webp"
+      }
+    },
+    {
+      "slug": "metro-1",
+      "name": "metro 2",
+      "year_start": 1995,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geo/metro/gm-m-1995-2001.webp"
+      }
+    }
+  ]
+}
