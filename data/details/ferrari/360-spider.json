@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "360-spider",
+  "name": "360-spider",
+  "generations": [
+    {
+      "slug": "360-spider-0",
+      "name": "360-spider 1",
+      "year_start": 2000,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/360-spider/2000-2005.webp"
+      }
+    }
+  ]
+}

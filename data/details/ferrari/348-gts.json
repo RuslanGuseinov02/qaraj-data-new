@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "348-gts",
+  "name": "348-gts",
+  "generations": [
+    {
+      "slug": "348-gts-0",
+      "name": "348-gts 1",
+      "year_start": 1993,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/348-gts/1993-1994.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "f512-m",
+  "name": "f512-m",
+  "generations": [
+    {
+      "slug": "f512-m-0",
+      "name": "f512-m 1",
+      "year_start": 1994,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/f512-m/1994-1996.webp"
+      }
+    }
+  ]
+}

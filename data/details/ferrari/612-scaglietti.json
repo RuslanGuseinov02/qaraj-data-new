@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "612-scaglietti",
+  "name": "612-scaglietti",
+  "generations": [
+    {
+      "slug": "612-scaglietti-0",
+      "name": "612-scaglietti 1",
+      "year_start": 2004,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/612-scaglietti/2004-2011.webp"
+      }
+    }
+  ]
+}

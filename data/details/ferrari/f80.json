@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "f80",
+  "name": "f80",
+  "generations": [
+    {
+      "slug": "f80-0",
+      "name": "f80 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/f80/2025-now.webp"
+      }
+    }
+  ]
+}

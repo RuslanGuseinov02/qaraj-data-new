@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "488-spider",
+  "name": "488-spider",
+  "generations": [
+    {
+      "slug": "488-spider-0",
+      "name": "488-spider 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/488-spider/2016-2020.webp"
+      }
+    }
+  ]
+}

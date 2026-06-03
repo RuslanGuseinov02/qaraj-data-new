@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "f430",
+  "name": "f430",
+  "generations": [
+    {
+      "slug": "f430-0",
+      "name": "f430 1",
+      "year_start": 2004,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/f430/2004-2009.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "sf90-stradale",
+  "name": "sf90-stradale",
+  "generations": [
+    {
+      "slug": "sf90-stradale-0",
+      "name": "sf90-stradale 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/sf90-stradale/sf90-sf90-xx-2019-now.webp"
+      }
+    }
+  ]
+}

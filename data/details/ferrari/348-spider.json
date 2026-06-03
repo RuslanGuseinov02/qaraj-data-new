@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "348-spider",
+  "name": "348-spider",
+  "generations": [
+    {
+      "slug": "348-spider-0",
+      "name": "348-spider 1",
+      "year_start": 1993,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/348-spider/1993-1995.webp"
+      }
+    }
+  ]
+}

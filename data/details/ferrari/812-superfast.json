@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "812-superfast",
+  "name": "812-superfast",
+  "generations": [
+    {
+      "slug": "812-superfast-0",
+      "name": "812-superfast 1",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/812-superfast/2017-2023.webp"
+      }
+    }
+  ]
+}

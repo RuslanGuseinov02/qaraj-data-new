@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "458-spider",
+  "name": "458-spider",
+  "generations": [
+    {
+      "slug": "458-spider-0",
+      "name": "458-spider 1",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/458-spider/2011-2015.webp"
+      }
+    }
+  ]
+}

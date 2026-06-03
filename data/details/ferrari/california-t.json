@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "california-t",
+  "name": "california-t",
+  "generations": [
+    {
+      "slug": "california-t-0",
+      "name": "california-t 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/california-t/2014-2017.webp"
+      }
+    }
+  ]
+}

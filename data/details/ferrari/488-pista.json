@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "488-pista",
+  "name": "488-pista",
+  "generations": [
+    {
+      "slug": "488-pista-0",
+      "name": "488-pista 1",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/488-pista/2018-2020.webp"
+      }
+    }
+  ]
+}

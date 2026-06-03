@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "gtc4-lusso",
+  "name": "gtc4-lusso",
+  "generations": [
+    {
+      "slug": "gtc4-lusso-0",
+      "name": "gtc4-lusso 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/gtc4-lusso/2016-2020.webp"
+      }
+    }
+  ]
+}

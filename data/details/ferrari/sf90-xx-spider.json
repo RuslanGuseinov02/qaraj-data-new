@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "sf90-xx-spider",
+  "name": "sf90-xx-spider",
+  "generations": [
+    {
+      "slug": "sf90-xx-spider-0",
+      "name": "sf90-xx-spider 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/sf90-xx-spider/2020-now.webp"
+      }
+    }
+  ]
+}

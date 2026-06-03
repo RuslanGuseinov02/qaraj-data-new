@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "348-tb",
+  "name": "348-tb",
+  "generations": [
+    {
+      "slug": "348-tb-0",
+      "name": "348-tb 1",
+      "year_start": 1989,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/348-tb/1989-1993.webp"
+      }
+    }
+  ]
+}

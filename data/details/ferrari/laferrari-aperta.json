@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "laferrari-aperta",
+  "name": "laferrari-aperta",
+  "generations": [
+    {
+      "slug": "laferrari-aperta-0",
+      "name": "laferrari-aperta 1",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/laferrari-aperta/2016-2018.webp"
+      }
+    }
+  ]
+}

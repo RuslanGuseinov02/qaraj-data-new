@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "458-speciale",
+  "name": "458-speciale",
+  "generations": [
+    {
+      "slug": "458-speciale-0",
+      "name": "458-speciale 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/458-speciale/2013-2016.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "812-competizione",
+  "name": "812-competizione",
+  "generations": [
+    {
+      "slug": "812-competizione-0",
+      "name": "812-competizione 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/812-competizione/2021-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "ff",
+  "name": "ff",
+  "generations": [
+    {
+      "slug": "ff-0",
+      "name": "ff 1",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/ff/2011-2017.webp"
+      }
+    }
+  ]
+}

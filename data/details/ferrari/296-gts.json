@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "296-gts",
+  "name": "296-gts",
+  "generations": [
+    {
+      "slug": "296-gts-0",
+      "name": "296-gts 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/296-gts/2022-now.webp"
+      }
+    }
+  ]
+}

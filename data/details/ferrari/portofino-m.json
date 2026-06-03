@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "portofino-m",
+  "name": "portofino-m",
+  "generations": [
+    {
+      "slug": "portofino-m-0",
+      "name": "portofino-m 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/portofino-m/2020-2023.webp"
+      }
+    }
+  ]
+}

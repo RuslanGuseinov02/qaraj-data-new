@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "296-speciale",
+  "name": "296-speciale",
+  "generations": [
+    {
+      "slug": "296-speciale-0",
+      "name": "296-speciale 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/296-speciale/2025-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "f355-berlinetta",
+  "name": "f355-berlinetta",
+  "generations": [
+    {
+      "slug": "f355-berlinetta-0",
+      "name": "f355-berlinetta 1",
+      "year_start": 1994,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/f355-berlinetta/1994-1999.webp"
+      }
+    }
+  ]
+}

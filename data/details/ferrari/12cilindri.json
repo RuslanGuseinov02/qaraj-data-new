@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "12cilindri",
+  "name": "12cilindri",
+  "generations": [
+    {
+      "slug": "12cilindri-0",
+      "name": "12cilindri 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/12cilindri/2024-now.webp"
+      }
+    }
+  ]
+}

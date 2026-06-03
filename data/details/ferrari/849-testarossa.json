@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "849-testarossa",
+  "name": "849-testarossa",
+  "generations": [
+    {
+      "slug": "849-testarossa-0",
+      "name": "849-testarossa 1",
+      "year_start": 2026,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/849-testarossa/2026-now.webp"
+      }
+    }
+  ]
+}

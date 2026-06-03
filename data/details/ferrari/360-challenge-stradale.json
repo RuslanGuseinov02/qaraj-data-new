@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "360-challenge-stradale",
+  "name": "360-challenge-stradale",
+  "generations": [
+    {
+      "slug": "360-challenge-stradale-0",
+      "name": "360-challenge-stradale 1",
+      "year_start": 2003,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/360-challenge-stradale/2003-2005.webp"
+      }
+    }
+  ]
+}

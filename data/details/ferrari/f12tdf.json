@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "f12tdf",
+  "name": "f12tdf",
+  "generations": [
+    {
+      "slug": "f12tdf-0",
+      "name": "f12tdf 1",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/f12tdf/2015-2017.webp"
+      }
+    }
+  ]
+}

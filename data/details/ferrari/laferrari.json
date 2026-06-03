@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "laferrari",
+  "name": "laferrari",
+  "generations": [
+    {
+      "slug": "laferrari-0",
+      "name": "laferrari 1",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/laferrari/2013-2015.webp"
+      }
+    }
+  ]
+}

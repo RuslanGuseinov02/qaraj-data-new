@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "f355-spider",
+  "name": "f355-spider",
+  "generations": [
+    {
+      "slug": "f355-spider-0",
+      "name": "f355-spider 1",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/f355-spider/1995-1999.webp"
+      }
+    }
+  ]
+}

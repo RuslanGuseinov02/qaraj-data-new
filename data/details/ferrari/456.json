@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "456",
+  "name": "456",
+  "generations": [
+    {
+      "slug": "456-0",
+      "name": "456 1",
+      "year_start": 1993,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/456/456-1993-1997.webp"
+      }
+    },
+    {
+      "slug": "456-1",
+      "name": "456 2",
+      "year_start": 1998,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/456/456m-1998-2004.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "599-gtb-fiorano",
+  "name": "599-gtb-fiorano",
+  "generations": [
+    {
+      "slug": "599-gtb-fiorano-0",
+      "name": "599-gtb-fiorano 1",
+      "year_start": 2006,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/599-gtb-fiorano/2006-2012.webp"
+      }
+    }
+  ]
+}

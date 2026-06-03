@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "purosangue",
+  "name": "purosangue",
+  "generations": [
+    {
+      "slug": "purosangue-0",
+      "name": "purosangue 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/purosangue/2023-now.webp"
+      }
+    }
+  ]
+}

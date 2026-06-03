@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ferrari",
+    "name": "FERRARI"
+  },
+  "slug": "575m-superamerica",
+  "name": "575m-superamerica",
+  "generations": [
+    {
+      "slug": "575m-superamerica-0",
+      "name": "575m-superamerica 1",
+      "year_start": 2005,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ferrari/575m-superamerica/2005-2006.webp"
+      }
+    }
+  ]
+}
