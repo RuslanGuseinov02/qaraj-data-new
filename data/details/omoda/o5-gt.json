@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "omoda",
+    "name": "OMODA"
+  },
+  "slug": "o5-gt",
+  "name": "o5-gt",
+  "generations": [
+    {
+      "slug": "o5-gt-0",
+      "name": "o5-gt 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/omoda/o5-gt/2024-now.webp"
+      }
+    }
+  ]
+}

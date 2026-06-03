@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "omoda",
+    "name": "OMODA"
+  },
+  "slug": "c7",
+  "name": "c7",
+  "generations": [
+    {
+      "slug": "c7-0",
+      "name": "c7 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/omoda/c7/t1gc-2025-now.webp"
+      }
+    }
+  ]
+}
