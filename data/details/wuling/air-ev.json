@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "wuling",
+    "name": "WULING"
+  },
+  "slug": "air-ev",
+  "name": "air-ev",
+  "generations": [
+    {
+      "slug": "air-ev-0",
+      "name": "air-ev 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/air-ev/e230-2022-now.webp"
+      }
+    }
+  ]
+}

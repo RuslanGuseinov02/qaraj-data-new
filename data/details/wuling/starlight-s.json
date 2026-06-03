@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "wuling",
+    "name": "WULING"
+  },
+  "slug": "starlight-s",
+  "name": "starlight-s",
+  "generations": [
+    {
+      "slug": "starlight-s-0",
+      "name": "starlight-s 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/starlight-s/f710s-2024-now.webp"
+      }
+    }
+  ]
+}

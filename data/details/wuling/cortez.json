@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "wuling",
+    "name": "WULING"
+  },
+  "slug": "cortez",
+  "name": "cortez",
+  "generations": [
+    {
+      "slug": "cortez-0",
+      "name": "cortez 1",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/cortez/cn210m-2018-2022.webp"
+      }
+    },
+    {
+      "slug": "cortez-1",
+      "name": "cortez 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/cortez/cn210m-2022-now.webp"
+      }
+    }
+  ]
+}

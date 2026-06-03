@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "wuling",
+    "name": "WULING"
+  },
+  "slug": "nano-ev",
+  "name": "nano-ev",
+  "generations": [
+    {
+      "slug": "nano-ev-0",
+      "name": "nano-ev 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/nano-ev/e200-2022-now.webp"
+      }
+    }
+  ]
+}

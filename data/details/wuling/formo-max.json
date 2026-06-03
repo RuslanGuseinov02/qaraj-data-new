@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "wuling",
+    "name": "WULING"
+  },
+  "slug": "formo-max",
+  "name": "formo-max",
+  "generations": [
+    {
+      "slug": "formo-max-0",
+      "name": "formo-max 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/formo-max/2022-now.webp"
+      }
+    }
+  ]
+}

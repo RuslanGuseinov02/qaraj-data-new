@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "wuling",
+    "name": "WULING"
+  },
+  "slug": "cortez-s",
+  "name": "cortez-s",
+  "generations": [
+    {
+      "slug": "cortez-s-0",
+      "name": "cortez-s 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/cortez-s/cn210m-2022-now.webp"
+      }
+    }
+  ]
+}

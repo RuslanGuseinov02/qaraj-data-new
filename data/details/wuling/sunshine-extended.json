@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "wuling",
+    "name": "WULING"
+  },
+  "slug": "sunshine-extended",
+  "name": "sunshine-extended",
+  "generations": [
+    {
+      "slug": "sunshine-extended-0",
+      "name": "sunshine-extended 1",
+      "year_start": 2013,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/sunshine-extended/2013-2021.webp"
+      }
+    }
+  ]
+}

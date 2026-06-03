@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "wuling",
+    "name": "WULING"
+  },
+  "slug": "formo",
+  "name": "formo",
+  "generations": [
+    {
+      "slug": "formo-0",
+      "name": "formo 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/formo/cn113-2018-now.webp"
+      }
+    }
+  ]
+}

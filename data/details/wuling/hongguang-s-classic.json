@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "wuling",
+    "name": "WULING"
+  },
+  "slug": "hongguang-s-classic",
+  "name": "hongguang-s-classic",
+  "generations": [
+    {
+      "slug": "hongguang-s-classic-0",
+      "name": "hongguang-s-classic 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/hongguang-s-classic/2018-now.webp"
+      }
+    }
+  ]
+}

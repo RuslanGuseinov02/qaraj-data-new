@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "wuling",
+    "name": "WULING"
+  },
+  "slug": "sunshine-v",
+  "name": "sunshine-v",
+  "generations": [
+    {
+      "slug": "sunshine-v-0",
+      "name": "sunshine-v 1",
+      "year_start": 2017,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/sunshine-v/2017-2018.webp"
+      }
+    }
+  ]
+}

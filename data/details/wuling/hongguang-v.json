@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "wuling",
+    "name": "WULING"
+  },
+  "slug": "hongguang-v",
+  "name": "hongguang-v",
+  "generations": [
+    {
+      "slug": "hongguang-v-0",
+      "name": "hongguang-v 1",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/hongguang-v/2015-2019.webp"
+      }
+    },
+    {
+      "slug": "hongguang-v-1",
+      "name": "hongguang-v 2",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/hongguang-v/2019-now.webp"
+      }
+    }
+  ]
+}

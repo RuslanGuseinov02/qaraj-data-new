@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "wuling",
+    "name": "WULING"
+  },
+  "slug": "victory",
+  "name": "victory",
+  "generations": [
+    {
+      "slug": "victory-0",
+      "name": "victory 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/victory/cn220m-2020-now.webp"
+      }
+    }
+  ]
+}

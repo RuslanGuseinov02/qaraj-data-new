@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "wuling",
+    "name": "WULING"
+  },
+  "slug": "yangguang",
+  "name": "yangguang",
+  "generations": [
+    {
+      "slug": "yangguang-0",
+      "name": "yangguang 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/yangguang/2024-now.webp"
+      }
+    }
+  ]
+}

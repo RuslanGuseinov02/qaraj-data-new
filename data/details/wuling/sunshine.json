@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "wuling",
+    "name": "WULING"
+  },
+  "slug": "sunshine",
+  "name": "sunshine",
+  "generations": [
+    {
+      "slug": "sunshine-0",
+      "name": "sunshine 1",
+      "year_start": 2002,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/sunshine/2002-2013.webp"
+      }
+    },
+    {
+      "slug": "sunshine-1",
+      "name": "sunshine 2",
+      "year_start": 2013,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/sunshine/2013-2021.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "wuling",
+    "name": "WULING"
+  },
+  "slug": "journey",
+  "name": "journey",
+  "generations": [
+    {
+      "slug": "journey-0",
+      "name": "journey 1",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/journey/2015-2018.webp"
+      }
+    },
+    {
+      "slug": "journey-1",
+      "name": "journey 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/journey/2021-now.webp"
+      }
+    }
+  ]
+}

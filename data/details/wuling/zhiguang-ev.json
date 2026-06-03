@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "wuling",
+    "name": "WULING"
+  },
+  "slug": "zhiguang-ev",
+  "name": "zhiguang-ev",
+  "generations": [
+    {
+      "slug": "zhiguang-ev-0",
+      "name": "zhiguang-ev 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/zhiguang-ev/2024-now.webp"
+      }
+    }
+  ]
+}

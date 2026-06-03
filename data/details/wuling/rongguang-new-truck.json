@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "wuling",
+    "name": "WULING"
+  },
+  "slug": "rongguang-new-truck",
+  "name": "rongguang-new-truck",
+  "generations": [
+    {
+      "slug": "rongguang-new-truck-0",
+      "name": "rongguang-new-truck 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/rongguang-new-truck/2018-now.webp"
+      }
+    }
+  ]
+}

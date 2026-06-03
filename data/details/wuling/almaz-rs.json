@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "wuling",
+    "name": "WULING"
+  },
+  "slug": "almaz-rs",
+  "name": "almaz-rs",
+  "generations": [
+    {
+      "slug": "almaz-rs-0",
+      "name": "almaz-rs 1",
+      "year_start": 2021,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/almaz-rs/2021-2023.webp"
+      }
+    },
+    {
+      "slug": "almaz-rs-1",
+      "name": "almaz-rs 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/almaz-rs/2023-now.webp"
+      }
+    }
+  ]
+}

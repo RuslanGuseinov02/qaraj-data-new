@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "wuling",
+    "name": "WULING"
+  },
+  "slug": "rongguang",
+  "name": "rongguang",
+  "generations": [
+    {
+      "slug": "rongguang-0",
+      "name": "rongguang 1",
+      "year_start": 2008,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/rongguang/2008-2022.webp"
+      }
+    }
+  ]
+}

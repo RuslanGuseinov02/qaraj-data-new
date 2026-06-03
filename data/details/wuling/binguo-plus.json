@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "wuling",
+    "name": "WULING"
+  },
+  "slug": "binguo-plus",
+  "name": "binguo-plus",
+  "generations": [
+    {
+      "slug": "binguo-plus-0",
+      "name": "binguo-plus 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/binguo-plus/e260mce-2024-now.webp"
+      }
+    }
+  ]
+}

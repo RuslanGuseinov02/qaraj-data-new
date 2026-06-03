@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "wuling",
+    "name": "WULING"
+  },
+  "slug": "jiachen",
+  "name": "jiachen",
+  "generations": [
+    {
+      "slug": "jiachen-0",
+      "name": "jiachen 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wuling/jiachen/2022-now.webp"
+      }
+    }
+  ]
+}
