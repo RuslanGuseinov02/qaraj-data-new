@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "v70",
+  "name": "v70",
+  "generations": [
+    {
+      "slug": "v70-0",
+      "name": "v70 1",
+      "year_start": 1997,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/v70/1997-2000.webp"
+      }
+    },
+    {
+      "slug": "v70-1",
+      "name": "v70 2",
+      "year_start": 2000,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/v70/2000-2004.webp"
+      }
+    },
+    {
+      "slug": "v70-2",
+      "name": "v70 3",
+      "year_start": 2004,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/v70/2004-2007.webp"
+      }
+    },
+    {
+      "slug": "v70-3",
+      "name": "v70 4",
+      "year_start": 2007,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/v70/bw-2007-2013.webp"
+      }
+    },
+    {
+      "slug": "v70-4",
+      "name": "v70 5",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/v70/bw-2013-2016.webp"
+      }
+    }
+  ]
+}

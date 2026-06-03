@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "v90",
+  "name": "v90",
+  "generations": [
+    {
+      "slug": "v90-0",
+      "name": "v90 1",
+      "year_start": 1996,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/v90/1996-1998.webp"
+      }
+    },
+    {
+      "slug": "v90-1",
+      "name": "v90 2",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/v90/2016-2020.webp"
+      }
+    },
+    {
+      "slug": "v90-2",
+      "name": "v90 3",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/v90/2020-now.webp"
+      }
+    }
+  ]
+}

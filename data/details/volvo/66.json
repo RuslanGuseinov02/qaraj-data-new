@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "66",
+  "name": "66",
+  "generations": [
+    {
+      "slug": "66-0",
+      "name": "66 1",
+      "year_start": 1975,
+      "year_end": 1980,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/66/1975-1980.webp"
+      }
+    }
+  ]
+}

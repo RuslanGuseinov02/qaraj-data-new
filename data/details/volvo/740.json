@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "740",
+  "name": "740",
+  "generations": [
+    {
+      "slug": "740-0",
+      "name": "740 1",
+      "year_start": 1984,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/740/1984-1992.webp"
+      }
+    }
+  ]
+}

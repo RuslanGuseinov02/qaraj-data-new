@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "v40",
+  "name": "v40",
+  "generations": [
+    {
+      "slug": "v40-0",
+      "name": "v40 1",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/v40/1995-1999.webp"
+      }
+    },
+    {
+      "slug": "v40-1",
+      "name": "v40 2",
+      "year_start": 1999,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/v40/1999-2002.webp"
+      }
+    },
+    {
+      "slug": "v40-2",
+      "name": "v40 3",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/v40/2002-2005.webp"
+      }
+    },
+    {
+      "slug": "v40-3",
+      "name": "v40 4",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/v40/2012-2016.webp"
+      }
+    },
+    {
+      "slug": "v40-4",
+      "name": "v40 5",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/v40/2016-2021.webp"
+      }
+    }
+  ]
+}

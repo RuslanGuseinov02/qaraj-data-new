@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "s60",
+  "name": "s60",
+  "generations": [
+    {
+      "slug": "s60-0",
+      "name": "s60 1",
+      "year_start": 2000,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/s60/2000-2009.webp"
+      }
+    },
+    {
+      "slug": "s60-1",
+      "name": "s60 2",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/s60/2010-2013.webp"
+      }
+    },
+    {
+      "slug": "s60-2",
+      "name": "s60 3",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/s60/2013-2018.webp"
+      }
+    },
+    {
+      "slug": "s60-3",
+      "name": "s60 4",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/s60/2019-2025.webp"
+      }
+    }
+  ]
+}

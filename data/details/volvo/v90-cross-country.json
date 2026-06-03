@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "v90-cross-country",
+  "name": "v90-cross-country",
+  "generations": [
+    {
+      "slug": "v90-cross-country-0",
+      "name": "v90-cross-country 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/v90-cross-country/2016-2020.webp"
+      }
+    },
+    {
+      "slug": "v90-cross-country-1",
+      "name": "v90-cross-country 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/v90-cross-country/2020-now.webp"
+      }
+    }
+  ]
+}

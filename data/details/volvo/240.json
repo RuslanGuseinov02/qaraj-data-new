@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "240",
+  "name": "240",
+  "generations": [
+    {
+      "slug": "240-0",
+      "name": "240 1",
+      "year_start": 1983,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/240/1983-1993.webp"
+      }
+    },
+    {
+      "slug": "240-1",
+      "name": "240 2",
+      "year_start": 1974,
+      "year_end": 1982,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/240/244-245-242-1974-1982.webp"
+      }
+    }
+  ]
+}

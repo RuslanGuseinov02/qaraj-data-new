@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "xc60",
+  "name": "xc60",
+  "generations": [
+    {
+      "slug": "xc60-0",
+      "name": "xc60 1",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/xc60/2008-2013.webp"
+      }
+    },
+    {
+      "slug": "xc60-1",
+      "name": "xc60 2",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/xc60/2013-2017.webp"
+      }
+    },
+    {
+      "slug": "xc60-2",
+      "name": "xc60 3",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/xc60/2017-2021.webp"
+      }
+    },
+    {
+      "slug": "xc60-3",
+      "name": "xc60 4",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/xc60/2021-now.webp"
+      }
+    }
+  ]
+}

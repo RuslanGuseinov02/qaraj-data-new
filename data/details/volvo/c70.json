@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "c70",
+  "name": "c70",
+  "generations": [
+    {
+      "slug": "c70-0",
+      "name": "c70 1",
+      "year_start": 1997,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/c70/1997-2005.webp"
+      }
+    },
+    {
+      "slug": "c70-1",
+      "name": "c70 2",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/c70/2006-2010.webp"
+      }
+    },
+    {
+      "slug": "c70-2",
+      "name": "c70 3",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/c70/2011-2013.webp"
+      }
+    }
+  ]
+}

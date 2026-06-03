@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "960",
+  "name": "960",
+  "generations": [
+    {
+      "slug": "960-0",
+      "name": "960 1",
+      "year_start": 1990,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/960/1990-1994.webp"
+      }
+    },
+    {
+      "slug": "960-1",
+      "name": "960 2",
+      "year_start": 1994,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/960/1994-1998.webp"
+      }
+    }
+  ]
+}

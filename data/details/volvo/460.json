@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "460",
+  "name": "460",
+  "generations": [
+    {
+      "slug": "460-0",
+      "name": "460 1",
+      "year_start": 1989,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/460/1989-1997.webp"
+      }
+    }
+  ]
+}

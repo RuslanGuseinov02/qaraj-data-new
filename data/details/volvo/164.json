@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "164",
+  "name": "164",
+  "generations": [
+    {
+      "slug": "164-0",
+      "name": "164 1",
+      "year_start": 1968,
+      "year_end": 1975,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/164/1968-1975.webp"
+      }
+    }
+  ]
+}

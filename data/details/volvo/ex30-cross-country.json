@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "ex30-cross-country",
+  "name": "ex30-cross-country",
+  "generations": [
+    {
+      "slug": "ex30-cross-country-0",
+      "name": "ex30-cross-country 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/ex30-cross-country/2025-now.webp"
+      }
+    }
+  ]
+}

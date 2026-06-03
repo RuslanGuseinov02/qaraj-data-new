@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "em90",
+  "name": "em90",
+  "generations": [
+    {
+      "slug": "em90-0",
+      "name": "em90 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/em90/2024-now.webp"
+      }
+    }
+  ]
+}

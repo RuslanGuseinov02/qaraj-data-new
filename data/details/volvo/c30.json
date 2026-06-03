@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "c30",
+  "name": "c30",
+  "generations": [
+    {
+      "slug": "c30-0",
+      "name": "c30 1",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/c30/2006-2009.webp"
+      }
+    },
+    {
+      "slug": "c30-1",
+      "name": "c30 2",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/c30/2010-2014.webp"
+      }
+    }
+  ]
+}

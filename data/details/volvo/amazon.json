@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "amazon",
+  "name": "amazon",
+  "generations": [
+    {
+      "slug": "amazon-0",
+      "name": "amazon 1",
+      "year_start": 1956,
+      "year_end": 1970,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/amazon/p120-p130-p220-1956-1970.webp"
+      }
+    }
+  ]
+}

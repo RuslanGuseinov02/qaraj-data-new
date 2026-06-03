@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "260",
+  "name": "260",
+  "generations": [
+    {
+      "slug": "260-0",
+      "name": "260 1",
+      "year_start": 1974,
+      "year_end": 1982,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/260/1974-1982.webp"
+      }
+    }
+  ]
+}

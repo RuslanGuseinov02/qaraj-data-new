@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "300-series",
+  "name": "300-series",
+  "generations": [
+    {
+      "slug": "300-series-0",
+      "name": "300-series 1",
+      "year_start": 1975,
+      "year_end": 1985,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/300-series/1975-1985.webp"
+      }
+    }
+  ]
+}

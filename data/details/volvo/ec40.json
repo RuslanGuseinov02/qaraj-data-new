@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "ec40",
+  "name": "ec40",
+  "generations": [
+    {
+      "slug": "ec40-0",
+      "name": "ec40 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/ec40/2024-now.webp"
+      }
+    }
+  ]
+}

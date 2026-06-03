@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "140-series",
+  "name": "140-series",
+  "generations": [
+    {
+      "slug": "140-series-0",
+      "name": "140-series 1",
+      "year_start": 1966,
+      "year_end": 1975,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/140-series/144-145-142-1966-1975.webp"
+      }
+    }
+  ]
+}

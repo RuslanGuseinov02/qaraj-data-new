@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "480",
+  "name": "480",
+  "generations": [
+    {
+      "slug": "480-0",
+      "name": "480 1",
+      "year_start": 1986,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/480/1986-1995.webp"
+      }
+    }
+  ]
+}

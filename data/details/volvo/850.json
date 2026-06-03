@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "850",
+  "name": "850",
+  "generations": [
+    {
+      "slug": "850-0",
+      "name": "850 1",
+      "year_start": 1991,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/850/1991-1997.webp"
+      }
+    }
+  ]
+}

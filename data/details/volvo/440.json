@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "440",
+  "name": "440",
+  "generations": [
+    {
+      "slug": "440-0",
+      "name": "440 1",
+      "year_start": 1987,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/440/1987-1997.webp"
+      }
+    }
+  ]
+}

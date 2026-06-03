@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "940",
+  "name": "940",
+  "generations": [
+    {
+      "slug": "940-0",
+      "name": "940 1",
+      "year_start": 1989,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/940/1989-1998.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volvo",
+    "name": "VOLVO"
+  },
+  "slug": "v50",
+  "name": "v50",
+  "generations": [
+    {
+      "slug": "v50-0",
+      "name": "v50 1",
+      "year_start": 2004,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/v50/2004-2007.webp"
+      }
+    },
+    {
+      "slug": "v50-1",
+      "name": "v50 2",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volvo/v50/2007-2012.webp"
+      }
+    }
+  ]
+}
