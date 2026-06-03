@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "galaxy",
+    "name": "GALAXY"
+  },
+  "slug": "l380",
+  "name": "l380",
+  "generations": [
+    {
+      "slug": "l380-0",
+      "name": "l380 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/galaxy/l380/2024-now.webp"
+      }
+    }
+  ]
+}

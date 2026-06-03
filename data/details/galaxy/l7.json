@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "galaxy",
+    "name": "GALAXY"
+  },
+  "slug": "l7",
+  "name": "l7",
+  "generations": [
+    {
+      "slug": "l7-0",
+      "name": "l7 1",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/galaxy/l7/2023-2025.webp"
+      }
+    },
+    {
+      "slug": "l7-1",
+      "name": "l7 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/galaxy/l7/2025-now.webp"
+      }
+    }
+  ]
+}

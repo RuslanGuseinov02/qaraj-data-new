@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "galaxy",
+    "name": "GALAXY"
+  },
+  "slug": "l6",
+  "name": "l6",
+  "generations": [
+    {
+      "slug": "l6-0",
+      "name": "l6 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/galaxy/l6/2023-now.webp"
+      }
+    }
+  ]
+}
