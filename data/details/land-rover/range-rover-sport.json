@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "land-rover",
+    "name": "LAND-ROVER"
+  },
+  "slug": "range-rover-sport",
+  "name": "range-rover-sport",
+  "generations": [
+    {
+      "slug": "range-rover-sport-0",
+      "name": "range-rover-sport 1",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/range-rover-sport/l320-2005-2009.webp"
+      }
+    },
+    {
+      "slug": "range-rover-sport-1",
+      "name": "range-rover-sport 2",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/range-rover-sport/l320-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "range-rover-sport-2",
+      "name": "range-rover-sport 3",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/range-rover-sport/l461-2022-now.webp"
+      }
+    },
+    {
+      "slug": "range-rover-sport-3",
+      "name": "range-rover-sport 4",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/range-rover-sport/l494-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "range-rover-sport-4",
+      "name": "range-rover-sport 5",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/range-rover-sport/l494-2017-2022.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "land-rover",
+    "name": "LAND-ROVER"
+  },
+  "slug": "discovery-sport",
+  "name": "discovery-sport",
+  "generations": [
+    {
+      "slug": "discovery-sport-0",
+      "name": "discovery-sport 1",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/discovery-sport/l550-2014-2019.webp"
+      }
+    },
+    {
+      "slug": "discovery-sport-1",
+      "name": "discovery-sport 2",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/discovery-sport/l550-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "discovery-sport-2",
+      "name": "discovery-sport 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/discovery-sport/l550-2023-now.webp"
+      }
+    }
+  ]
+}

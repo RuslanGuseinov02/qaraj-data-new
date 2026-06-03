@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "land-rover",
+    "name": "LAND-ROVER"
+  },
+  "slug": "lr3",
+  "name": "lr3",
+  "generations": [
+    {
+      "slug": "lr3-0",
+      "name": "lr3 1",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/lr3/l319-2005-2009.webp"
+      }
+    }
+  ]
+}

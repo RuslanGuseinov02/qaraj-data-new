@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "land-rover",
+    "name": "LAND-ROVER"
+  },
+  "slug": "range-rover-evoque-l",
+  "name": "range-rover-evoque-l",
+  "generations": [
+    {
+      "slug": "range-rover-evoque-l-0",
+      "name": "range-rover-evoque-l 1",
+      "year_start": 2021,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/range-rover-evoque-l/l551-2021-2023.webp"
+      }
+    },
+    {
+      "slug": "range-rover-evoque-l-1",
+      "name": "range-rover-evoque-l 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/range-rover-evoque-l/l551-2023-now.webp"
+      }
+    }
+  ]
+}

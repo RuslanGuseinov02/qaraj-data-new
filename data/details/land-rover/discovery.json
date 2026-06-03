@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "land-rover",
+    "name": "LAND-ROVER"
+  },
+  "slug": "discovery",
+  "name": "discovery",
+  "generations": [
+    {
+      "slug": "discovery-0",
+      "name": "discovery 1",
+      "year_start": 1989,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/discovery/lj-1989-1998.webp"
+      }
+    }
+  ]
+}

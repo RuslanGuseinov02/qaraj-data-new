@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "land-rover",
+    "name": "LAND-ROVER"
+  },
+  "slug": "range-rover",
+  "name": "range-rover",
+  "generations": [
+    {
+      "slug": "range-rover-0",
+      "name": "range-rover 1",
+      "year_start": 1970,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/range-rover/classic-1970-1996.webp"
+      }
+    },
+    {
+      "slug": "range-rover-1",
+      "name": "range-rover 2",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/range-rover/l322-2002-2005.webp"
+      }
+    },
+    {
+      "slug": "range-rover-2",
+      "name": "range-rover 3",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/range-rover/l322-2005-2009.webp"
+      }
+    },
+    {
+      "slug": "range-rover-3",
+      "name": "range-rover 4",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/range-rover/l322-2009-2012.webp"
+      }
+    },
+    {
+      "slug": "range-rover-4",
+      "name": "range-rover 5",
+      "year_start": 2012,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/range-rover/l405-2012-2017.webp"
+      }
+    },
+    {
+      "slug": "range-rover-5",
+      "name": "range-rover 6",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/range-rover/l405-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "range-rover-6",
+      "name": "range-rover 7",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/range-rover/l460-2021-now.webp"
+      }
+    },
+    {
+      "slug": "range-rover-7",
+      "name": "range-rover 8",
+      "year_start": 1994,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/range-rover/p38a-1994-2002.webp"
+      }
+    }
+  ]
+}

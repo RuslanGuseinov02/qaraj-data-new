@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "land-rover",
+    "name": "LAND-ROVER"
+  },
+  "slug": "freelander-2",
+  "name": "freelander-2",
+  "generations": [
+    {
+      "slug": "freelander-2-0",
+      "name": "freelander-2 1",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/freelander-2/l359-2006-2010.webp"
+      }
+    },
+    {
+      "slug": "freelander-2-1",
+      "name": "freelander-2 2",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/freelander-2/l359-2010-2014.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "land-rover",
+    "name": "LAND-ROVER"
+  },
+  "slug": "defender",
+  "name": "defender",
+  "generations": [
+    {
+      "slug": "defender-0",
+      "name": "defender 1",
+      "year_start": 1983,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/defender/l315-1983-1990.webp"
+      }
+    },
+    {
+      "slug": "defender-1",
+      "name": "defender 2",
+      "year_start": 1990,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/defender/l316-1990-2016.webp"
+      }
+    },
+    {
+      "slug": "defender-2",
+      "name": "defender 3",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/defender/l663-2019-2025.webp"
+      }
+    },
+    {
+      "slug": "defender-3",
+      "name": "defender 4",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/defender/l663-2025-now.webp"
+      }
+    }
+  ]
+}

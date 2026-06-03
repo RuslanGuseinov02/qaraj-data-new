@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "land-rover",
+    "name": "LAND-ROVER"
+  },
+  "slug": "freelander",
+  "name": "freelander",
+  "generations": [
+    {
+      "slug": "freelander-0",
+      "name": "freelander 1",
+      "year_start": 1997,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/freelander/l314-1997-2003.webp"
+      }
+    },
+    {
+      "slug": "freelander-1",
+      "name": "freelander 2",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/freelander/l314-2003-2007.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "land-rover",
+    "name": "LAND-ROVER"
+  },
+  "slug": "range-rover-velar",
+  "name": "range-rover-velar",
+  "generations": [
+    {
+      "slug": "range-rover-velar-0",
+      "name": "range-rover-velar 1",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/range-rover-velar/l560-2017-2023.webp"
+      }
+    },
+    {
+      "slug": "range-rover-velar-1",
+      "name": "range-rover-velar 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/land-rover/range-rover-velar/l560-2023-now.webp"
+      }
+    }
+  ]
+}
