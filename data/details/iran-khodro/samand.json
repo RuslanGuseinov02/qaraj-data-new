@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "iran-khodro",
+    "name": "IRAN-KHODRO"
+  },
+  "slug": "samand",
+  "name": "samand",
+  "generations": [
+    {
+      "slug": "samand-0",
+      "name": "samand 1",
+      "year_start": 2002,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/iran-khodro/samand/2002-2022.webp"
+      }
+    }
+  ]
+}

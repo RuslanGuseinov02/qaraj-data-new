@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "iran-khodro",
+    "name": "IRAN-KHODRO"
+  },
+  "slug": "tara",
+  "name": "tara",
+  "generations": [
+    {
+      "slug": "tara-0",
+      "name": "tara 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/iran-khodro/tara/2021-now.webp"
+      }
+    }
+  ]
+}

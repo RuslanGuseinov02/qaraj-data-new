@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "iran-khodro",
+    "name": "IRAN-KHODRO"
+  },
+  "slug": "arisun",
+  "name": "arisun",
+  "generations": [
+    {
+      "slug": "arisun-0",
+      "name": "arisun 1",
+      "year_start": 2015,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/iran-khodro/arisun/2015-2022.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "iran-khodro",
+    "name": "IRAN-KHODRO"
+  },
+  "slug": "runna-plus",
+  "name": "runna-plus",
+  "generations": [
+    {
+      "slug": "runna-plus-0",
+      "name": "runna-plus 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/iran-khodro/runna-plus/2021-now.webp"
+      }
+    }
+  ]
+}
