@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "lincoln",
+    "name": "LINCOLN"
+  },
+  "slug": "ls",
+  "name": "ls",
+  "generations": [
+    {
+      "slug": "ls-0",
+      "name": "ls 1",
+      "year_start": 2000,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/ls/dew98-2000-2002.webp"
+      }
+    },
+    {
+      "slug": "ls-1",
+      "name": "ls 2",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/ls/dew98-2003-2006.webp"
+      }
+    }
+  ]
+}

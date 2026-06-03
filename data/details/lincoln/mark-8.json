@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lincoln",
+    "name": "LINCOLN"
+  },
+  "slug": "mark-8",
+  "name": "mark-8",
+  "generations": [
+    {
+      "slug": "mark-8-0",
+      "name": "mark-8 1",
+      "year_start": 1993,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/mark-8/fn10-1993-1998.webp"
+      }
+    }
+  ]
+}

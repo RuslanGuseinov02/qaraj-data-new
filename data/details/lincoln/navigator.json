@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "lincoln",
+    "name": "LINCOLN"
+  },
+  "slug": "navigator",
+  "name": "navigator",
+  "generations": [
+    {
+      "slug": "navigator-0",
+      "name": "navigator 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/navigator/2025-now.webp"
+      }
+    },
+    {
+      "slug": "navigator-1",
+      "name": "navigator 2",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/navigator/u228-2003-2006.webp"
+      }
+    },
+    {
+      "slug": "navigator-2",
+      "name": "navigator 3",
+      "year_start": 2007,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/navigator/u326-2007-2014.webp"
+      }
+    },
+    {
+      "slug": "navigator-3",
+      "name": "navigator 4",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/navigator/u326-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "navigator-4",
+      "name": "navigator 5",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/navigator/u554-2018-2021.webp"
+      }
+    },
+    {
+      "slug": "navigator-5",
+      "name": "navigator 6",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/navigator/u554-2022-2025.webp"
+      }
+    },
+    {
+      "slug": "navigator-6",
+      "name": "navigator 7",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/navigator/un173-1998-2002.webp"
+      }
+    }
+  ]
+}

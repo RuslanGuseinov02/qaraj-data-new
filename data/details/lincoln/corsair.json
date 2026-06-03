@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "lincoln",
+    "name": "LINCOLN"
+  },
+  "slug": "corsair",
+  "name": "corsair",
+  "generations": [
+    {
+      "slug": "corsair-0",
+      "name": "corsair 1",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/corsair/2019-2022.webp"
+      }
+    },
+    {
+      "slug": "corsair-1",
+      "name": "corsair 2",
+      "year_start": 2011,
+      "year_end": 75,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/corsair/2023-now-75.webp"
+      }
+    },
+    {
+      "slug": "corsair-2",
+      "name": "corsair 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/corsair/2023-now.webp"
+      }
+    }
+  ]
+}

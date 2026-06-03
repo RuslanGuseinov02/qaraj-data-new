@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lincoln",
+    "name": "LINCOLN"
+  },
+  "slug": "mark-3",
+  "name": "mark-3",
+  "generations": [
+    {
+      "slug": "mark-3-0",
+      "name": "mark-3 1",
+      "year_start": 1968,
+      "year_end": 1971,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/mark-3/1968-1971.webp"
+      }
+    }
+  ]
+}

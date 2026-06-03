@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "lincoln",
+    "name": "LINCOLN"
+  },
+  "slug": "nautilus",
+  "name": "nautilus",
+  "generations": [
+    {
+      "slug": "nautilus-0",
+      "name": "nautilus 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/nautilus/cdx707-2023-now.webp"
+      }
+    },
+    {
+      "slug": "nautilus-1",
+      "name": "nautilus 2",
+      "year_start": 2019,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/nautilus/u540-2019-2020.webp"
+      }
+    },
+    {
+      "slug": "nautilus-2",
+      "name": "nautilus 3",
+      "year_start": 2021,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/nautilus/u540-2021-2023.webp"
+      }
+    }
+  ]
+}

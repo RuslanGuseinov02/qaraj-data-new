@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lincoln",
+    "name": "LINCOLN"
+  },
+  "slug": "zephyr",
+  "name": "zephyr",
+  "generations": [
+    {
+      "slug": "zephyr-0",
+      "name": "zephyr 1",
+      "year_start": 2006,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/zephyr/2006-2006.webp"
+      }
+    }
+  ]
+}

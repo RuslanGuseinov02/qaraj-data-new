@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "lincoln",
+    "name": "LINCOLN"
+  },
+  "slug": "town-car",
+  "name": "town-car",
+  "generations": [
+    {
+      "slug": "town-car-0",
+      "name": "town-car 1",
+      "year_start": 1981,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/town-car/1981-1989.webp"
+      }
+    },
+    {
+      "slug": "town-car-1",
+      "name": "town-car 2",
+      "year_start": 1998,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/town-car/fn145-1998-2011.webp"
+      }
+    },
+    {
+      "slug": "town-car-2",
+      "name": "town-car 3",
+      "year_start": 1990,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/town-car/fn36-116-1990-1997.webp"
+      }
+    }
+  ]
+}

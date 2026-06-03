@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "lincoln",
+    "name": "LINCOLN"
+  },
+  "slug": "mks",
+  "name": "mks",
+  "generations": [
+    {
+      "slug": "mks-0",
+      "name": "mks 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/mks/2008-2012.webp"
+      }
+    },
+    {
+      "slug": "mks-1",
+      "name": "mks 2",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/mks/2013-2016.webp"
+      }
+    }
+  ]
+}

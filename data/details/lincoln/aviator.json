@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "lincoln",
+    "name": "LINCOLN"
+  },
+  "slug": "aviator",
+  "name": "aviator",
+  "generations": [
+    {
+      "slug": "aviator-0",
+      "name": "aviator 1",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/aviator/u611-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "aviator-1",
+      "name": "aviator 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/aviator/u611-2024-now.webp"
+      }
+    },
+    {
+      "slug": "aviator-2",
+      "name": "aviator 3",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/aviator/un152-2002-2005.webp"
+      }
+    }
+  ]
+}

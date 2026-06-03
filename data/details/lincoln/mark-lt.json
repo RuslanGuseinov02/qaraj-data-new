@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "lincoln",
+    "name": "LINCOLN"
+  },
+  "slug": "mark-lt",
+  "name": "mark-lt",
+  "generations": [
+    {
+      "slug": "mark-lt-0",
+      "name": "mark-lt 1",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/mark-lt/2005-2008.webp"
+      }
+    },
+    {
+      "slug": "mark-lt-1",
+      "name": "mark-lt 2",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lincoln/mark-lt/2010-2014.webp"
+      }
+    }
+  ]
+}
