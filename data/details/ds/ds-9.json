@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ds",
+    "name": "DS"
+  },
+  "slug": "ds-9",
+  "name": "ds-9",
+  "generations": [
+    {
+      "slug": "ds-9-0",
+      "name": "ds-9 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ds/ds-9/2020-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ds",
+    "name": "DS"
+  },
+  "slug": "ds-7",
+  "name": "ds-7",
+  "generations": [
+    {
+      "slug": "ds-7-0",
+      "name": "ds-7 1",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ds/ds-7/j-2018-2023.webp"
+      }
+    },
+    {
+      "slug": "ds-7-1",
+      "name": "ds-7 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ds/ds-7/j-2023-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ds",
+    "name": "DS"
+  },
+  "slug": "ds-6",
+  "name": "ds-6",
+  "generations": [
+    {
+      "slug": "ds-6-0",
+      "name": "ds-6 1",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ds/ds-6/pf2-2014-2019.webp"
+      }
+    }
+  ]
+}

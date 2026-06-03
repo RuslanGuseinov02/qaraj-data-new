@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ds",
+    "name": "DS"
+  },
+  "slug": "ds-3-crossback",
+  "name": "ds-3-crossback",
+  "generations": [
+    {
+      "slug": "ds-3-crossback-0",
+      "name": "ds-3-crossback 1",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ds/ds-3-crossback/emp1-2018-2023.webp"
+      }
+    }
+  ]
+}
