@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lynk-and-co",
+    "name": "LYNK-AND-CO"
+  },
+  "slug": "08",
+  "name": "08",
+  "generations": [
+    {
+      "slug": "08-0",
+      "name": "08 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lynk-and-co/08/2023-now.webp"
+      }
+    }
+  ]
+}

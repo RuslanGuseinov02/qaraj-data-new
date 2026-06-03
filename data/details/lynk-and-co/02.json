@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "lynk-and-co",
+    "name": "LYNK-AND-CO"
+  },
+  "slug": "02",
+  "name": "02",
+  "generations": [
+    {
+      "slug": "02-0",
+      "name": "02 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lynk-and-co/02/cc11-2018-now.webp"
+      }
+    },
+    {
+      "slug": "02-1",
+      "name": "02 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lynk-and-co/02/e335-2024-now.webp"
+      }
+    }
+  ]
+}
