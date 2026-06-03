@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "crown-majesta",
+  "name": "crown-majesta",
+  "generations": [
+    {
+      "slug": "crown-majesta-0",
+      "name": "crown-majesta 1",
+      "year_start": 1991,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/crown-majesta/s140-1991-1995.webp"
+      }
+    },
+    {
+      "slug": "crown-majesta-1",
+      "name": "crown-majesta 2",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/crown-majesta/s150-1995-1999.webp"
+      }
+    },
+    {
+      "slug": "crown-majesta-2",
+      "name": "crown-majesta 3",
+      "year_start": 1999,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/crown-majesta/s170-1999-2004.webp"
+      }
+    },
+    {
+      "slug": "crown-majesta-3",
+      "name": "crown-majesta 4",
+      "year_start": 2004,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/crown-majesta/s180-2004-2009.webp"
+      }
+    },
+    {
+      "slug": "crown-majesta-4",
+      "name": "crown-majesta 5",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/crown-majesta/s200-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "crown-majesta-5",
+      "name": "crown-majesta 6",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/crown-majesta/s210-2013-2018.webp"
+      }
+    }
+  ]
+}

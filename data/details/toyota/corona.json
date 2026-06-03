@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "corona",
+  "name": "corona",
+  "generations": [
+    {
+      "slug": "corona-0",
+      "name": "corona 1",
+      "year_start": 1987,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corona/t160-1987-1989.webp"
+      }
+    },
+    {
+      "slug": "corona-1",
+      "name": "corona 2",
+      "year_start": 1983,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corona/t160-t150-1983-1987.webp"
+      }
+    },
+    {
+      "slug": "corona-2",
+      "name": "corona 3",
+      "year_start": 1987,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corona/t170-1987-1992.webp"
+      }
+    },
+    {
+      "slug": "corona-3",
+      "name": "corona 4",
+      "year_start": 1992,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corona/t190-1992-1996.webp"
+      }
+    }
+  ]
+}

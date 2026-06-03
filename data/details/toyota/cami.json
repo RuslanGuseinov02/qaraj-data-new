@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "cami",
+  "name": "cami",
+  "generations": [
+    {
+      "slug": "cami-0",
+      "name": "cami 1",
+      "year_start": 1999,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/cami/j100-1999-2000.webp"
+      }
+    },
+    {
+      "slug": "cami-1",
+      "name": "cami 2",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/cami/j100-2000-2006.webp"
+      }
+    }
+  ]
+}

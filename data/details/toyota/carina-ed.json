@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "carina-ed",
+  "name": "carina-ed",
+  "generations": [
+    {
+      "slug": "carina-ed-0",
+      "name": "carina-ed 1",
+      "year_start": 1989,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/carina-ed/t180-1989-1993.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "duet",
+  "name": "duet",
+  "generations": [
+    {
+      "slug": "duet-0",
+      "name": "duet 1",
+      "year_start": 1998,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/duet/1998-2001.webp"
+      }
+    },
+    {
+      "slug": "duet-1",
+      "name": "duet 2",
+      "year_start": 2001,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/duet/2001-2004.webp"
+      }
+    }
+  ]
+}

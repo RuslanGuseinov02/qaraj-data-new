@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "majesty",
+  "name": "majesty",
+  "generations": [
+    {
+      "slug": "majesty-0",
+      "name": "majesty 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/majesty/h300-2019-now.webp"
+      }
+    }
+  ]
+}

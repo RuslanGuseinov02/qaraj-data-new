@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "proace",
+  "name": "proace",
+  "generations": [
+    {
+      "slug": "proace-0",
+      "name": "proace 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/proace/2013-2016.webp"
+      }
+    },
+    {
+      "slug": "proace-1",
+      "name": "proace 2",
+      "year_start": 2016,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/proace/2016-2024.webp"
+      }
+    },
+    {
+      "slug": "proace-2",
+      "name": "proace 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/proace/2024-now.webp"
+      }
+    }
+  ]
+}

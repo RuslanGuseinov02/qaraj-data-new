@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "sequoia",
+  "name": "sequoia",
+  "generations": [
+    {
+      "slug": "sequoia-0",
+      "name": "sequoia 1",
+      "year_start": 2000,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/sequoia/xk30-xk40-2000-2007.webp"
+      }
+    },
+    {
+      "slug": "sequoia-1",
+      "name": "sequoia 2",
+      "year_start": 2008,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/sequoia/xk60-2008-2017.webp"
+      }
+    },
+    {
+      "slug": "sequoia-2",
+      "name": "sequoia 3",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/sequoia/xk60-2018-2022.webp"
+      }
+    },
+    {
+      "slug": "sequoia-3",
+      "name": "sequoia 4",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/sequoia/xk80-2022-now.webp"
+      }
+    }
+  ]
+}

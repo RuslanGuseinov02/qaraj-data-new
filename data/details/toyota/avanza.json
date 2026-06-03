@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "avanza",
+  "name": "avanza",
+  "generations": [
+    {
+      "slug": "avanza-0",
+      "name": "avanza 1",
+      "year_start": 2003,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/avanza/f600-2003-2011.webp"
+      }
+    },
+    {
+      "slug": "avanza-1",
+      "name": "avanza 2",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/avanza/f650-2011-2015.webp"
+      }
+    },
+    {
+      "slug": "avanza-2",
+      "name": "avanza 3",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/avanza/f650-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "avanza-3",
+      "name": "avanza 4",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/avanza/f650-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "avanza-4",
+      "name": "avanza 5",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/avanza/w100-2021-now.webp"
+      }
+    }
+  ]
+}

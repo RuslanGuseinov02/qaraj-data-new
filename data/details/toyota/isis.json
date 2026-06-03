@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "isis",
+  "name": "isis",
+  "generations": [
+    {
+      "slug": "isis-0",
+      "name": "isis 1",
+      "year_start": 2004,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/isis/2004-2007.webp"
+      }
+    },
+    {
+      "slug": "isis-1",
+      "name": "isis 2",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/isis/2007-2009.webp"
+      }
+    },
+    {
+      "slug": "isis-2",
+      "name": "isis 3",
+      "year_start": 2009,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/isis/2009-2017.webp"
+      }
+    }
+  ]
+}

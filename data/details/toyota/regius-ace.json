@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "regius-ace",
+  "name": "regius-ace",
+  "generations": [
+    {
+      "slug": "regius-ace-0",
+      "name": "regius-ace 1",
+      "year_start": 1999,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/regius-ace/h100-1999-2004.webp"
+      }
+    },
+    {
+      "slug": "regius-ace-1",
+      "name": "regius-ace 2",
+      "year_start": 2004,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/regius-ace/h200-2004-2020.webp"
+      }
+    }
+  ]
+}

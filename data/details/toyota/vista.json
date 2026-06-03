@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "vista",
+  "name": "vista",
+  "generations": [
+    {
+      "slug": "vista-0",
+      "name": "vista 1",
+      "year_start": 1982,
+      "year_end": 1986,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vista/v10-1982-1986.webp"
+      }
+    },
+    {
+      "slug": "vista-1",
+      "name": "vista 2",
+      "year_start": 1986,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vista/v20-1986-1990.webp"
+      }
+    },
+    {
+      "slug": "vista-2",
+      "name": "vista 3",
+      "year_start": 1990,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vista/v30-1990-1992.webp"
+      }
+    },
+    {
+      "slug": "vista-3",
+      "name": "vista 4",
+      "year_start": 1992,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vista/v30-1992-1994.webp"
+      }
+    },
+    {
+      "slug": "vista-4",
+      "name": "vista 5",
+      "year_start": 1994,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vista/v40-1994-1996.webp"
+      }
+    },
+    {
+      "slug": "vista-5",
+      "name": "vista 6",
+      "year_start": 1996,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vista/v40-1996-1998.webp"
+      }
+    },
+    {
+      "slug": "vista-6",
+      "name": "vista 7",
+      "year_start": 1998,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vista/v50-1998-2003.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "ractis",
+  "name": "ractis",
+  "generations": [
+    {
+      "slug": "ractis-0",
+      "name": "ractis 1",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/ractis/2005-2010.webp"
+      }
+    },
+    {
+      "slug": "ractis-1",
+      "name": "ractis 2",
+      "year_start": 2010,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/ractis/2010-2016.webp"
+      }
+    }
+  ]
+}

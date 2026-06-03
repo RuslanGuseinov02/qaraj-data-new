@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "pickup",
+  "name": "pickup",
+  "generations": [
+    {
+      "slug": "pickup-0",
+      "name": "pickup 1",
+      "year_start": 1978,
+      "year_end": 1983,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/pickup/1978-1983.webp"
+      }
+    },
+    {
+      "slug": "pickup-1",
+      "name": "pickup 2",
+      "year_start": 1983,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/pickup/1983-1988.webp"
+      }
+    },
+    {
+      "slug": "pickup-2",
+      "name": "pickup 3",
+      "year_start": 1988,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/pickup/1988-1995.webp"
+      }
+    }
+  ]
+}

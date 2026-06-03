@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "prius-alpha",
+  "name": "prius-alpha",
+  "generations": [
+    {
+      "slug": "prius-alpha-0",
+      "name": "prius-alpha 1",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/prius-alpha/xw40-2011-2014.webp"
+      }
+    },
+    {
+      "slug": "prius-alpha-1",
+      "name": "prius-alpha 2",
+      "year_start": 2014,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/prius-alpha/xw40-2014-2022.webp"
+      }
+    }
+  ]
+}

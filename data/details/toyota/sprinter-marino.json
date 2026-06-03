@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "sprinter-marino",
+  "name": "sprinter-marino",
+  "generations": [
+    {
+      "slug": "sprinter-marino-0",
+      "name": "sprinter-marino 1",
+      "year_start": 1992,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/sprinter-marino/1992-1997.webp"
+      }
+    }
+  ]
+}

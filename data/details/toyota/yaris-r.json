@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "yaris-r",
+  "name": "yaris-r",
+  "generations": [
+    {
+      "slug": "yaris-r-0",
+      "name": "yaris-r 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/yaris-r/dj-2016-2020.webp"
+      }
+    }
+  ]
+}

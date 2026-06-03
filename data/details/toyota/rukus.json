@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "rukus",
+  "name": "rukus",
+  "generations": [
+    {
+      "slug": "rukus-0",
+      "name": "rukus 1",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/rukus/2010-2015.webp"
+      }
+    }
+  ]
+}

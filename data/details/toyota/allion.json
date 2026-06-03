@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "allion",
+  "name": "allion",
+  "generations": [
+    {
+      "slug": "allion-0",
+      "name": "allion 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/allion/e210-2021-now.webp"
+      }
+    },
+    {
+      "slug": "allion-1",
+      "name": "allion 2",
+      "year_start": 2001,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/allion/t240-2001-2004.webp"
+      }
+    },
+    {
+      "slug": "allion-2",
+      "name": "allion 3",
+      "year_start": 2004,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/allion/t240-2004-2007.webp"
+      }
+    },
+    {
+      "slug": "allion-3",
+      "name": "allion 4",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/allion/t260-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "allion-4",
+      "name": "allion 5",
+      "year_start": 2010,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/allion/t260-2010-2016.webp"
+      }
+    },
+    {
+      "slug": "allion-5",
+      "name": "allion 6",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/allion/t260-2016-2021.webp"
+      }
+    }
+  ]
+}

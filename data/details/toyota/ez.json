@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "ez",
+  "name": "ez",
+  "generations": [
+    {
+      "slug": "ez-0",
+      "name": "ez 1",
+      "year_start": 2011,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/ez/ar20-2011-2018.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "sera",
+  "name": "sera",
+  "generations": [
+    {
+      "slug": "sera-0",
+      "name": "sera 1",
+      "year_start": 1990,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/sera/1990-1996.webp"
+      }
+    }
+  ]
+}

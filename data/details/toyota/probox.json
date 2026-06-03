@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "probox",
+  "name": "probox",
+  "generations": [
+    {
+      "slug": "probox-0",
+      "name": "probox 1",
+      "year_start": 2014,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/probox/xp160-2014-now.webp"
+      }
+    },
+    {
+      "slug": "probox-1",
+      "name": "probox 2",
+      "year_start": 2002,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/probox/xp50-2002-2014.webp"
+      }
+    }
+  ]
+}

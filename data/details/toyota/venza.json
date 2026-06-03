@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "venza",
+  "name": "venza",
+  "generations": [
+    {
+      "slug": "venza-0",
+      "name": "venza 1",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/venza/2009-2012.webp"
+      }
+    },
+    {
+      "slug": "venza-1",
+      "name": "venza 2",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/venza/2013-2016.webp"
+      }
+    },
+    {
+      "slug": "venza-2",
+      "name": "venza 3",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/venza/2020-now.webp"
+      }
+    }
+  ]
+}

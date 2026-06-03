@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "passo-sette",
+  "name": "passo-sette",
+  "generations": [
+    {
+      "slug": "passo-sette-0",
+      "name": "passo-sette 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/passo-sette/m500-2008-2012.webp"
+      }
+    }
+  ]
+}

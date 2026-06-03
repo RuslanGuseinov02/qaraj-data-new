@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "blade",
+  "name": "blade",
+  "generations": [
+    {
+      "slug": "blade-0",
+      "name": "blade 1",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/blade/2006-2009.webp"
+      }
+    },
+    {
+      "slug": "blade-1",
+      "name": "blade 2",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/blade/2009-2012.webp"
+      }
+    }
+  ]
+}

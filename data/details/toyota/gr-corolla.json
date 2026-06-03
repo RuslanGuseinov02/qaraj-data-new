@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "gr-corolla",
+  "name": "gr-corolla",
+  "generations": [
+    {
+      "slug": "gr-corolla-0",
+      "name": "gr-corolla 1",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/gr-corolla/xp210-2022-2025.webp"
+      }
+    },
+    {
+      "slug": "gr-corolla-1",
+      "name": "gr-corolla 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/gr-corolla/xp210-2025-now.webp"
+      }
+    }
+  ]
+}

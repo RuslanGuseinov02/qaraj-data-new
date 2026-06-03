@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "mirai",
+  "name": "mirai",
+  "generations": [
+    {
+      "slug": "mirai-0",
+      "name": "mirai 1",
+      "year_start": 2014,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/mirai/jpd10-2014-2021.webp"
+      }
+    },
+    {
+      "slug": "mirai-1",
+      "name": "mirai 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/mirai/jpd20-2020-now.webp"
+      }
+    }
+  ]
+}

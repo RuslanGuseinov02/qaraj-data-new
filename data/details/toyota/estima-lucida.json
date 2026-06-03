@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "estima-lucida",
+  "name": "estima-lucida",
+  "generations": [
+    {
+      "slug": "estima-lucida-0",
+      "name": "estima-lucida 1",
+      "year_start": 1992,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/estima-lucida/1992-1995.webp"
+      }
+    },
+    {
+      "slug": "estima-lucida-1",
+      "name": "estima-lucida 2",
+      "year_start": 1995,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/estima-lucida/1995-1996.webp"
+      }
+    },
+    {
+      "slug": "estima-lucida-2",
+      "name": "estima-lucida 3",
+      "year_start": 1996,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/estima-lucida/1996-1999.webp"
+      }
+    }
+  ]
+}

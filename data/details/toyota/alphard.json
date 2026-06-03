@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "alphard",
+  "name": "alphard",
+  "generations": [
+    {
+      "slug": "alphard-0",
+      "name": "alphard 1",
+      "year_start": 2002,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/alphard/ah10-2002-2008.webp"
+      }
+    },
+    {
+      "slug": "alphard-1",
+      "name": "alphard 2",
+      "year_start": 2008,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/alphard/ah20-2008-2015.webp"
+      }
+    },
+    {
+      "slug": "alphard-2",
+      "name": "alphard 3",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/alphard/ah30-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "alphard-3",
+      "name": "alphard 4",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/alphard/ah30-2018-2023.webp"
+      }
+    },
+    {
+      "slug": "alphard-4",
+      "name": "alphard 5",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/alphard/ah40-2023-now.webp"
+      }
+    }
+  ]
+}

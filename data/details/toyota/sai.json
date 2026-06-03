@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "sai",
+  "name": "sai",
+  "generations": [
+    {
+      "slug": "sai-0",
+      "name": "sai 1",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/sai/2009-2013.webp"
+      }
+    },
+    {
+      "slug": "sai-1",
+      "name": "sai 2",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/sai/2013-2017.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "yaris-l-sedan",
+  "name": "yaris-l-sedan",
+  "generations": [
+    {
+      "slug": "yaris-l-sedan-0",
+      "name": "yaris-l-sedan 1",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/yaris-l-sedan/xp150-2017-2022.webp"
+      }
+    }
+  ]
+}

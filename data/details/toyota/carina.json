@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "carina",
+  "name": "carina",
+  "generations": [
+    {
+      "slug": "carina-0",
+      "name": "carina 1",
+      "year_start": 1988,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/carina/t170-1988-1992.webp"
+      }
+    },
+    {
+      "slug": "carina-1",
+      "name": "carina 2",
+      "year_start": 1992,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/carina/t190-1992-1996.webp"
+      }
+    },
+    {
+      "slug": "carina-2",
+      "name": "carina 3",
+      "year_start": 1996,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/carina/t210-1996-2001.webp"
+      }
+    }
+  ]
+}

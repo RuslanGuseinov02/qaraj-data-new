@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "tank",
+  "name": "tank",
+  "generations": [
+    {
+      "slug": "tank-0",
+      "name": "tank 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/tank/m900-2016-2020.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "chaser",
+  "name": "chaser",
+  "generations": [
+    {
+      "slug": "chaser-0",
+      "name": "chaser 1",
+      "year_start": 1996,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/chaser/x100-1996-2001.webp"
+      }
+    },
+    {
+      "slug": "chaser-1",
+      "name": "chaser 2",
+      "year_start": 1988,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/chaser/x80-1988-1992.webp"
+      }
+    },
+    {
+      "slug": "chaser-2",
+      "name": "chaser 3",
+      "year_start": 1992,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/chaser/x90-1992-1996.webp"
+      }
+    }
+  ]
+}

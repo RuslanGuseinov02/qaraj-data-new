@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "windom",
+  "name": "windom",
+  "generations": [
+    {
+      "slug": "windom-0",
+      "name": "windom 1",
+      "year_start": 1991,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/windom/v10-1991-1996.webp"
+      }
+    },
+    {
+      "slug": "windom-1",
+      "name": "windom 2",
+      "year_start": 1996,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/windom/v20-1996-2001.webp"
+      }
+    },
+    {
+      "slug": "windom-2",
+      "name": "windom 3",
+      "year_start": 2001,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/windom/v30-2001-2006.webp"
+      }
+    }
+  ]
+}

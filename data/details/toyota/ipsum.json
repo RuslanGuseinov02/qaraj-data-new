@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "ipsum",
+  "name": "ipsum",
+  "generations": [
+    {
+      "slug": "ipsum-0",
+      "name": "ipsum 1",
+      "year_start": 1996,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/ipsum/m10-1996-2001.webp"
+      }
+    },
+    {
+      "slug": "ipsum-1",
+      "name": "ipsum 2",
+      "year_start": 2001,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/ipsum/m20-2001-2003.webp"
+      }
+    },
+    {
+      "slug": "ipsum-2",
+      "name": "ipsum 3",
+      "year_start": 2003,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/ipsum/m20-2003-2009.webp"
+      }
+    }
+  ]
+}

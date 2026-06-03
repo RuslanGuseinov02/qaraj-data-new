@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "verossa",
+  "name": "verossa",
+  "generations": [
+    {
+      "slug": "verossa-0",
+      "name": "verossa 1",
+      "year_start": 2001,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/verossa/2001-2004.webp"
+      }
+    }
+  ]
+}

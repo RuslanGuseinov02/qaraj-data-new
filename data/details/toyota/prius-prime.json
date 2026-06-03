@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "prius-prime",
+  "name": "prius-prime",
+  "generations": [
+    {
+      "slug": "prius-prime-0",
+      "name": "prius-prime 1",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/prius-prime/xw50-2017-2023.webp"
+      }
+    },
+    {
+      "slug": "prius-prime-1",
+      "name": "prius-prime 2",
+      "year_start": 2023,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/prius-prime/xw60-2023-2024.webp"
+      }
+    }
+  ]
+}

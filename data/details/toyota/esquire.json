@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "esquire",
+  "name": "esquire",
+  "generations": [
+    {
+      "slug": "esquire-0",
+      "name": "esquire 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/esquire/r80-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "esquire-1",
+      "name": "esquire 2",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/esquire/r80-2017-2021.webp"
+      }
+    }
+  ]
+}

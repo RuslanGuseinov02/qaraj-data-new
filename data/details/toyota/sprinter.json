@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "sprinter",
+  "name": "sprinter",
+  "generations": [
+    {
+      "slug": "sprinter-0",
+      "name": "sprinter 1",
+      "year_start": 1987,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/sprinter/1987-1991.webp"
+      }
+    },
+    {
+      "slug": "sprinter-1",
+      "name": "sprinter 2",
+      "year_start": 1991,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/sprinter/1991-2002.webp"
+      }
+    },
+    {
+      "slug": "sprinter-2",
+      "name": "sprinter 3",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/sprinter/1995-2000.webp"
+      }
+    }
+  ]
+}

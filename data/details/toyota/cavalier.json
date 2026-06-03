@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "cavalier",
+  "name": "cavalier",
+  "generations": [
+    {
+      "slug": "cavalier-0",
+      "name": "cavalier 1",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/cavalier/1995-2000.webp"
+      }
+    }
+  ]
+}

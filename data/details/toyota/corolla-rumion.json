@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "corolla-rumion",
+  "name": "corolla-rumion",
+  "generations": [
+    {
+      "slug": "corolla-rumion-0",
+      "name": "corolla-rumion 1",
+      "year_start": 2007,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-rumion/e150-2007-2015.webp"
+      }
+    }
+  ]
+}

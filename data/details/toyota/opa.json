@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "opa",
+  "name": "opa",
+  "generations": [
+    {
+      "slug": "opa-0",
+      "name": "opa 1",
+      "year_start": 2000,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/opa/2000-2005.webp"
+      }
+    }
+  ]
+}

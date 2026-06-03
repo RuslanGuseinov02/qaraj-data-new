@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "corona-sf",
+  "name": "corona-sf",
+  "generations": [
+    {
+      "slug": "corona-sf-0",
+      "name": "corona-sf 1",
+      "year_start": 1987,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corona-sf/t170-1987-1992.webp"
+      }
+    },
+    {
+      "slug": "corona-sf-1",
+      "name": "corona-sf 2",
+      "year_start": 1992,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corona-sf/t190-1992-1996.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "veloz",
+  "name": "veloz",
+  "generations": [
+    {
+      "slug": "veloz-0",
+      "name": "veloz 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/veloz/w100-2021-now.webp"
+      }
+    }
+  ]
+}

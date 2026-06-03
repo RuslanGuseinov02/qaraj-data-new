@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "curren",
+  "name": "curren",
+  "generations": [
+    {
+      "slug": "curren-0",
+      "name": "curren 1",
+      "year_start": 1994,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/curren/t200-1994-1998.webp"
+      }
+    }
+  ]
+}

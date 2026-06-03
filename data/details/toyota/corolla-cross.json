@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "corolla-cross",
+  "name": "corolla-cross",
+  "generations": [
+    {
+      "slug": "corolla-cross-0",
+      "name": "corolla-cross 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-cross/xg10-2020-now.webp"
+      }
+    },
+    {
+      "slug": "corolla-cross-1",
+      "name": "corolla-cross 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-cross/xg10-2025-now.webp"
+      }
+    }
+  ]
+}

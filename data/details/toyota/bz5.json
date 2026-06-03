@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "bz5",
+  "name": "bz5",
+  "generations": [
+    {
+      "slug": "bz5-0",
+      "name": "bz5 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/bz5/2025-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "camry-gracia",
+  "name": "camry-gracia",
+  "generations": [
+    {
+      "slug": "camry-gracia-0",
+      "name": "camry-gracia 1",
+      "year_start": 1996,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry-gracia/xv20-1996-1999.webp"
+      }
+    },
+    {
+      "slug": "camry-gracia-1",
+      "name": "camry-gracia 2",
+      "year_start": 1999,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry-gracia/xv20-1999-2001.webp"
+      }
+    }
+  ]
+}

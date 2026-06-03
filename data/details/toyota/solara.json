@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "solara",
+  "name": "solara",
+  "generations": [
+    {
+      "slug": "solara-0",
+      "name": "solara 1",
+      "year_start": 1999,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/solara/1999-2001.webp"
+      }
+    },
+    {
+      "slug": "solara-1",
+      "name": "solara 2",
+      "year_start": 2002,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/solara/2002-2003.webp"
+      }
+    },
+    {
+      "slug": "solara-2",
+      "name": "solara 3",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/solara/2004-2006.webp"
+      }
+    },
+    {
+      "slug": "solara-3",
+      "name": "solara 4",
+      "year_start": 2007,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/solara/2007-2008.webp"
+      }
+    }
+  ]
+}

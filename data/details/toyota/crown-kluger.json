@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "crown-kluger",
+  "name": "crown-kluger",
+  "generations": [
+    {
+      "slug": "crown-kluger-0",
+      "name": "crown-kluger 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/crown-kluger/xu70-2021-now.webp"
+      }
+    }
+  ]
+}

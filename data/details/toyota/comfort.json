@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "comfort",
+  "name": "comfort",
+  "generations": [
+    {
+      "slug": "comfort-0",
+      "name": "comfort 1",
+      "year_start": 1995,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/comfort/1995-2017.webp"
+      }
+    }
+  ]
+}

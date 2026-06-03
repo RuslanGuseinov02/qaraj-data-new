@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "voltz",
+  "name": "voltz",
+  "generations": [
+    {
+      "slug": "voltz-0",
+      "name": "voltz 1",
+      "year_start": 2002,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/voltz/2002-2004.webp"
+      }
+    }
+  ]
+}

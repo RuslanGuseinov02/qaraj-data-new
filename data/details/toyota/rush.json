@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "rush",
+  "name": "rush",
+  "generations": [
+    {
+      "slug": "rush-0",
+      "name": "rush 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/rush/f800-2018-now.webp"
+      }
+    },
+    {
+      "slug": "rush-1",
+      "name": "rush 2",
+      "year_start": 2006,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/rush/j200-f700-2006-2018.webp"
+      }
+    }
+  ]
+}

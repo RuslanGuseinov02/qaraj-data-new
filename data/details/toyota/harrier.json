@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "harrier",
+  "name": "harrier",
+  "generations": [
+    {
+      "slug": "harrier-0",
+      "name": "harrier 1",
+      "year_start": 1997,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/harrier/xu10-1997-2003.webp"
+      }
+    },
+    {
+      "slug": "harrier-1",
+      "name": "harrier 2",
+      "year_start": 2003,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/harrier/xu30-2003-2012.webp"
+      }
+    },
+    {
+      "slug": "harrier-2",
+      "name": "harrier 3",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/harrier/xu60-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "harrier-3",
+      "name": "harrier 4",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/harrier/xu60-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "harrier-4",
+      "name": "harrier 5",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/harrier/xu80-2020-now.webp"
+      }
+    }
+  ]
+}

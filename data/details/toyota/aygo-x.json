@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "aygo-x",
+  "name": "aygo-x",
+  "generations": [
+    {
+      "slug": "aygo-x-0",
+      "name": "aygo-x 1",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/aygo-x/2021-2025.webp"
+      }
+    },
+    {
+      "slug": "aygo-x-1",
+      "name": "aygo-x 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/aygo-x/2025-now.webp"
+      }
+    }
+  ]
+}

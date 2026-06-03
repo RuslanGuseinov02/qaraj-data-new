@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "verso-s",
+  "name": "verso-s",
+  "generations": [
+    {
+      "slug": "verso-s-0",
+      "name": "verso-s 1",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/verso-s/2010-2015.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "avensis",
+  "name": "avensis",
+  "generations": [
+    {
+      "slug": "avensis-0",
+      "name": "avensis 1",
+      "year_start": 1997,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/avensis/t220-1997-2003.webp"
+      }
+    },
+    {
+      "slug": "avensis-1",
+      "name": "avensis 2",
+      "year_start": 2003,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/avensis/t250-2003-2010.webp"
+      }
+    },
+    {
+      "slug": "avensis-2",
+      "name": "avensis 3",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/avensis/t270-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "avensis-3",
+      "name": "avensis 4",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/avensis/t270-2011-2015.webp"
+      }
+    },
+    {
+      "slug": "avensis-4",
+      "name": "avensis 5",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/avensis/t270-2015-2018.webp"
+      }
+    }
+  ]
+}

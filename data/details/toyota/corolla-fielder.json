@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "corolla-fielder",
+  "name": "corolla-fielder",
+  "generations": [
+    {
+      "slug": "corolla-fielder-0",
+      "name": "corolla-fielder 1",
+      "year_start": 2000,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-fielder/e120-2000-2002.webp"
+      }
+    },
+    {
+      "slug": "corolla-fielder-1",
+      "name": "corolla-fielder 2",
+      "year_start": 2002,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-fielder/e120-2002-2004.webp"
+      }
+    },
+    {
+      "slug": "corolla-fielder-2",
+      "name": "corolla-fielder 3",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-fielder/e120-2004-2006.webp"
+      }
+    },
+    {
+      "slug": "corolla-fielder-3",
+      "name": "corolla-fielder 4",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-fielder/e140-2006-2008.webp"
+      }
+    },
+    {
+      "slug": "corolla-fielder-4",
+      "name": "corolla-fielder 5",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-fielder/e140-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "corolla-fielder-5",
+      "name": "corolla-fielder 6",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-fielder/e160-2012-2015.webp"
+      }
+    },
+    {
+      "slug": "corolla-fielder-6",
+      "name": "corolla-fielder 7",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-fielder/e160-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "corolla-fielder-7",
+      "name": "corolla-fielder 8",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-fielder/e160-2017-now.webp"
+      }
+    }
+  ]
+}

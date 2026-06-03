@@ -1,0 +1,150 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "yaris",
+  "name": "yaris",
+  "generations": [
+    {
+      "slug": "yaris-0",
+      "name": "yaris 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/yaris/ac100-2022-now.webp"
+      }
+    },
+    {
+      "slug": "yaris-1",
+      "name": "yaris 2",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/yaris/dj-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "yaris-2",
+      "name": "yaris 3",
+      "year_start": 1999,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/yaris/xp10-1999-2005.webp"
+      }
+    },
+    {
+      "slug": "yaris-3",
+      "name": "yaris 4",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/yaris/xp130-2011-2014.webp"
+      }
+    },
+    {
+      "slug": "yaris-4",
+      "name": "yaris 5",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/yaris/xp130-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "yaris-5",
+      "name": "yaris 6",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/yaris/xp130-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "yaris-6",
+      "name": "yaris 7",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/yaris/xp150-2013-2018.webp"
+      }
+    },
+    {
+      "slug": "yaris-7",
+      "name": "yaris 8",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/yaris/xp150-2017-2022.webp"
+      }
+    },
+    {
+      "slug": "yaris-8",
+      "name": "yaris 9",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/yaris/xp150-2020-now.webp"
+      }
+    },
+    {
+      "slug": "yaris-9",
+      "name": "yaris 10",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/yaris/xp150-2023-now.webp"
+      }
+    },
+    {
+      "slug": "yaris-10",
+      "name": "yaris 11",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/yaris/xp210-2019-2025.webp"
+      }
+    },
+    {
+      "slug": "yaris-11",
+      "name": "yaris 12",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/yaris/xp210-2024-now.webp"
+      }
+    },
+    {
+      "slug": "yaris-12",
+      "name": "yaris 13",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/yaris/xp90-2005-2009.webp"
+      }
+    },
+    {
+      "slug": "yaris-13",
+      "name": "yaris 14",
+      "year_start": 2008,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/yaris/xp90-2008-2016.webp"
+      }
+    }
+  ]
+}

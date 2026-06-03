@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "kijang-innova-zenix",
+  "name": "kijang-innova-zenix",
+  "generations": [
+    {
+      "slug": "kijang-innova-zenix-0",
+      "name": "kijang-innova-zenix 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/kijang-innova-zenix/ag10-2022-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "tundra",
+  "name": "tundra",
+  "generations": [
+    {
+      "slug": "tundra-0",
+      "name": "tundra 1",
+      "year_start": 1999,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/tundra/xk30-xk40-1999-2006.webp"
+      }
+    },
+    {
+      "slug": "tundra-1",
+      "name": "tundra 2",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/tundra/xk50-2007-2009.webp"
+      }
+    },
+    {
+      "slug": "tundra-2",
+      "name": "tundra 3",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/tundra/xk50-2010-2013.webp"
+      }
+    },
+    {
+      "slug": "tundra-3",
+      "name": "tundra 4",
+      "year_start": 2014,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/tundra/xk50-2014-2022.webp"
+      }
+    },
+    {
+      "slug": "tundra-4",
+      "name": "tundra 5",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/tundra/xk70-2022-now.webp"
+      }
+    }
+  ]
+}

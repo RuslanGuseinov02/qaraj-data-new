@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "corsa",
+  "name": "corsa",
+  "generations": [
+    {
+      "slug": "corsa-0",
+      "name": "corsa 1",
+      "year_start": 1990,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corsa/l40-1990-1994.webp"
+      }
+    },
+    {
+      "slug": "corsa-1",
+      "name": "corsa 2",
+      "year_start": 1994,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corsa/l50-1994-1999.webp"
+      }
+    }
+  ]
+}

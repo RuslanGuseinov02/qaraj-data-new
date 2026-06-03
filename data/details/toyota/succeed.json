@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "succeed",
+  "name": "succeed",
+  "generations": [
+    {
+      "slug": "succeed-0",
+      "name": "succeed 1",
+      "year_start": 2014,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/succeed/xp160-2014-2020.webp"
+      }
+    },
+    {
+      "slug": "succeed-1",
+      "name": "succeed 2",
+      "year_start": 2002,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/succeed/xp50-2002-2014.webp"
+      }
+    }
+  ]
+}

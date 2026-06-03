@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "starlet-cross",
+  "name": "starlet-cross",
+  "generations": [
+    {
+      "slug": "starlet-cross-0",
+      "name": "starlet-cross 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/starlet-cross/2024-now.webp"
+      }
+    }
+  ]
+}

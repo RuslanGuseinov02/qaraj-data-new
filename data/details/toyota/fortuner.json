@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "fortuner",
+  "name": "fortuner",
+  "generations": [
+    {
+      "slug": "fortuner-0",
+      "name": "fortuner 1",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/fortuner/an150-an160-2015-2020.webp"
+      }
+    },
+    {
+      "slug": "fortuner-1",
+      "name": "fortuner 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/fortuner/an150-an160-2020-now.webp"
+      }
+    },
+    {
+      "slug": "fortuner-2",
+      "name": "fortuner 3",
+      "year_start": 2004,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/fortuner/an50-an60-2004-2011.webp"
+      }
+    },
+    {
+      "slug": "fortuner-3",
+      "name": "fortuner 4",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/fortuner/an50-an60-2011-2015.webp"
+      }
+    }
+  ]
+}

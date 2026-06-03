@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "aurion",
+  "name": "aurion",
+  "generations": [
+    {
+      "slug": "aurion-0",
+      "name": "aurion 1",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/aurion/xv40-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "aurion-1",
+      "name": "aurion 2",
+      "year_start": 2009,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/aurion/xv40-2009-2011.webp"
+      }
+    },
+    {
+      "slug": "aurion-2",
+      "name": "aurion 3",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/aurion/xv50-2012-2015.webp"
+      }
+    },
+    {
+      "slug": "aurion-3",
+      "name": "aurion 4",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/aurion/xv50-2015-2017.webp"
+      }
+    }
+  ]
+}

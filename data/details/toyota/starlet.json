@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "starlet",
+  "name": "starlet",
+  "generations": [
+    {
+      "slug": "starlet-0",
+      "name": "starlet 1",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/starlet/2019-2022.webp"
+      }
+    },
+    {
+      "slug": "starlet-1",
+      "name": "starlet 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/starlet/2022-now.webp"
+      }
+    },
+    {
+      "slug": "starlet-2",
+      "name": "starlet 3",
+      "year_start": 1978,
+      "year_end": 1980,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/starlet/p60-1978-1980.webp"
+      }
+    },
+    {
+      "slug": "starlet-3",
+      "name": "starlet 4",
+      "year_start": 1980,
+      "year_end": 1983,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/starlet/p60-1980-1983.webp"
+      }
+    },
+    {
+      "slug": "starlet-4",
+      "name": "starlet 5",
+      "year_start": 1983,
+      "year_end": 1984,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/starlet/p60-1983-1984.webp"
+      }
+    },
+    {
+      "slug": "starlet-5",
+      "name": "starlet 6",
+      "year_start": 1984,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/starlet/p70-1984-1989.webp"
+      }
+    },
+    {
+      "slug": "starlet-6",
+      "name": "starlet 7",
+      "year_start": 1989,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/starlet/p80-1989-1994.webp"
+      }
+    },
+    {
+      "slug": "starlet-7",
+      "name": "starlet 8",
+      "year_start": 1994,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/starlet/p80-1994-1995.webp"
+      }
+    },
+    {
+      "slug": "starlet-8",
+      "name": "starlet 9",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/starlet/p90-1995-1999.webp"
+      }
+    }
+  ]
+}

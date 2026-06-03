@@ -1,0 +1,110 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "avalon",
+  "name": "avalon",
+  "generations": [
+    {
+      "slug": "avalon-0",
+      "name": "avalon 1",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/avalon/1995-2000.webp"
+      }
+    },
+    {
+      "slug": "avalon-1",
+      "name": "avalon 2",
+      "year_start": 2000,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/avalon/2000-2004.webp"
+      }
+    },
+    {
+      "slug": "avalon-2",
+      "name": "avalon 3",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/avalon/2005-2007.webp"
+      }
+    },
+    {
+      "slug": "avalon-3",
+      "name": "avalon 4",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/avalon/2008-2010.webp"
+      }
+    },
+    {
+      "slug": "avalon-4",
+      "name": "avalon 5",
+      "year_start": 2011,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/avalon/2011-2012.webp"
+      }
+    },
+    {
+      "slug": "avalon-5",
+      "name": "avalon 6",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/avalon/2013-2015.webp"
+      }
+    },
+    {
+      "slug": "avalon-6",
+      "name": "avalon 7",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/avalon/2016-2018.webp"
+      }
+    },
+    {
+      "slug": "avalon-7",
+      "name": "avalon 8",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/avalon/2019-now.webp"
+      }
+    },
+    {
+      "slug": "avalon-8",
+      "name": "avalon 9",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/avalon/xx10-2000-2003.webp"
+      }
+    },
+    {
+      "slug": "avalon-9",
+      "name": "avalon 10",
+      "year_start": 2003,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/avalon/xx10-2003-2005.webp"
+      }
+    }
+  ]
+}

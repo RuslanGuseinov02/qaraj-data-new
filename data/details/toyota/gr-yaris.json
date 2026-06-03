@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "gr-yaris",
+  "name": "gr-yaris",
+  "generations": [
+    {
+      "slug": "gr-yaris-0",
+      "name": "gr-yaris 1",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/gr-yaris/xp210-2020-2024.webp"
+      }
+    },
+    {
+      "slug": "gr-yaris-1",
+      "name": "gr-yaris 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/gr-yaris/xp210-2024-now.webp"
+      }
+    }
+  ]
+}

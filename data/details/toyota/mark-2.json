@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "mark-2",
+  "name": "mark-2",
+  "generations": [
+    {
+      "slug": "mark-2-0",
+      "name": "mark-2 1",
+      "year_start": 1996,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/mark-2/x100-1996-2000.webp"
+      }
+    },
+    {
+      "slug": "mark-2-1",
+      "name": "mark-2 2",
+      "year_start": 2000,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/mark-2/x110-2000-2002.webp"
+      }
+    },
+    {
+      "slug": "mark-2-2",
+      "name": "mark-2 3",
+      "year_start": 2002,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/mark-2/x110-2002-2004.webp"
+      }
+    },
+    {
+      "slug": "mark-2-3",
+      "name": "mark-2 4",
+      "year_start": 1984,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/mark-2/x70-1984-1997.webp"
+      }
+    },
+    {
+      "slug": "mark-2-4",
+      "name": "mark-2 5",
+      "year_start": 1988,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/mark-2/x80-1988-1996.webp"
+      }
+    },
+    {
+      "slug": "mark-2-5",
+      "name": "mark-2 6",
+      "year_start": 1992,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/mark-2/x90-1992-1996.webp"
+      }
+    }
+  ]
+}

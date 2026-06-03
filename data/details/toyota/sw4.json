@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "sw4",
+  "name": "sw4",
+  "generations": [
+    {
+      "slug": "sw4-0",
+      "name": "sw4 1",
+      "year_start": 2015,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/sw4/an150-an160-2015-2021.webp"
+      }
+    },
+    {
+      "slug": "sw4-1",
+      "name": "sw4 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/sw4/an150-an160-2021-now.webp"
+      }
+    },
+    {
+      "slug": "sw4-2",
+      "name": "sw4 3",
+      "year_start": 2005,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/sw4/an50-an60-2005-2011.webp"
+      }
+    },
+    {
+      "slug": "sw4-3",
+      "name": "sw4 4",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/sw4/an50-an60-2011-2015.webp"
+      }
+    }
+  ]
+}

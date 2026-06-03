@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "hilux-revo",
+  "name": "hilux-revo",
+  "generations": [
+    {
+      "slug": "hilux-revo-0",
+      "name": "hilux-revo 1",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/hilux-revo/2015-2018.webp"
+      }
+    },
+    {
+      "slug": "hilux-revo-1",
+      "name": "hilux-revo 2",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/hilux-revo/2018-2020.webp"
+      }
+    },
+    {
+      "slug": "hilux-revo-2",
+      "name": "hilux-revo 3",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/hilux-revo/2020-now.webp"
+      }
+    },
+    {
+      "slug": "hilux-revo-3",
+      "name": "hilux-revo 4",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/hilux-revo/2023-now.webp"
+      }
+    }
+  ]
+}

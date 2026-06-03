@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "will-vi",
+  "name": "will-vi",
+  "generations": [
+    {
+      "slug": "will-vi-0",
+      "name": "will-vi 1",
+      "year_start": 2000,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/will-vi/2000-2001.webp"
+      }
+    }
+  ]
+}

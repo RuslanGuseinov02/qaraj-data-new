@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "innova-zenix",
+  "name": "innova-zenix",
+  "generations": [
+    {
+      "slug": "innova-zenix-0",
+      "name": "innova-zenix 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/innova-zenix/ag10-2023-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "bz",
+  "name": "bz",
+  "generations": [
+    {
+      "slug": "bz-0",
+      "name": "bz 1",
+      "year_start": 2026,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/bz/ea10-2026-now.webp"
+      }
+    }
+  ]
+}

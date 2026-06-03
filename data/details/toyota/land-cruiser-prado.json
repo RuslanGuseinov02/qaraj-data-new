@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "land-cruiser-prado",
+  "name": "land-cruiser-prado",
+  "generations": [
+    {
+      "slug": "land-cruiser-prado-0",
+      "name": "land-cruiser-prado 1",
+      "year_start": 2002,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/land-cruiser-prado/120-series-2002-2009.webp"
+      }
+    },
+    {
+      "slug": "land-cruiser-prado-1",
+      "name": "land-cruiser-prado 2",
+      "year_start": 2009,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/land-cruiser-prado/150-series-2009-2016.webp"
+      }
+    },
+    {
+      "slug": "land-cruiser-prado-2",
+      "name": "land-cruiser-prado 3",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/land-cruiser-prado/150-series-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "land-cruiser-prado-3",
+      "name": "land-cruiser-prado 4",
+      "year_start": 2017,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/land-cruiser-prado/150-series-2017-2024.webp"
+      }
+    },
+    {
+      "slug": "land-cruiser-prado-4",
+      "name": "land-cruiser-prado 5",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/land-cruiser-prado/250-series-2023-now.webp"
+      }
+    },
+    {
+      "slug": "land-cruiser-prado-5",
+      "name": "land-cruiser-prado 6",
+      "year_start": 1990,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/land-cruiser-prado/70-series-1990-1996.webp"
+      }
+    },
+    {
+      "slug": "land-cruiser-prado-6",
+      "name": "land-cruiser-prado 7",
+      "year_start": 1996,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/land-cruiser-prado/90-series-1996-2002.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "scepter",
+  "name": "scepter",
+  "generations": [
+    {
+      "slug": "scepter-0",
+      "name": "scepter 1",
+      "year_start": 1992,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/scepter/1992-1996.webp"
+      }
+    }
+  ]
+}

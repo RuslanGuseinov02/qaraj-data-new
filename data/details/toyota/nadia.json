@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "nadia",
+  "name": "nadia",
+  "generations": [
+    {
+      "slug": "nadia-0",
+      "name": "nadia 1",
+      "year_start": 1998,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/nadia/1998-2003.webp"
+      }
+    }
+  ]
+}

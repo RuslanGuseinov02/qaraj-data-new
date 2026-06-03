@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "glanza",
+  "name": "glanza",
+  "generations": [
+    {
+      "slug": "glanza-0",
+      "name": "glanza 1",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/glanza/2019-2021.webp"
+      }
+    },
+    {
+      "slug": "glanza-1",
+      "name": "glanza 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/glanza/2022-now.webp"
+      }
+    }
+  ]
+}

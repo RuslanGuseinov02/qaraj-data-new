@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "highlander",
+  "name": "highlander",
+  "generations": [
+    {
+      "slug": "highlander-0",
+      "name": "highlander 1",
+      "year_start": 2001,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/highlander/xu20-2001-2007.webp"
+      }
+    },
+    {
+      "slug": "highlander-1",
+      "name": "highlander 2",
+      "year_start": 2007,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/highlander/xu40-2007-2011.webp"
+      }
+    },
+    {
+      "slug": "highlander-2",
+      "name": "highlander 3",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/highlander/xu40-2011-2013.webp"
+      }
+    },
+    {
+      "slug": "highlander-3",
+      "name": "highlander 4",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/highlander/xu50-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "highlander-4",
+      "name": "highlander 5",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/highlander/xu50-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "highlander-5",
+      "name": "highlander 6",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/highlander/xu70-2020-now.webp"
+      }
+    }
+  ]
+}

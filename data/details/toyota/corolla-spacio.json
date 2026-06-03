@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "corolla-spacio",
+  "name": "corolla-spacio",
+  "generations": [
+    {
+      "slug": "corolla-spacio-0",
+      "name": "corolla-spacio 1",
+      "year_start": 1997,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-spacio/e110-1997-2001.webp"
+      }
+    },
+    {
+      "slug": "corolla-spacio-1",
+      "name": "corolla-spacio 2",
+      "year_start": 2001,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-spacio/e120-2001-2007.webp"
+      }
+    }
+  ]
+}

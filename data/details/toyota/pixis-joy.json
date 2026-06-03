@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "pixis-joy",
+  "name": "pixis-joy",
+  "generations": [
+    {
+      "slug": "pixis-joy-0",
+      "name": "pixis-joy 1",
+      "year_start": 2016,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/pixis-joy/la250-2016-2023.webp"
+      }
+    }
+  ]
+}

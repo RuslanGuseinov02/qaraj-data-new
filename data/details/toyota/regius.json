@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "regius",
+  "name": "regius",
+  "generations": [
+    {
+      "slug": "regius-0",
+      "name": "regius 1",
+      "year_start": 1999,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/regius/1999-2002.webp"
+      }
+    }
+  ]
+}

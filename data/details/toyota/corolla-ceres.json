@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "corolla-ceres",
+  "name": "corolla-ceres",
+  "generations": [
+    {
+      "slug": "corolla-ceres-0",
+      "name": "corolla-ceres 1",
+      "year_start": 1992,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-ceres/e100-1992-1999.webp"
+      }
+    }
+  ]
+}

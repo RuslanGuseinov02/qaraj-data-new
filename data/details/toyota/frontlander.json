@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "frontlander",
+  "name": "frontlander",
+  "generations": [
+    {
+      "slug": "frontlander-0",
+      "name": "frontlander 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/frontlander/xg10-2021-now.webp"
+      }
+    }
+  ]
+}

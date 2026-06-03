@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "premio",
+  "name": "premio",
+  "generations": [
+    {
+      "slug": "premio-0",
+      "name": "premio 1",
+      "year_start": 2001,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/premio/t240-2001-2007.webp"
+      }
+    },
+    {
+      "slug": "premio-1",
+      "name": "premio 2",
+      "year_start": 2007,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/premio/t260-2007-2016.webp"
+      }
+    },
+    {
+      "slug": "premio-2",
+      "name": "premio 3",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/premio/t260-2016-2021.webp"
+      }
+    }
+  ]
+}

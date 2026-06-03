@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "vanguard",
+  "name": "vanguard",
+  "generations": [
+    {
+      "slug": "vanguard-0",
+      "name": "vanguard 1",
+      "year_start": 2007,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vanguard/2007-2013.webp"
+      }
+    }
+  ]
+}

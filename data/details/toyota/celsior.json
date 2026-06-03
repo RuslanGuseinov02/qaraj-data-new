@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "celsior",
+  "name": "celsior",
+  "generations": [
+    {
+      "slug": "celsior-0",
+      "name": "celsior 1",
+      "year_start": 1989,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/celsior/f10-1989-1994.webp"
+      }
+    },
+    {
+      "slug": "celsior-1",
+      "name": "celsior 2",
+      "year_start": 1994,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/celsior/f20-1994-2000.webp"
+      }
+    },
+    {
+      "slug": "celsior-2",
+      "name": "celsior 3",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/celsior/f30-2000-2006.webp"
+      }
+    }
+  ]
+}

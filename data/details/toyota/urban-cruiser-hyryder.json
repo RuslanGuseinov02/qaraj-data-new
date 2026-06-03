@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "urban-cruiser-hyryder",
+  "name": "urban-cruiser-hyryder",
+  "generations": [
+    {
+      "slug": "urban-cruiser-hyryder-0",
+      "name": "urban-cruiser-hyryder 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/urban-cruiser-hyryder/ym-2022-now.webp"
+      }
+    }
+  ]
+}

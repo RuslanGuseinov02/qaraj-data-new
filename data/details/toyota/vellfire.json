@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "vellfire",
+  "name": "vellfire",
+  "generations": [
+    {
+      "slug": "vellfire-0",
+      "name": "vellfire 1",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vellfire/ah20-2008-2011.webp"
+      }
+    },
+    {
+      "slug": "vellfire-1",
+      "name": "vellfire 2",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vellfire/ah20-2011-2014.webp"
+      }
+    },
+    {
+      "slug": "vellfire-2",
+      "name": "vellfire 3",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vellfire/ah30-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "vellfire-3",
+      "name": "vellfire 4",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vellfire/ah30-2018-2023.webp"
+      }
+    },
+    {
+      "slug": "vellfire-4",
+      "name": "vellfire 5",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vellfire/ah40-2023-now.webp"
+      }
+    }
+  ]
+}

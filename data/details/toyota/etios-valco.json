@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "etios-valco",
+  "name": "etios-valco",
+  "generations": [
+    {
+      "slug": "etios-valco-0",
+      "name": "etios-valco 1",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/etios-valco/ak10-2011-2017.webp"
+      }
+    }
+  ]
+}

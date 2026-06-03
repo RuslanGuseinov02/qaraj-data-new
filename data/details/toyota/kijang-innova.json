@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "kijang-innova",
+  "name": "kijang-innova",
+  "generations": [
+    {
+      "slug": "kijang-innova-0",
+      "name": "kijang-innova 1",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/kijang-innova/an140-2015-2020.webp"
+      }
+    },
+    {
+      "slug": "kijang-innova-1",
+      "name": "kijang-innova 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/kijang-innova/an140-2020-now.webp"
+      }
+    },
+    {
+      "slug": "kijang-innova-2",
+      "name": "kijang-innova 3",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/kijang-innova/an40-2004-2008.webp"
+      }
+    },
+    {
+      "slug": "kijang-innova-3",
+      "name": "kijang-innova 4",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/kijang-innova/an40-2008-2011.webp"
+      }
+    },
+    {
+      "slug": "kijang-innova-4",
+      "name": "kijang-innova 5",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/kijang-innova/an40-2011-2013.webp"
+      }
+    },
+    {
+      "slug": "kijang-innova-5",
+      "name": "kijang-innova 6",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/kijang-innova/an40-2013-2015.webp"
+      }
+    }
+  ]
+}

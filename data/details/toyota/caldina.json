@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "caldina",
+  "name": "caldina",
+  "generations": [
+    {
+      "slug": "caldina-0",
+      "name": "caldina 1",
+      "year_start": 1992,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/caldina/1992-2002.webp"
+      }
+    },
+    {
+      "slug": "caldina-1",
+      "name": "caldina 2",
+      "year_start": 1997,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/caldina/1997-2002.webp"
+      }
+    },
+    {
+      "slug": "caldina-2",
+      "name": "caldina 3",
+      "year_start": 2002,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/caldina/2002-2007.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "progres",
+  "name": "progres",
+  "generations": [
+    {
+      "slug": "progres-0",
+      "name": "progres 1",
+      "year_start": 1998,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/progres/1998-2007.webp"
+      }
+    }
+  ]
+}

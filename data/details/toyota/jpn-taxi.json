@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "jpn-taxi",
+  "name": "jpn-taxi",
+  "generations": [
+    {
+      "slug": "jpn-taxi-0",
+      "name": "jpn-taxi 1",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/jpn-taxi/2017-now.webp"
+      }
+    }
+  ]
+}

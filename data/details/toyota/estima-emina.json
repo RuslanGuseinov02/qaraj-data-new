@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "estima-emina",
+  "name": "estima-emina",
+  "generations": [
+    {
+      "slug": "estima-emina-0",
+      "name": "estima-emina 1",
+      "year_start": 1992,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/estima-emina/1992-1994.webp"
+      }
+    },
+    {
+      "slug": "estima-emina-1",
+      "name": "estima-emina 2",
+      "year_start": 1995,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/estima-emina/1995-1996.webp"
+      }
+    },
+    {
+      "slug": "estima-emina-2",
+      "name": "estima-emina 3",
+      "year_start": 1996,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/estima-emina/1996-1999.webp"
+      }
+    }
+  ]
+}

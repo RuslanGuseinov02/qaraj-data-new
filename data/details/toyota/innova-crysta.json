@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "innova-crysta",
+  "name": "innova-crysta",
+  "generations": [
+    {
+      "slug": "innova-crysta-0",
+      "name": "innova-crysta 1",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/innova-crysta/an140-2015-2020.webp"
+      }
+    },
+    {
+      "slug": "innova-crysta-1",
+      "name": "innova-crysta 2",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/innova-crysta/an140-2020-2022.webp"
+      }
+    },
+    {
+      "slug": "innova-crysta-2",
+      "name": "innova-crysta 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/innova-crysta/an140-2023-now.webp"
+      }
+    }
+  ]
+}

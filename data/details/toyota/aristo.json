@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "aristo",
+  "name": "aristo",
+  "generations": [
+    {
+      "slug": "aristo-0",
+      "name": "aristo 1",
+      "year_start": 1991,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/aristo/1991-1997.webp"
+      }
+    },
+    {
+      "slug": "aristo-1",
+      "name": "aristo 2",
+      "year_start": 1997,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/aristo/1997-2004.webp"
+      }
+    }
+  ]
+}

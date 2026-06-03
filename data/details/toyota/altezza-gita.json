@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "altezza-gita",
+  "name": "altezza-gita",
+  "generations": [
+    {
+      "slug": "altezza-gita-0",
+      "name": "altezza-gita 1",
+      "year_start": 2001,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/altezza-gita/2001-2005.webp"
+      }
+    }
+  ]
+}

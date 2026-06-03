@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "reiz",
+  "name": "reiz",
+  "generations": [
+    {
+      "slug": "reiz-0",
+      "name": "reiz 1",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/reiz/2005-2009.webp"
+      }
+    },
+    {
+      "slug": "reiz-1",
+      "name": "reiz 2",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/reiz/2010-2012.webp"
+      }
+    },
+    {
+      "slug": "reiz-2",
+      "name": "reiz 3",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/reiz/2013-2018.webp"
+      }
+    }
+  ]
+}

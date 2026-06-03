@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "mark-2-qualis",
+  "name": "mark-2-qualis",
+  "generations": [
+    {
+      "slug": "mark-2-qualis-0",
+      "name": "mark-2-qualis 1",
+      "year_start": 1997,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/mark-2-qualis/1997-2002.webp"
+      }
+    }
+  ]
+}

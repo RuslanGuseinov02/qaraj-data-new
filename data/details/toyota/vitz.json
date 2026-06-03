@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "vitz",
+  "name": "vitz",
+  "generations": [
+    {
+      "slug": "vitz-0",
+      "name": "vitz 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vitz/2023-now.webp"
+      }
+    },
+    {
+      "slug": "vitz-1",
+      "name": "vitz 2",
+      "year_start": 1999,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vitz/xp10-1999-2001.webp"
+      }
+    },
+    {
+      "slug": "vitz-2",
+      "name": "vitz 3",
+      "year_start": 2001,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vitz/xp10-2001-2005.webp"
+      }
+    },
+    {
+      "slug": "vitz-3",
+      "name": "vitz 4",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vitz/xp130-2010-2014.webp"
+      }
+    },
+    {
+      "slug": "vitz-4",
+      "name": "vitz 5",
+      "year_start": 2014,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vitz/xp130-2014-2016.webp"
+      }
+    },
+    {
+      "slug": "vitz-5",
+      "name": "vitz 6",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vitz/xp130-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "vitz-6",
+      "name": "vitz 7",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vitz/xp90-2005-2010.webp"
+      }
+    }
+  ]
+}

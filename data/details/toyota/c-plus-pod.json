@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "c-plus-pod",
+  "name": "c-plus-pod",
+  "generations": [
+    {
+      "slug": "c-plus-pod-0",
+      "name": "c-plus-pod 1",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/c-plus-pod/2020-2024.webp"
+      }
+    }
+  ]
+}

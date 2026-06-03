@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "hiace-regius",
+  "name": "hiace-regius",
+  "generations": [
+    {
+      "slug": "hiace-regius-0",
+      "name": "hiace-regius 1",
+      "year_start": 1997,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/hiace-regius/1997-1999.webp"
+      }
+    }
+  ]
+}

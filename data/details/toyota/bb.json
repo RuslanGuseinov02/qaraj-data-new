@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "bb",
+  "name": "bb",
+  "generations": [
+    {
+      "slug": "bb-0",
+      "name": "bb 1",
+      "year_start": 2000,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/bb/2000-2005.webp"
+      }
+    },
+    {
+      "slug": "bb-1",
+      "name": "bb 2",
+      "year_start": 2005,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/bb/2005-2016.webp"
+      }
+    }
+  ]
+}

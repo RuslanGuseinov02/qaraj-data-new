@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "corolla-altis",
+  "name": "corolla-altis",
+  "generations": [
+    {
+      "slug": "corolla-altis-0",
+      "name": "corolla-altis 1",
+      "year_start": 2002,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-altis/e130-2002-2008.webp"
+      }
+    },
+    {
+      "slug": "corolla-altis-1",
+      "name": "corolla-altis 2",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-altis/e140-2008-2010.webp"
+      }
+    },
+    {
+      "slug": "corolla-altis-2",
+      "name": "corolla-altis 3",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-altis/e140-2011-2013.webp"
+      }
+    },
+    {
+      "slug": "corolla-altis-3",
+      "name": "corolla-altis 4",
+      "year_start": 2014,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-altis/e180-2014-2016.webp"
+      }
+    },
+    {
+      "slug": "corolla-altis-4",
+      "name": "corolla-altis 5",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-altis/e180-2016-2019.webp"
+      }
+    },
+    {
+      "slug": "corolla-altis-5",
+      "name": "corolla-altis 6",
+      "year_start": 2020,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-altis/e180-2020-2021.webp"
+      }
+    },
+    {
+      "slug": "corolla-altis-6",
+      "name": "corolla-altis 7",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-altis/e210-2019-now.webp"
+      }
+    }
+  ]
+}

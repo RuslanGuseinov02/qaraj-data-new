@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "celica-supra",
+  "name": "celica-supra",
+  "generations": [
+    {
+      "slug": "celica-supra-0",
+      "name": "celica-supra 1",
+      "year_start": 1981,
+      "year_end": 1985,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/celica-supra/a60-1981-1985.webp"
+      }
+    }
+  ]
+}

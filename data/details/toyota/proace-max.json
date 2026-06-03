@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "proace-max",
+  "name": "proace-max",
+  "generations": [
+    {
+      "slug": "proace-max-0",
+      "name": "proace-max 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/proace-max/2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "corona-exiv",
+  "name": "corona-exiv",
+  "generations": [
+    {
+      "slug": "corona-exiv-0",
+      "name": "corona-exiv 1",
+      "year_start": 1989,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corona-exiv/t180-1989-1993.webp"
+      }
+    },
+    {
+      "slug": "corona-exiv-1",
+      "name": "corona-exiv 2",
+      "year_start": 1993,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corona-exiv/t200-1993-1998.webp"
+      }
+    }
+  ]
+}

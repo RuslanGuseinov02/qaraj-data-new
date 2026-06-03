@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "ventury",
+  "name": "ventury",
+  "generations": [
+    {
+      "slug": "ventury-0",
+      "name": "ventury 1",
+      "year_start": 2004,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/ventury/h200-2004-2019.webp"
+      }
+    }
+  ]
+}

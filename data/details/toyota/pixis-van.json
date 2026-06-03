@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "pixis-van",
+  "name": "pixis-van",
+  "generations": [
+    {
+      "slug": "pixis-van-0",
+      "name": "pixis-van 1",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/pixis-van/s300-2011-2017.webp"
+      }
+    },
+    {
+      "slug": "pixis-van-1",
+      "name": "pixis-van 2",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/pixis-van/s300-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "pixis-van-2",
+      "name": "pixis-van 3",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/pixis-van/s700-2021-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "fun-cargo",
+  "name": "fun-cargo",
+  "generations": [
+    {
+      "slug": "fun-cargo-0",
+      "name": "fun-cargo 1",
+      "year_start": 1999,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/fun-cargo/ncp20-1999-2002.webp"
+      }
+    },
+    {
+      "slug": "fun-cargo-1",
+      "name": "fun-cargo 2",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/fun-cargo/ncp20-2002-2005.webp"
+      }
+    }
+  ]
+}

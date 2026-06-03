@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "verso",
+  "name": "verso",
+  "generations": [
+    {
+      "slug": "verso-0",
+      "name": "verso 1",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/verso/2009-2012.webp"
+      }
+    },
+    {
+      "slug": "verso-1",
+      "name": "verso 2",
+      "year_start": 2013,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/verso/2013-2023.webp"
+      }
+    }
+  ]
+}

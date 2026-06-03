@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "hiace",
+  "name": "hiace",
+  "generations": [
+    {
+      "slug": "hiace-0",
+      "name": "hiace 1",
+      "year_start": 1989,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/hiace/h100-1989-2004.webp"
+      }
+    },
+    {
+      "slug": "hiace-1",
+      "name": "hiace 2",
+      "year_start": 2004,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/hiace/h200-2004-now.webp"
+      }
+    },
+    {
+      "slug": "hiace-2",
+      "name": "hiace 3",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/hiace/h300-2019-now.webp"
+      }
+    },
+    {
+      "slug": "hiace-3",
+      "name": "hiace 4",
+      "year_start": 1995,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/hiace/xh10-1995-2006.webp"
+      }
+    },
+    {
+      "slug": "hiace-4",
+      "name": "hiace 5",
+      "year_start": 2006,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/hiace/xh10-2006-2012.webp"
+      }
+    }
+  ]
+}

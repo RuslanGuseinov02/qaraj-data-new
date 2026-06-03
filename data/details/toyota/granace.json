@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "granace",
+  "name": "granace",
+  "generations": [
+    {
+      "slug": "granace-0",
+      "name": "granace 1",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/granace/h300-2019-2024.webp"
+      }
+    }
+  ]
+}

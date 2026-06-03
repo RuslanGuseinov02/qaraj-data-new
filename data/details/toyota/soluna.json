@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "soluna",
+  "name": "soluna",
+  "generations": [
+    {
+      "slug": "soluna-0",
+      "name": "soluna 1",
+      "year_start": 1996,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/soluna/al50-1996-2003.webp"
+      }
+    }
+  ]
+}

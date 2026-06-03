@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "town-ace",
+  "name": "town-ace",
+  "generations": [
+    {
+      "slug": "town-ace-0",
+      "name": "town-ace 1",
+      "year_start": 1988,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/town-ace/r20-r30-1988-1991.webp"
+      }
+    },
+    {
+      "slug": "town-ace-1",
+      "name": "town-ace 2",
+      "year_start": 1992,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/town-ace/r20-r30-1992-1996.webp"
+      }
+    },
+    {
+      "slug": "town-ace-2",
+      "name": "town-ace 3",
+      "year_start": 1996,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/town-ace/r40-r50-1996-2008.webp"
+      }
+    },
+    {
+      "slug": "town-ace-3",
+      "name": "town-ace 4",
+      "year_start": 2008,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/town-ace/s400-2008-2020.webp"
+      }
+    },
+    {
+      "slug": "town-ace-4",
+      "name": "town-ace 5",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/town-ace/s400-2020-now.webp"
+      }
+    }
+  ]
+}

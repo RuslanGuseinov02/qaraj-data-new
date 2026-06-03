@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "land-cruiser-cygnus",
+  "name": "land-cruiser-cygnus",
+  "generations": [
+    {
+      "slug": "land-cruiser-cygnus-0",
+      "name": "land-cruiser-cygnus 1",
+      "year_start": 1998,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/land-cruiser-cygnus/1998-2007.webp"
+      }
+    }
+  ]
+}

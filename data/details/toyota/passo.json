@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "passo",
+  "name": "passo",
+  "generations": [
+    {
+      "slug": "passo-0",
+      "name": "passo 1",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/passo/c10-2004-2010.webp"
+      }
+    },
+    {
+      "slug": "passo-1",
+      "name": "passo 2",
+      "year_start": 2010,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/passo/c30-2010-2016.webp"
+      }
+    },
+    {
+      "slug": "passo-2",
+      "name": "passo 3",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/passo/m700-2016-2018.webp"
+      }
+    },
+    {
+      "slug": "passo-3",
+      "name": "passo 4",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/passo/m700-2018-2023.webp"
+      }
+    }
+  ]
+}

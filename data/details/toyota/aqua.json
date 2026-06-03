@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "aqua",
+  "name": "aqua",
+  "generations": [
+    {
+      "slug": "aqua-0",
+      "name": "aqua 1",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/aqua/nhp10-2011-2014.webp"
+      }
+    },
+    {
+      "slug": "aqua-1",
+      "name": "aqua 2",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/aqua/nhp10-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "aqua-2",
+      "name": "aqua 3",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/aqua/nhp10-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "aqua-3",
+      "name": "aqua 4",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/aqua/xp210-2021-2025.webp"
+      }
+    },
+    {
+      "slug": "aqua-4",
+      "name": "aqua 5",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/aqua/xp210-2025-now.webp"
+      }
+    }
+  ]
+}

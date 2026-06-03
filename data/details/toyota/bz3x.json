@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "bz3x",
+  "name": "bz3x",
+  "generations": [
+    {
+      "slug": "bz3x-0",
+      "name": "bz3x 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/bz3x/2024-now.webp"
+      }
+    }
+  ]
+}

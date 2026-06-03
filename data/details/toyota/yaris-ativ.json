@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "yaris-ativ",
+  "name": "yaris-ativ",
+  "generations": [
+    {
+      "slug": "yaris-ativ-0",
+      "name": "yaris-ativ 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/yaris-ativ/ac100-2023-now.webp"
+      }
+    },
+    {
+      "slug": "yaris-ativ-1",
+      "name": "yaris-ativ 2",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/yaris-ativ/xp150-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "yaris-ativ-2",
+      "name": "yaris-ativ 3",
+      "year_start": 2021,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/yaris-ativ/xp150-2021-2022.webp"
+      }
+    }
+  ]
+}

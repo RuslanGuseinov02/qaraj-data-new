@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "mark-x",
+  "name": "mark-x",
+  "generations": [
+    {
+      "slug": "mark-x-0",
+      "name": "mark-x 1",
+      "year_start": 2004,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/mark-x/2004-2009.webp"
+      }
+    },
+    {
+      "slug": "mark-x-1",
+      "name": "mark-x 2",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/mark-x/2009-2012.webp"
+      }
+    },
+    {
+      "slug": "mark-x-2",
+      "name": "mark-x 3",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/mark-x/2012-2016.webp"
+      }
+    },
+    {
+      "slug": "mark-x-3",
+      "name": "mark-x 4",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/mark-x/2016-2019.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "carina-e",
+  "name": "carina-e",
+  "generations": [
+    {
+      "slug": "carina-e-0",
+      "name": "carina-e 1",
+      "year_start": 1992,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/carina-e/1992-1997.webp"
+      }
+    }
+  ]
+}

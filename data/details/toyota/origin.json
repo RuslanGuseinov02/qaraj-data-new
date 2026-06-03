@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "origin",
+  "name": "origin",
+  "generations": [
+    {
+      "slug": "origin-0",
+      "name": "origin 1",
+      "year_start": 2000,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/origin/2000-2001.webp"
+      }
+    }
+  ]
+}

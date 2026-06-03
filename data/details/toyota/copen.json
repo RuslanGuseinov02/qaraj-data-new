@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "copen",
+  "name": "copen",
+  "generations": [
+    {
+      "slug": "copen-0",
+      "name": "copen 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/copen/la400-2019-now.webp"
+      }
+    }
+  ]
+}

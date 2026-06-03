@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "prius-c",
+  "name": "prius-c",
+  "generations": [
+    {
+      "slug": "prius-c-0",
+      "name": "prius-c 1",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/prius-c/2011-2014.webp"
+      }
+    },
+    {
+      "slug": "prius-c-1",
+      "name": "prius-c 2",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/prius-c/2015-2017.webp"
+      }
+    },
+    {
+      "slug": "prius-c-2",
+      "name": "prius-c 3",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/prius-c/2017-2022.webp"
+      }
+    }
+  ]
+}

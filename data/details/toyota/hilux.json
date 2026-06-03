@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "hilux",
+  "name": "hilux",
+  "generations": [
+    {
+      "slug": "hilux-0",
+      "name": "hilux 1",
+      "year_start": 1978,
+      "year_end": 1983,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/hilux/1978-1983.webp"
+      }
+    },
+    {
+      "slug": "hilux-1",
+      "name": "hilux 2",
+      "year_start": 1983,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/hilux/1983-1989.webp"
+      }
+    },
+    {
+      "slug": "hilux-2",
+      "name": "hilux 3",
+      "year_start": 1988,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/hilux/1988-1998.webp"
+      }
+    },
+    {
+      "slug": "hilux-3",
+      "name": "hilux 4",
+      "year_start": 1997,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/hilux/1997-2005.webp"
+      }
+    },
+    {
+      "slug": "hilux-4",
+      "name": "hilux 5",
+      "year_start": 2005,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/hilux/2005-2011.webp"
+      }
+    },
+    {
+      "slug": "hilux-5",
+      "name": "hilux 6",
+      "year_start": 2011,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/hilux/2011-2023.webp"
+      }
+    },
+    {
+      "slug": "hilux-6",
+      "name": "hilux 7",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/hilux/2015-now.webp"
+      }
+    },
+    {
+      "slug": "hilux-7",
+      "name": "hilux 8",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/hilux/2017-2020.webp"
+      }
+    },
+    {
+      "slug": "hilux-8",
+      "name": "hilux 9",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/hilux/2020-now.webp"
+      }
+    }
+  ]
+}

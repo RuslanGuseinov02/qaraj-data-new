@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "c-hr",
+  "name": "c-hr",
+  "generations": [
+    {
+      "slug": "c-hr-0",
+      "name": "c-hr 1",
+      "year_start": 2016,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/c-hr/ax10-2016-2023.webp"
+      }
+    },
+    {
+      "slug": "c-hr-1",
+      "name": "c-hr 2",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/c-hr/ax10-2019-now.webp"
+      }
+    },
+    {
+      "slug": "c-hr-2",
+      "name": "c-hr 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/c-hr/ax20-2023-now.webp"
+      }
+    }
+  ]
+}

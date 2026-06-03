@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "kluger",
+  "name": "kluger",
+  "generations": [
+    {
+      "slug": "kluger-0",
+      "name": "kluger 1",
+      "year_start": 2000,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/kluger/xu20-2000-2007.webp"
+      }
+    },
+    {
+      "slug": "kluger-1",
+      "name": "kluger 2",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/kluger/xu40-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "kluger-2",
+      "name": "kluger 3",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/kluger/xu40-2010-2013.webp"
+      }
+    },
+    {
+      "slug": "kluger-3",
+      "name": "kluger 4",
+      "year_start": 2014,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/kluger/xu50-2014-2016.webp"
+      }
+    },
+    {
+      "slug": "kluger-4",
+      "name": "kluger 5",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/kluger/xu50-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "kluger-5",
+      "name": "kluger 6",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/kluger/xu70-2020-now.webp"
+      }
+    }
+  ]
+}

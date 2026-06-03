@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "corolla-quest",
+  "name": "corolla-quest",
+  "generations": [
+    {
+      "slug": "corolla-quest-0",
+      "name": "corolla-quest 1",
+      "year_start": 2014,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-quest/e150-2014-2020.webp"
+      }
+    },
+    {
+      "slug": "corolla-quest-1",
+      "name": "corolla-quest 2",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-quest/e170-2020-2024.webp"
+      }
+    }
+  ]
+}

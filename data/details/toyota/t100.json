@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "t100",
+  "name": "t100",
+  "generations": [
+    {
+      "slug": "t100-0",
+      "name": "t100 1",
+      "year_start": 1993,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/t100/1993-1998.webp"
+      }
+    }
+  ]
+}

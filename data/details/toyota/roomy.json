@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "roomy",
+  "name": "roomy",
+  "generations": [
+    {
+      "slug": "roomy-0",
+      "name": "roomy 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/roomy/m900-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "roomy-1",
+      "name": "roomy 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/roomy/m900-2020-now.webp"
+      }
+    }
+  ]
+}

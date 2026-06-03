@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "classic",
+  "name": "classic",
+  "generations": [
+    {
+      "slug": "classic-0",
+      "name": "classic 1",
+      "year_start": 1996,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/classic/1996-1998.webp"
+      }
+    }
+  ]
+}

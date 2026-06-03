@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "pixis-space",
+  "name": "pixis-space",
+  "generations": [
+    {
+      "slug": "pixis-space-0",
+      "name": "pixis-space 1",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/pixis-space/l575-2011-2017.webp"
+      }
+    }
+  ]
+}

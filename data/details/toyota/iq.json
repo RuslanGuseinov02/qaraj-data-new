@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "iq",
+  "name": "iq",
+  "generations": [
+    {
+      "slug": "iq-0",
+      "name": "iq 1",
+      "year_start": 2008,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/iq/2008-2016.webp"
+      }
+    }
+  ]
+}

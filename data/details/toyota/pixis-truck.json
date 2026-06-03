@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "pixis-truck",
+  "name": "pixis-truck",
+  "generations": [
+    {
+      "slug": "pixis-truck-0",
+      "name": "pixis-truck 1",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/pixis-truck/s200-2011-2014.webp"
+      }
+    },
+    {
+      "slug": "pixis-truck-1",
+      "name": "pixis-truck 2",
+      "year_start": 2014,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/pixis-truck/s500-2014-2021.webp"
+      }
+    },
+    {
+      "slug": "pixis-truck-2",
+      "name": "pixis-truck 3",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/pixis-truck/s500-2021-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "proace-city",
+  "name": "proace-city",
+  "generations": [
+    {
+      "slug": "proace-city-0",
+      "name": "proace-city 1",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/proace-city/2020-2024.webp"
+      }
+    },
+    {
+      "slug": "proace-city-1",
+      "name": "proace-city 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/proace-city/2024-now.webp"
+      }
+    }
+  ]
+}

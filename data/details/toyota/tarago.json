@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "tarago",
+  "name": "tarago",
+  "generations": [
+    {
+      "slug": "tarago-0",
+      "name": "tarago 1",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/tarago/xr30-2000-2003.webp"
+      }
+    },
+    {
+      "slug": "tarago-1",
+      "name": "tarago 2",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/tarago/xr30-2003-2006.webp"
+      }
+    },
+    {
+      "slug": "tarago-2",
+      "name": "tarago 3",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/tarago/xr50-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "tarago-3",
+      "name": "tarago 4",
+      "year_start": 2009,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/tarago/xr50-2009-2019.webp"
+      }
+    }
+  ]
+}

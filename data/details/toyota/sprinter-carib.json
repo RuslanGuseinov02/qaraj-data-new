@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "sprinter-carib",
+  "name": "sprinter-carib",
+  "generations": [
+    {
+      "slug": "sprinter-carib-0",
+      "name": "sprinter-carib 1",
+      "year_start": 1988,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/sprinter-carib/1988-1995.webp"
+      }
+    },
+    {
+      "slug": "sprinter-carib-1",
+      "name": "sprinter-carib 2",
+      "year_start": 1995,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/sprinter-carib/1995-2002.webp"
+      }
+    }
+  ]
+}

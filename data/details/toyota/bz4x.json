@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "bz4x",
+  "name": "bz4x",
+  "generations": [
+    {
+      "slug": "bz4x-0",
+      "name": "bz4x 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/bz4x/ea10-2022-now.webp"
+      }
+    },
+    {
+      "slug": "bz4x-1",
+      "name": "bz4x 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/bz4x/ea10-2025-now.webp"
+      }
+    }
+  ]
+}

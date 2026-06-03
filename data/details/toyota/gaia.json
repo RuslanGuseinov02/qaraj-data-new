@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "gaia",
+  "name": "gaia",
+  "generations": [
+    {
+      "slug": "gaia-0",
+      "name": "gaia 1",
+      "year_start": 1998,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/gaia/1998-2004.webp"
+      }
+    }
+  ]
+}

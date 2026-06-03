@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "echo",
+  "name": "echo",
+  "generations": [
+    {
+      "slug": "echo-0",
+      "name": "echo 1",
+      "year_start": 1999,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/echo/1999-2002.webp"
+      }
+    },
+    {
+      "slug": "echo-1",
+      "name": "echo 2",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/echo/2002-2005.webp"
+      }
+    }
+  ]
+}

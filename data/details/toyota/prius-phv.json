@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "prius-phv",
+  "name": "prius-phv",
+  "generations": [
+    {
+      "slug": "prius-phv-0",
+      "name": "prius-phv 1",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/prius-phv/xw30-2012-2016.webp"
+      }
+    },
+    {
+      "slug": "prius-phv-1",
+      "name": "prius-phv 2",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/prius-phv/xw50-2017-2023.webp"
+      }
+    },
+    {
+      "slug": "prius-phv-2",
+      "name": "prius-phv 3",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/prius-phv/xw60-2022-now.webp"
+      }
+    }
+  ]
+}

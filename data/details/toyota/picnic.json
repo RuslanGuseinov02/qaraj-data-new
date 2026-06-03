@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "picnic",
+  "name": "picnic",
+  "generations": [
+    {
+      "slug": "picnic-0",
+      "name": "picnic 1",
+      "year_start": 1996,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/picnic/xm10-1996-2001.webp"
+      }
+    },
+    {
+      "slug": "picnic-1",
+      "name": "picnic 2",
+      "year_start": 2001,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/picnic/xm20-2001-2003.webp"
+      }
+    },
+    {
+      "slug": "picnic-2",
+      "name": "picnic 3",
+      "year_start": 2003,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/picnic/xm20-2003-2009.webp"
+      }
+    }
+  ]
+}

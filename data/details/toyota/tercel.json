@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "tercel",
+  "name": "tercel",
+  "generations": [
+    {
+      "slug": "tercel-0",
+      "name": "tercel 1",
+      "year_start": 1990,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/tercel/l40-1990-1994.webp"
+      }
+    },
+    {
+      "slug": "tercel-1",
+      "name": "tercel 2",
+      "year_start": 1994,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/tercel/l50-1994-1999.webp"
+      }
+    }
+  ]
+}

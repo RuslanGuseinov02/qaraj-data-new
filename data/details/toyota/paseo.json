@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "paseo",
+  "name": "paseo",
+  "generations": [
+    {
+      "slug": "paseo-0",
+      "name": "paseo 1",
+      "year_start": 1991,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/paseo/el44-1991-1995.webp"
+      }
+    },
+    {
+      "slug": "paseo-1",
+      "name": "paseo 2",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/paseo/el54-el54c-1995-1999.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "corolla-ex",
+  "name": "corolla-ex",
+  "generations": [
+    {
+      "slug": "corolla-ex-0",
+      "name": "corolla-ex 1",
+      "year_start": 2004,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-ex/2004-2009.webp"
+      }
+    },
+    {
+      "slug": "corolla-ex-1",
+      "name": "corolla-ex 2",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-ex/2009-2012.webp"
+      }
+    },
+    {
+      "slug": "corolla-ex-2",
+      "name": "corolla-ex 3",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-ex/2013-2017.webp"
+      }
+    }
+  ]
+}

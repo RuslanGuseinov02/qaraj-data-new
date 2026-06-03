@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "levin",
+  "name": "levin",
+  "generations": [
+    {
+      "slug": "levin-0",
+      "name": "levin 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/levin/e170-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "levin-1",
+      "name": "levin 2",
+      "year_start": 2017,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/levin/e170-2017-2019.webp"
+      }
+    },
+    {
+      "slug": "levin-2",
+      "name": "levin 3",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/levin/e180-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "levin-3",
+      "name": "levin 4",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/levin/e210-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "levin-4",
+      "name": "levin 5",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/levin/e210-2022-now.webp"
+      }
+    }
+  ]
+}

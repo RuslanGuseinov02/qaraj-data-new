@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "etios-liva",
+  "name": "etios-liva",
+  "generations": [
+    {
+      "slug": "etios-liva-0",
+      "name": "etios-liva 1",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/etios-liva/ak10-2011-2017.webp"
+      }
+    },
+    {
+      "slug": "etios-liva-1",
+      "name": "etios-liva 2",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/etios-liva/ak10-2018-2020.webp"
+      }
+    }
+  ]
+}

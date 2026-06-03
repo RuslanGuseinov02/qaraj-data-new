@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "estima",
+  "name": "estima",
+  "generations": [
+    {
+      "slug": "estima-0",
+      "name": "estima 1",
+      "year_start": 1990,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/estima/1990-1999.webp"
+      }
+    },
+    {
+      "slug": "estima-1",
+      "name": "estima 2",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/estima/2006-2008.webp"
+      }
+    },
+    {
+      "slug": "estima-2",
+      "name": "estima 3",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/estima/2008-2012.webp"
+      }
+    },
+    {
+      "slug": "estima-3",
+      "name": "estima 4",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/estima/2012-2016.webp"
+      }
+    },
+    {
+      "slug": "estima-4",
+      "name": "estima 5",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/estima/2016-2019.webp"
+      }
+    },
+    {
+      "slug": "estima-5",
+      "name": "estima 6",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/estima/t-l-2000-2006.webp"
+      }
+    }
+  ]
+}

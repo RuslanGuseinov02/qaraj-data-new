@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "vista-ardeo",
+  "name": "vista-ardeo",
+  "generations": [
+    {
+      "slug": "vista-ardeo-0",
+      "name": "vista-ardeo 1",
+      "year_start": 1998,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vista-ardeo/v50-1998-2003.webp"
+      }
+    }
+  ]
+}

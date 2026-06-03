@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "wish",
+  "name": "wish",
+  "generations": [
+    {
+      "slug": "wish-0",
+      "name": "wish 1",
+      "year_start": 2003,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/wish/ae10-2003-2009.webp"
+      }
+    },
+    {
+      "slug": "wish-1",
+      "name": "wish 2",
+      "year_start": 2009,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/wish/ae20-2009-2017.webp"
+      }
+    }
+  ]
+}

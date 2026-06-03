@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "cynos",
+  "name": "cynos",
+  "generations": [
+    {
+      "slug": "cynos-0",
+      "name": "cynos 1",
+      "year_start": 1991,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/cynos/1991-1995.webp"
+      }
+    },
+    {
+      "slug": "cynos-1",
+      "name": "cynos 2",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/cynos/1995-1999.webp"
+      }
+    }
+  ]
+}

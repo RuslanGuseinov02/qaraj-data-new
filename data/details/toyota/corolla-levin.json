@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "corolla-levin",
+  "name": "corolla-levin",
+  "generations": [
+    {
+      "slug": "corolla-levin-0",
+      "name": "corolla-levin 1",
+      "year_start": 1991,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-levin/e100-1991-1995.webp"
+      }
+    },
+    {
+      "slug": "corolla-levin-1",
+      "name": "corolla-levin 2",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-levin/e110-1995-2000.webp"
+      }
+    },
+    {
+      "slug": "corolla-levin-2",
+      "name": "corolla-levin 3",
+      "year_start": 1983,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-levin/e80-1983-1987.webp"
+      }
+    },
+    {
+      "slug": "corolla-levin-3",
+      "name": "corolla-levin 4",
+      "year_start": 1987,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-levin/e90-1987-1991.webp"
+      }
+    }
+  ]
+}

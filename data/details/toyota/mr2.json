@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "mr2",
+  "name": "mr2",
+  "generations": [
+    {
+      "slug": "mr2-0",
+      "name": "mr2 1",
+      "year_start": 1984,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/mr2/w10-1984-1990.webp"
+      }
+    },
+    {
+      "slug": "mr2-1",
+      "name": "mr2 2",
+      "year_start": 1989,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/mr2/w20-1989-2000.webp"
+      }
+    }
+  ]
+}

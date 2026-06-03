@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "prius-plus",
+  "name": "prius-plus",
+  "generations": [
+    {
+      "slug": "prius-plus-0",
+      "name": "prius-plus 1",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/prius-plus/2011-2015.webp"
+      }
+    },
+    {
+      "slug": "prius-plus-1",
+      "name": "prius-plus 2",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/prius-plus/2015-2020.webp"
+      }
+    }
+  ]
+}

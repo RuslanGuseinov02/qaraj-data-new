@@ -1,0 +1,320 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "corolla",
+  "name": "corolla",
+  "generations": [
+    {
+      "slug": "corolla-0",
+      "name": "corolla 1",
+      "year_start": 1966,
+      "year_end": 1970,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e10-1966-1970.webp"
+      }
+    },
+    {
+      "slug": "corolla-1",
+      "name": "corolla 2",
+      "year_start": 1991,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e100-1991-2002.webp"
+      }
+    },
+    {
+      "slug": "corolla-2",
+      "name": "corolla 3",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e110-1995-2000.webp"
+      }
+    },
+    {
+      "slug": "corolla-3",
+      "name": "corolla 4",
+      "year_start": 1997,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e110-1997-2000.webp"
+      }
+    },
+    {
+      "slug": "corolla-4",
+      "name": "corolla 5",
+      "year_start": 1998,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e110-1998-2000.webp"
+      }
+    },
+    {
+      "slug": "corolla-5",
+      "name": "corolla 6",
+      "year_start": 2000,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e110-2000-2002.webp"
+      }
+    },
+    {
+      "slug": "corolla-6",
+      "name": "corolla 7",
+      "year_start": 2001,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e110-2001-2002.webp"
+      }
+    },
+    {
+      "slug": "corolla-7",
+      "name": "corolla 8",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e120-2004-2006.webp"
+      }
+    },
+    {
+      "slug": "corolla-8",
+      "name": "corolla 9",
+      "year_start": 2000,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e120-e130-2000-2004.webp"
+      }
+    },
+    {
+      "slug": "corolla-9",
+      "name": "corolla 10",
+      "year_start": 2004,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e120-e130-2004-2007.webp"
+      }
+    },
+    {
+      "slug": "corolla-10",
+      "name": "corolla 11",
+      "year_start": 2003,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e130-2003-2008.webp"
+      }
+    },
+    {
+      "slug": "corolla-11",
+      "name": "corolla 12",
+      "year_start": 2009,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e140-2009-2010.webp"
+      }
+    },
+    {
+      "slug": "corolla-12",
+      "name": "corolla 13",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e140-2011-2013.webp"
+      }
+    },
+    {
+      "slug": "corolla-13",
+      "name": "corolla 14",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e150-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "corolla-14",
+      "name": "corolla 15",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e150-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "corolla-15",
+      "name": "corolla 16",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e170-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "corolla-16",
+      "name": "corolla 17",
+      "year_start": 2017,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e170-2017-2019.webp"
+      }
+    },
+    {
+      "slug": "corolla-17",
+      "name": "corolla 18",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e180-2012-2015.webp"
+      }
+    },
+    {
+      "slug": "corolla-18",
+      "name": "corolla 19",
+      "year_start": 2013,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e180-2013-2023.webp"
+      }
+    },
+    {
+      "slug": "corolla-19",
+      "name": "corolla 20",
+      "year_start": 2018,
+      "year_end": 44,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e180-2015-2018-44.webp"
+      }
+    },
+    {
+      "slug": "corolla-20",
+      "name": "corolla 21",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e180-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "corolla-21",
+      "name": "corolla 22",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e180-2016-2019.webp"
+      }
+    },
+    {
+      "slug": "corolla-22",
+      "name": "corolla 23",
+      "year_start": 1970,
+      "year_end": 1974,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e20-1970-1974.webp"
+      }
+    },
+    {
+      "slug": "corolla-23",
+      "name": "corolla 24",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e210-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "corolla-24",
+      "name": "corolla 25",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e210-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "corolla-25",
+      "name": "corolla 26",
+      "year_start": 2011,
+      "year_end": 19,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e210-2022-now-19.webp"
+      }
+    },
+    {
+      "slug": "corolla-26",
+      "name": "corolla 27",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e210-2022-now.webp"
+      }
+    },
+    {
+      "slug": "corolla-27",
+      "name": "corolla 28",
+      "year_start": 1974,
+      "year_end": 1980,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e30-e50-1974-1980.webp"
+      }
+    },
+    {
+      "slug": "corolla-28",
+      "name": "corolla 29",
+      "year_start": 1979,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e70-1979-1987.webp"
+      }
+    },
+    {
+      "slug": "corolla-29",
+      "name": "corolla 30",
+      "year_start": 1983,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e80-1983-1988.webp"
+      }
+    },
+    {
+      "slug": "corolla-30",
+      "name": "corolla 31",
+      "year_start": 1987,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla/e90-1987-1993.webp"
+      }
+    }
+  ]
+}

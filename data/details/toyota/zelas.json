@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "zelas",
+  "name": "zelas",
+  "generations": [
+    {
+      "slug": "zelas-0",
+      "name": "zelas 1",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/zelas/2011-2013.webp"
+      }
+    },
+    {
+      "slug": "zelas-1",
+      "name": "zelas 2",
+      "year_start": 2014,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/zelas/2014-2016.webp"
+      }
+    }
+  ]
+}

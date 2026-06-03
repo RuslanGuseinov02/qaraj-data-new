@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "rav4-prime",
+  "name": "rav4-prime",
+  "generations": [
+    {
+      "slug": "rav4-prime-0",
+      "name": "rav4-prime 1",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/rav4-prime/xa50-2020-2024.webp"
+      }
+    }
+  ]
+}

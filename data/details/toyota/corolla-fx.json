@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "corolla-fx",
+  "name": "corolla-fx",
+  "generations": [
+    {
+      "slug": "corolla-fx-0",
+      "name": "corolla-fx 1",
+      "year_start": 1992,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-fx/e100-1992-1995.webp"
+      }
+    }
+  ]
+}

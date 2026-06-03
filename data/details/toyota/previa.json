@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "previa",
+  "name": "previa",
+  "generations": [
+    {
+      "slug": "previa-0",
+      "name": "previa 1",
+      "year_start": 1990,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/previa/xr10-xr20-1990-2000.webp"
+      }
+    },
+    {
+      "slug": "previa-1",
+      "name": "previa 2",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/previa/xr30-xr40-2000-2006.webp"
+      }
+    },
+    {
+      "slug": "previa-2",
+      "name": "previa 3",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/previa/xr50-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "previa-3",
+      "name": "previa 4",
+      "year_start": 2009,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/previa/xr50-2009-2021.webp"
+      }
+    },
+    {
+      "slug": "previa-4",
+      "name": "previa 5",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/previa/xr50-2016-2021.webp"
+      }
+    }
+  ]
+}

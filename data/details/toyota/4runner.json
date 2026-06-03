@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "4runner",
+  "name": "4runner",
+  "generations": [
+    {
+      "slug": "4runner-0",
+      "name": "4runner 1",
+      "year_start": 1989,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/4runner/1989-1995.webp"
+      }
+    },
+    {
+      "slug": "4runner-1",
+      "name": "4runner 2",
+      "year_start": 1995,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/4runner/n180-1995-2002.webp"
+      }
+    },
+    {
+      "slug": "4runner-2",
+      "name": "4runner 3",
+      "year_start": 2003,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/4runner/n210-2003-2005.webp"
+      }
+    },
+    {
+      "slug": "4runner-3",
+      "name": "4runner 4",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/4runner/n210-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "4runner-4",
+      "name": "4runner 5",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/4runner/n280-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "4runner-5",
+      "name": "4runner 6",
+      "year_start": 2013,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/4runner/n280-2013-2024.webp"
+      }
+    },
+    {
+      "slug": "4runner-6",
+      "name": "4runner 7",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/4runner/n500-2024-now.webp"
+      }
+    }
+  ]
+}

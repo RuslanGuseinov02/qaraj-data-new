@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "corolla-sport",
+  "name": "corolla-sport",
+  "generations": [
+    {
+      "slug": "corolla-sport-0",
+      "name": "corolla-sport 1",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-sport/e210-2018-2023.webp"
+      }
+    },
+    {
+      "slug": "corolla-sport-1",
+      "name": "corolla-sport 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-sport/e210-2022-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "rumion",
+  "name": "rumion",
+  "generations": [
+    {
+      "slug": "rumion-0",
+      "name": "rumion 1",
+      "year_start": 2022,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/rumion/2022-2023.webp"
+      }
+    },
+    {
+      "slug": "rumion-1",
+      "name": "rumion 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/rumion/2023-now.webp"
+      }
+    }
+  ]
+}

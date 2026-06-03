@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "vios",
+  "name": "vios",
+  "generations": [
+    {
+      "slug": "vios-0",
+      "name": "vios 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vios/ac100-2022-now.webp"
+      }
+    },
+    {
+      "slug": "vios-1",
+      "name": "vios 2",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vios/ncp150-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "vios-2",
+      "name": "vios 3",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vios/ncp150-2017-2022.webp"
+      }
+    },
+    {
+      "slug": "vios-3",
+      "name": "vios 4",
+      "year_start": 2021,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vios/ncp150-2021-2022.webp"
+      }
+    },
+    {
+      "slug": "vios-4",
+      "name": "vios 5",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vios/nsp151-2018-now.webp"
+      }
+    },
+    {
+      "slug": "vios-5",
+      "name": "vios 6",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vios/nsp151-2020-now.webp"
+      }
+    },
+    {
+      "slug": "vios-6",
+      "name": "vios 7",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vios/nsp151-2023-now.webp"
+      }
+    },
+    {
+      "slug": "vios-7",
+      "name": "vios 8",
+      "year_start": 2003,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vios/xp40-2003-2014.webp"
+      }
+    },
+    {
+      "slug": "vios-8",
+      "name": "vios 9",
+      "year_start": 2007,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/vios/xp90-2007-2013.webp"
+      }
+    }
+  ]
+}

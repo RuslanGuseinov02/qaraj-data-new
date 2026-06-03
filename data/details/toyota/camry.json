@@ -1,0 +1,210 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "camry",
+  "name": "camry",
+  "generations": [
+    {
+      "slug": "camry-0",
+      "name": "camry 1",
+      "year_start": 1982,
+      "year_end": 1986,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry/v10-1982-1986.webp"
+      }
+    },
+    {
+      "slug": "camry-1",
+      "name": "camry 2",
+      "year_start": 1986,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry/v20-1986-1991.webp"
+      }
+    },
+    {
+      "slug": "camry-2",
+      "name": "camry 3",
+      "year_start": 1990,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry/v30-1990-1992.webp"
+      }
+    },
+    {
+      "slug": "camry-3",
+      "name": "camry 4",
+      "year_start": 1992,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry/v30-1992-1994.webp"
+      }
+    },
+    {
+      "slug": "camry-4",
+      "name": "camry 5",
+      "year_start": 1994,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry/v40-1994-1998.webp"
+      }
+    },
+    {
+      "slug": "camry-5",
+      "name": "camry 6",
+      "year_start": 1991,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry/xv10-1991-1996.webp"
+      }
+    },
+    {
+      "slug": "camry-6",
+      "name": "camry 7",
+      "year_start": 1996,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry/xv20-1996-2001.webp"
+      }
+    },
+    {
+      "slug": "camry-7",
+      "name": "camry 8",
+      "year_start": 2001,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry/xv30-2001-2004.webp"
+      }
+    },
+    {
+      "slug": "camry-8",
+      "name": "camry 9",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry/xv30-2004-2006.webp"
+      }
+    },
+    {
+      "slug": "camry-9",
+      "name": "camry 10",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry/xv40-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "camry-10",
+      "name": "camry 11",
+      "year_start": 2009,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry/xv40-2009-2011.webp"
+      }
+    },
+    {
+      "slug": "camry-11",
+      "name": "camry 12",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry/xv40-china-2006-2008.webp"
+      }
+    },
+    {
+      "slug": "camry-12",
+      "name": "camry 13",
+      "year_start": 2009,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry/xv40-china-2009-2011.webp"
+      }
+    },
+    {
+      "slug": "camry-13",
+      "name": "camry 14",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry/xv50-2011-2015.webp"
+      }
+    },
+    {
+      "slug": "camry-14",
+      "name": "camry 15",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry/xv50-2011-2016.webp"
+      }
+    },
+    {
+      "slug": "camry-15",
+      "name": "camry 16",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry/xv50-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "camry-16",
+      "name": "camry 17",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry/xv50-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "camry-17",
+      "name": "camry 18",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry/xv70-2017-2022.webp"
+      }
+    },
+    {
+      "slug": "camry-18",
+      "name": "camry 19",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry/xv70-2020-2024.webp"
+      }
+    },
+    {
+      "slug": "camry-19",
+      "name": "camry 20",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/camry/xv80-2023-now.webp"
+      }
+    }
+  ]
+}

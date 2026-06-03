@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "toyota",
+    "name": "TOYOTA"
+  },
+  "slug": "corolla-2",
+  "name": "corolla-2",
+  "generations": [
+    {
+      "slug": "corolla-2-0",
+      "name": "corolla-2 1",
+      "year_start": 1990,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-2/l40-1990-1994.webp"
+      }
+    },
+    {
+      "slug": "corolla-2-1",
+      "name": "corolla-2 2",
+      "year_start": 1994,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/toyota/corolla-2/l50-1994-1999.webp"
+      }
+    }
+  ]
+}
