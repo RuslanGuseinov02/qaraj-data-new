@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mini",
+    "name": "MINI"
+  },
+  "slug": "paceman",
+  "name": "paceman",
+  "generations": [
+    {
+      "slug": "paceman-0",
+      "name": "paceman 1",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/paceman/r61-2012-2016.webp"
+      }
+    }
+  ]
+}

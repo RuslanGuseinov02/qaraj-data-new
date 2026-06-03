@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "mini",
+    "name": "MINI"
+  },
+  "slug": "hardtop",
+  "name": "hardtop",
+  "generations": [
+    {
+      "slug": "hardtop-0",
+      "name": "hardtop 1",
+      "year_start": 2014,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/hardtop/f55-f56-2014-2021.webp"
+      }
+    },
+    {
+      "slug": "hardtop-1",
+      "name": "hardtop 2",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/hardtop/f55-f56-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "hardtop-2",
+      "name": "hardtop 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/hardtop/f65-f66-2024-now.webp"
+      }
+    },
+    {
+      "slug": "hardtop-3",
+      "name": "hardtop 4",
+      "year_start": 2002,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/hardtop/r50-r53-2002-2006.webp"
+      }
+    },
+    {
+      "slug": "hardtop-4",
+      "name": "hardtop 5",
+      "year_start": 2007,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/hardtop/r56-2007-2013.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "mini",
+    "name": "MINI"
+  },
+  "slug": "cooper",
+  "name": "cooper",
+  "generations": [
+    {
+      "slug": "cooper-0",
+      "name": "cooper 1",
+      "year_start": 1990,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/cooper/ado20-mk1-1990-1995.webp"
+      }
+    },
+    {
+      "slug": "cooper-1",
+      "name": "cooper 2",
+      "year_start": 1996,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/cooper/ado20-mk2-1996-2000.webp"
+      }
+    },
+    {
+      "slug": "cooper-2",
+      "name": "cooper 3",
+      "year_start": 2014,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/cooper/f55-f56-2014-2021.webp"
+      }
+    },
+    {
+      "slug": "cooper-3",
+      "name": "cooper 4",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/cooper/f55-f56-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "cooper-4",
+      "name": "cooper 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/cooper/f66-j01-f65-2024-now.webp"
+      }
+    },
+    {
+      "slug": "cooper-5",
+      "name": "cooper 6",
+      "year_start": 2001,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/cooper/r50-r53-2001-2007.webp"
+      }
+    },
+    {
+      "slug": "cooper-6",
+      "name": "cooper 7",
+      "year_start": 2006,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/cooper/r56-2006-2014.webp"
+      }
+    }
+  ]
+}

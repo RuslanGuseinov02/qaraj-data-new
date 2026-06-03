@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mini",
+    "name": "MINI"
+  },
+  "slug": "clubman",
+  "name": "clubman",
+  "generations": [
+    {
+      "slug": "clubman-0",
+      "name": "clubman 1",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/clubman/f54-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "clubman-1",
+      "name": "clubman 2",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/clubman/f54-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "clubman-2",
+      "name": "clubman 3",
+      "year_start": 2007,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/clubman/r55-2007-2014.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mini",
+    "name": "MINI"
+  },
+  "slug": "hatch",
+  "name": "hatch",
+  "generations": [
+    {
+      "slug": "hatch-0",
+      "name": "hatch 1",
+      "year_start": 2014,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/hatch/f55-f56-2014-2021.webp"
+      }
+    },
+    {
+      "slug": "hatch-1",
+      "name": "hatch 2",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/hatch/f55-f56-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "hatch-2",
+      "name": "hatch 3",
+      "year_start": 2001,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/hatch/r50-r53-2001-2006.webp"
+      }
+    },
+    {
+      "slug": "hatch-3",
+      "name": "hatch 4",
+      "year_start": 2006,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/hatch/r56-2006-2014.webp"
+      }
+    }
+  ]
+}

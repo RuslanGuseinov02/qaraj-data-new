@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mini",
+    "name": "MINI"
+  },
+  "slug": "countryman",
+  "name": "countryman",
+  "generations": [
+    {
+      "slug": "countryman-0",
+      "name": "countryman 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/countryman/f60-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "countryman-1",
+      "name": "countryman 2",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/countryman/f60-2020-2024.webp"
+      }
+    },
+    {
+      "slug": "countryman-2",
+      "name": "countryman 3",
+      "year_start": 2010,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/countryman/r60-2010-2016.webp"
+      }
+    },
+    {
+      "slug": "countryman-3",
+      "name": "countryman 4",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/countryman/u25-2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "mini",
+    "name": "MINI"
+  },
+  "slug": "cabrio",
+  "name": "cabrio",
+  "generations": [
+    {
+      "slug": "cabrio-0",
+      "name": "cabrio 1",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/cabrio/f57-2016-2021.webp"
+      }
+    },
+    {
+      "slug": "cabrio-1",
+      "name": "cabrio 2",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/cabrio/f57-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "cabrio-2",
+      "name": "cabrio 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/cabrio/f67-2024-now.webp"
+      }
+    },
+    {
+      "slug": "cabrio-3",
+      "name": "cabrio 4",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/cabrio/r52-2004-2008.webp"
+      }
+    },
+    {
+      "slug": "cabrio-4",
+      "name": "cabrio 5",
+      "year_start": 2009,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/cabrio/r57-2009-2015.webp"
+      }
+    }
+  ]
+}

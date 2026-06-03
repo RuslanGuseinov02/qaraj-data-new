@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "mini",
+    "name": "MINI"
+  },
+  "slug": "convertible",
+  "name": "convertible",
+  "generations": [
+    {
+      "slug": "convertible-0",
+      "name": "convertible 1",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/convertible/f57-2016-2021.webp"
+      }
+    },
+    {
+      "slug": "convertible-1",
+      "name": "convertible 2",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/convertible/f57-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "convertible-2",
+      "name": "convertible 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/convertible/f67-2024-now.webp"
+      }
+    },
+    {
+      "slug": "convertible-3",
+      "name": "convertible 4",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/convertible/r52-2005-2008.webp"
+      }
+    },
+    {
+      "slug": "convertible-4",
+      "name": "convertible 5",
+      "year_start": 2009,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/convertible/r57-2009-2015.webp"
+      }
+    }
+  ]
+}

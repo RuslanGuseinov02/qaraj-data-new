@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mini",
+    "name": "MINI"
+  },
+  "slug": "one",
+  "name": "one",
+  "generations": [
+    {
+      "slug": "one-0",
+      "name": "one 1",
+      "year_start": 2014,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/one/f55-f56-2014-2021.webp"
+      }
+    },
+    {
+      "slug": "one-1",
+      "name": "one 2",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/one/f55-f56-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "one-2",
+      "name": "one 3",
+      "year_start": 2001,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/one/r50-2001-2006.webp"
+      }
+    },
+    {
+      "slug": "one-3",
+      "name": "one 4",
+      "year_start": 2006,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mini/one/r56-2006-2014.webp"
+      }
+    }
+  ]
+}
