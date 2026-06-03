@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "faw",
+    "name": "FAW"
+  },
+  "slug": "v75",
+  "name": "v75",
+  "generations": [
+    {
+      "slug": "v75-0",
+      "name": "v75 1",
+      "year_start": 2015,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/v75/2015-2015.webp"
+      }
+    }
+  ]
+}

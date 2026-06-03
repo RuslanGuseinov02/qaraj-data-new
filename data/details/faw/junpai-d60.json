@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "faw",
+    "name": "FAW"
+  },
+  "slug": "junpai-d60",
+  "name": "junpai-d60",
+  "generations": [
+    {
+      "slug": "junpai-d60-0",
+      "name": "junpai-d60 1",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/junpai-d60/2015-2017.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "faw",
+    "name": "FAW"
+  },
+  "slug": "besturn-t77",
+  "name": "besturn-t77",
+  "generations": [
+    {
+      "slug": "besturn-t77-0",
+      "name": "besturn-t77 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/besturn-t77/2019-now.webp"
+      }
+    },
+    {
+      "slug": "besturn-t77-1",
+      "name": "besturn-t77 2",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/besturn-t77/2023-2025.webp"
+      }
+    }
+  ]
+}

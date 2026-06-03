@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "faw",
+    "name": "FAW"
+  },
+  "slug": "xenia-m80",
+  "name": "xenia-m80",
+  "generations": [
+    {
+      "slug": "xenia-m80-0",
+      "name": "xenia-m80 1",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/xenia-m80/2009-2014.webp"
+      }
+    }
+  ]
+}

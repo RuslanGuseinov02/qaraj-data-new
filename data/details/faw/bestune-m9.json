@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "faw",
+    "name": "FAW"
+  },
+  "slug": "bestune-m9",
+  "name": "bestune-m9",
+  "generations": [
+    {
+      "slug": "bestune-m9-0",
+      "name": "bestune-m9 1",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/bestune-m9/2022-2025.webp"
+      }
+    }
+  ]
+}

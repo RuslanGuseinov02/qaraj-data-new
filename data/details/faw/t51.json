@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "faw",
+    "name": "FAW"
+  },
+  "slug": "t51",
+  "name": "t51",
+  "generations": [
+    {
+      "slug": "t51-0",
+      "name": "t51 1",
+      "year_start": 2011,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/t51/2011-2011.webp"
+      }
+    }
+  ]
+}

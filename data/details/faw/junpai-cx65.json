@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "faw",
+    "name": "FAW"
+  },
+  "slug": "junpai-cx65",
+  "name": "junpai-cx65",
+  "generations": [
+    {
+      "slug": "junpai-cx65-0",
+      "name": "junpai-cx65 1",
+      "year_start": 2018,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/junpai-cx65/2018-2018.webp"
+      }
+    }
+  ]
+}

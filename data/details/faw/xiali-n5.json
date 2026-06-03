@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "faw",
+    "name": "FAW"
+  },
+  "slug": "xiali-n5",
+  "name": "xiali-n5",
+  "generations": [
+    {
+      "slug": "xiali-n5-0",
+      "name": "xiali-n5 1",
+      "year_start": 2010,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/xiali-n5/2010-2018.webp"
+      }
+    }
+  ]
+}

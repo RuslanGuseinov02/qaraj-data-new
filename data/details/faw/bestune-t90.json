@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "faw",
+    "name": "FAW"
+  },
+  "slug": "bestune-t90",
+  "name": "bestune-t90",
+  "generations": [
+    {
+      "slug": "bestune-t90-0",
+      "name": "bestune-t90 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/bestune-t90/2023-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "faw",
+    "name": "FAW"
+  },
+  "slug": "xiali-n3",
+  "name": "xiali-n3",
+  "generations": [
+    {
+      "slug": "xiali-n3-0",
+      "name": "xiali-n3 1",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/xiali-n3/2004-2008.webp"
+      }
+    },
+    {
+      "slug": "xiali-n3-1",
+      "name": "xiali-n3 2",
+      "year_start": 2012,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/xiali-n3/2012-2012.webp"
+      }
+    }
+  ]
+}

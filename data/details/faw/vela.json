@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "faw",
+    "name": "FAW"
+  },
+  "slug": "vela",
+  "name": "vela",
+  "generations": [
+    {
+      "slug": "vela-0",
+      "name": "vela 1",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/vela/2004-2006.webp"
+      }
+    },
+    {
+      "slug": "vela-1",
+      "name": "vela 2",
+      "year_start": 2008,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/vela/2008-2008.webp"
+      }
+    }
+  ]
+}

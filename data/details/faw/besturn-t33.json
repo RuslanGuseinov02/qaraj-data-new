@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "faw",
+    "name": "FAW"
+  },
+  "slug": "besturn-t33",
+  "name": "besturn-t33",
+  "generations": [
+    {
+      "slug": "besturn-t33-0",
+      "name": "besturn-t33 1",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/besturn-t33/2019-2025.webp"
+      }
+    }
+  ]
+}

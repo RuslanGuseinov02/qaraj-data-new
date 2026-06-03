@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "faw",
+    "name": "FAW"
+  },
+  "slug": "v70",
+  "name": "v70",
+  "generations": [
+    {
+      "slug": "v70-0",
+      "name": "v70 1",
+      "year_start": 2011,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/v70/2011-2011.webp"
+      }
+    },
+    {
+      "slug": "v70-1",
+      "name": "v70 2",
+      "year_start": 2012,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/v70/2012-2012.webp"
+      }
+    }
+  ]
+}

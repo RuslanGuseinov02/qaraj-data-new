@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "faw",
+    "name": "FAW"
+  },
+  "slug": "besturn-x40",
+  "name": "besturn-x40",
+  "generations": [
+    {
+      "slug": "besturn-x40-0",
+      "name": "besturn-x40 1",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/besturn-x40/2017-2023.webp"
+      }
+    }
+  ]
+}

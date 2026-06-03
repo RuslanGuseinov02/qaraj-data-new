@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "faw",
+    "name": "FAW"
+  },
+  "slug": "bestune-joy-03",
+  "name": "bestune-joy-03",
+  "generations": [
+    {
+      "slug": "bestune-joy-03-0",
+      "name": "bestune-joy-03 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/bestune-joy-03/2025-now.webp"
+      }
+    }
+  ]
+}

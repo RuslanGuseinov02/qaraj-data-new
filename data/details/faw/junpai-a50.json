@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "faw",
+    "name": "FAW"
+  },
+  "slug": "junpai-a50",
+  "name": "junpai-a50",
+  "generations": [
+    {
+      "slug": "junpai-a50-0",
+      "name": "junpai-a50 1",
+      "year_start": 2018,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/junpai-a50/2018-2018.webp"
+      }
+    }
+  ]
+}

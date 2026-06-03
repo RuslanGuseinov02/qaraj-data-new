@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "faw",
+    "name": "FAW"
+  },
+  "slug": "besturn-b70",
+  "name": "besturn-b70",
+  "generations": [
+    {
+      "slug": "besturn-b70-0",
+      "name": "besturn-b70 1",
+      "year_start": 2006,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/besturn-b70/2006-2013.webp"
+      }
+    },
+    {
+      "slug": "besturn-b70-1",
+      "name": "besturn-b70 2",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/besturn-b70/2014-2019.webp"
+      }
+    },
+    {
+      "slug": "besturn-b70-2",
+      "name": "besturn-b70 3",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/besturn-b70/2020-2025.webp"
+      }
+    },
+    {
+      "slug": "besturn-b70-3",
+      "name": "besturn-b70 4",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/faw/besturn-b70/2024-now.webp"
+      }
+    }
+  ]
+}
