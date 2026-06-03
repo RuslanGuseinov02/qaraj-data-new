@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "e-go",
+    "name": "E-GO"
+  },
+  "slug": "e-wave-x",
+  "name": "e-wave-x",
+  "generations": [
+    {
+      "slug": "e-wave-x-0",
+      "name": "e-wave-x 1",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/e-go/e-wave-x/2022-2024.webp"
+      }
+    }
+  ]
+}
