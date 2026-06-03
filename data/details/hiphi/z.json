@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hiphi",
+    "name": "HIPHI"
+  },
+  "slug": "z",
+  "name": "z",
+  "generations": [
+    {
+      "slug": "z-0",
+      "name": "z 1",
+      "year_start": 2023,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hiphi/z/2023-2024.webp"
+      }
+    }
+  ]
+}
