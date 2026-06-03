@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "eagle",
+    "name": "EAGLE"
+  },
+  "slug": "summit",
+  "name": "summit",
+  "generations": [
+    {
+      "slug": "summit-0",
+      "name": "summit 1",
+      "year_start": 1989,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/eagle/summit/1989-1992.webp"
+      }
+    },
+    {
+      "slug": "summit-1",
+      "name": "summit 2",
+      "year_start": 1993,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/eagle/summit/1993-1996.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "eagle",
+    "name": "EAGLE"
+  },
+  "slug": "talon",
+  "name": "talon",
+  "generations": [
+    {
+      "slug": "talon-0",
+      "name": "talon 1",
+      "year_start": 1990,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/eagle/talon/1990-1994.webp"
+      }
+    },
+    {
+      "slug": "talon-1",
+      "name": "talon 2",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/eagle/talon/1995-1998.webp"
+      }
+    }
+  ]
+}

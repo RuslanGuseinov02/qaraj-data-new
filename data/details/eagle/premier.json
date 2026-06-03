@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "eagle",
+    "name": "EAGLE"
+  },
+  "slug": "premier",
+  "name": "premier",
+  "generations": [
+    {
+      "slug": "premier-0",
+      "name": "premier 1",
+      "year_start": 1987,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/eagle/premier/1987-1991.webp"
+      }
+    }
+  ]
+}
