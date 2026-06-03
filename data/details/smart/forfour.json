@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "smart",
+    "name": "SMART"
+  },
+  "slug": "forfour",
+  "name": "forfour",
+  "generations": [
+    {
+      "slug": "forfour-0",
+      "name": "forfour 1",
+      "year_start": 2014,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/smart/forfour/w453-2014-2022.webp"
+      }
+    },
+    {
+      "slug": "forfour-1",
+      "name": "forfour 2",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/smart/forfour/w453-2020-2022.webp"
+      }
+    },
+    {
+      "slug": "forfour-2",
+      "name": "forfour 3",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/smart/forfour/w454-2004-2006.webp"
+      }
+    }
+  ]
+}

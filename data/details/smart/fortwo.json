@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "smart",
+    "name": "SMART"
+  },
+  "slug": "fortwo",
+  "name": "fortwo",
+  "generations": [
+    {
+      "slug": "fortwo-0",
+      "name": "fortwo 1",
+      "year_start": 1998,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/smart/fortwo/w450-1998-2007.webp"
+      }
+    },
+    {
+      "slug": "fortwo-1",
+      "name": "fortwo 2",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/smart/fortwo/w451-2007-2012.webp"
+      }
+    },
+    {
+      "slug": "fortwo-2",
+      "name": "fortwo 3",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/smart/fortwo/w451-2012-2015.webp"
+      }
+    },
+    {
+      "slug": "fortwo-3",
+      "name": "fortwo 4",
+      "year_start": 2014,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/smart/fortwo/w453-2014-2022.webp"
+      }
+    },
+    {
+      "slug": "fortwo-4",
+      "name": "fortwo 5",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/smart/fortwo/w453-2020-2024.webp"
+      }
+    }
+  ]
+}

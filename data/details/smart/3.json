@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "smart",
+    "name": "SMART"
+  },
+  "slug": "3",
+  "name": "3",
+  "generations": [
+    {
+      "slug": "3-0",
+      "name": "3 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/smart/3/hc11-2023-now.webp"
+      }
+    }
+  ]
+}
