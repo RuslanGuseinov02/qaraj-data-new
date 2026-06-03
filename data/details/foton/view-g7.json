@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "foton",
+    "name": "FOTON"
+  },
+  "slug": "view-g7",
+  "name": "view-g7",
+  "generations": [
+    {
+      "slug": "view-g7-0",
+      "name": "view-g7 1",
+      "year_start": 2014,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/view-g7/2014-now.webp"
+      }
+    }
+  ]
+}

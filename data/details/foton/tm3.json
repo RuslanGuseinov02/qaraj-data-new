@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "foton",
+    "name": "FOTON"
+  },
+  "slug": "tm3",
+  "name": "tm3",
+  "generations": [
+    {
+      "slug": "tm3-0",
+      "name": "tm3 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/tm3/2023-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "foton",
+    "name": "FOTON"
+  },
+  "slug": "view-g5",
+  "name": "view-g5",
+  "generations": [
+    {
+      "slug": "view-g5-0",
+      "name": "view-g5 1",
+      "year_start": 2019,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/view-g5/2019-2020.webp"
+      }
+    },
+    {
+      "slug": "view-g5-1",
+      "name": "view-g5 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/view-g5/2022-now.webp"
+      }
+    }
+  ]
+}

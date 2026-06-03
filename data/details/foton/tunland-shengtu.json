@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "foton",
+    "name": "FOTON"
+  },
+  "slug": "tunland-shengtu",
+  "name": "tunland-shengtu",
+  "generations": [
+    {
+      "slug": "tunland-shengtu-0",
+      "name": "tunland-shengtu 1",
+      "year_start": 2020,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/tunland-shengtu/2020-2020.webp"
+      }
+    }
+  ]
+}

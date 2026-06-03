@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "foton",
+    "name": "FOTON"
+  },
+  "slug": "toano",
+  "name": "toano",
+  "generations": [
+    {
+      "slug": "toano-0",
+      "name": "toano 1",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/toano/2015-now.webp"
+      }
+    },
+    {
+      "slug": "toano-1",
+      "name": "toano 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/toano/2024-now.webp"
+      }
+    }
+  ]
+}

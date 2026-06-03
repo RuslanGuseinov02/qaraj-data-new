@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "foton",
+    "name": "FOTON"
+  },
+  "slug": "conqueror-7",
+  "name": "conqueror-7",
+  "generations": [
+    {
+      "slug": "conqueror-7-0",
+      "name": "conqueror-7 1",
+      "year_start": 2022,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/conqueror-7/2022-2023.webp"
+      }
+    }
+  ]
+}

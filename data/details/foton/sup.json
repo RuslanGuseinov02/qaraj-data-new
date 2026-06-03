@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "foton",
+    "name": "FOTON"
+  },
+  "slug": "sup",
+  "name": "sup",
+  "generations": [
+    {
+      "slug": "sup-0",
+      "name": "sup 1",
+      "year_start": 2003,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/sup/2003-2011.webp"
+      }
+    },
+    {
+      "slug": "sup-1",
+      "name": "sup 2",
+      "year_start": 2012,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/sup/2012-2014.webp"
+      }
+    },
+    {
+      "slug": "sup-2",
+      "name": "sup 3",
+      "year_start": 2015,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/sup/2015-2023.webp"
+      }
+    }
+  ]
+}

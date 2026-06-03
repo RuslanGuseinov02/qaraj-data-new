@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "foton",
+    "name": "FOTON"
+  },
+  "slug": "v7",
+  "name": "v7",
+  "generations": [
+    {
+      "slug": "v7-0",
+      "name": "v7 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/v7/2024-now.webp"
+      }
+    }
+  ]
+}

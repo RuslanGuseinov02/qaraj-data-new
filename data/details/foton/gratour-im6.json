@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "foton",
+    "name": "FOTON"
+  },
+  "slug": "gratour-im6",
+  "name": "gratour-im6",
+  "generations": [
+    {
+      "slug": "gratour-im6-0",
+      "name": "gratour-im6 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/gratour-im6/2017-2020.webp"
+      }
+    }
+  ]
+}

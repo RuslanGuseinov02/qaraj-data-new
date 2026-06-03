@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "foton",
+    "name": "FOTON"
+  },
+  "slug": "tunland-v9",
+  "name": "tunland-v9",
+  "generations": [
+    {
+      "slug": "tunland-v9-0",
+      "name": "tunland-v9 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/tunland-v9/2024-now.webp"
+      }
+    }
+  ]
+}

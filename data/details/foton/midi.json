@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "foton",
+    "name": "FOTON"
+  },
+  "slug": "midi",
+  "name": "midi",
+  "generations": [
+    {
+      "slug": "midi-0",
+      "name": "midi 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/midi/2008-2012.webp"
+      }
+    },
+    {
+      "slug": "midi-1",
+      "name": "midi 2",
+      "year_start": 2013,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/midi/2013-2014.webp"
+      }
+    },
+    {
+      "slug": "midi-2",
+      "name": "midi 3",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/midi/2020-now.webp"
+      }
+    }
+  ]
+}

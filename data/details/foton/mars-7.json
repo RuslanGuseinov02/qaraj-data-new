@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "foton",
+    "name": "FOTON"
+  },
+  "slug": "mars-7",
+  "name": "mars-7",
+  "generations": [
+    {
+      "slug": "mars-7-0",
+      "name": "mars-7 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/mars-7/2023-now.webp"
+      }
+    }
+  ]
+}

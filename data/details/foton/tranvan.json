@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "foton",
+    "name": "FOTON"
+  },
+  "slug": "tranvan",
+  "name": "tranvan",
+  "generations": [
+    {
+      "slug": "tranvan-0",
+      "name": "tranvan 1",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/tranvan/2015-now.webp"
+      }
+    }
+  ]
+}

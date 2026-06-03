@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "foton",
+    "name": "FOTON"
+  },
+  "slug": "gratour-ix5",
+  "name": "gratour-ix5",
+  "generations": [
+    {
+      "slug": "gratour-ix5-0",
+      "name": "gratour-ix5 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/gratour-ix5/2017-2020.webp"
+      }
+    }
+  ]
+}

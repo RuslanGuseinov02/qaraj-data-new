@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "foton",
+    "name": "FOTON"
+  },
+  "slug": "view-cs2",
+  "name": "view-cs2",
+  "generations": [
+    {
+      "slug": "view-cs2-0",
+      "name": "view-cs2 1",
+      "year_start": 2014,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/view-cs2/2014-2020.webp"
+      }
+    }
+  ]
+}

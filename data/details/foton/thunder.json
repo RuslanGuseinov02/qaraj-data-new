@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "foton",
+    "name": "FOTON"
+  },
+  "slug": "thunder",
+  "name": "thunder",
+  "generations": [
+    {
+      "slug": "thunder-0",
+      "name": "thunder 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/foton/thunder/2022-now.webp"
+      }
+    }
+  ]
+}
