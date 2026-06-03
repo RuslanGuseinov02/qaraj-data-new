@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "denza",
+    "name": "DENZA"
+  },
+  "slug": "n8",
+  "name": "n8",
+  "generations": [
+    {
+      "slug": "n8-0",
+      "name": "n8 1",
+      "year_start": 2023,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/denza/n8/2023-2024.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "denza",
+    "name": "DENZA"
+  },
+  "slug": "400",
+  "name": "400",
+  "generations": [
+    {
+      "slug": "400-0",
+      "name": "400 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/denza/400/2014-2017.webp"
+      }
+    }
+  ]
+}

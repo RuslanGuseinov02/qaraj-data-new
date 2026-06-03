@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "denza",
+    "name": "DENZA"
+  },
+  "slug": "n7",
+  "name": "n7",
+  "generations": [
+    {
+      "slug": "n7-0",
+      "name": "n7 1",
+      "year_start": 2023,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/denza/n7/2023-2024.webp"
+      }
+    },
+    {
+      "slug": "n7-1",
+      "name": "n7 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/denza/n7/2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "denza",
+    "name": "DENZA"
+  },
+  "slug": "x",
+  "name": "x",
+  "generations": [
+    {
+      "slug": "x-0",
+      "name": "x 1",
+      "year_start": 2020,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/denza/x/2020-2021.webp"
+      }
+    }
+  ]
+}
