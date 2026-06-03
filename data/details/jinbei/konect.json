@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jinbei",
+    "name": "JINBEI"
+  },
+  "slug": "konect",
+  "name": "konect",
+  "generations": [
+    {
+      "slug": "konect-0",
+      "name": "konect 1",
+      "year_start": 2019,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jinbei/konect/2019-2020.webp"
+      }
+    }
+  ]
+}

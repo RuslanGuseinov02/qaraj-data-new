@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "jinbei",
+    "name": "JINBEI"
+  },
+  "slug": "golden",
+  "name": "golden",
+  "generations": [
+    {
+      "slug": "golden-0",
+      "name": "golden 1",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jinbei/golden/2009-2014.webp"
+      }
+    },
+    {
+      "slug": "golden-1",
+      "name": "golden 2",
+      "year_start": 2016,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jinbei/golden/2016-2017.webp"
+      }
+    }
+  ]
+}

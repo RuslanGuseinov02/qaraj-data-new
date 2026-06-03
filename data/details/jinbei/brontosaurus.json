@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jinbei",
+    "name": "JINBEI"
+  },
+  "slug": "brontosaurus",
+  "name": "brontosaurus",
+  "generations": [
+    {
+      "slug": "brontosaurus-0",
+      "name": "brontosaurus 1",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jinbei/brontosaurus/2009-2014.webp"
+      }
+    }
+  ]
+}

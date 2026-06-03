@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jinbei",
+    "name": "JINBEI"
+  },
+  "slug": "guanjing",
+  "name": "guanjing",
+  "generations": [
+    {
+      "slug": "guanjing-0",
+      "name": "guanjing 1",
+      "year_start": 2019,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jinbei/guanjing/2019-2020.webp"
+      }
+    }
+  ]
+}

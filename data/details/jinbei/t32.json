@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jinbei",
+    "name": "JINBEI"
+  },
+  "slug": "t32",
+  "name": "t32",
+  "generations": [
+    {
+      "slug": "t32-0",
+      "name": "t32 1",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jinbei/t32/2015-2018.webp"
+      }
+    }
+  ]
+}

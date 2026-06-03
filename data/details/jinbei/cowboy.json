@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jinbei",
+    "name": "JINBEI"
+  },
+  "slug": "cowboy",
+  "name": "cowboy",
+  "generations": [
+    {
+      "slug": "cowboy-0",
+      "name": "cowboy 1",
+      "year_start": 2015,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jinbei/cowboy/2015-2015.webp"
+      }
+    }
+  ]
+}

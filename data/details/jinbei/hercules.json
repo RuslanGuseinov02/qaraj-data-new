@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "jinbei",
+    "name": "JINBEI"
+  },
+  "slug": "hercules",
+  "name": "hercules",
+  "generations": [
+    {
+      "slug": "hercules-0",
+      "name": "hercules 1",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jinbei/hercules/2009-2014.webp"
+      }
+    },
+    {
+      "slug": "hercules-1",
+      "name": "hercules 2",
+      "year_start": 2015,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jinbei/hercules/2015-2016.webp"
+      }
+    }
+  ]
+}

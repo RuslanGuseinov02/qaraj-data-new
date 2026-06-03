@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jinbei",
+    "name": "JINBEI"
+  },
+  "slug": "small-taurus",
+  "name": "small-taurus",
+  "generations": [
+    {
+      "slug": "small-taurus-0",
+      "name": "small-taurus 1",
+      "year_start": 2015,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jinbei/small-taurus/2015-2015.webp"
+      }
+    }
+  ]
+}

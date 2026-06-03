@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jinbei",
+    "name": "JINBEI"
+  },
+  "slug": "a9",
+  "name": "a9",
+  "generations": [
+    {
+      "slug": "a9-0",
+      "name": "a9 1",
+      "year_start": 2011,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jinbei/a9/2011-2011.webp"
+      }
+    }
+  ]
+}

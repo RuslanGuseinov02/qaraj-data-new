@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jinbei",
+    "name": "JINBEI"
+  },
+  "slug": "express",
+  "name": "express",
+  "generations": [
+    {
+      "slug": "express-0",
+      "name": "express 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jinbei/express/2017-2020.webp"
+      }
+    }
+  ]
+}

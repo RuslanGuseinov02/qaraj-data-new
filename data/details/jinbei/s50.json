@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jinbei",
+    "name": "JINBEI"
+  },
+  "slug": "s50",
+  "name": "s50",
+  "generations": [
+    {
+      "slug": "s50-0",
+      "name": "s50 1",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jinbei/s50/2011-2014.webp"
+      }
+    }
+  ]
+}

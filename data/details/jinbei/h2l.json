@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jinbei",
+    "name": "JINBEI"
+  },
+  "slug": "h2l",
+  "name": "h2l",
+  "generations": [
+    {
+      "slug": "h2l-0",
+      "name": "h2l 1",
+      "year_start": 2011,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jinbei/h2l/2011-2020.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jinbei",
+    "name": "JINBEI"
+  },
+  "slug": "f50",
+  "name": "f50",
+  "generations": [
+    {
+      "slug": "f50-0",
+      "name": "f50 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jinbei/f50/2017-2020.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jinbei",
+    "name": "JINBEI"
+  },
+  "slug": "t50",
+  "name": "t50",
+  "generations": [
+    {
+      "slug": "t50-0",
+      "name": "t50 1",
+      "year_start": 2017,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jinbei/t50/2017-2018.webp"
+      }
+    }
+  ]
+}
