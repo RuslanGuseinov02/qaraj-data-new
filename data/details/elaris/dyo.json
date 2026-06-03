@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "elaris",
+    "name": "ELARIS"
+  },
+  "slug": "dyo",
+  "name": "dyo",
+  "generations": [
+    {
+      "slug": "dyo-0",
+      "name": "dyo 1",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/elaris/dyo/2023-2025.webp"
+      }
+    }
+  ]
+}

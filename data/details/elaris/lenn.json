@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "elaris",
+    "name": "ELARIS"
+  },
+  "slug": "lenn",
+  "name": "lenn",
+  "generations": [
+    {
+      "slug": "lenn-0",
+      "name": "lenn 1",
+      "year_start": 2024,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/elaris/lenn/2024-2025.webp"
+      }
+    }
+  ]
+}

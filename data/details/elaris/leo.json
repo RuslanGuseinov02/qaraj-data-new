@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "elaris",
+    "name": "ELARIS"
+  },
+  "slug": "leo",
+  "name": "leo",
+  "generations": [
+    {
+      "slug": "leo-0",
+      "name": "leo 1",
+      "year_start": 2021,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/elaris/leo/2021-2021.webp"
+      }
+    },
+    {
+      "slug": "leo-1",
+      "name": "leo 2",
+      "year_start": 2023,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/elaris/leo/2023-2024.webp"
+      }
+    }
+  ]
+}
