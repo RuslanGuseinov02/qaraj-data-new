@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "im",
+    "name": "IM"
+  },
+  "slug": "ls6",
+  "name": "ls6",
+  "generations": [
+    {
+      "slug": "ls6-0",
+      "name": "ls6 1",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/im/ls6/2023-2025.webp"
+      }
+    },
+    {
+      "slug": "ls6-1",
+      "name": "ls6 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/im/ls6/2025-now.webp"
+      }
+    }
+  ]
+}
