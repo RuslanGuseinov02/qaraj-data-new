@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "proton",
+    "name": "PROTON"
+  },
+  "slug": "saga",
+  "name": "saga",
+  "generations": [
+    {
+      "slug": "saga-0",
+      "name": "saga 1",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/saga/bt-2008-2010.webp"
+      }
+    },
+    {
+      "slug": "saga-1",
+      "name": "saga 2",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/saga/bt-2016-2019.webp"
+      }
+    },
+    {
+      "slug": "saga-2",
+      "name": "saga 3",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/saga/bt-2019-2025.webp"
+      }
+    },
+    {
+      "slug": "saga-3",
+      "name": "saga 4",
+      "year_start": 2010,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/saga/bt-fl-2010-2011.webp"
+      }
+    },
+    {
+      "slug": "saga-4",
+      "name": "saga 5",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/saga/bt-flx-2011-2016.webp"
+      }
+    },
+    {
+      "slug": "saga-5",
+      "name": "saga 6",
+      "year_start": 1985,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/saga/c20-1985-2008.webp"
+      }
+    },
+    {
+      "slug": "saga-6",
+      "name": "saga 7",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/saga/mc3-2025-now.webp"
+      }
+    }
+  ]
+}

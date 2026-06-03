@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "proton",
+    "name": "PROTON"
+  },
+  "slug": "inspira",
+  "name": "inspira",
+  "generations": [
+    {
+      "slug": "inspira-0",
+      "name": "inspira 1",
+      "year_start": 2010,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/inspira/2010-2016.webp"
+      }
+    }
+  ]
+}

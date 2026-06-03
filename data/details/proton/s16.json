@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "proton",
+    "name": "PROTON"
+  },
+  "slug": "s16",
+  "name": "s16",
+  "generations": [
+    {
+      "slug": "s16-0",
+      "name": "s16 1",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/s16/bt-2009-2012.webp"
+      }
+    },
+    {
+      "slug": "s16-1",
+      "name": "s16 2",
+      "year_start": 2012,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/s16/bt-flx-2012-2013.webp"
+      }
+    }
+  ]
+}

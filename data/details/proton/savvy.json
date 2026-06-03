@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "proton",
+    "name": "PROTON"
+  },
+  "slug": "savvy",
+  "name": "savvy",
+  "generations": [
+    {
+      "slug": "savvy-0",
+      "name": "savvy 1",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/savvy/2006-2011.webp"
+      }
+    }
+  ]
+}

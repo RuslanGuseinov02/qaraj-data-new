@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "proton",
+    "name": "PROTON"
+  },
+  "slug": "persona",
+  "name": "persona",
+  "generations": [
+    {
+      "slug": "persona-0",
+      "name": "persona 1",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/persona/bh-2016-2019.webp"
+      }
+    },
+    {
+      "slug": "persona-1",
+      "name": "persona 2",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/persona/bh-2019-2021.webp"
+      }
+    },
+    {
+      "slug": "persona-2",
+      "name": "persona 3",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/persona/bh-2021-now.webp"
+      }
+    },
+    {
+      "slug": "persona-3",
+      "name": "persona 4",
+      "year_start": 1993,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/persona/c90-1993-2004.webp"
+      }
+    },
+    {
+      "slug": "persona-4",
+      "name": "persona 5",
+      "year_start": 2004,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/persona/cm-2004-2016.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "proton",
+    "name": "PROTON"
+  },
+  "slug": "wira",
+  "name": "wira",
+  "generations": [
+    {
+      "slug": "wira-0",
+      "name": "wira 1",
+      "year_start": 1995,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/wira/1995-2007.webp"
+      }
+    }
+  ]
+}

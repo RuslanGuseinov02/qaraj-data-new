@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "proton",
+    "name": "PROTON"
+  },
+  "slug": "ertiga",
+  "name": "ertiga",
+  "generations": [
+    {
+      "slug": "ertiga-0",
+      "name": "ertiga 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/ertiga/ze-2016-2020.webp"
+      }
+    }
+  ]
+}

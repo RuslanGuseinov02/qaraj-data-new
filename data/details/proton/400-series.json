@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "proton",
+    "name": "PROTON"
+  },
+  "slug": "400-series",
+  "name": "400-series",
+  "generations": [
+    {
+      "slug": "400-series-0",
+      "name": "400-series 1",
+      "year_start": 1995,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/400-series/1995-2001.webp"
+      }
+    }
+  ]
+}

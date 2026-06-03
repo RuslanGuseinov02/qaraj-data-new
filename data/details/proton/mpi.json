@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "proton",
+    "name": "PROTON"
+  },
+  "slug": "mpi",
+  "name": "mpi",
+  "generations": [
+    {
+      "slug": "mpi-0",
+      "name": "mpi 1",
+      "year_start": 1992,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/mpi/c20-1992-2003.webp"
+      }
+    }
+  ]
+}

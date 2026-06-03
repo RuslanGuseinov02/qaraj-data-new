@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "proton",
+    "name": "PROTON"
+  },
+  "slug": "satria",
+  "name": "satria",
+  "generations": [
+    {
+      "slug": "satria-0",
+      "name": "satria 1",
+      "year_start": 1996,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/satria/1996-2005.webp"
+      }
+    },
+    {
+      "slug": "satria-1",
+      "name": "satria 2",
+      "year_start": 2006,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/satria/2006-2014.webp"
+      }
+    }
+  ]
+}

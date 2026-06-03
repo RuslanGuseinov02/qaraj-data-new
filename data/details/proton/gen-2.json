@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "proton",
+    "name": "PROTON"
+  },
+  "slug": "gen-2",
+  "name": "gen-2",
+  "generations": [
+    {
+      "slug": "gen-2-0",
+      "name": "gen-2 1",
+      "year_start": 2004,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/gen-2/2004-2014.webp"
+      }
+    }
+  ]
+}

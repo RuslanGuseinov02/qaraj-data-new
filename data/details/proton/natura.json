@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "proton",
+    "name": "PROTON"
+  },
+  "slug": "natura",
+  "name": "natura",
+  "generations": [
+    {
+      "slug": "natura-0",
+      "name": "natura 1",
+      "year_start": 1994,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/natura/1994-2001.webp"
+      }
+    }
+  ]
+}

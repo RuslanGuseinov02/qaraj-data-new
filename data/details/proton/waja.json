@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "proton",
+    "name": "PROTON"
+  },
+  "slug": "waja",
+  "name": "waja",
+  "generations": [
+    {
+      "slug": "waja-0",
+      "name": "waja 1",
+      "year_start": 2001,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/waja/2001-2011.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "proton",
+    "name": "PROTON"
+  },
+  "slug": "s70",
+  "name": "s70",
+  "generations": [
+    {
+      "slug": "s70-0",
+      "name": "s70 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/proton/s70/ss11-2023-now.webp"
+      }
+    }
+  ]
+}
