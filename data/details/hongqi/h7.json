@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hongqi",
+    "name": "HONGQI"
+  },
+  "slug": "h7",
+  "name": "h7",
+  "generations": [
+    {
+      "slug": "h7-0",
+      "name": "h7 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hongqi/h7/2013-2016.webp"
+      }
+    },
+    {
+      "slug": "h7-1",
+      "name": "h7 2",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hongqi/h7/2017-2022.webp"
+      }
+    }
+  ]
+}

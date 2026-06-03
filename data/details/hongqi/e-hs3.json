@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hongqi",
+    "name": "HONGQI"
+  },
+  "slug": "e-hs3",
+  "name": "e-hs3",
+  "generations": [
+    {
+      "slug": "e-hs3-0",
+      "name": "e-hs3 1",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hongqi/e-hs3/2018-2022.webp"
+      }
+    }
+  ]
+}

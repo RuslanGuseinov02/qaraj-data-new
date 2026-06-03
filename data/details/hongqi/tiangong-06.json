@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hongqi",
+    "name": "HONGQI"
+  },
+  "slug": "tiangong-06",
+  "name": "tiangong-06",
+  "generations": [
+    {
+      "slug": "tiangong-06-0",
+      "name": "tiangong-06 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hongqi/tiangong-06/2025-now.webp"
+      }
+    }
+  ]
+}

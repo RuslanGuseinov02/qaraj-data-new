@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hongqi",
+    "name": "HONGQI"
+  },
+  "slug": "e-hs9",
+  "name": "e-hs9",
+  "generations": [
+    {
+      "slug": "e-hs9-0",
+      "name": "e-hs9 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hongqi/e-hs9/2020-now.webp"
+      }
+    }
+  ]
+}

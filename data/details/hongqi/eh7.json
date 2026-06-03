@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hongqi",
+    "name": "HONGQI"
+  },
+  "slug": "eh7",
+  "name": "eh7",
+  "generations": [
+    {
+      "slug": "eh7-0",
+      "name": "eh7 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hongqi/eh7/2024-now.webp"
+      }
+    }
+  ]
+}

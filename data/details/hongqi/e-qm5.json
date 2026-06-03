@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hongqi",
+    "name": "HONGQI"
+  },
+  "slug": "e-qm5",
+  "name": "e-qm5",
+  "generations": [
+    {
+      "slug": "e-qm5-0",
+      "name": "e-qm5 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hongqi/e-qm5/2021-now.webp"
+      }
+    }
+  ]
+}

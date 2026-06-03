@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hongqi",
+    "name": "HONGQI"
+  },
+  "slug": "hs3",
+  "name": "hs3",
+  "generations": [
+    {
+      "slug": "hs3-0",
+      "name": "hs3 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hongqi/hs3/2023-now.webp"
+      }
+    }
+  ]
+}

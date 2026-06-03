@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hongqi",
+    "name": "HONGQI"
+  },
+  "slug": "mingshi",
+  "name": "mingshi",
+  "generations": [
+    {
+      "slug": "mingshi-0",
+      "name": "mingshi 1",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hongqi/mingshi/2005-2008.webp"
+      }
+    }
+  ]
+}

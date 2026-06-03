@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hongqi",
+    "name": "HONGQI"
+  },
+  "slug": "h6",
+  "name": "h6",
+  "generations": [
+    {
+      "slug": "h6-0",
+      "name": "h6 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hongqi/h6/2023-now.webp"
+      }
+    }
+  ]
+}
