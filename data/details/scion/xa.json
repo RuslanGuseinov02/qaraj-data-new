@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "scion",
+    "name": "SCION"
+  },
+  "slug": "xa",
+  "name": "xa",
+  "generations": [
+    {
+      "slug": "xa-0",
+      "name": "xa 1",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/scion/xa/ncp61-2003-2006.webp"
+      }
+    }
+  ]
+}

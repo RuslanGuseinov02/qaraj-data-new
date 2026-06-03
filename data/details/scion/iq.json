@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "scion",
+    "name": "SCION"
+  },
+  "slug": "iq",
+  "name": "iq",
+  "generations": [
+    {
+      "slug": "iq-0",
+      "name": "iq 1",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/scion/iq/xj1-2011-2015.webp"
+      }
+    }
+  ]
+}

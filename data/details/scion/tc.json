@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "scion",
+    "name": "SCION"
+  },
+  "slug": "tc",
+  "name": "tc",
+  "generations": [
+    {
+      "slug": "tc-0",
+      "name": "tc 1",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/scion/tc/at10-2004-2010.webp"
+      }
+    },
+    {
+      "slug": "tc-1",
+      "name": "tc 2",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/scion/tc/at20-2011-2013.webp"
+      }
+    },
+    {
+      "slug": "tc-2",
+      "name": "tc 3",
+      "year_start": 2014,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/scion/tc/at20-2014-2016.webp"
+      }
+    }
+  ]
+}

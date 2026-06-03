@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "scion",
+    "name": "SCION"
+  },
+  "slug": "fr-s",
+  "name": "fr-s",
+  "generations": [
+    {
+      "slug": "fr-s-0",
+      "name": "fr-s 1",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/scion/fr-s/gt86-2012-2016.webp"
+      }
+    }
+  ]
+}
