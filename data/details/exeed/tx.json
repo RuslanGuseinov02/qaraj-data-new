@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "exeed",
+    "name": "EXEED"
+  },
+  "slug": "tx",
+  "name": "tx",
+  "generations": [
+    {
+      "slug": "tx-0",
+      "name": "tx 1",
+      "year_start": 2019,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/exeed/tx/2019-2020.webp"
+      }
+    }
+  ]
+}

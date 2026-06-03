@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "exeed",
+    "name": "EXEED"
+  },
+  "slug": "lx",
+  "name": "lx",
+  "generations": [
+    {
+      "slug": "lx-0",
+      "name": "lx 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/exeed/lx/2019-now.webp"
+      }
+    },
+    {
+      "slug": "lx-1",
+      "name": "lx 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/exeed/lx/2022-now.webp"
+      }
+    }
+  ]
+}

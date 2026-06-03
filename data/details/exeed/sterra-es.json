@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "exeed",
+    "name": "EXEED"
+  },
+  "slug": "sterra-es",
+  "name": "sterra-es",
+  "generations": [
+    {
+      "slug": "sterra-es-0",
+      "name": "sterra-es 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/exeed/sterra-es/2023-now.webp"
+      }
+    }
+  ]
+}

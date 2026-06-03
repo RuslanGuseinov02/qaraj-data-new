@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "exeed",
+    "name": "EXEED"
+  },
+  "slug": "exlantix-es",
+  "name": "exlantix-es",
+  "generations": [
+    {
+      "slug": "exlantix-es-0",
+      "name": "exlantix-es 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/exeed/exlantix-es/2025-now.webp"
+      }
+    }
+  ]
+}

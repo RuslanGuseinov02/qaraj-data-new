@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "exeed",
+    "name": "EXEED"
+  },
+  "slug": "vx",
+  "name": "vx",
+  "generations": [
+    {
+      "slug": "vx-0",
+      "name": "vx 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/exeed/vx/2021-2024.webp"
+      }
+    },
+    {
+      "slug": "vx-1",
+      "name": "vx 2",
+      "year_start": 2023,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/exeed/vx/2023-2024.webp"
+      }
+    },
+    {
+      "slug": "vx-2",
+      "name": "vx 3",
+      "year_start": 2011,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/exeed/vx/2023-now-b8.webp"
+      }
+    }
+  ]
+}

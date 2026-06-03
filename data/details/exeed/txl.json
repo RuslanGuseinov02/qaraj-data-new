@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "exeed",
+    "name": "EXEED"
+  },
+  "slug": "txl",
+  "name": "txl",
+  "generations": [
+    {
+      "slug": "txl-0",
+      "name": "txl 1",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/exeed/txl/2019-2021.webp"
+      }
+    },
+    {
+      "slug": "txl-1",
+      "name": "txl 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/exeed/txl/2021-now.webp"
+      }
+    },
+    {
+      "slug": "txl-2",
+      "name": "txl 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/exeed/txl/2023-now.webp"
+      }
+    }
+  ]
+}
