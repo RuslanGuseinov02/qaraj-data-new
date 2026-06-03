@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ravon",
+    "name": "RAVON"
+  },
+  "slug": "gentra",
+  "name": "gentra",
+  "generations": [
+    {
+      "slug": "gentra-0",
+      "name": "gentra 1",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ravon/gentra/j200-2015-2019.webp"
+      }
+    }
+  ]
+}

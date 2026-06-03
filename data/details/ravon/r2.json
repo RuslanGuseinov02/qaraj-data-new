@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ravon",
+    "name": "RAVON"
+  },
+  "slug": "r2",
+  "name": "r2",
+  "generations": [
+    {
+      "slug": "r2-0",
+      "name": "r2 1",
+      "year_start": 2015,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ravon/r2/m300-2015-2016.webp"
+      }
+    },
+    {
+      "slug": "r2-1",
+      "name": "r2 2",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ravon/r2/m300-2016-2020.webp"
+      }
+    }
+  ]
+}

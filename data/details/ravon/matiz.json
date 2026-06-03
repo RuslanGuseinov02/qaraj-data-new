@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ravon",
+    "name": "RAVON"
+  },
+  "slug": "matiz",
+  "name": "matiz",
+  "generations": [
+    {
+      "slug": "matiz-0",
+      "name": "matiz 1",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ravon/matiz/m150-2015-2017.webp"
+      }
+    }
+  ]
+}

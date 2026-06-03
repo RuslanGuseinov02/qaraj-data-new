@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ravon",
+    "name": "RAVON"
+  },
+  "slug": "r4",
+  "name": "r4",
+  "generations": [
+    {
+      "slug": "r4-0",
+      "name": "r4 1",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ravon/r4/2015-2020.webp"
+      }
+    }
+  ]
+}
