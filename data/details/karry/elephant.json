@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "karry",
+    "name": "KARRY"
+  },
+  "slug": "elephant",
+  "name": "elephant",
+  "generations": [
+    {
+      "slug": "elephant-0",
+      "name": "elephant 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/karry/elephant/2023-now.webp"
+      }
+    }
+  ]
+}

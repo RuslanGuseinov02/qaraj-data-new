@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "karry",
+    "name": "KARRY"
+  },
+  "slug": "q22",
+  "name": "q22",
+  "generations": [
+    {
+      "slug": "q22-0",
+      "name": "q22 1",
+      "year_start": 2016,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/karry/q22/2016-now.webp"
+      }
+    }
+  ]
+}

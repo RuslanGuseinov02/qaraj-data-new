@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "karry",
+    "name": "KARRY"
+  },
+  "slug": "k60",
+  "name": "k60",
+  "generations": [
+    {
+      "slug": "k60-0",
+      "name": "k60 1",
+      "year_start": 2017,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/karry/k60/2017-2025.webp"
+      }
+    }
+  ]
+}

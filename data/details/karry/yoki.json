@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "karry",
+    "name": "KARRY"
+  },
+  "slug": "yoki",
+  "name": "yoki",
+  "generations": [
+    {
+      "slug": "yoki-0",
+      "name": "yoki 1",
+      "year_start": 2016,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/karry/yoki/2016-2024.webp"
+      }
+    }
+  ]
+}
