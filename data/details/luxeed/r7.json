@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "luxeed",
+    "name": "LUXEED"
+  },
+  "slug": "r7",
+  "name": "r7",
+  "generations": [
+    {
+      "slug": "r7-0",
+      "name": "r7 1",
+      "year_start": 2024,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/luxeed/r7/2024-2025.webp"
+      }
+    },
+    {
+      "slug": "r7-1",
+      "name": "r7 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/luxeed/r7/2025-now.webp"
+      }
+    }
+  ]
+}
