@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ldv",
+    "name": "LDV"
+  },
+  "slug": "edeliver-7",
+  "name": "edeliver-7",
+  "generations": [
+    {
+      "slug": "edeliver-7-0",
+      "name": "edeliver-7 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ldv/edeliver-7/2024-now.webp"
+      }
+    }
+  ]
+}

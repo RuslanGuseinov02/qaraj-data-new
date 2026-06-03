@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ldv",
+    "name": "LDV"
+  },
+  "slug": "et60",
+  "name": "et60",
+  "generations": [
+    {
+      "slug": "et60-0",
+      "name": "et60 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ldv/et60/2022-now.webp"
+      }
+    }
+  ]
+}

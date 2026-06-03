@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ldv",
+    "name": "LDV"
+  },
+  "slug": "edeliver-3",
+  "name": "edeliver-3",
+  "generations": [
+    {
+      "slug": "edeliver-3-0",
+      "name": "edeliver-3 1",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ldv/edeliver-3/2022-2025.webp"
+      }
+    }
+  ]
+}

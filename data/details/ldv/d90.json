@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ldv",
+    "name": "LDV"
+  },
+  "slug": "d90",
+  "name": "d90",
+  "generations": [
+    {
+      "slug": "d90-0",
+      "name": "d90 1",
+      "year_start": 2017,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ldv/d90/2017-2025.webp"
+      }
+    },
+    {
+      "slug": "d90-1",
+      "name": "d90 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ldv/d90/2025-now.webp"
+      }
+    }
+  ]
+}

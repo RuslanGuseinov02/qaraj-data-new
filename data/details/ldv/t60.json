@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ldv",
+    "name": "LDV"
+  },
+  "slug": "t60",
+  "name": "t60",
+  "generations": [
+    {
+      "slug": "t60-0",
+      "name": "t60 1",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ldv/t60/2017-2021.webp"
+      }
+    },
+    {
+      "slug": "t60-1",
+      "name": "t60 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ldv/t60/2021-now.webp"
+      }
+    }
+  ]
+}

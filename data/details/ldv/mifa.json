@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ldv",
+    "name": "LDV"
+  },
+  "slug": "mifa",
+  "name": "mifa",
+  "generations": [
+    {
+      "slug": "mifa-0",
+      "name": "mifa 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ldv/mifa/epx1a-2022-now.webp"
+      }
+    }
+  ]
+}

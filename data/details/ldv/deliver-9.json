@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ldv",
+    "name": "LDV"
+  },
+  "slug": "deliver-9",
+  "name": "deliver-9",
+  "generations": [
+    {
+      "slug": "deliver-9-0",
+      "name": "deliver-9 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ldv/deliver-9/2020-now.webp"
+      }
+    }
+  ]
+}
