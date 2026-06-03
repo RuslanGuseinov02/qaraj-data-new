@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kaiyi",
+    "name": "KAIYI"
+  },
+  "slug": "shiyue-mate",
+  "name": "shiyue-mate",
+  "generations": [
+    {
+      "slug": "shiyue-mate-0",
+      "name": "shiyue-mate 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kaiyi/shiyue-mate/2024-now.webp"
+      }
+    }
+  ]
+}

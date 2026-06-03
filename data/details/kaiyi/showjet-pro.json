@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kaiyi",
+    "name": "KAIYI"
+  },
+  "slug": "showjet-pro",
+  "name": "showjet-pro",
+  "generations": [
+    {
+      "slug": "showjet-pro-0",
+      "name": "showjet-pro 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kaiyi/showjet-pro/2021-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kaiyi",
+    "name": "KAIYI"
+  },
+  "slug": "e5",
+  "name": "e5",
+  "generations": [
+    {
+      "slug": "e5-0",
+      "name": "e5 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kaiyi/e5/2022-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kaiyi",
+    "name": "KAIYI"
+  },
+  "slug": "v7",
+  "name": "v7",
+  "generations": [
+    {
+      "slug": "v7-0",
+      "name": "v7 1",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kaiyi/v7/2022-2025.webp"
+      }
+    }
+  ]
+}

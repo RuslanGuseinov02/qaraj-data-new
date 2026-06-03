@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kaiyi",
+    "name": "KAIYI"
+  },
+  "slug": "kunlun-ihd",
+  "name": "kunlun-ihd",
+  "generations": [
+    {
+      "slug": "kunlun-ihd-0",
+      "name": "kunlun-ihd 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kaiyi/kunlun-ihd/2023-now.webp"
+      }
+    }
+  ]
+}
