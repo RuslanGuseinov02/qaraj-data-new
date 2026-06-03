@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "refine-s2mini",
+  "name": "refine-s2mini",
+  "generations": [
+    {
+      "slug": "refine-s2mini-0",
+      "name": "refine-s2mini 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/refine-s2mini/2017-2020.webp"
+      }
+    }
+  ]
+}

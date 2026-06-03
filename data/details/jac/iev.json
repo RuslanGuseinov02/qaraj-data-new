@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "iev",
+  "name": "iev",
+  "generations": [
+    {
+      "slug": "iev-0",
+      "name": "iev 1",
+      "year_start": 2014,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/iev/2014-2014.webp"
+      }
+    },
+    {
+      "slug": "iev-1",
+      "name": "iev 2",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/iev/2015-2017.webp"
+      }
+    }
+  ]
+}

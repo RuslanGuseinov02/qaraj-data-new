@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "refine-s4",
+  "name": "refine-s4",
+  "generations": [
+    {
+      "slug": "refine-s4-0",
+      "name": "refine-s4 1",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/refine-s4/2018-2022.webp"
+      }
+    }
+  ]
+}

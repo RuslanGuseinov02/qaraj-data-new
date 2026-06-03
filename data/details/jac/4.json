@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "4",
+  "name": "4",
+  "generations": [
+    {
+      "slug": "4-0",
+      "name": "4 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/4/2025-now.webp"
+      }
+    }
+  ]
+}

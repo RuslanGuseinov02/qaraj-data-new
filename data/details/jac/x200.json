@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "x200",
+  "name": "x200",
+  "generations": [
+    {
+      "slug": "x200-0",
+      "name": "x200 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/x200/2018-now.webp"
+      }
+    }
+  ]
+}

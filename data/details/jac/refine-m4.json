@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "refine-m4",
+  "name": "refine-m4",
+  "generations": [
+    {
+      "slug": "refine-m4-0",
+      "name": "refine-m4 1",
+      "year_start": 2016,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/refine-m4/2016-now.webp"
+      }
+    },
+    {
+      "slug": "refine-m4-1",
+      "name": "refine-m4 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/refine-m4/2021-now.webp"
+      }
+    }
+  ]
+}

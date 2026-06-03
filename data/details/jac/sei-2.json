@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "sei-2",
+  "name": "sei-2",
+  "generations": [
+    {
+      "slug": "sei-2-0",
+      "name": "sei-2 1",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/sei-2/2015-now.webp"
+      }
+    }
+  ]
+}

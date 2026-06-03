@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "js3",
+  "name": "js3",
+  "generations": [
+    {
+      "slug": "js3-0",
+      "name": "js3 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/js3/2021-now.webp"
+      }
+    }
+  ]
+}

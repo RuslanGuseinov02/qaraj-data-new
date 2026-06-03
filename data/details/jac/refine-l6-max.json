@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "refine-l6-max",
+  "name": "refine-l6-max",
+  "generations": [
+    {
+      "slug": "refine-l6-max-0",
+      "name": "refine-l6-max 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/refine-l6-max/2021-now.webp"
+      }
+    }
+  ]
+}

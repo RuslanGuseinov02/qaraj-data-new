@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "reni",
+  "name": "reni",
+  "generations": [
+    {
+      "slug": "reni-0",
+      "name": "reni 1",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/reni/2011-2017.webp"
+      }
+    }
+  ]
+}

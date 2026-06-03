@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "e40x",
+  "name": "e40x",
+  "generations": [
+    {
+      "slug": "e40x-0",
+      "name": "e40x 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/e40x/2021-2024.webp"
+      }
+    }
+  ]
+}

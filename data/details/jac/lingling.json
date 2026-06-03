@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "lingling",
+  "name": "lingling",
+  "generations": [
+    {
+      "slug": "lingling-0",
+      "name": "lingling 1",
+      "year_start": 2014,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/lingling/2014-2014.webp"
+      }
+    }
+  ]
+}

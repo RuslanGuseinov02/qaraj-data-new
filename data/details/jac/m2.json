@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "m2",
+  "name": "m2",
+  "generations": [
+    {
+      "slug": "m2-0",
+      "name": "m2 1",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/m2/2010-2013.webp"
+      }
+    }
+  ]
+}

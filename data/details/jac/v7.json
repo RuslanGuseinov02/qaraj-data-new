@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "v7",
+  "name": "v7",
+  "generations": [
+    {
+      "slug": "v7-0",
+      "name": "v7 1",
+      "year_start": 2018,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/v7/2018-2018.webp"
+      }
+    }
+  ]
+}

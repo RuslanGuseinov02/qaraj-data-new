@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "sunray-city",
+  "name": "sunray-city",
+  "generations": [
+    {
+      "slug": "sunray-city-0",
+      "name": "sunray-city 1",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/sunray-city/2022-2024.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "sunray",
+  "name": "sunray",
+  "generations": [
+    {
+      "slug": "sunray-0",
+      "name": "sunray 1",
+      "year_start": 2011,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/sunray/2011-now.webp"
+      }
+    }
+  ]
+}

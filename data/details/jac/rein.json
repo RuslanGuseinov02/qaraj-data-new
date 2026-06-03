@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "rein",
+  "name": "rein",
+  "generations": [
+    {
+      "slug": "rein-0",
+      "name": "rein 1",
+      "year_start": 2007,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/rein/2007-2011.webp"
+      }
+    },
+    {
+      "slug": "rein-1",
+      "name": "rein 2",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/rein/2011-2013.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "x8e",
+  "name": "x8e",
+  "generations": [
+    {
+      "slug": "x8e-0",
+      "name": "x8e 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/x8e/2024-now.webp"
+      }
+    }
+  ]
+}

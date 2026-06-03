@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "refine",
+  "name": "refine",
+  "generations": [
+    {
+      "slug": "refine-0",
+      "name": "refine 1",
+      "year_start": 2006,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/refine/2006-2016.webp"
+      }
+    }
+  ]
+}

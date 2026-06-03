@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "sei-3-pro",
+  "name": "sei-3-pro",
+  "generations": [
+    {
+      "slug": "sei-3-pro-0",
+      "name": "sei-3-pro 1",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/sei-3-pro/2020-2022.webp"
+      }
+    }
+  ]
+}

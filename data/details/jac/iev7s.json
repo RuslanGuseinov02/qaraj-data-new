@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "iev7s",
+  "name": "iev7s",
+  "generations": [
+    {
+      "slug": "iev7s-0",
+      "name": "iev7s 1",
+      "year_start": 2017,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/iev7s/2017-2024.webp"
+      }
+    }
+  ]
+}

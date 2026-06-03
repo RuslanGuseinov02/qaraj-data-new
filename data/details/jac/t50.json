@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "t50",
+  "name": "t50",
+  "generations": [
+    {
+      "slug": "t50-0",
+      "name": "t50 1",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/t50/2018-2021.webp"
+      }
+    },
+    {
+      "slug": "t50-1",
+      "name": "t50 2",
+      "year_start": 2021,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/t50/2021-2022.webp"
+      }
+    }
+  ]
+}

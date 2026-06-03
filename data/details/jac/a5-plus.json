@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "a5-plus",
+  "name": "a5-plus",
+  "generations": [
+    {
+      "slug": "a5-plus-0",
+      "name": "a5-plus 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/a5-plus/2021-now.webp"
+      }
+    }
+  ]
+}

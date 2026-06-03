@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "js8",
+  "name": "js8",
+  "generations": [
+    {
+      "slug": "js8-0",
+      "name": "js8 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/js8/2021-now.webp"
+      }
+    }
+  ]
+}

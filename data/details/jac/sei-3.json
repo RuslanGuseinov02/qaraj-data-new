@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "sei-3",
+  "name": "sei-3",
+  "generations": [
+    {
+      "slug": "sei-3-0",
+      "name": "sei-3 1",
+      "year_start": 2018,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/sei-3/2018-2019.webp"
+      }
+    },
+    {
+      "slug": "sei-3-1",
+      "name": "sei-3 2",
+      "year_start": 2020,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/sei-3/2020-2021.webp"
+      }
+    }
+  ]
+}

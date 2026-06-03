@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "j3",
+  "name": "j3",
+  "generations": [
+    {
+      "slug": "j3-0",
+      "name": "j3 1",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/j3/2008-2013.webp"
+      }
+    },
+    {
+      "slug": "j3-1",
+      "name": "j3 2",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/j3/2013-2016.webp"
+      }
+    }
+  ]
+}

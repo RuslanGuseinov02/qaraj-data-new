@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "j7",
+  "name": "j7",
+  "generations": [
+    {
+      "slug": "j7-0",
+      "name": "j7 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/j7/2008-2012.webp"
+      }
+    },
+    {
+      "slug": "j7-1",
+      "name": "j7 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/j7/2020-now.webp"
+      }
+    },
+    {
+      "slug": "j7-2",
+      "name": "j7 3",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/j7/2025-now.webp"
+      }
+    }
+  ]
+}

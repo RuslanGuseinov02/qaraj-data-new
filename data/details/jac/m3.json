@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "m3",
+  "name": "m3",
+  "generations": [
+    {
+      "slug": "m3-0",
+      "name": "m3 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/m3/2022-now.webp"
+      }
+    }
+  ]
+}

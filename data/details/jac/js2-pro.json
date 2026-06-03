@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "js2-pro",
+  "name": "js2-pro",
+  "generations": [
+    {
+      "slug": "js2-pro-0",
+      "name": "js2-pro 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/js2-pro/2024-now.webp"
+      }
+    }
+  ]
+}

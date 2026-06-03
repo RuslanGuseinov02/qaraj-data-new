@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "s1",
+  "name": "s1",
+  "generations": [
+    {
+      "slug": "s1-0",
+      "name": "s1 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/s1/2021-now.webp"
+      }
+    }
+  ]
+}

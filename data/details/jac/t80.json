@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "t80",
+  "name": "t80",
+  "generations": [
+    {
+      "slug": "t80-0",
+      "name": "t80 1",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/t80/2018-2020.webp"
+      }
+    }
+  ]
+}

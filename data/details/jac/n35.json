@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "n35",
+  "name": "n35",
+  "generations": [
+    {
+      "slug": "n35-0",
+      "name": "n35 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/n35/2018-now.webp"
+      }
+    }
+  ]
+}

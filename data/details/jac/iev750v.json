@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "iev750v",
+  "name": "iev750v",
+  "generations": [
+    {
+      "slug": "iev750v-0",
+      "name": "iev750v 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/iev750v/2021-now.webp"
+      }
+    }
+  ]
+}

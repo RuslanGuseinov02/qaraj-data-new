@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "frison-t6",
+  "name": "frison-t6",
+  "generations": [
+    {
+      "slug": "frison-t6-0",
+      "name": "frison-t6 1",
+      "year_start": 2016,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/frison-t6/2016-now.webp"
+      }
+    }
+  ]
+}

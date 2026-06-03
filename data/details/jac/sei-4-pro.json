@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "sei-4-pro",
+  "name": "sei-4-pro",
+  "generations": [
+    {
+      "slug": "sei-4-pro-0",
+      "name": "sei-4-pro 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/sei-4-pro/2021-now.webp"
+      }
+    }
+  ]
+}

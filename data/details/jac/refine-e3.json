@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "refine-e3",
+  "name": "refine-e3",
+  "generations": [
+    {
+      "slug": "refine-e3-0",
+      "name": "refine-e3 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/refine-e3/2021-now.webp"
+      }
+    }
+  ]
+}

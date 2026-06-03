@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "ievs4",
+  "name": "ievs4",
+  "generations": [
+    {
+      "slug": "ievs4-0",
+      "name": "ievs4 1",
+      "year_start": 2019,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/ievs4/2019-2020.webp"
+      }
+    }
+  ]
+}

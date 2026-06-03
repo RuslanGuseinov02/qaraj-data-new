@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "t40",
+  "name": "t40",
+  "generations": [
+    {
+      "slug": "t40-0",
+      "name": "t40 1",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/t40/2018-2022.webp"
+      }
+    }
+  ]
+}

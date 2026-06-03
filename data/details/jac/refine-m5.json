@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "refine-m5",
+  "name": "refine-m5",
+  "generations": [
+    {
+      "slug": "refine-m5-0",
+      "name": "refine-m5 1",
+      "year_start": 2012,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/refine-m5/2012-2022.webp"
+      }
+    }
+  ]
+}

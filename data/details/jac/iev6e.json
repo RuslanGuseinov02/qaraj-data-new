@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "iev6e",
+  "name": "iev6e",
+  "generations": [
+    {
+      "slug": "iev6e-0",
+      "name": "iev6e 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/iev6e/2017-2020.webp"
+      }
+    }
+  ]
+}

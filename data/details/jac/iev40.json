@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "iev40",
+  "name": "iev40",
+  "generations": [
+    {
+      "slug": "iev40-0",
+      "name": "iev40 1",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/iev40/2018-2020.webp"
+      }
+    }
+  ]
+}

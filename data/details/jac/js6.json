@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "js6",
+  "name": "js6",
+  "generations": [
+    {
+      "slug": "js6-0",
+      "name": "js6 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/js6/2022-now.webp"
+      }
+    }
+  ]
+}

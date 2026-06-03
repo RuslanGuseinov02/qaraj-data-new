@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "journey",
+  "name": "journey",
+  "generations": [
+    {
+      "slug": "journey-0",
+      "name": "journey 1",
+      "year_start": 2014,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/journey/2014-2015.webp"
+      }
+    }
+  ]
+}

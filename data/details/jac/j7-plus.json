@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "j7-plus",
+  "name": "j7-plus",
+  "generations": [
+    {
+      "slug": "j7-plus-0",
+      "name": "j7-plus 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/j7-plus/2025-now.webp"
+      }
+    }
+  ]
+}

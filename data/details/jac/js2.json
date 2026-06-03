@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jac",
+    "name": "JAC"
+  },
+  "slug": "js2",
+  "name": "js2",
+  "generations": [
+    {
+      "slug": "js2-0",
+      "name": "js2 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jac/js2/2018-now.webp"
+      }
+    }
+  ]
+}
