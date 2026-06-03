@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "g8",
+  "name": "g8",
+  "generations": [
+    {
+      "slug": "g8-0",
+      "name": "g8 1",
+      "year_start": 2008,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/g8/2008-2009.webp"
+      }
+    }
+  ]
+}

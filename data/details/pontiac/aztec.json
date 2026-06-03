@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "aztec",
+  "name": "aztec",
+  "generations": [
+    {
+      "slug": "aztec-0",
+      "name": "aztec 1",
+      "year_start": 2001,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/aztec/u-body-2001-2005.webp"
+      }
+    }
+  ]
+}

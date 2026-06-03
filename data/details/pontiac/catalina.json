@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "catalina",
+  "name": "catalina",
+  "generations": [
+    {
+      "slug": "catalina-0",
+      "name": "catalina 1",
+      "year_start": 1971,
+      "year_end": 1976,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/catalina/b-body-1971-1976.webp"
+      }
+    },
+    {
+      "slug": "catalina-1",
+      "name": "catalina 2",
+      "year_start": 1977,
+      "year_end": 1981,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/catalina/c-body-1977-1981.webp"
+      }
+    }
+  ]
+}

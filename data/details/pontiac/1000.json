@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "1000",
+  "name": "1000",
+  "generations": [
+    {
+      "slug": "1000-0",
+      "name": "1000 1",
+      "year_start": 1976,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/1000/t-body-1976-1987.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "torrent",
+  "name": "torrent",
+  "generations": [
+    {
+      "slug": "torrent-0",
+      "name": "torrent 1",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/torrent/gmt191-2005-2009.webp"
+      }
+    }
+  ]
+}

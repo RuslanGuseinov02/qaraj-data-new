@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "grand-am",
+  "name": "grand-am",
+  "generations": [
+    {
+      "slug": "grand-am-0",
+      "name": "grand-am 1",
+      "year_start": 1972,
+      "year_end": 1975,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/grand-am/a-body-1972-1975.webp"
+      }
+    },
+    {
+      "slug": "grand-am-1",
+      "name": "grand-am 2",
+      "year_start": 1978,
+      "year_end": 1980,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/grand-am/g-body-1978-1980.webp"
+      }
+    },
+    {
+      "slug": "grand-am-2",
+      "name": "grand-am 3",
+      "year_start": 1985,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/grand-am/n-body-1985-1991.webp"
+      }
+    },
+    {
+      "slug": "grand-am-3",
+      "name": "grand-am 4",
+      "year_start": 1992,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/grand-am/n-body-1992-1998.webp"
+      }
+    },
+    {
+      "slug": "grand-am-4",
+      "name": "grand-am 5",
+      "year_start": 1999,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/grand-am/n-body-1999-2005.webp"
+      }
+    }
+  ]
+}

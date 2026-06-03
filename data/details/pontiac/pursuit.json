@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "pursuit",
+  "name": "pursuit",
+  "generations": [
+    {
+      "slug": "pursuit-0",
+      "name": "pursuit 1",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/pursuit/gm-delta-2004-2010.webp"
+      }
+    }
+  ]
+}

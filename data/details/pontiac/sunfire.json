@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "sunfire",
+  "name": "sunfire",
+  "generations": [
+    {
+      "slug": "sunfire-0",
+      "name": "sunfire 1",
+      "year_start": 1995,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/sunfire/j-body-1995-2005.webp"
+      }
+    }
+  ]
+}

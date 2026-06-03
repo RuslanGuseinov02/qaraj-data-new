@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "montana-sv6",
+  "name": "montana-sv6",
+  "generations": [
+    {
+      "slug": "montana-sv6-0",
+      "name": "montana-sv6 1",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/montana-sv6/gmt201-2005-2009.webp"
+      }
+    }
+  ]
+}

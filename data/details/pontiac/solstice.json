@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "solstice",
+  "name": "solstice",
+  "generations": [
+    {
+      "slug": "solstice-0",
+      "name": "solstice 1",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/solstice/gm-kappa-2006-2010.webp"
+      }
+    }
+  ]
+}

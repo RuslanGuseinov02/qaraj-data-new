@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "firebird",
+  "name": "firebird",
+  "generations": [
+    {
+      "slug": "firebird-0",
+      "name": "firebird 1",
+      "year_start": 1967,
+      "year_end": 1969,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/firebird/f-body-1967-1969.webp"
+      }
+    },
+    {
+      "slug": "firebird-1",
+      "name": "firebird 2",
+      "year_start": 1970,
+      "year_end": 1981,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/firebird/f-body-1970-1981.webp"
+      }
+    },
+    {
+      "slug": "firebird-2",
+      "name": "firebird 3",
+      "year_start": 1982,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/firebird/f-body-1982-1992.webp"
+      }
+    },
+    {
+      "slug": "firebird-3",
+      "name": "firebird 4",
+      "year_start": 1993,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/firebird/f-body-1993-1997.webp"
+      }
+    },
+    {
+      "slug": "firebird-4",
+      "name": "firebird 5",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/firebird/f-body-1998-2002.webp"
+      }
+    }
+  ]
+}

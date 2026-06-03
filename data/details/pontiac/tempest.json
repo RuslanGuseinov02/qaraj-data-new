@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "tempest",
+  "name": "tempest",
+  "generations": [
+    {
+      "slug": "tempest-0",
+      "name": "tempest 1",
+      "year_start": 1964,
+      "year_end": 1967,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/tempest/a-body-1964-1967.webp"
+      }
+    },
+    {
+      "slug": "tempest-1",
+      "name": "tempest 2",
+      "year_start": 1987,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/tempest/l-body-1987-1991.webp"
+      }
+    },
+    {
+      "slug": "tempest-2",
+      "name": "tempest 3",
+      "year_start": 1961,
+      "year_end": 1963,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/tempest/y-body-1961-1963.webp"
+      }
+    }
+  ]
+}

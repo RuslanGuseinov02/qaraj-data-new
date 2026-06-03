@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "gto",
+  "name": "gto",
+  "generations": [
+    {
+      "slug": "gto-0",
+      "name": "gto 1",
+      "year_start": 1964,
+      "year_end": 1967,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/gto/a-body-1964-1967.webp"
+      }
+    },
+    {
+      "slug": "gto-1",
+      "name": "gto 2",
+      "year_start": 1968,
+      "year_end": 1973,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/gto/a-body-1968-1973.webp"
+      }
+    },
+    {
+      "slug": "gto-2",
+      "name": "gto 3",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/gto/v-body-2004-2006.webp"
+      }
+    },
+    {
+      "slug": "gto-3",
+      "name": "gto 4",
+      "year_start": 1974,
+      "year_end": 1974,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/gto/x-body-1974-1974.webp"
+      }
+    }
+  ]
+}

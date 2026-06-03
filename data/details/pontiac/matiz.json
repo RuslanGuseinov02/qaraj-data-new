@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "matiz",
+  "name": "matiz",
+  "generations": [
+    {
+      "slug": "matiz-0",
+      "name": "matiz 1",
+      "year_start": 2004,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/matiz/m100-2004-2005.webp"
+      }
+    },
+    {
+      "slug": "matiz-1",
+      "name": "matiz 2",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/matiz/m200-2006-2010.webp"
+      }
+    }
+  ]
+}

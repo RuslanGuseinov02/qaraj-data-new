@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "2000",
+  "name": "2000",
+  "generations": [
+    {
+      "slug": "2000-0",
+      "name": "2000 1",
+      "year_start": 1975,
+      "year_end": 1980,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/2000/h-body-1975-1980.webp"
+      }
+    },
+    {
+      "slug": "2000-1",
+      "name": "2000 2",
+      "year_start": 1982,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/2000/j-body-1982-1987.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "grand-prix-gxp",
+  "name": "grand-prix-gxp",
+  "generations": [
+    {
+      "slug": "grand-prix-gxp-0",
+      "name": "grand-prix-gxp 1",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/grand-prix-gxp/w-body-2005-2008.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "g4",
+  "name": "g4",
+  "generations": [
+    {
+      "slug": "g4-0",
+      "name": "g4 1",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/g4/gm-delta-2004-2006.webp"
+      }
+    }
+  ]
+}

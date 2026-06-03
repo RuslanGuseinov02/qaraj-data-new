@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "grand-ville",
+  "name": "grand-ville",
+  "generations": [
+    {
+      "slug": "grand-ville-0",
+      "name": "grand-ville 1",
+      "year_start": 1971,
+      "year_end": 1975,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/grand-ville/p49-1971-1975.webp"
+      }
+    }
+  ]
+}

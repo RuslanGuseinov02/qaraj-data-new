@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "fiero",
+  "name": "fiero",
+  "generations": [
+    {
+      "slug": "fiero-0",
+      "name": "fiero 1",
+      "year_start": 1984,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/fiero/p-body-1984-1988.webp"
+      }
+    }
+  ]
+}

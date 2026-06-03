@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "acadian",
+  "name": "acadian",
+  "generations": [
+    {
+      "slug": "acadian-0",
+      "name": "acadian 1",
+      "year_start": 1976,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/acadian/t-body-1976-1987.webp"
+      }
+    }
+  ]
+}

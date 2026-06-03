@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "g5",
+  "name": "g5",
+  "generations": [
+    {
+      "slug": "g5-0",
+      "name": "g5 1",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/g5/gm-delta-2004-2010.webp"
+      }
+    }
+  ]
+}

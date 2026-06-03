@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "pontiac",
+    "name": "PONTIAC"
+  },
+  "slug": "bonneville",
+  "name": "bonneville",
+  "generations": [
+    {
+      "slug": "bonneville-0",
+      "name": "bonneville 1",
+      "year_start": 1965,
+      "year_end": 1970,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/bonneville/b-body-1965-1970.webp"
+      }
+    },
+    {
+      "slug": "bonneville-1",
+      "name": "bonneville 2",
+      "year_start": 1971,
+      "year_end": 1976,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/bonneville/b-body-1971-1976.webp"
+      }
+    },
+    {
+      "slug": "bonneville-2",
+      "name": "bonneville 3",
+      "year_start": 1977,
+      "year_end": 1981,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/bonneville/b-body-1977-1981.webp"
+      }
+    },
+    {
+      "slug": "bonneville-3",
+      "name": "bonneville 4",
+      "year_start": 1982,
+      "year_end": 1986,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/bonneville/g-body-1982-1986.webp"
+      }
+    },
+    {
+      "slug": "bonneville-4",
+      "name": "bonneville 5",
+      "year_start": 2000,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/bonneville/gmx310-2000-2005.webp"
+      }
+    },
+    {
+      "slug": "bonneville-5",
+      "name": "bonneville 6",
+      "year_start": 1987,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/bonneville/h-body-1987-1991.webp"
+      }
+    },
+    {
+      "slug": "bonneville-6",
+      "name": "bonneville 7",
+      "year_start": 1992,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/pontiac/bonneville/h-body-1992-1999.webp"
+      }
+    }
+  ]
+}
