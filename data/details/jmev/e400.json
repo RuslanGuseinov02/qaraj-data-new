@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jmev",
+    "name": "JMEV"
+  },
+  "slug": "e400",
+  "name": "e400",
+  "generations": [
+    {
+      "slug": "e400-0",
+      "name": "e400 1",
+      "year_start": 2018,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jmev/e400/2018-2018.webp"
+      }
+    }
+  ]
+}

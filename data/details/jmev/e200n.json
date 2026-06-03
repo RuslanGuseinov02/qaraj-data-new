@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jmev",
+    "name": "JMEV"
+  },
+  "slug": "e200n",
+  "name": "e200n",
+  "generations": [
+    {
+      "slug": "e200n-0",
+      "name": "e200n 1",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jmev/e200n/2018-2020.webp"
+      }
+    }
+  ]
+}

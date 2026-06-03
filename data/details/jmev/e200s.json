@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jmev",
+    "name": "JMEV"
+  },
+  "slug": "e200s",
+  "name": "e200s",
+  "generations": [
+    {
+      "slug": "e200s-0",
+      "name": "e200s 1",
+      "year_start": 2017,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jmev/e200s/2017-2017.webp"
+      }
+    }
+  ]
+}

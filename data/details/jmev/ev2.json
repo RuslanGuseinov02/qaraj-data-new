@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jmev",
+    "name": "JMEV"
+  },
+  "slug": "ev2",
+  "name": "ev2",
+  "generations": [
+    {
+      "slug": "ev2-0",
+      "name": "ev2 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jmev/ev2/2022-now.webp"
+      }
+    }
+  ]
+}
