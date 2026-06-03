@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zx",
+    "name": "ZX"
+  },
+  "slug": "grand-lion-1949",
+  "name": "grand-lion-1949",
+  "generations": [
+    {
+      "slug": "grand-lion-1949-0",
+      "name": "grand-lion-1949 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zx/grand-lion-1949/2022-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "zx",
+    "name": "ZX"
+  },
+  "slug": "landmark",
+  "name": "landmark",
+  "generations": [
+    {
+      "slug": "landmark-0",
+      "name": "landmark 1",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zx/landmark/2005-2009.webp"
+      }
+    },
+    {
+      "slug": "landmark-1",
+      "name": "landmark 2",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zx/landmark/2010-2013.webp"
+      }
+    }
+  ]
+}

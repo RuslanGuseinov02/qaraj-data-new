@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "zx",
+    "name": "ZX"
+  },
+  "slug": "littletiger",
+  "name": "littletiger",
+  "generations": [
+    {
+      "slug": "littletiger-0",
+      "name": "littletiger 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zx/littletiger/2016-2020.webp"
+      }
+    },
+    {
+      "slug": "littletiger-1",
+      "name": "littletiger 2",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zx/littletiger/2022-2024.webp"
+      }
+    }
+  ]
+}
