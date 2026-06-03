@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "haima",
+    "name": "HAIMA"
+  },
+  "slug": "freema",
+  "name": "freema",
+  "generations": [
+    {
+      "slug": "freema-0",
+      "name": "freema 1",
+      "year_start": 2004,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haima/freema/2004-2011.webp"
+      }
+    },
+    {
+      "slug": "freema-1",
+      "name": "freema 2",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haima/freema/2011-2014.webp"
+      }
+    }
+  ]
+}

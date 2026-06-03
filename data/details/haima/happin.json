@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "haima",
+    "name": "HAIMA"
+  },
+  "slug": "happin",
+  "name": "happin",
+  "generations": [
+    {
+      "slug": "happin-0",
+      "name": "happin 1",
+      "year_start": 2004,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haima/happin/2004-2012.webp"
+      }
+    }
+  ]
+}

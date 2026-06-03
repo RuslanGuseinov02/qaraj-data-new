@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "haima",
+    "name": "HAIMA"
+  },
+  "slug": "7x-e",
+  "name": "7x-e",
+  "generations": [
+    {
+      "slug": "7x-e-0",
+      "name": "7x-e 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haima/7x-e/2023-now.webp"
+      }
+    }
+  ]
+}

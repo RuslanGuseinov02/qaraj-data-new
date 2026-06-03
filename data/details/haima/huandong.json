@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "haima",
+    "name": "HAIMA"
+  },
+  "slug": "huandong",
+  "name": "huandong",
+  "generations": [
+    {
+      "slug": "huandong-0",
+      "name": "huandong 1",
+      "year_start": 2009,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haima/huandong/2009-2010.webp"
+      }
+    }
+  ]
+}

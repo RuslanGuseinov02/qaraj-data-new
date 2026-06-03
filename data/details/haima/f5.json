@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "haima",
+    "name": "HAIMA"
+  },
+  "slug": "f5",
+  "name": "f5",
+  "generations": [
+    {
+      "slug": "f5-0",
+      "name": "f5 1",
+      "year_start": 2018,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haima/f5/2018-2019.webp"
+      }
+    }
+  ]
+}

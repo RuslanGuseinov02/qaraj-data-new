@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "haima",
+    "name": "HAIMA"
+  },
+  "slug": "s7",
+  "name": "s7",
+  "generations": [
+    {
+      "slug": "s7-0",
+      "name": "s7 1",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haima/s7/2011-2015.webp"
+      }
+    },
+    {
+      "slug": "s7-1",
+      "name": "s7 2",
+      "year_start": 2016,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haima/s7/2016-2024.webp"
+      }
+    }
+  ]
+}

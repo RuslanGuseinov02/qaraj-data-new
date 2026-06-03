@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "haima",
+    "name": "HAIMA"
+  },
+  "slug": "m3",
+  "name": "m3",
+  "generations": [
+    {
+      "slug": "m3-0",
+      "name": "m3 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haima/m3/2013-2016.webp"
+      }
+    },
+    {
+      "slug": "m3-1",
+      "name": "m3 2",
+      "year_start": 2016,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haima/m3/2016-2022.webp"
+      }
+    }
+  ]
+}

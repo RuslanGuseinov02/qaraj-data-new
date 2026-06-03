@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "haima",
+    "name": "HAIMA"
+  },
+  "slug": "m8",
+  "name": "m8",
+  "generations": [
+    {
+      "slug": "m8-0",
+      "name": "m8 1",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haima/m8/2013-2017.webp"
+      }
+    }
+  ]
+}

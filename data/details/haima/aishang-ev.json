@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "haima",
+    "name": "HAIMA"
+  },
+  "slug": "aishang-ev",
+  "name": "aishang-ev",
+  "generations": [
+    {
+      "slug": "aishang-ev-0",
+      "name": "aishang-ev 1",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haima/aishang-ev/2017-2022.webp"
+      }
+    }
+  ]
+}
