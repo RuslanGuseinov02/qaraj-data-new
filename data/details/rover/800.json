@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "rover",
+    "name": "ROVER"
+  },
+  "slug": "800",
+  "name": "800",
+  "generations": [
+    {
+      "slug": "800-0",
+      "name": "800 1",
+      "year_start": 1986,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/rover/800/1986-1991.webp"
+      }
+    },
+    {
+      "slug": "800-1",
+      "name": "800 2",
+      "year_start": 1992,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/rover/800/1992-1999.webp"
+      }
+    }
+  ]
+}

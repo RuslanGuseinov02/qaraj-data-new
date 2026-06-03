@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "rover",
+    "name": "ROVER"
+  },
+  "slug": "maestro",
+  "name": "maestro",
+  "generations": [
+    {
+      "slug": "maestro-0",
+      "name": "maestro 1",
+      "year_start": 1990,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/rover/maestro/1990-1995.webp"
+      }
+    }
+  ]
+}

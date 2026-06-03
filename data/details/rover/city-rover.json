@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "rover",
+    "name": "ROVER"
+  },
+  "slug": "city-rover",
+  "name": "city-rover",
+  "generations": [
+    {
+      "slug": "city-rover-0",
+      "name": "city-rover 1",
+      "year_start": 2003,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/rover/city-rover/2003-2005.webp"
+      }
+    }
+  ]
+}

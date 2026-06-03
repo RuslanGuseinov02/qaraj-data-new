@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "rover",
+    "name": "ROVER"
+  },
+  "slug": "600",
+  "name": "600",
+  "generations": [
+    {
+      "slug": "600-0",
+      "name": "600 1",
+      "year_start": 1993,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/rover/600/1993-1999.webp"
+      }
+    }
+  ]
+}
