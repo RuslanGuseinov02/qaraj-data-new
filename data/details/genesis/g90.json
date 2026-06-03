@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "genesis",
+    "name": "GENESIS"
+  },
+  "slug": "g90",
+  "name": "g90",
+  "generations": [
+    {
+      "slug": "g90-0",
+      "name": "g90 1",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/genesis/g90/hi-2016-2019.webp"
+      }
+    },
+    {
+      "slug": "g90-1",
+      "name": "g90 2",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/genesis/g90/hi-2018-2022.webp"
+      }
+    },
+    {
+      "slug": "g90-2",
+      "name": "g90 3",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/genesis/g90/rs4-2022-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "genesis",
+    "name": "GENESIS"
+  },
+  "slug": "eq900",
+  "name": "eq900",
+  "generations": [
+    {
+      "slug": "eq900-0",
+      "name": "eq900 1",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/genesis/eq900/hi-2015-2018.webp"
+      }
+    }
+  ]
+}

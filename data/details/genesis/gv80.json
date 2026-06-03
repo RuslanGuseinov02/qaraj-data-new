@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "genesis",
+    "name": "GENESIS"
+  },
+  "slug": "gv80",
+  "name": "gv80",
+  "generations": [
+    {
+      "slug": "gv80-0",
+      "name": "gv80 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/genesis/gv80/jx1-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "gv80-1",
+      "name": "gv80 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/genesis/gv80/jx1-2023-now.webp"
+      }
+    }
+  ]
+}

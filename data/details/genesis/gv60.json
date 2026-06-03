@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "genesis",
+    "name": "GENESIS"
+  },
+  "slug": "gv60",
+  "name": "gv60",
+  "generations": [
+    {
+      "slug": "gv60-0",
+      "name": "gv60 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/genesis/gv60/jw1-2021-now.webp"
+      }
+    }
+  ]
+}

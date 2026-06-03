@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "genesis",
+    "name": "GENESIS"
+  },
+  "slug": "g70",
+  "name": "g70",
+  "generations": [
+    {
+      "slug": "g70-0",
+      "name": "g70 1",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/genesis/g70/ik-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "g70-1",
+      "name": "g70 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/genesis/g70/ik-2020-now.webp"
+      }
+    }
+  ]
+}
