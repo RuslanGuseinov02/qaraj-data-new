@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "voyah",
+    "name": "VOYAH"
+  },
+  "slug": "free",
+  "name": "free",
+  "generations": [
+    {
+      "slug": "free-0",
+      "name": "free 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/voyah/free/2021-2024.webp"
+      }
+    },
+    {
+      "slug": "free-1",
+      "name": "free 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/voyah/free/2023-now.webp"
+      }
+    }
+  ]
+}

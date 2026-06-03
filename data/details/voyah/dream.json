@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "voyah",
+    "name": "VOYAH"
+  },
+  "slug": "dream",
+  "name": "dream",
+  "generations": [
+    {
+      "slug": "dream-0",
+      "name": "dream 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/voyah/dream/2021-now.webp"
+      }
+    },
+    {
+      "slug": "dream-1",
+      "name": "dream 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/voyah/dream/2024-now.webp"
+      }
+    }
+  ]
+}

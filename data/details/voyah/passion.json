@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "voyah",
+    "name": "VOYAH"
+  },
+  "slug": "passion",
+  "name": "passion",
+  "generations": [
+    {
+      "slug": "passion-0",
+      "name": "passion 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/voyah/passion/2023-now.webp"
+      }
+    }
+  ]
+}

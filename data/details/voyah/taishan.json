@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "voyah",
+    "name": "VOYAH"
+  },
+  "slug": "taishan",
+  "name": "taishan",
+  "generations": [
+    {
+      "slug": "taishan-0",
+      "name": "taishan 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/voyah/taishan/2025-now.webp"
+      }
+    }
+  ]
+}

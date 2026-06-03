@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "voyah",
+    "name": "VOYAH"
+  },
+  "slug": "courage",
+  "name": "courage",
+  "generations": [
+    {
+      "slug": "courage-0",
+      "name": "courage 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/voyah/courage/2024-now.webp"
+      }
+    },
+    {
+      "slug": "courage-1",
+      "name": "courage 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/voyah/courage/2025-now.webp"
+      }
+    }
+  ]
+}
