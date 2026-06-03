@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "sev",
+    "name": "SEV"
+  },
+  "slug": "friday",
+  "name": "friday",
+  "generations": [
+    {
+      "slug": "friday-0",
+      "name": "friday 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/sev/friday/2025-now.webp"
+      }
+    }
+  ]
+}

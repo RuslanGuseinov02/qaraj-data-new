@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "sev",
+    "name": "SEV"
+  },
+  "slug": "e-tus",
+  "name": "e-tus",
+  "generations": [
+    {
+      "slug": "e-tus-0",
+      "name": "e-tus 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/sev/e-tus/2024-now.webp"
+      }
+    }
+  ]
+}

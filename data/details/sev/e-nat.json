@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "sev",
+    "name": "SEV"
+  },
+  "slug": "e-nat",
+  "name": "e-nat",
+  "generations": [
+    {
+      "slug": "e-nat-0",
+      "name": "e-nat 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/sev/e-nat/2023-now.webp"
+      }
+    }
+  ]
+}
