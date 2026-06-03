@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mhero",
+    "name": "MHERO"
+  },
+  "slug": "917",
+  "name": "917",
+  "generations": [
+    {
+      "slug": "917-0",
+      "name": "917 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mhero/917/2023-now.webp"
+      }
+    }
+  ]
+}
