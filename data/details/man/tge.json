@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "man",
+    "name": "MAN"
+  },
+  "slug": "tge",
+  "name": "tge",
+  "generations": [
+    {
+      "slug": "tge-0",
+      "name": "tge 1",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/man/tge/sy-sz-2017-now.webp"
+      }
+    }
+  ]
+}
