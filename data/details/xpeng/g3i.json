@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "xpeng",
+    "name": "XPENG"
+  },
+  "slug": "g3i",
+  "name": "g3i",
+  "generations": [
+    {
+      "slug": "g3i-0",
+      "name": "g3i 1",
+      "year_start": 2021,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/xpeng/g3i/2021-2023.webp"
+      }
+    }
+  ]
+}

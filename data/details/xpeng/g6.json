@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "xpeng",
+    "name": "XPENG"
+  },
+  "slug": "g6",
+  "name": "g6",
+  "generations": [
+    {
+      "slug": "g6-0",
+      "name": "g6 1",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/xpeng/g6/2023-2025.webp"
+      }
+    },
+    {
+      "slug": "g6-1",
+      "name": "g6 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/xpeng/g6/2025-now.webp"
+      }
+    }
+  ]
+}

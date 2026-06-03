@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "xpeng",
+    "name": "XPENG"
+  },
+  "slug": "p7i",
+  "name": "p7i",
+  "generations": [
+    {
+      "slug": "p7i-0",
+      "name": "p7i 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/xpeng/p7i/2023-now.webp"
+      }
+    }
+  ]
+}

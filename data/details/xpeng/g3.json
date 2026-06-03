@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "xpeng",
+    "name": "XPENG"
+  },
+  "slug": "g3",
+  "name": "g3",
+  "generations": [
+    {
+      "slug": "g3-0",
+      "name": "g3 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/xpeng/g3/2018-now.webp"
+      }
+    }
+  ]
+}

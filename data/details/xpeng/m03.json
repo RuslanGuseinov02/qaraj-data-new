@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "xpeng",
+    "name": "XPENG"
+  },
+  "slug": "m03",
+  "name": "m03",
+  "generations": [
+    {
+      "slug": "m03-0",
+      "name": "m03 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/xpeng/m03/2024-now.webp"
+      }
+    }
+  ]
+}
