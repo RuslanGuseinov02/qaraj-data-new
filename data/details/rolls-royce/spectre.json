@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "rolls-royce",
+    "name": "ROLLS-ROYCE"
+  },
+  "slug": "spectre",
+  "name": "spectre",
+  "generations": [
+    {
+      "slug": "spectre-0",
+      "name": "spectre 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/rolls-royce/spectre/rr25-2023-now.webp"
+      }
+    }
+  ]
+}

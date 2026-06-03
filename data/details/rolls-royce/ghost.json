@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "rolls-royce",
+    "name": "ROLLS-ROYCE"
+  },
+  "slug": "ghost",
+  "name": "ghost",
+  "generations": [
+    {
+      "slug": "ghost-0",
+      "name": "ghost 1",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/rolls-royce/ghost/rr04-2009-2014.webp"
+      }
+    },
+    {
+      "slug": "ghost-1",
+      "name": "ghost 2",
+      "year_start": 2014,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/rolls-royce/ghost/rr04-2014-2020.webp"
+      }
+    },
+    {
+      "slug": "ghost-2",
+      "name": "ghost 3",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/rolls-royce/ghost/rr21-2020-2025.webp"
+      }
+    },
+    {
+      "slug": "ghost-3",
+      "name": "ghost 4",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/rolls-royce/ghost/rr21-2025-now.webp"
+      }
+    }
+  ]
+}

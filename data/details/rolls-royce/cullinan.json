@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "rolls-royce",
+    "name": "ROLLS-ROYCE"
+  },
+  "slug": "cullinan",
+  "name": "cullinan",
+  "generations": [
+    {
+      "slug": "cullinan-0",
+      "name": "cullinan 1",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/rolls-royce/cullinan/rr31-2018-2024.webp"
+      }
+    },
+    {
+      "slug": "cullinan-1",
+      "name": "cullinan 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/rolls-royce/cullinan/rr31-2024-now.webp"
+      }
+    }
+  ]
+}

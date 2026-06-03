@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "rolls-royce",
+    "name": "ROLLS-ROYCE"
+  },
+  "slug": "wraith",
+  "name": "wraith",
+  "generations": [
+    {
+      "slug": "wraith-0",
+      "name": "wraith 1",
+      "year_start": 2013,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/rolls-royce/wraith/2013-2023.webp"
+      }
+    }
+  ]
+}
