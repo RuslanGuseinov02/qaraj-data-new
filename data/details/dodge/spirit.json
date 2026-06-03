@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "spirit",
+  "name": "spirit",
+  "generations": [
+    {
+      "slug": "spirit-0",
+      "name": "spirit 1",
+      "year_start": 1988,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/spirit/aa-body-1988-1995.webp"
+      }
+    }
+  ]
+}

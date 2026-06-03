@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "grand-caravan",
+  "name": "grand-caravan",
+  "generations": [
+    {
+      "slug": "grand-caravan-0",
+      "name": "grand-caravan 1",
+      "year_start": 1991,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/grand-caravan/as-1991-1995.webp"
+      }
+    },
+    {
+      "slug": "grand-caravan-1",
+      "name": "grand-caravan 2",
+      "year_start": 1996,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/grand-caravan/ns-1996-2000.webp"
+      }
+    },
+    {
+      "slug": "grand-caravan-2",
+      "name": "grand-caravan 3",
+      "year_start": 2001,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/grand-caravan/rs-2001-2007.webp"
+      }
+    },
+    {
+      "slug": "grand-caravan-3",
+      "name": "grand-caravan 4",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/grand-caravan/rs-2007-2012.webp"
+      }
+    },
+    {
+      "slug": "grand-caravan-4",
+      "name": "grand-caravan 5",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/grand-caravan/rt-2008-2010.webp"
+      }
+    },
+    {
+      "slug": "grand-caravan-5",
+      "name": "grand-caravan 6",
+      "year_start": 2011,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/grand-caravan/rt-2011-2020.webp"
+      }
+    },
+    {
+      "slug": "grand-caravan-6",
+      "name": "grand-caravan 7",
+      "year_start": 1987,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/grand-caravan/s-1987-1990.webp"
+      }
+    }
+  ]
+}

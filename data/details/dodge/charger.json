@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "charger",
+  "name": "charger",
+  "generations": [
+    {
+      "slug": "charger-0",
+      "name": "charger 1",
+      "year_start": 1966,
+      "year_end": 1967,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/charger/b-body-1966-1967.webp"
+      }
+    },
+    {
+      "slug": "charger-1",
+      "name": "charger 2",
+      "year_start": 1968,
+      "year_end": 1970,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/charger/b-body-1968-1970.webp"
+      }
+    },
+    {
+      "slug": "charger-2",
+      "name": "charger 3",
+      "year_start": 1971,
+      "year_end": 1974,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/charger/b-body-1971-1974.webp"
+      }
+    },
+    {
+      "slug": "charger-3",
+      "name": "charger 4",
+      "year_start": 1975,
+      "year_end": 1978,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/charger/b-body-1975-1978.webp"
+      }
+    },
+    {
+      "slug": "charger-4",
+      "name": "charger 5",
+      "year_start": 1982,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/charger/l-body-1982-1987.webp"
+      }
+    },
+    {
+      "slug": "charger-5",
+      "name": "charger 6",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/charger/lb-2024-now.webp"
+      }
+    },
+    {
+      "slug": "charger-6",
+      "name": "charger 7",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/charger/ld-2011-2014.webp"
+      }
+    },
+    {
+      "slug": "charger-7",
+      "name": "charger 8",
+      "year_start": 2015,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/charger/ld-2015-2024.webp"
+      }
+    },
+    {
+      "slug": "charger-8",
+      "name": "charger 9",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/charger/lx-2005-2010.webp"
+      }
+    }
+  ]
+}

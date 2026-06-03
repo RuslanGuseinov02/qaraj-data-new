@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "royal-monaco",
+  "name": "royal-monaco",
+  "generations": [
+    {
+      "slug": "royal-monaco-0",
+      "name": "royal-monaco 1",
+      "year_start": 1975,
+      "year_end": 1977,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/royal-monaco/c-body-1975-1977.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "avenger",
+  "name": "avenger",
+  "generations": [
+    {
+      "slug": "avenger-0",
+      "name": "avenger 1",
+      "year_start": 1994,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/avenger/fj-1994-2000.webp"
+      }
+    },
+    {
+      "slug": "avenger-1",
+      "name": "avenger 2",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/avenger/js-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "avenger-2",
+      "name": "avenger 3",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/avenger/js-2011-2014.webp"
+      }
+    }
+  ]
+}

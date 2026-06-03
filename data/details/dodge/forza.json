@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "forza",
+  "name": "forza",
+  "generations": [
+    {
+      "slug": "forza-0",
+      "name": "forza 1",
+      "year_start": 2013,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/forza/2013-2020.webp"
+      }
+    }
+  ]
+}

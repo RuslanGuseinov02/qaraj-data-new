@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "magnum-srt-8",
+  "name": "magnum-srt-8",
+  "generations": [
+    {
+      "slug": "magnum-srt-8-0",
+      "name": "magnum-srt-8 1",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/magnum-srt-8/lx1-2006-2009.webp"
+      }
+    }
+  ]
+}

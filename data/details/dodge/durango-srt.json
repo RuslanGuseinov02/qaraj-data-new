@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "durango-srt",
+  "name": "durango-srt",
+  "generations": [
+    {
+      "slug": "durango-srt-0",
+      "name": "durango-srt 1",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/durango-srt/wd-2018-2020.webp"
+      }
+    },
+    {
+      "slug": "durango-srt-1",
+      "name": "durango-srt 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/durango-srt/wd-2021-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "journey",
+  "name": "journey",
+  "generations": [
+    {
+      "slug": "journey-0",
+      "name": "journey 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/journey/2021-now.webp"
+      }
+    },
+    {
+      "slug": "journey-1",
+      "name": "journey 2",
+      "year_start": 2008,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/journey/jc49-2008-2020.webp"
+      }
+    }
+  ]
+}

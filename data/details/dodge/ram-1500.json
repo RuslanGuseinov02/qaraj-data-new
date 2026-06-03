@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "ram-1500",
+  "name": "ram-1500",
+  "generations": [
+    {
+      "slug": "ram-1500-0",
+      "name": "ram-1500 1",
+      "year_start": 1994,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/ram-1500/br-be-1994-2001.webp"
+      }
+    },
+    {
+      "slug": "ram-1500-1",
+      "name": "ram-1500 2",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/ram-1500/dr-dh-2002-2005.webp"
+      }
+    },
+    {
+      "slug": "ram-1500-2",
+      "name": "ram-1500 3",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/ram-1500/dr-dh-2006-2008.webp"
+      }
+    },
+    {
+      "slug": "ram-1500-3",
+      "name": "ram-1500 4",
+      "year_start": 2009,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/ram-1500/ds-dj-2009-2010.webp"
+      }
+    }
+  ]
+}

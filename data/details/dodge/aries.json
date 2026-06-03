@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "aries",
+  "name": "aries",
+  "generations": [
+    {
+      "slug": "aries-0",
+      "name": "aries 1",
+      "year_start": 1981,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/aries/k-body-1981-1989.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "caliber",
+  "name": "caliber",
+  "generations": [
+    {
+      "slug": "caliber-0",
+      "name": "caliber 1",
+      "year_start": 2006,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/caliber/pm-2006-2012.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "charger-srt",
+  "name": "charger-srt",
+  "generations": [
+    {
+      "slug": "charger-srt-0",
+      "name": "charger-srt 1",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/charger-srt/ld-2011-2014.webp"
+      }
+    },
+    {
+      "slug": "charger-srt-1",
+      "name": "charger-srt 2",
+      "year_start": 2015,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/charger-srt/ld-2015-2024.webp"
+      }
+    },
+    {
+      "slug": "charger-srt-2",
+      "name": "charger-srt 3",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/charger-srt/lx-2005-2010.webp"
+      }
+    }
+  ]
+}

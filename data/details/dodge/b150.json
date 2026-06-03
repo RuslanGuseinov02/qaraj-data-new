@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "b150",
+  "name": "b150",
+  "generations": [
+    {
+      "slug": "b150-0",
+      "name": "b150 1",
+      "year_start": 1981,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/b150/1981-1994.webp"
+      }
+    }
+  ]
+}

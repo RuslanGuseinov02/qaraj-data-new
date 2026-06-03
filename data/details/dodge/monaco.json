@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "monaco",
+  "name": "monaco",
+  "generations": [
+    {
+      "slug": "monaco-0",
+      "name": "monaco 1",
+      "year_start": 1990,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/monaco/b-body-1990-1992.webp"
+      }
+    },
+    {
+      "slug": "monaco-1",
+      "name": "monaco 2",
+      "year_start": 1974,
+      "year_end": 1976,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/monaco/c-body-1974-1976.webp"
+      }
+    },
+    {
+      "slug": "monaco-2",
+      "name": "monaco 3",
+      "year_start": 1977,
+      "year_end": 1978,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/monaco/c-body-1977-1978.webp"
+      }
+    }
+  ]
+}

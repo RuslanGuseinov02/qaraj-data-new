@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "intrepid",
+  "name": "intrepid",
+  "generations": [
+    {
+      "slug": "intrepid-0",
+      "name": "intrepid 1",
+      "year_start": 1993,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/intrepid/lh-1993-1997.webp"
+      }
+    },
+    {
+      "slug": "intrepid-1",
+      "name": "intrepid 2",
+      "year_start": 1998,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/intrepid/lhs-1998-2004.webp"
+      }
+    }
+  ]
+}

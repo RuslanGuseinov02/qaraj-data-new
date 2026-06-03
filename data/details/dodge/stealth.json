@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "stealth",
+  "name": "stealth",
+  "generations": [
+    {
+      "slug": "stealth-0",
+      "name": "stealth 1",
+      "year_start": 1990,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/stealth/z15-z16-1990-1997.webp"
+      }
+    }
+  ]
+}

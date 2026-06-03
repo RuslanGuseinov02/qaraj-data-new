@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "caravan",
+  "name": "caravan",
+  "generations": [
+    {
+      "slug": "caravan-0",
+      "name": "caravan 1",
+      "year_start": 1991,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/caravan/as-1991-1995.webp"
+      }
+    },
+    {
+      "slug": "caravan-1",
+      "name": "caravan 2",
+      "year_start": 1996,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/caravan/ns-1996-2000.webp"
+      }
+    },
+    {
+      "slug": "caravan-2",
+      "name": "caravan 3",
+      "year_start": 2001,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/caravan/rs-2001-2007.webp"
+      }
+    },
+    {
+      "slug": "caravan-3",
+      "name": "caravan 4",
+      "year_start": 1984,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/caravan/s-1984-1990.webp"
+      }
+    }
+  ]
+}

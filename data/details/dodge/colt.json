@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "colt",
+  "name": "colt",
+  "generations": [
+    {
+      "slug": "colt-0",
+      "name": "colt 1",
+      "year_start": 1989,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/colt/1989-1992.webp"
+      }
+    },
+    {
+      "slug": "colt-1",
+      "name": "colt 2",
+      "year_start": 1993,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/colt/1993-1995.webp"
+      }
+    }
+  ]
+}

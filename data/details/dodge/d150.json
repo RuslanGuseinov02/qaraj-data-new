@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "d150",
+  "name": "d150",
+  "generations": [
+    {
+      "slug": "d150-0",
+      "name": "d150 1",
+      "year_start": 1961,
+      "year_end": 1965,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/d150/ad-1961-1965.webp"
+      }
+    },
+    {
+      "slug": "d150-1",
+      "name": "d150 2",
+      "year_start": 1966,
+      "year_end": 1971,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/d150/ad-1966-1971.webp"
+      }
+    },
+    {
+      "slug": "d150-2",
+      "name": "d150 3",
+      "year_start": 1972,
+      "year_end": 1980,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/d150/ad-1972-1980.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "durango",
+  "name": "durango",
+  "generations": [
+    {
+      "slug": "durango-0",
+      "name": "durango 1",
+      "year_start": 1997,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/durango/dn-1997-2003.webp"
+      }
+    },
+    {
+      "slug": "durango-1",
+      "name": "durango 2",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/durango/hb-2004-2010.webp"
+      }
+    },
+    {
+      "slug": "durango-2",
+      "name": "durango 3",
+      "year_start": 2011,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/durango/wd-2011-2020.webp"
+      }
+    },
+    {
+      "slug": "durango-3",
+      "name": "durango 4",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/durango/wd-2020-now.webp"
+      }
+    }
+  ]
+}

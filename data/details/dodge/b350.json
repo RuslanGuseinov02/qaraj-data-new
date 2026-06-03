@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "b350",
+  "name": "b350",
+  "generations": [
+    {
+      "slug": "b350-0",
+      "name": "b350 1",
+      "year_start": 1981,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/b350/1981-1994.webp"
+      }
+    }
+  ]
+}

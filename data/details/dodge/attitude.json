@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "attitude",
+  "name": "attitude",
+  "generations": [
+    {
+      "slug": "attitude-0",
+      "name": "attitude 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/attitude/2025-now.webp"
+      }
+    },
+    {
+      "slug": "attitude-1",
+      "name": "attitude 2",
+      "year_start": 2015,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/attitude/a10-2015-2025.webp"
+      }
+    }
+  ]
+}

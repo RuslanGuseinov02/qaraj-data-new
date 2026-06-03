@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "challenger",
+  "name": "challenger",
+  "generations": [
+    {
+      "slug": "challenger-0",
+      "name": "challenger 1",
+      "year_start": 1970,
+      "year_end": 1974,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/challenger/e-body-1970-1974.webp"
+      }
+    },
+    {
+      "slug": "challenger-1",
+      "name": "challenger 2",
+      "year_start": 1978,
+      "year_end": 1983,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/challenger/jt-1978-1983.webp"
+      }
+    },
+    {
+      "slug": "challenger-2",
+      "name": "challenger 3",
+      "year_start": 2008,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/challenger/lc-2008-2024.webp"
+      }
+    }
+  ]
+}

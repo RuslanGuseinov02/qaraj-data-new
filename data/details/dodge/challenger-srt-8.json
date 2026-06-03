@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "challenger-srt-8",
+  "name": "challenger-srt-8",
+  "generations": [
+    {
+      "slug": "challenger-srt-8-0",
+      "name": "challenger-srt-8 1",
+      "year_start": 2008,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/challenger-srt-8/lc-2008-2024.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "ram-srt-10",
+  "name": "ram-srt-10",
+  "generations": [
+    {
+      "slug": "ram-srt-10-0",
+      "name": "ram-srt-10 1",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/ram-srt-10/dr-dh-2004-2006.webp"
+      }
+    }
+  ]
+}

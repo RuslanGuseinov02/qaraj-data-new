@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "nitro",
+  "name": "nitro",
+  "generations": [
+    {
+      "slug": "nitro-0",
+      "name": "nitro 1",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/nitro/kj-2007-2012.webp"
+      }
+    }
+  ]
+}

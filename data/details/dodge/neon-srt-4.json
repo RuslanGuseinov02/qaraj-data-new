@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "neon-srt-4",
+  "name": "neon-srt-4",
+  "generations": [
+    {
+      "slug": "neon-srt-4-0",
+      "name": "neon-srt-4 1",
+      "year_start": 2003,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/neon-srt-4/pl-2003-2005.webp"
+      }
+    }
+  ]
+}

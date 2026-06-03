@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "neon",
+  "name": "neon",
+  "generations": [
+    {
+      "slug": "neon-0",
+      "name": "neon 1",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/neon/1995-1999.webp"
+      }
+    },
+    {
+      "slug": "neon-1",
+      "name": "neon 2",
+      "year_start": 2000,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/neon/2000-2005.webp"
+      }
+    },
+    {
+      "slug": "neon-2",
+      "name": "neon 3",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/neon/2016-2020.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dodge",
+    "name": "DODGE"
+  },
+  "slug": "jc",
+  "name": "jc",
+  "generations": [
+    {
+      "slug": "jc-0",
+      "name": "jc 1",
+      "year_start": 2009,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dodge/jc/2009-2011.webp"
+      }
+    }
+  ]
+}
