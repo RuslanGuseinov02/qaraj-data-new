@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ora",
+    "name": "ORA"
+  },
+  "slug": "black-cat",
+  "name": "black-cat",
+  "generations": [
+    {
+      "slug": "black-cat-0",
+      "name": "black-cat 1",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ora/black-cat/r1-2019-2023.webp"
+      }
+    }
+  ]
+}

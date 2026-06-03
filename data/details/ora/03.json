@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ora",
+    "name": "ORA"
+  },
+  "slug": "03",
+  "name": "03",
+  "generations": [
+    {
+      "slug": "03-0",
+      "name": "03 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ora/03/es11-2023-now.webp"
+      }
+    }
+  ]
+}

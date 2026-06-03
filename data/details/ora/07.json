@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ora",
+    "name": "ORA"
+  },
+  "slug": "07",
+  "name": "07",
+  "generations": [
+    {
+      "slug": "07-0",
+      "name": "07 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ora/07/ec24-2023-now.webp"
+      }
+    }
+  ]
+}

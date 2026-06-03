@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ora",
+    "name": "ORA"
+  },
+  "slug": "ballet-cat",
+  "name": "ballet-cat",
+  "generations": [
+    {
+      "slug": "ballet-cat-0",
+      "name": "ballet-cat 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ora/ballet-cat/es13-2022-now.webp"
+      }
+    }
+  ]
+}

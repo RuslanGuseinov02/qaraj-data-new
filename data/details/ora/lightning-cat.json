@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ora",
+    "name": "ORA"
+  },
+  "slug": "lightning-cat",
+  "name": "lightning-cat",
+  "generations": [
+    {
+      "slug": "lightning-cat-0",
+      "name": "lightning-cat 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ora/lightning-cat/ec24-2022-now.webp"
+      }
+    }
+  ]
+}

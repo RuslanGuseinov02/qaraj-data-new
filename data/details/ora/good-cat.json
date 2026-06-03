@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ora",
+    "name": "ORA"
+  },
+  "slug": "good-cat",
+  "name": "good-cat",
+  "generations": [
+    {
+      "slug": "good-cat-0",
+      "name": "good-cat 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ora/good-cat/es11-2020-now.webp"
+      }
+    }
+  ]
+}

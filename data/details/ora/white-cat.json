@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ora",
+    "name": "ORA"
+  },
+  "slug": "white-cat",
+  "name": "white-cat",
+  "generations": [
+    {
+      "slug": "white-cat-0",
+      "name": "white-cat 1",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ora/white-cat/r2-2019-2021.webp"
+      }
+    },
+    {
+      "slug": "white-cat-1",
+      "name": "white-cat 2",
+      "year_start": 2021,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ora/white-cat/r2-2021-2023.webp"
+      }
+    }
+  ]
+}
