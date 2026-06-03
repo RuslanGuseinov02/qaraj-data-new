@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "swm",
+    "name": "SWM"
+  },
+  "slug": "x3",
+  "name": "x3",
+  "generations": [
+    {
+      "slug": "x3-0",
+      "name": "x3 1",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/swm/x3/2017-2023.webp"
+      }
+    }
+  ]
+}

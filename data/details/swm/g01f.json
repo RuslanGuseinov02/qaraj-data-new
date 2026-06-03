@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "swm",
+    "name": "SWM"
+  },
+  "slug": "g01f",
+  "name": "g01f",
+  "generations": [
+    {
+      "slug": "g01f-0",
+      "name": "g01f 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/swm/g01f/2018-now.webp"
+      }
+    }
+  ]
+}
