@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "keyton",
+    "name": "KEYTON"
+  },
+  "slug": "n50",
+  "name": "n50",
+  "generations": [
+    {
+      "slug": "n50-0",
+      "name": "n50 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/keyton/n50/2020-now.webp"
+      }
+    },
+    {
+      "slug": "n50-1",
+      "name": "n50 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/keyton/n50/2024-now.webp"
+      }
+    }
+  ]
+}

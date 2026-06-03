@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "keyton",
+    "name": "KEYTON"
+  },
+  "slug": "m70",
+  "name": "m70",
+  "generations": [
+    {
+      "slug": "m70-0",
+      "name": "m70 1",
+      "year_start": 2014,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/keyton/m70/2014-now.webp"
+      }
+    },
+    {
+      "slug": "m70-1",
+      "name": "m70 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/keyton/m70/2024-now.webp"
+      }
+    }
+  ]
+}

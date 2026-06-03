@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "keyton",
+    "name": "KEYTON"
+  },
+  "slug": "ex80",
+  "name": "ex80",
+  "generations": [
+    {
+      "slug": "ex80-0",
+      "name": "ex80 1",
+      "year_start": 2015,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/keyton/ex80/2015-2023.webp"
+      }
+    },
+    {
+      "slug": "ex80-1",
+      "name": "ex80 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/keyton/ex80/2024-now.webp"
+      }
+    }
+  ]
+}

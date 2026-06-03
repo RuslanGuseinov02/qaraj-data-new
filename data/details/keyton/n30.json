@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "keyton",
+    "name": "KEYTON"
+  },
+  "slug": "n30",
+  "name": "n30",
+  "generations": [
+    {
+      "slug": "n30-0",
+      "name": "n30 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/keyton/n30/2021-now.webp"
+      }
+    }
+  ]
+}

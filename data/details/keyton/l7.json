@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "keyton",
+    "name": "KEYTON"
+  },
+  "slug": "l7",
+  "name": "l7",
+  "generations": [
+    {
+      "slug": "l7-0",
+      "name": "l7 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/keyton/l7/2021-now.webp"
+      }
+    }
+  ]
+}

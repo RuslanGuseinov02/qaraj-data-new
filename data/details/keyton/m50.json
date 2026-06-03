@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "keyton",
+    "name": "KEYTON"
+  },
+  "slug": "m50",
+  "name": "m50",
+  "generations": [
+    {
+      "slug": "m50-0",
+      "name": "m50 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/keyton/m50/2021-now.webp"
+      }
+    }
+  ]
+}

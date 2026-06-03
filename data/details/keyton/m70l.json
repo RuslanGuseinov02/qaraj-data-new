@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "keyton",
+    "name": "KEYTON"
+  },
+  "slug": "m70l",
+  "name": "m70l",
+  "generations": [
+    {
+      "slug": "m70l-0",
+      "name": "m70l 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/keyton/m70l/2024-now.webp"
+      }
+    }
+  ]
+}
