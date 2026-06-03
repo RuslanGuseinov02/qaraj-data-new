@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "tank",
+    "name": "TANK"
+  },
+  "slug": "500",
+  "name": "500",
+  "generations": [
+    {
+      "slug": "500-0",
+      "name": "500 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tank/500/2022-now.webp"
+      }
+    }
+  ]
+}
