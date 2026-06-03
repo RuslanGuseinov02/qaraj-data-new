@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "datsun",
+    "name": "DATSUN"
+  },
+  "slug": "240z",
+  "name": "240z",
+  "generations": [
+    {
+      "slug": "240z-0",
+      "name": "240z 1",
+      "year_start": 1969,
+      "year_end": 1973,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/datsun/240z/s30-1969-1973.webp"
+      }
+    }
+  ]
+}

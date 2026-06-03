@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "datsun",
+    "name": "DATSUN"
+  },
+  "slug": "260z",
+  "name": "260z",
+  "generations": [
+    {
+      "slug": "260z-0",
+      "name": "260z 1",
+      "year_start": 1974,
+      "year_end": 1978,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/datsun/260z/s30-1974-1978.webp"
+      }
+    }
+  ]
+}

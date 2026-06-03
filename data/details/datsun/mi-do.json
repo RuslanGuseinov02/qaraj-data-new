@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "datsun",
+    "name": "DATSUN"
+  },
+  "slug": "mi-do",
+  "name": "mi-do",
+  "generations": [
+    {
+      "slug": "mi-do-0",
+      "name": "mi-do 1",
+      "year_start": 2014,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/datsun/mi-do/2014-2021.webp"
+      }
+    }
+  ]
+}

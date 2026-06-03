@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "datsun",
+    "name": "DATSUN"
+  },
+  "slug": "go",
+  "name": "go",
+  "generations": [
+    {
+      "slug": "go-0",
+      "name": "go 1",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/datsun/go/2014-2018.webp"
+      }
+    },
+    {
+      "slug": "go-1",
+      "name": "go 2",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/datsun/go/2019-2022.webp"
+      }
+    }
+  ]
+}

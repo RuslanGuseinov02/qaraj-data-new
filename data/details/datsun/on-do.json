@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "datsun",
+    "name": "DATSUN"
+  },
+  "slug": "on-do",
+  "name": "on-do",
+  "generations": [
+    {
+      "slug": "on-do-0",
+      "name": "on-do 1",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/datsun/on-do/2014-2019.webp"
+      }
+    },
+    {
+      "slug": "on-do-1",
+      "name": "on-do 2",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/datsun/on-do/2019-2021.webp"
+      }
+    }
+  ]
+}
