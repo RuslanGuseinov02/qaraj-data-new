@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "gac",
+    "name": "GAC"
+  },
+  "slug": "trumpchi-gs5-sport",
+  "name": "trumpchi-gs5-sport",
+  "generations": [
+    {
+      "slug": "trumpchi-gs5-sport-0",
+      "name": "trumpchi-gs5-sport 1",
+      "year_start": 2015,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gac/trumpchi-gs5-sport/2015-2015.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "gac",
+    "name": "GAC"
+  },
+  "slug": "trumpchi-gs5",
+  "name": "trumpchi-gs5",
+  "generations": [
+    {
+      "slug": "trumpchi-gs5-0",
+      "name": "trumpchi-gs5 1",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gac/trumpchi-gs5/2011-2017.webp"
+      }
+    },
+    {
+      "slug": "trumpchi-gs5-1",
+      "name": "trumpchi-gs5 2",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gac/trumpchi-gs5/2018-2024.webp"
+      }
+    }
+  ]
+}

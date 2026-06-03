@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "gac",
+    "name": "GAC"
+  },
+  "slug": "m6-pro",
+  "name": "m6-pro",
+  "generations": [
+    {
+      "slug": "m6-pro-0",
+      "name": "m6-pro 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gac/m6-pro/2021-now.webp"
+      }
+    }
+  ]
+}

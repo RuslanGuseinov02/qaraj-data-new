@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "gac",
+    "name": "GAC"
+  },
+  "slug": "gn8",
+  "name": "gn8",
+  "generations": [
+    {
+      "slug": "gn8-0",
+      "name": "gn8 1",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gac/gn8/2020-2024.webp"
+      }
+    },
+    {
+      "slug": "gn8-1",
+      "name": "gn8 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gac/gn8/2024-now.webp"
+      }
+    }
+  ]
+}

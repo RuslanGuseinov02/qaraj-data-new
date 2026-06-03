@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "gac",
+    "name": "GAC"
+  },
+  "slug": "empow",
+  "name": "empow",
+  "generations": [
+    {
+      "slug": "empow-0",
+      "name": "empow 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gac/empow/2021-now.webp"
+      }
+    }
+  ]
+}

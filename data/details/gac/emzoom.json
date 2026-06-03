@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "gac",
+    "name": "GAC"
+  },
+  "slug": "emzoom",
+  "name": "emzoom",
+  "generations": [
+    {
+      "slug": "emzoom-0",
+      "name": "emzoom 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gac/emzoom/2023-now.webp"
+      }
+    }
+  ]
+}

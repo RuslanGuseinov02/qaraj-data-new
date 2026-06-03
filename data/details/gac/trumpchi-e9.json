@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "gac",
+    "name": "GAC"
+  },
+  "slug": "trumpchi-e9",
+  "name": "trumpchi-e9",
+  "generations": [
+    {
+      "slug": "trumpchi-e9-0",
+      "name": "trumpchi-e9 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gac/trumpchi-e9/2023-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "gac",
+    "name": "GAC"
+  },
+  "slug": "trumpchi-ga5",
+  "name": "trumpchi-ga5",
+  "generations": [
+    {
+      "slug": "trumpchi-ga5-0",
+      "name": "trumpchi-ga5 1",
+      "year_start": 2011,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gac/trumpchi-ga5/2011-2018.webp"
+      }
+    }
+  ]
+}

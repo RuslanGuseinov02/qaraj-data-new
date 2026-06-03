@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "gac",
+    "name": "GAC"
+  },
+  "slug": "ga4-plus",
+  "name": "ga4-plus",
+  "generations": [
+    {
+      "slug": "ga4-plus-0",
+      "name": "ga4-plus 1",
+      "year_start": 2021,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gac/ga4-plus/2021-2022.webp"
+      }
+    }
+  ]
+}

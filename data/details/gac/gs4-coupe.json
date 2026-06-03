@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "gac",
+    "name": "GAC"
+  },
+  "slug": "gs4-coupe",
+  "name": "gs4-coupe",
+  "generations": [
+    {
+      "slug": "gs4-coupe-0",
+      "name": "gs4-coupe 1",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gac/gs4-coupe/2020-2022.webp"
+      }
+    }
+  ]
+}
