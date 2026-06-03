@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "glk-class",
+  "name": "glk-class",
+  "generations": [
+    {
+      "slug": "glk-class-0",
+      "name": "glk-class 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/glk-class/x204-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "glk-class-1",
+      "name": "glk-class 2",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/glk-class/x204-2012-2015.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "r-class-amg",
+  "name": "r-class-amg",
+  "generations": [
+    {
+      "slug": "r-class-amg-0",
+      "name": "r-class-amg 1",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/r-class-amg/w251-2006-2010.webp"
+      }
+    },
+    {
+      "slug": "r-class-amg-1",
+      "name": "r-class-amg 2",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/r-class-amg/w251-2011-2015.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "slc-class",
+  "name": "slc-class",
+  "generations": [
+    {
+      "slug": "slc-class-0",
+      "name": "slc-class 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/slc-class/r172-2016-2020.webp"
+      }
+    }
+  ]
+}

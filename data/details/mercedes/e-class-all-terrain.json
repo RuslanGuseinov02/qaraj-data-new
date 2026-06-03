@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "e-class-all-terrain",
+  "name": "e-class-all-terrain",
+  "generations": [
+    {
+      "slug": "e-class-all-terrain-0",
+      "name": "e-class-all-terrain 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/e-class-all-terrain/s213-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "e-class-all-terrain-1",
+      "name": "e-class-all-terrain 2",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/e-class-all-terrain/s213-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "e-class-all-terrain-2",
+      "name": "e-class-all-terrain 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/e-class-all-terrain/s214-2023-now.webp"
+      }
+    }
+  ]
+}

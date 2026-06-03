@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "eqe-suv-amg",
+  "name": "eqe-suv-amg",
+  "generations": [
+    {
+      "slug": "eqe-suv-amg-0",
+      "name": "eqe-suv-amg 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/eqe-suv-amg/x294-2023-now.webp"
+      }
+    }
+  ]
+}

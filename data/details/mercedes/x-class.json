@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "x-class",
+  "name": "x-class",
+  "generations": [
+    {
+      "slug": "x-class-0",
+      "name": "x-class 1",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/x-class/d23-2017-2022.webp"
+      }
+    }
+  ]
+}

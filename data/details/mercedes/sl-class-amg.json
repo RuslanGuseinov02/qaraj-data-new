@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "sl-class-amg",
+  "name": "sl-class-amg",
+  "generations": [
+    {
+      "slug": "sl-class-amg-0",
+      "name": "sl-class-amg 1",
+      "year_start": 2001,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/sl-class-amg/r230-2001-2006.webp"
+      }
+    },
+    {
+      "slug": "sl-class-amg-1",
+      "name": "sl-class-amg 2",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/sl-class-amg/r230-2006-2008.webp"
+      }
+    },
+    {
+      "slug": "sl-class-amg-2",
+      "name": "sl-class-amg 3",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/sl-class-amg/r230-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "sl-class-amg-3",
+      "name": "sl-class-amg 4",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/sl-class-amg/r231-2012-2016.webp"
+      }
+    },
+    {
+      "slug": "sl-class-amg-4",
+      "name": "sl-class-amg 5",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/sl-class-amg/r231-2016-2019.webp"
+      }
+    },
+    {
+      "slug": "sl-class-amg-5",
+      "name": "sl-class-amg 6",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/sl-class-amg/r232-2022-now.webp"
+      }
+    }
+  ]
+}

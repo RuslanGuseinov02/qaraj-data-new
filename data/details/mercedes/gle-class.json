@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "gle-class",
+  "name": "gle-class",
+  "generations": [
+    {
+      "slug": "gle-class-0",
+      "name": "gle-class 1",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/gle-class/v167-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "gle-class-1",
+      "name": "gle-class 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/gle-class/v167-2023-now.webp"
+      }
+    },
+    {
+      "slug": "gle-class-2",
+      "name": "gle-class 3",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/gle-class/w166-2015-2019.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "t1",
+  "name": "t1",
+  "generations": [
+    {
+      "slug": "t1-0",
+      "name": "t1 1",
+      "year_start": 1977,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/t1/w601-w602-w611-1977-1996.webp"
+      }
+    }
+  ]
+}

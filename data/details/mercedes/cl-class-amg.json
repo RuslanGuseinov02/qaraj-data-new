@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "cl-class-amg",
+  "name": "cl-class-amg",
+  "generations": [
+    {
+      "slug": "cl-class-amg-0",
+      "name": "cl-class-amg 1",
+      "year_start": 1994,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cl-class-amg/c140-1994-1999.webp"
+      }
+    },
+    {
+      "slug": "cl-class-amg-1",
+      "name": "cl-class-amg 2",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cl-class-amg/c215-2000-2006.webp"
+      }
+    },
+    {
+      "slug": "cl-class-amg-2",
+      "name": "cl-class-amg 3",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cl-class-amg/c216-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "cl-class-amg-3",
+      "name": "cl-class-amg 4",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cl-class-amg/c216-2010-2014.webp"
+      }
+    }
+  ]
+}

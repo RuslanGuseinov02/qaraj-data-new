@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "gl-class",
+  "name": "gl-class",
+  "generations": [
+    {
+      "slug": "gl-class-0",
+      "name": "gl-class 1",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/gl-class/x164-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "gl-class-1",
+      "name": "gl-class 2",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/gl-class/x164-2009-2012.webp"
+      }
+    },
+    {
+      "slug": "gl-class-2",
+      "name": "gl-class 3",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/gl-class/x166-2013-2016.webp"
+      }
+    }
+  ]
+}

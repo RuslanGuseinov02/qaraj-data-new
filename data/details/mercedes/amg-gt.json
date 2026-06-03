@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "amg-gt",
+  "name": "amg-gt",
+  "generations": [
+    {
+      "slug": "amg-gt-0",
+      "name": "amg-gt 1",
+      "year_start": 2014,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/amg-gt/br190-2014-2022.webp"
+      }
+    },
+    {
+      "slug": "amg-gt-1",
+      "name": "amg-gt 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/amg-gt/br192-2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "g-class",
+  "name": "g-class",
+  "generations": [
+    {
+      "slug": "g-class-0",
+      "name": "g-class 1",
+      "year_start": 1979,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/g-class/w460-1979-1990.webp"
+      }
+    },
+    {
+      "slug": "g-class-1",
+      "name": "g-class 2",
+      "year_start": 1990,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/g-class/w461-1990-1997.webp"
+      }
+    },
+    {
+      "slug": "g-class-2",
+      "name": "g-class 3",
+      "year_start": 1990,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/g-class/w463-1990-2008.webp"
+      }
+    },
+    {
+      "slug": "g-class-3",
+      "name": "g-class 4",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/g-class/w463-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "g-class-4",
+      "name": "g-class 5",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/g-class/w463-2012-2015.webp"
+      }
+    },
+    {
+      "slug": "g-class-5",
+      "name": "g-class 6",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/g-class/w463-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "g-class-6",
+      "name": "g-class 7",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/g-class/w463-2018-2024.webp"
+      }
+    },
+    {
+      "slug": "g-class-7",
+      "name": "g-class 8",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/g-class/w465-2024-now.webp"
+      }
+    }
+  ]
+}

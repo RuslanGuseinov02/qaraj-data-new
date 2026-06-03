@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "m-class",
+  "name": "m-class",
+  "generations": [
+    {
+      "slug": "m-class-0",
+      "name": "m-class 1",
+      "year_start": 1997,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/m-class/w163-1997-2005.webp"
+      }
+    },
+    {
+      "slug": "m-class-1",
+      "name": "m-class 2",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/m-class/w164-2005-2008.webp"
+      }
+    },
+    {
+      "slug": "m-class-2",
+      "name": "m-class 3",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/m-class/w164-2008-2011.webp"
+      }
+    },
+    {
+      "slug": "m-class-3",
+      "name": "m-class 4",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/m-class/w166-2012-2015.webp"
+      }
+    }
+  ]
+}

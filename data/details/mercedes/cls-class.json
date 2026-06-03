@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "cls-class",
+  "name": "cls-class",
+  "generations": [
+    {
+      "slug": "cls-class-0",
+      "name": "cls-class 1",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cls-class/br218-2010-2014.webp"
+      }
+    },
+    {
+      "slug": "cls-class-1",
+      "name": "cls-class 2",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cls-class/br218-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "cls-class-2",
+      "name": "cls-class 3",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cls-class/c219-2004-2008.webp"
+      }
+    },
+    {
+      "slug": "cls-class-3",
+      "name": "cls-class 4",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cls-class/c219-2008-2011.webp"
+      }
+    },
+    {
+      "slug": "cls-class-4",
+      "name": "cls-class 5",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cls-class/c257-2018-2022.webp"
+      }
+    },
+    {
+      "slug": "cls-class-5",
+      "name": "cls-class 6",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cls-class/c257-2021-2024.webp"
+      }
+    }
+  ]
+}

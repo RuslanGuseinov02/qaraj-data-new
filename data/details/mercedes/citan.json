@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "citan",
+  "name": "citan",
+  "generations": [
+    {
+      "slug": "citan-0",
+      "name": "citan 1",
+      "year_start": 2012,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/citan/w415-2012-2021.webp"
+      }
+    },
+    {
+      "slug": "citan-1",
+      "name": "citan 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/citan/w420-2021-now.webp"
+      }
+    }
+  ]
+}

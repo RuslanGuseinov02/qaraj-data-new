@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "cl-class",
+  "name": "cl-class",
+  "generations": [
+    {
+      "slug": "cl-class-0",
+      "name": "cl-class 1",
+      "year_start": 1996,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cl-class/c140-1996-1999.webp"
+      }
+    },
+    {
+      "slug": "cl-class-1",
+      "name": "cl-class 2",
+      "year_start": 1999,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cl-class/c215-1999-2006.webp"
+      }
+    },
+    {
+      "slug": "cl-class-2",
+      "name": "cl-class 3",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cl-class/c216-2006-2010.webp"
+      }
+    },
+    {
+      "slug": "cl-class-3",
+      "name": "cl-class 4",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cl-class/c216-2010-2014.webp"
+      }
+    }
+  ]
+}

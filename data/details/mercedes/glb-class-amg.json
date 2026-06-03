@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "glb-class-amg",
+  "name": "glb-class-amg",
+  "generations": [
+    {
+      "slug": "glb-class-amg-0",
+      "name": "glb-class-amg 1",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/glb-class-amg/x247-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "glb-class-amg-1",
+      "name": "glb-class-amg 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/glb-class-amg/x247-2023-now.webp"
+      }
+    }
+  ]
+}

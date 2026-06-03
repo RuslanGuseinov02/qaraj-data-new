@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "eqe-suv",
+  "name": "eqe-suv",
+  "generations": [
+    {
+      "slug": "eqe-suv-0",
+      "name": "eqe-suv 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/eqe-suv/x294-2022-now.webp"
+      }
+    }
+  ]
+}

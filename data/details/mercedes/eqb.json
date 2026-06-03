@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "eqb",
+  "name": "eqb",
+  "generations": [
+    {
+      "slug": "eqb-0",
+      "name": "eqb 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/eqb/x243-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "eqb-1",
+      "name": "eqb 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/eqb/x243-2024-now.webp"
+      }
+    }
+  ]
+}

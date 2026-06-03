@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "t2",
+  "name": "t2",
+  "generations": [
+    {
+      "slug": "t2-0",
+      "name": "t2 1",
+      "year_start": 1967,
+      "year_end": 1986,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/t2/1967-1986.webp"
+      }
+    },
+    {
+      "slug": "t2-1",
+      "name": "t2 2",
+      "year_start": 1986,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/t2/1986-1996.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "cla-class",
+  "name": "cla-class",
+  "generations": [
+    {
+      "slug": "cla-class-0",
+      "name": "cla-class 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cla-class/br117-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "cla-class-1",
+      "name": "cla-class 2",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cla-class/br117-2016-2019.webp"
+      }
+    },
+    {
+      "slug": "cla-class-2",
+      "name": "cla-class 3",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cla-class/br118-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "cla-class-3",
+      "name": "cla-class 4",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cla-class/br118-2023-now.webp"
+      }
+    },
+    {
+      "slug": "cla-class-4",
+      "name": "cla-class 5",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cla-class/br174-178-2025-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "clc-class",
+  "name": "clc-class",
+  "generations": [
+    {
+      "slug": "clc-class-0",
+      "name": "clc-class 1",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/clc-class/cl203-2008-2011.webp"
+      }
+    }
+  ]
+}

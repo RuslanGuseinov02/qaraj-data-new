@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "sprinter",
+  "name": "sprinter",
+  "generations": [
+    {
+      "slug": "sprinter-0",
+      "name": "sprinter 1",
+      "year_start": 2006,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/sprinter/ncv-3-w906-2006-2013.webp"
+      }
+    },
+    {
+      "slug": "sprinter-1",
+      "name": "sprinter 2",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/sprinter/ncv-3-w906-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "sprinter-2",
+      "name": "sprinter 3",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/sprinter/t1n-w901-905-1995-2000.webp"
+      }
+    },
+    {
+      "slug": "sprinter-3",
+      "name": "sprinter 4",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/sprinter/t1n-w901-905-2000-2006.webp"
+      }
+    },
+    {
+      "slug": "sprinter-4",
+      "name": "sprinter 5",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/sprinter/vs30-w907-910-2018-2022.webp"
+      }
+    },
+    {
+      "slug": "sprinter-5",
+      "name": "sprinter 6",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/sprinter/vs30-w907-910-2023-now.webp"
+      }
+    }
+  ]
+}

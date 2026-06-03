@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "amg-gt-4",
+  "name": "amg-gt-4",
+  "generations": [
+    {
+      "slug": "amg-gt-4-0",
+      "name": "amg-gt-4 1",
+      "year_start": 2018,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/amg-gt-4/x290-2018-2025.webp"
+      }
+    }
+  ]
+}

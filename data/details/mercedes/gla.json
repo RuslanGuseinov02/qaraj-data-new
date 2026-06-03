@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "gla",
+  "name": "gla",
+  "generations": [
+    {
+      "slug": "gla-0",
+      "name": "gla 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/gla/h247-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "gla-1",
+      "name": "gla 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/gla/h247-2023-now.webp"
+      }
+    },
+    {
+      "slug": "gla-2",
+      "name": "gla 3",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/gla/x156-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "gla-3",
+      "name": "gla 4",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/gla/x156-2017-2020.webp"
+      }
+    }
+  ]
+}

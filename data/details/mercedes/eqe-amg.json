@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "eqe-amg",
+  "name": "eqe-amg",
+  "generations": [
+    {
+      "slug": "eqe-amg-0",
+      "name": "eqe-amg 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/eqe-amg/v295-2022-now.webp"
+      }
+    }
+  ]
+}

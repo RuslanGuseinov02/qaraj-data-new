@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "cls-class-amg",
+  "name": "cls-class-amg",
+  "generations": [
+    {
+      "slug": "cls-class-amg-0",
+      "name": "cls-class-amg 1",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cls-class-amg/br218-2011-2014.webp"
+      }
+    },
+    {
+      "slug": "cls-class-amg-1",
+      "name": "cls-class-amg 2",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cls-class-amg/br218-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "cls-class-amg-2",
+      "name": "cls-class-amg 3",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cls-class-amg/c219-2004-2008.webp"
+      }
+    },
+    {
+      "slug": "cls-class-amg-3",
+      "name": "cls-class-amg 4",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cls-class-amg/c219-2008-2011.webp"
+      }
+    },
+    {
+      "slug": "cls-class-amg-4",
+      "name": "cls-class-amg 5",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cls-class-amg/c257-2018-2021.webp"
+      }
+    },
+    {
+      "slug": "cls-class-amg-5",
+      "name": "cls-class-amg 6",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cls-class-amg/c257-2021-2024.webp"
+      }
+    }
+  ]
+}

@@ -1,1 +1,60 @@
-sdad
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "a-class",
+  "name": "a-class",
+  "generations": [
+    {
+      "slug": "a-class-0",
+      "name": "a-class 1",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/a-class/br177-2018-2022.webp"
+      }
+    },
+    {
+      "slug": "a-class-1",
+      "name": "a-class 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/a-class/br177-2022-now.webp"
+      }
+    },
+    {
+      "slug": "a-class-2",
+      "name": "a-class 3",
+      "year_start": 1997,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/a-class/w168-1997-2004.webp"
+      }
+    },
+    {
+      "slug": "a-class-3",
+      "name": "a-class 4",
+      "year_start": 2005,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/a-class/w169-2005-2012.webp"
+      }
+    },
+    {
+      "slug": "a-class-4",
+      "name": "a-class 5",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/a-class/w176-2013-2017.webp"
+      }
+    }
+  ]
+}

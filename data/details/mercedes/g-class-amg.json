@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "g-class-amg",
+  "name": "g-class-amg",
+  "generations": [
+    {
+      "slug": "g-class-amg-0",
+      "name": "g-class-amg 1",
+      "year_start": 1999,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/g-class-amg/w463-1999-2008.webp"
+      }
+    },
+    {
+      "slug": "g-class-amg-1",
+      "name": "g-class-amg 2",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/g-class-amg/w463-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "g-class-amg-2",
+      "name": "g-class-amg 3",
+      "year_start": 2012,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/g-class-amg/w463-2012-2018.webp"
+      }
+    },
+    {
+      "slug": "g-class-amg-3",
+      "name": "g-class-amg 4",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/g-class-amg/w463-2018-2024.webp"
+      }
+    },
+    {
+      "slug": "g-class-amg-4",
+      "name": "g-class-amg 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/g-class-amg/w465-2024-now.webp"
+      }
+    }
+  ]
+}

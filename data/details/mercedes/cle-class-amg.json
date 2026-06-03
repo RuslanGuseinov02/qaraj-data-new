@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "cle-class-amg",
+  "name": "cle-class-amg",
+  "generations": [
+    {
+      "slug": "cle-class-amg-0",
+      "name": "cle-class-amg 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/cle-class-amg/br236-2024-now.webp"
+      }
+    }
+  ]
+}

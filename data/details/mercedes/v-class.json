@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "v-class",
+  "name": "v-class",
+  "generations": [
+    {
+      "slug": "v-class-0",
+      "name": "v-class 1",
+      "year_start": 2015,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/v-class/w447-2015-2024.webp"
+      }
+    },
+    {
+      "slug": "v-class-1",
+      "name": "v-class 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/v-class/w447-2024-now.webp"
+      }
+    },
+    {
+      "slug": "v-class-2",
+      "name": "v-class 3",
+      "year_start": 1996,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/v-class/w638-1996-2003.webp"
+      }
+    },
+    {
+      "slug": "v-class-3",
+      "name": "v-class 4",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/v-class/w639-2004-2010.webp"
+      }
+    },
+    {
+      "slug": "v-class-4",
+      "name": "v-class 5",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/v-class/w639-2010-2014.webp"
+      }
+    }
+  ]
+}

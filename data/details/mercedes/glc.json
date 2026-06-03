@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "glc",
+  "name": "glc",
+  "generations": [
+    {
+      "slug": "glc-0",
+      "name": "glc 1",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/glc/x253-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "glc-1",
+      "name": "glc 2",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/glc/x253-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "glc-2",
+      "name": "glc 3",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/glc/x254-2022-2026.webp"
+      }
+    },
+    {
+      "slug": "glc-3",
+      "name": "glc 4",
+      "year_start": 2026,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/glc/x540-2026-now.webp"
+      }
+    }
+  ]
+}

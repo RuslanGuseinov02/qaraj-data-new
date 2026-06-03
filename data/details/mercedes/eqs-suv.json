@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "eqs-suv",
+  "name": "eqs-suv",
+  "generations": [
+    {
+      "slug": "eqs-suv-0",
+      "name": "eqs-suv 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/eqs-suv/x296-2022-now.webp"
+      }
+    }
+  ]
+}

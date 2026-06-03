@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "vito",
+  "name": "vito",
+  "generations": [
+    {
+      "slug": "vito-0",
+      "name": "vito 1",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/vito/w447-2015-2020.webp"
+      }
+    },
+    {
+      "slug": "vito-1",
+      "name": "vito 2",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/vito/w447-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "vito-2",
+      "name": "vito 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/vito/w447-2023-now.webp"
+      }
+    },
+    {
+      "slug": "vito-3",
+      "name": "vito 4",
+      "year_start": 1996,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/vito/w638-1996-2003.webp"
+      }
+    },
+    {
+      "slug": "vito-4",
+      "name": "vito 5",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/vito/w639-2004-2010.webp"
+      }
+    },
+    {
+      "slug": "vito-5",
+      "name": "vito 6",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/vito/w639-2010-2014.webp"
+      }
+    }
+  ]
+}

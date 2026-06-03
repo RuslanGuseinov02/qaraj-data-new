@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "c-class-all-terrain",
+  "name": "c-class-all-terrain",
+  "generations": [
+    {
+      "slug": "c-class-all-terrain-0",
+      "name": "c-class-all-terrain 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/c-class-all-terrain/s206-2022-now.webp"
+      }
+    }
+  ]
+}

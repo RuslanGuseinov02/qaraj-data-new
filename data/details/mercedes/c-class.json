@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "c-class",
+  "name": "c-class",
+  "generations": [
+    {
+      "slug": "c-class-0",
+      "name": "c-class 1",
+      "year_start": 1993,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/c-class/br202-1993-2000.webp"
+      }
+    },
+    {
+      "slug": "c-class-1",
+      "name": "c-class 2",
+      "year_start": 2000,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/c-class/br203-2000-2007.webp"
+      }
+    },
+    {
+      "slug": "c-class-2",
+      "name": "c-class 3",
+      "year_start": 2007,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/c-class/br204-2007-2011.webp"
+      }
+    },
+    {
+      "slug": "c-class-3",
+      "name": "c-class 4",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/c-class/br204-2011-2015.webp"
+      }
+    },
+    {
+      "slug": "c-class-4",
+      "name": "c-class 5",
+      "year_start": 2014,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/c-class/br205-2014-2022.webp"
+      }
+    },
+    {
+      "slug": "c-class-5",
+      "name": "c-class 6",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/c-class/br206-2021-now.webp"
+      }
+    }
+  ]
+}

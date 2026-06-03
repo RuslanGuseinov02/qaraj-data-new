@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "eqc",
+  "name": "eqc",
+  "generations": [
+    {
+      "slug": "eqc-0",
+      "name": "eqc 1",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/eqc/n293-2019-2023.webp"
+      }
+    }
+  ]
+}

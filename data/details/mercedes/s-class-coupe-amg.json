@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "s-class-coupe-amg",
+  "name": "s-class-coupe-amg",
+  "generations": [
+    {
+      "slug": "s-class-coupe-amg-0",
+      "name": "s-class-coupe-amg 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/s-class-coupe-amg/c217-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "s-class-coupe-amg-1",
+      "name": "s-class-coupe-amg 2",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/s-class-coupe-amg/c217-2018-2021.webp"
+      }
+    }
+  ]
+}

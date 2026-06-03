@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "eqs-amg",
+  "name": "eqs-amg",
+  "generations": [
+    {
+      "slug": "eqs-amg-0",
+      "name": "eqs-amg 1",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/eqs-amg/v297-2022-2024.webp"
+      }
+    },
+    {
+      "slug": "eqs-amg-1",
+      "name": "eqs-amg 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/eqs-amg/v297-2024-now.webp"
+      }
+    }
+  ]
+}

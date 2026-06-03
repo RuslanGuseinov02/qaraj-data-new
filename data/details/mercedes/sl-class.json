@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "sl-class",
+  "name": "sl-class",
+  "generations": [
+    {
+      "slug": "sl-class-0",
+      "name": "sl-class 1",
+      "year_start": 1971,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/sl-class/107-1971-1989.webp"
+      }
+    },
+    {
+      "slug": "sl-class-1",
+      "name": "sl-class 2",
+      "year_start": 1989,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/sl-class/r129-1989-2001.webp"
+      }
+    },
+    {
+      "slug": "sl-class-2",
+      "name": "sl-class 3",
+      "year_start": 2001,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/sl-class/r230-2001-2006.webp"
+      }
+    },
+    {
+      "slug": "sl-class-3",
+      "name": "sl-class 4",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/sl-class/r230-2006-2008.webp"
+      }
+    },
+    {
+      "slug": "sl-class-4",
+      "name": "sl-class 5",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/sl-class/r230-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "sl-class-5",
+      "name": "sl-class 6",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/sl-class/r231-2012-2016.webp"
+      }
+    },
+    {
+      "slug": "sl-class-6",
+      "name": "sl-class 7",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/sl-class/r231-2016-2020.webp"
+      }
+    }
+  ]
+}

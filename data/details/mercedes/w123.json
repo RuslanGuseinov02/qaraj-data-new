@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "w123",
+  "name": "w123",
+  "generations": [
+    {
+      "slug": "w123-0",
+      "name": "w123 1",
+      "year_start": 1975,
+      "year_end": 1986,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/w123/123-1975-1986.webp"
+      }
+    }
+  ]
+}

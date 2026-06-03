@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "s-class-cabrio-amg",
+  "name": "s-class-cabrio-amg",
+  "generations": [
+    {
+      "slug": "s-class-cabrio-amg-0",
+      "name": "s-class-cabrio-amg 1",
+      "year_start": 2016,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/s-class-cabrio-amg/a217-2016-2017.webp"
+      }
+    },
+    {
+      "slug": "s-class-cabrio-amg-1",
+      "name": "s-class-cabrio-amg 2",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/s-class-cabrio-amg/a217-2018-2021.webp"
+      }
+    }
+  ]
+}

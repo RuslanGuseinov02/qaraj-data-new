@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "w124",
+  "name": "w124",
+  "generations": [
+    {
+      "slug": "w124-0",
+      "name": "w124 1",
+      "year_start": 1984,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/w124/br124-1984-1996.webp"
+      }
+    }
+  ]
+}

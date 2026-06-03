@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "r-class",
+  "name": "r-class",
+  "generations": [
+    {
+      "slug": "r-class-0",
+      "name": "r-class 1",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/r-class/w251-2005-2007.webp"
+      }
+    },
+    {
+      "slug": "r-class-1",
+      "name": "r-class 2",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/r-class/w251-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "r-class-2",
+      "name": "r-class 3",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/r-class/w251-2010-2015.webp"
+      }
+    }
+  ]
+}

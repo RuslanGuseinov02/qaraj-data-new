@@ -1,0 +1,110 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "s-class",
+  "name": "s-class",
+  "generations": [
+    {
+      "slug": "s-class-0",
+      "name": "s-class 1",
+      "year_start": 1972,
+      "year_end": 1980,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/s-class/w116-1972-1980.webp"
+      }
+    },
+    {
+      "slug": "s-class-1",
+      "name": "s-class 2",
+      "year_start": 1979,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/s-class/w126-1979-1991.webp"
+      }
+    },
+    {
+      "slug": "s-class-2",
+      "name": "s-class 3",
+      "year_start": 1991,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/s-class/w140-1991-1998.webp"
+      }
+    },
+    {
+      "slug": "s-class-3",
+      "name": "s-class 4",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/s-class/w220-v220-1998-2002.webp"
+      }
+    },
+    {
+      "slug": "s-class-4",
+      "name": "s-class 5",
+      "year_start": 2002,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/s-class/w220-v220-2002-2006.webp"
+      }
+    },
+    {
+      "slug": "s-class-5",
+      "name": "s-class 6",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/s-class/w221-2005-2009.webp"
+      }
+    },
+    {
+      "slug": "s-class-6",
+      "name": "s-class 7",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/s-class/w221-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "s-class-7",
+      "name": "s-class 8",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/s-class/w222-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "s-class-8",
+      "name": "s-class 9",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/s-class/w222-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "s-class-9",
+      "name": "s-class 10",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/s-class/w223-2020-now.webp"
+      }
+    }
+  ]
+}

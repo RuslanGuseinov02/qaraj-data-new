@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "b-class",
+  "name": "b-class",
+  "generations": [
+    {
+      "slug": "b-class-0",
+      "name": "b-class 1",
+      "year_start": 2005,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/b-class/w245-2005-2011.webp"
+      }
+    },
+    {
+      "slug": "b-class-1",
+      "name": "b-class 2",
+      "year_start": 2012,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/b-class/w246-2012-2018.webp"
+      }
+    },
+    {
+      "slug": "b-class-2",
+      "name": "b-class 3",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/b-class/w247-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "b-class-3",
+      "name": "b-class 4",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/b-class/w247-2022-now.webp"
+      }
+    }
+  ]
+}

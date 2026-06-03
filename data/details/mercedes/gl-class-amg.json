@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "gl-class-amg",
+  "name": "gl-class-amg",
+  "generations": [
+    {
+      "slug": "gl-class-amg-0",
+      "name": "gl-class-amg 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/gl-class-amg/x166-2013-2016.webp"
+      }
+    }
+  ]
+}

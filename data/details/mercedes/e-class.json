@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "e-class",
+  "name": "e-class",
+  "generations": [
+    {
+      "slug": "e-class-0",
+      "name": "e-class 1",
+      "year_start": 1993,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/e-class/br124-1993-1996.webp"
+      }
+    },
+    {
+      "slug": "e-class-1",
+      "name": "e-class 2",
+      "year_start": 1996,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/e-class/br210-1996-2003.webp"
+      }
+    },
+    {
+      "slug": "e-class-2",
+      "name": "e-class 3",
+      "year_start": 2002,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/e-class/br211-2002-2009.webp"
+      }
+    },
+    {
+      "slug": "e-class-3",
+      "name": "e-class 4",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/e-class/br212-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "e-class-4",
+      "name": "e-class 5",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/e-class/br212-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "e-class-5",
+      "name": "e-class 6",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/e-class/br213-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "e-class-6",
+      "name": "e-class 7",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/e-class/br213-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "e-class-7",
+      "name": "e-class 8",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/e-class/br214-2023-now.webp"
+      }
+    }
+  ]
+}

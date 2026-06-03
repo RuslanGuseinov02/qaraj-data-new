@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "marco-polo",
+  "name": "marco-polo",
+  "generations": [
+    {
+      "slug": "marco-polo-0",
+      "name": "marco-polo 1",
+      "year_start": 2015,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/marco-polo/w447-2015-2024.webp"
+      }
+    },
+    {
+      "slug": "marco-polo-1",
+      "name": "marco-polo 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/marco-polo/w447-2024-now.webp"
+      }
+    }
+  ]
+}

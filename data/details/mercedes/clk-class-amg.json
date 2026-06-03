@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mercedes",
+    "name": "MERCEDES"
+  },
+  "slug": "clk-class-amg",
+  "name": "clk-class-amg",
+  "generations": [
+    {
+      "slug": "clk-class-amg-0",
+      "name": "clk-class-amg 1",
+      "year_start": 1999,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/clk-class-amg/br208-1999-2002.webp"
+      }
+    },
+    {
+      "slug": "clk-class-amg-1",
+      "name": "clk-class-amg 2",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/clk-class-amg/br209-2002-2005.webp"
+      }
+    },
+    {
+      "slug": "clk-class-amg-2",
+      "name": "clk-class-amg 3",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes/clk-class-amg/br209-2005-2010.webp"
+      }
+    }
+  ]
+}
