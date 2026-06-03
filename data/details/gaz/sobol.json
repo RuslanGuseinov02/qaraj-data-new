@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "gaz",
+    "name": "GAZ"
+  },
+  "slug": "sobol",
+  "name": "sobol",
+  "generations": [
+    {
+      "slug": "sobol-0",
+      "name": "sobol 1",
+      "year_start": 1998,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gaz/sobol/1998-2010.webp"
+      }
+    }
+  ]
+}

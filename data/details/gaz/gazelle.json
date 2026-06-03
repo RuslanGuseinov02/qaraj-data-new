@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "gaz",
+    "name": "GAZ"
+  },
+  "slug": "gazelle",
+  "name": "gazelle",
+  "generations": [
+    {
+      "slug": "gazelle-0",
+      "name": "gazelle 1",
+      "year_start": 1994,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gaz/gazelle/1994-2003.webp"
+      }
+    },
+    {
+      "slug": "gazelle-1",
+      "name": "gazelle 2",
+      "year_start": 2003,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gaz/gazelle/2003-2010.webp"
+      }
+    }
+  ]
+}

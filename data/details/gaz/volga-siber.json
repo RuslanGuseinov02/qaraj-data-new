@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "gaz",
+    "name": "GAZ"
+  },
+  "slug": "volga-siber",
+  "name": "volga-siber",
+  "generations": [
+    {
+      "slug": "volga-siber-0",
+      "name": "volga-siber 1",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gaz/volga-siber/2008-2010.webp"
+      }
+    }
+  ]
+}

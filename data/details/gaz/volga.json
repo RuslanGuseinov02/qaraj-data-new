@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "gaz",
+    "name": "GAZ"
+  },
+  "slug": "volga",
+  "name": "volga",
+  "generations": [
+    {
+      "slug": "volga-0",
+      "name": "volga 1",
+      "year_start": 1984,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gaz/volga/24-1984-1993.webp"
+      }
+    },
+    {
+      "slug": "volga-1",
+      "name": "volga 2",
+      "year_start": 1981,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gaz/volga/3102-1981-1991.webp"
+      }
+    },
+    {
+      "slug": "volga-2",
+      "name": "volga 3",
+      "year_start": 1992,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gaz/volga/3102-1992-2008.webp"
+      }
+    },
+    {
+      "slug": "volga-3",
+      "name": "volga 4",
+      "year_start": 1996,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gaz/volga/3110-1996-2010.webp"
+      }
+    },
+    {
+      "slug": "volga-4",
+      "name": "volga 5",
+      "year_start": 2003,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gaz/volga/31105-2003-2009.webp"
+      }
+    }
+  ]
+}

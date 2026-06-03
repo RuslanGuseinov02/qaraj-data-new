@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "gaz",
+    "name": "GAZ"
+  },
+  "slug": "gazelle-city",
+  "name": "gazelle-city",
+  "generations": [
+    {
+      "slug": "gazelle-city-0",
+      "name": "gazelle-city 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gaz/gazelle-city/2020-now.webp"
+      }
+    }
+  ]
+}

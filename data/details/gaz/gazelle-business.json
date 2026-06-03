@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "gaz",
+    "name": "GAZ"
+  },
+  "slug": "gazelle-business",
+  "name": "gazelle-business",
+  "generations": [
+    {
+      "slug": "gazelle-business-0",
+      "name": "gazelle-business 1",
+      "year_start": 2010,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gaz/gazelle-business/2010-now.webp"
+      }
+    }
+  ]
+}

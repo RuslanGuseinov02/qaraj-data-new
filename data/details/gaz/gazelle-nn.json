@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "gaz",
+    "name": "GAZ"
+  },
+  "slug": "gazelle-nn",
+  "name": "gazelle-nn",
+  "generations": [
+    {
+      "slug": "gazelle-nn-0",
+      "name": "gazelle-nn 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/gaz/gazelle-nn/2019-now.webp"
+      }
+    }
+  ]
+}
