@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "vauxhall",
+    "name": "VAUXHALL"
+  },
+  "slug": "astra",
+  "name": "astra",
+  "generations": [
+    {
+      "slug": "astra-0",
+      "name": "astra 1",
+      "year_start": 1991,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/astra/f-t92-1991-1998.webp"
+      }
+    },
+    {
+      "slug": "astra-1",
+      "name": "astra 2",
+      "year_start": 1998,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/astra/g-t98-1998-2004.webp"
+      }
+    },
+    {
+      "slug": "astra-2",
+      "name": "astra 3",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/astra/h-a04-2004-2010.webp"
+      }
+    },
+    {
+      "slug": "astra-3",
+      "name": "astra 4",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/astra/j-p10-2009-2012.webp"
+      }
+    },
+    {
+      "slug": "astra-4",
+      "name": "astra 5",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/astra/j-p10-2012-2015.webp"
+      }
+    },
+    {
+      "slug": "astra-5",
+      "name": "astra 6",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/astra/k-b16-2015-2020.webp"
+      }
+    },
+    {
+      "slug": "astra-6",
+      "name": "astra 7",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/astra/k-b16-2020-2022.webp"
+      }
+    },
+    {
+      "slug": "astra-7",
+      "name": "astra 8",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/astra/l-c02-2022-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "vauxhall",
+    "name": "VAUXHALL"
+  },
+  "slug": "ampera",
+  "name": "ampera",
+  "generations": [
+    {
+      "slug": "ampera-0",
+      "name": "ampera 1",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/ampera/r12-2011-2015.webp"
+      }
+    }
+  ]
+}

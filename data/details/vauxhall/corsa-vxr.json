@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "vauxhall",
+    "name": "VAUXHALL"
+  },
+  "slug": "corsa-vxr",
+  "name": "corsa-vxr",
+  "generations": [
+    {
+      "slug": "corsa-vxr-0",
+      "name": "corsa-vxr 1",
+      "year_start": 2007,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/corsa-vxr/a-2007-2014.webp"
+      }
+    },
+    {
+      "slug": "corsa-vxr-1",
+      "name": "corsa-vxr 2",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/corsa-vxr/b-2015-2018.webp"
+      }
+    }
+  ]
+}

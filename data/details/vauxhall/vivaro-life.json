@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "vauxhall",
+    "name": "VAUXHALL"
+  },
+  "slug": "vivaro-life",
+  "name": "vivaro-life",
+  "generations": [
+    {
+      "slug": "vivaro-life-0",
+      "name": "vivaro-life 1",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/vivaro-life/c-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "vivaro-life-1",
+      "name": "vivaro-life 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/vivaro-life/c-2024-now.webp"
+      }
+    }
+  ]
+}

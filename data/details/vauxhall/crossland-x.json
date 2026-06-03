@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "vauxhall",
+    "name": "VAUXHALL"
+  },
+  "slug": "crossland-x",
+  "name": "crossland-x",
+  "generations": [
+    {
+      "slug": "crossland-x-0",
+      "name": "crossland-x 1",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/crossland-x/2017-2021.webp"
+      }
+    }
+  ]
+}

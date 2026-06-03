@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "vauxhall",
+    "name": "VAUXHALL"
+  },
+  "slug": "insignia",
+  "name": "insignia",
+  "generations": [
+    {
+      "slug": "insignia-0",
+      "name": "insignia 1",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/insignia/a-g09-2008-2013.webp"
+      }
+    },
+    {
+      "slug": "insignia-1",
+      "name": "insignia 2",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/insignia/a-g09-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "insignia-2",
+      "name": "insignia 3",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/insignia/b-z18-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "insignia-3",
+      "name": "insignia 4",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/insignia/b-z18-2020-2022.webp"
+      }
+    }
+  ]
+}

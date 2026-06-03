@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "vauxhall",
+    "name": "VAUXHALL"
+  },
+  "slug": "vxr8",
+  "name": "vxr8",
+  "generations": [
+    {
+      "slug": "vxr8-0",
+      "name": "vxr8 1",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/vxr8/2007-2009.webp"
+      }
+    },
+    {
+      "slug": "vxr8-1",
+      "name": "vxr8 2",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/vxr8/2010-2013.webp"
+      }
+    },
+    {
+      "slug": "vxr8-2",
+      "name": "vxr8 3",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/vxr8/2014-2018.webp"
+      }
+    }
+  ]
+}

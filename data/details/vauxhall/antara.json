@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "vauxhall",
+    "name": "VAUXHALL"
+  },
+  "slug": "antara",
+  "name": "antara",
+  "generations": [
+    {
+      "slug": "antara-0",
+      "name": "antara 1",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/antara/a-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "antara-1",
+      "name": "antara 2",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/antara/a-2011-2015.webp"
+      }
+    }
+  ]
+}

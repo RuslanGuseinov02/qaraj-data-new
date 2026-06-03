@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "vauxhall",
+    "name": "VAUXHALL"
+  },
+  "slug": "combo",
+  "name": "combo",
+  "generations": [
+    {
+      "slug": "combo-0",
+      "name": "combo 1",
+      "year_start": 2001,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/combo/c-2001-2011.webp"
+      }
+    },
+    {
+      "slug": "combo-1",
+      "name": "combo 2",
+      "year_start": 2012,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/combo/d-2012-2018.webp"
+      }
+    },
+    {
+      "slug": "combo-2",
+      "name": "combo 3",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/combo/e-2018-2024.webp"
+      }
+    },
+    {
+      "slug": "combo-3",
+      "name": "combo 4",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/combo/e-2024-now.webp"
+      }
+    }
+  ]
+}

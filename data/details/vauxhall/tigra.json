@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "vauxhall",
+    "name": "VAUXHALL"
+  },
+  "slug": "tigra",
+  "name": "tigra",
+  "generations": [
+    {
+      "slug": "tigra-0",
+      "name": "tigra 1",
+      "year_start": 1994,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/tigra/a-1994-2001.webp"
+      }
+    },
+    {
+      "slug": "tigra-1",
+      "name": "tigra 2",
+      "year_start": 2004,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/tigra/b-2004-2009.webp"
+      }
+    }
+  ]
+}

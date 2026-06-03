@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "vauxhall",
+    "name": "VAUXHALL"
+  },
+  "slug": "sintra",
+  "name": "sintra",
+  "generations": [
+    {
+      "slug": "sintra-0",
+      "name": "sintra 1",
+      "year_start": 1996,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/sintra/1996-1999.webp"
+      }
+    }
+  ]
+}

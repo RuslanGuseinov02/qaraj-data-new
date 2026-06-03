@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "vauxhall",
+    "name": "VAUXHALL"
+  },
+  "slug": "corsa",
+  "name": "corsa",
+  "generations": [
+    {
+      "slug": "corsa-0",
+      "name": "corsa 1",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/corsa/d-s07-2006-2011.webp"
+      }
+    },
+    {
+      "slug": "corsa-1",
+      "name": "corsa 2",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/corsa/d-s07-2011-2014.webp"
+      }
+    },
+    {
+      "slug": "corsa-2",
+      "name": "corsa 3",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/corsa/e-x15-2014-2019.webp"
+      }
+    },
+    {
+      "slug": "corsa-3",
+      "name": "corsa 4",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/corsa/f-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "corsa-4",
+      "name": "corsa 5",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/corsa/f-2023-now.webp"
+      }
+    }
+  ]
+}

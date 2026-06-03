@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "vauxhall",
+    "name": "VAUXHALL"
+  },
+  "slug": "combo-life",
+  "name": "combo-life",
+  "generations": [
+    {
+      "slug": "combo-life-0",
+      "name": "combo-life 1",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/combo-life/e-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "combo-life-1",
+      "name": "combo-life 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/combo-life/e-2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "vauxhall",
+    "name": "VAUXHALL"
+  },
+  "slug": "astra-gtc",
+  "name": "astra-gtc",
+  "generations": [
+    {
+      "slug": "astra-gtc-0",
+      "name": "astra-gtc 1",
+      "year_start": 2011,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/astra-gtc/j-2011-2018.webp"
+      }
+    }
+  ]
+}

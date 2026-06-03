@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "vauxhall",
+    "name": "VAUXHALL"
+  },
+  "slug": "adam",
+  "name": "adam",
+  "generations": [
+    {
+      "slug": "adam-0",
+      "name": "adam 1",
+      "year_start": 2013,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/adam/m13-2013-2019.webp"
+      }
+    }
+  ]
+}

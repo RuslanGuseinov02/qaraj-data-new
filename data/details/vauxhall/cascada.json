@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "vauxhall",
+    "name": "VAUXHALL"
+  },
+  "slug": "cascada",
+  "name": "cascada",
+  "generations": [
+    {
+      "slug": "cascada-0",
+      "name": "cascada 1",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vauxhall/cascada/a-2013-2018.webp"
+      }
+    }
+  ]
+}
