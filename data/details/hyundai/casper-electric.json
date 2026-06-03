@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "casper-electric",
+  "name": "casper-electric",
+  "generations": [
+    {
+      "slug": "casper-electric-0",
+      "name": "casper-electric 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/casper-electric/ax1-2024-now.webp"
+      }
+    }
+  ]
+}

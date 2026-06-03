@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "getz",
+  "name": "getz",
+  "generations": [
+    {
+      "slug": "getz-0",
+      "name": "getz 1",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/getz/2002-2005.webp"
+      }
+    },
+    {
+      "slug": "getz-1",
+      "name": "getz 2",
+      "year_start": 2005,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/getz/2005-2011.webp"
+      }
+    }
+  ]
+}

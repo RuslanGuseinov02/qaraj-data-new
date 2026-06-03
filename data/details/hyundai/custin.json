@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "custin",
+  "name": "custin",
+  "generations": [
+    {
+      "slug": "custin-0",
+      "name": "custin 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/custin/ku-2022-now.webp"
+      }
+    }
+  ]
+}

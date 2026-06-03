@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "santa-fe-classic",
+  "name": "santa-fe-classic",
+  "generations": [
+    {
+      "slug": "santa-fe-classic-0",
+      "name": "santa-fe-classic 1",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/santa-fe-classic/sm-2007-2012.webp"
+      }
+    }
+  ]
+}

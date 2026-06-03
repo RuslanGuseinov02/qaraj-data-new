@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "genesis-coupe",
+  "name": "genesis-coupe",
+  "generations": [
+    {
+      "slug": "genesis-coupe-0",
+      "name": "genesis-coupe 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/genesis-coupe/bk-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "genesis-coupe-1",
+      "name": "genesis-coupe 2",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/genesis-coupe/bk-2012-2016.webp"
+      }
+    }
+  ]
+}

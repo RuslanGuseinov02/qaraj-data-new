@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "ix35",
+  "name": "ix35",
+  "generations": [
+    {
+      "slug": "ix35-0",
+      "name": "ix35 1",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/ix35/lm-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "ix35-1",
+      "name": "ix35 2",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/ix35/lm-2013-2018.webp"
+      }
+    },
+    {
+      "slug": "ix35-2",
+      "name": "ix35 3",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/ix35/nu-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "ix35-3",
+      "name": "ix35 4",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/ix35/nu-2020-2024.webp"
+      }
+    }
+  ]
+}

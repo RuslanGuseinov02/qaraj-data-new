@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "alcazar",
+  "name": "alcazar",
+  "generations": [
+    {
+      "slug": "alcazar-0",
+      "name": "alcazar 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/alcazar/su2-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "alcazar-1",
+      "name": "alcazar 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/alcazar/su2-2024-now.webp"
+      }
+    }
+  ]
+}

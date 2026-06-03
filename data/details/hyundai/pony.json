@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "pony",
+  "name": "pony",
+  "generations": [
+    {
+      "slug": "pony-0",
+      "name": "pony 1",
+      "year_start": 1975,
+      "year_end": 1982,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/pony/1975-1982.webp"
+      }
+    },
+    {
+      "slug": "pony-1",
+      "name": "pony 2",
+      "year_start": 1982,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/pony/1982-1990.webp"
+      }
+    },
+    {
+      "slug": "pony-2",
+      "name": "pony 3",
+      "year_start": 1985,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/pony/x1-1985-1990.webp"
+      }
+    },
+    {
+      "slug": "pony-3",
+      "name": "pony 4",
+      "year_start": 1990,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/pony/x2-1990-1994.webp"
+      }
+    }
+  ]
+}

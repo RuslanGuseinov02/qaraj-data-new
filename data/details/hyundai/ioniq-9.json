@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "ioniq-9",
+  "name": "ioniq-9",
+  "generations": [
+    {
+      "slug": "ioniq-9-0",
+      "name": "ioniq-9 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/ioniq-9/me-2025-now.webp"
+      }
+    }
+  ]
+}

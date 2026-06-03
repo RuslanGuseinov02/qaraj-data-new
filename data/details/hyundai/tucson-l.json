@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "tucson-l",
+  "name": "tucson-l",
+  "generations": [
+    {
+      "slug": "tucson-l-0",
+      "name": "tucson-l 1",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/tucson-l/nx4-2020-2025.webp"
+      }
+    }
+  ]
+}

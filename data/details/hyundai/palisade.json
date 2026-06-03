@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "palisade",
+  "name": "palisade",
+  "generations": [
+    {
+      "slug": "palisade-0",
+      "name": "palisade 1",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/palisade/lx2-2018-2022.webp"
+      }
+    },
+    {
+      "slug": "palisade-1",
+      "name": "palisade 2",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/palisade/lx2-2022-2025.webp"
+      }
+    },
+    {
+      "slug": "palisade-2",
+      "name": "palisade 3",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/palisade/lx3-2025-now.webp"
+      }
+    }
+  ]
+}

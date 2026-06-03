@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "veloster",
+  "name": "veloster",
+  "generations": [
+    {
+      "slug": "veloster-0",
+      "name": "veloster 1",
+      "year_start": 2011,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/veloster/fs-2011-2018.webp"
+      }
+    },
+    {
+      "slug": "veloster-1",
+      "name": "veloster 2",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/veloster/js-2018-2021.webp"
+      }
+    }
+  ]
+}

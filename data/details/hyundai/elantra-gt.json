@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "elantra-gt",
+  "name": "elantra-gt",
+  "generations": [
+    {
+      "slug": "elantra-gt-0",
+      "name": "elantra-gt 1",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elantra-gt/gd-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "elantra-gt-1",
+      "name": "elantra-gt 2",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elantra-gt/pd-2018-2020.webp"
+      }
+    }
+  ]
+}

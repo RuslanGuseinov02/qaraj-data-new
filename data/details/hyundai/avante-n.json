@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "avante-n",
+  "name": "avante-n",
+  "generations": [
+    {
+      "slug": "avante-n-0",
+      "name": "avante-n 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/avante-n/cn7-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "avante-n-1",
+      "name": "avante-n 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/avante-n/cn7-2024-now.webp"
+      }
+    }
+  ]
+}

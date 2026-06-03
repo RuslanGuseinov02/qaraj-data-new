@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "i10",
+  "name": "i10",
+  "generations": [
+    {
+      "slug": "i10-0",
+      "name": "i10 1",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i10/ac3-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "i10-1",
+      "name": "i10 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i10/ac3-2023-now.webp"
+      }
+    },
+    {
+      "slug": "i10-2",
+      "name": "i10 3",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i10/ia-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "i10-3",
+      "name": "i10 4",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i10/ia-2016-2019.webp"
+      }
+    },
+    {
+      "slug": "i10-4",
+      "name": "i10 5",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i10/pa-2008-2011.webp"
+      }
+    },
+    {
+      "slug": "i10-5",
+      "name": "i10 6",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i10/pa-2011-2013.webp"
+      }
+    }
+  ]
+}

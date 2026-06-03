@@ -1,0 +1,150 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "sonata",
+  "name": "sonata",
+  "generations": [
+    {
+      "slug": "sonata-0",
+      "name": "sonata 1",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/sonata/dn8-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "sonata-1",
+      "name": "sonata 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/sonata/dn8-2023-now.webp"
+      }
+    },
+    {
+      "slug": "sonata-2",
+      "name": "sonata 3",
+      "year_start": 1998,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/sonata/ef-1998-2001.webp"
+      }
+    },
+    {
+      "slug": "sonata-3",
+      "name": "sonata 4",
+      "year_start": 2001,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/sonata/ef-2001-2017.webp"
+      }
+    },
+    {
+      "slug": "sonata-4",
+      "name": "sonata 5",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/sonata/lf-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "sonata-5",
+      "name": "sonata 6",
+      "year_start": 2017,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/sonata/lf-2017-2019.webp"
+      }
+    },
+    {
+      "slug": "sonata-6",
+      "name": "sonata 7",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/sonata/nf-2004-2008.webp"
+      }
+    },
+    {
+      "slug": "sonata-7",
+      "name": "sonata 8",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/sonata/nf-2008-2010.webp"
+      }
+    },
+    {
+      "slug": "sonata-8",
+      "name": "sonata 9",
+      "year_start": 1985,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/sonata/y1-1985-1987.webp"
+      }
+    },
+    {
+      "slug": "sonata-9",
+      "name": "sonata 10",
+      "year_start": 1988,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/sonata/y2-1988-1991.webp"
+      }
+    },
+    {
+      "slug": "sonata-10",
+      "name": "sonata 11",
+      "year_start": 1991,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/sonata/y2-1991-1993.webp"
+      }
+    },
+    {
+      "slug": "sonata-11",
+      "name": "sonata 12",
+      "year_start": 1993,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/sonata/y3-1993-1996.webp"
+      }
+    },
+    {
+      "slug": "sonata-12",
+      "name": "sonata 13",
+      "year_start": 1996,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/sonata/y3-1996-1998.webp"
+      }
+    },
+    {
+      "slug": "sonata-13",
+      "name": "sonata 14",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/sonata/yf-2009-2014.webp"
+      }
+    }
+  ]
+}

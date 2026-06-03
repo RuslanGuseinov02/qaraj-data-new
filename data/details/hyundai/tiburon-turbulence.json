@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "tiburon-turbulence",
+  "name": "tiburon-turbulence",
+  "generations": [
+    {
+      "slug": "tiburon-turbulence-0",
+      "name": "tiburon-turbulence 1",
+      "year_start": 1999,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/tiburon-turbulence/rd2-1999-2001.webp"
+      }
+    }
+  ]
+}

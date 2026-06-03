@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "hb20s",
+  "name": "hb20s",
+  "generations": [
+    {
+      "slug": "hb20s-0",
+      "name": "hb20s 1",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/hb20s/br2-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "hb20s-1",
+      "name": "hb20s 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/hb20s/br2-2022-now.webp"
+      }
+    },
+    {
+      "slug": "hb20s-2",
+      "name": "hb20s 3",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/hb20s/hb-2013-2015.webp"
+      }
+    },
+    {
+      "slug": "hb20s-3",
+      "name": "hb20s 4",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/hb20s/hb-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "hb20s-4",
+      "name": "hb20s 5",
+      "year_start": 2017,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/hb20s/hb-2017-2019.webp"
+      }
+    }
+  ]
+}

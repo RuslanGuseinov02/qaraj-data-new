@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "hb20x",
+  "name": "hb20x",
+  "generations": [
+    {
+      "slug": "hb20x-0",
+      "name": "hb20x 1",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/hb20x/br2-2020-2022.webp"
+      }
+    },
+    {
+      "slug": "hb20x-1",
+      "name": "hb20x 2",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/hb20x/hb-2013-2018.webp"
+      }
+    },
+    {
+      "slug": "hb20x-2",
+      "name": "hb20x 3",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/hb20x/hb-2018-2020.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "equus",
+  "name": "equus",
+  "generations": [
+    {
+      "slug": "equus-0",
+      "name": "equus 1",
+      "year_start": 2009,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/equus/2009-2016.webp"
+      }
+    },
+    {
+      "slug": "equus-1",
+      "name": "equus 2",
+      "year_start": 1999,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/equus/lz-1999-2008.webp"
+      }
+    }
+  ]
+}

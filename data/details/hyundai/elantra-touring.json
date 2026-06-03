@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "elantra-touring",
+  "name": "elantra-touring",
+  "generations": [
+    {
+      "slug": "elantra-touring-0",
+      "name": "elantra-touring 1",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elantra-touring/fd-2009-2012.webp"
+      }
+    }
+  ]
+}

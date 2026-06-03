@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "tucson",
+  "name": "tucson",
+  "generations": [
+    {
+      "slug": "tucson-0",
+      "name": "tucson 1",
+      "year_start": 2004,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/tucson/jm-2004-2019.webp"
+      }
+    },
+    {
+      "slug": "tucson-1",
+      "name": "tucson 2",
+      "year_start": 2010,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/tucson/lm-2010-2017.webp"
+      }
+    },
+    {
+      "slug": "tucson-2",
+      "name": "tucson 3",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/tucson/nx4-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "tucson-3",
+      "name": "tucson 4",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/tucson/nx4-2024-now.webp"
+      }
+    },
+    {
+      "slug": "tucson-4",
+      "name": "tucson 5",
+      "year_start": 2015,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/tucson/tl-2015-2022.webp"
+      }
+    },
+    {
+      "slug": "tucson-5",
+      "name": "tucson 6",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/tucson/tl-2018-2021.webp"
+      }
+    },
+    {
+      "slug": "tucson-6",
+      "name": "tucson 7",
+      "year_start": 2018,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/tucson/tl-2018-2025.webp"
+      }
+    }
+  ]
+}

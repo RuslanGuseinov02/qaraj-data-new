@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "i20-coupe",
+  "name": "i20-coupe",
+  "generations": [
+    {
+      "slug": "i20-coupe-0",
+      "name": "i20-coupe 1",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i20-coupe/gb-2015-2020.webp"
+      }
+    }
+  ]
+}

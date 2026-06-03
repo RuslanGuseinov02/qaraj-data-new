@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "xg300",
+  "name": "xg300",
+  "generations": [
+    {
+      "slug": "xg300-0",
+      "name": "xg300 1",
+      "year_start": 2001,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/xg300/2001-2001.webp"
+      }
+    }
+  ]
+}

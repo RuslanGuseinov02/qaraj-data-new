@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "santa-fe-sport",
+  "name": "santa-fe-sport",
+  "generations": [
+    {
+      "slug": "santa-fe-sport-0",
+      "name": "santa-fe-sport 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/santa-fe-sport/dm-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "santa-fe-sport-1",
+      "name": "santa-fe-sport 2",
+      "year_start": 2017,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/santa-fe-sport/dm-2017-2018.webp"
+      }
+    }
+  ]
+}

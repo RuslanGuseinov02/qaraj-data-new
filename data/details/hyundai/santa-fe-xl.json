@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "santa-fe-xl",
+  "name": "santa-fe-xl",
+  "generations": [
+    {
+      "slug": "santa-fe-xl-0",
+      "name": "santa-fe-xl 1",
+      "year_start": 2018,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/santa-fe-xl/dm-2018-2019.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "mistra",
+  "name": "mistra",
+  "generations": [
+    {
+      "slug": "mistra-0",
+      "name": "mistra 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/mistra/cf-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "mistra-1",
+      "name": "mistra 2",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/mistra/cf-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "mistra-2",
+      "name": "mistra 3",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/mistra/du2-2020-2023.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "ioniq-6",
+  "name": "ioniq-6",
+  "generations": [
+    {
+      "slug": "ioniq-6-0",
+      "name": "ioniq-6 1",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/ioniq-6/ce-2022-2025.webp"
+      }
+    },
+    {
+      "slug": "ioniq-6-1",
+      "name": "ioniq-6 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/ioniq-6/ce-2025-now.webp"
+      }
+    }
+  ]
+}

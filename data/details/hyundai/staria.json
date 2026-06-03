@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "staria",
+  "name": "staria",
+  "generations": [
+    {
+      "slug": "staria-0",
+      "name": "staria 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/staria/us4-2021-now.webp"
+      }
+    }
+  ]
+}

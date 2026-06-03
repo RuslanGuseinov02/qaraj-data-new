@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "i20",
+  "name": "i20",
+  "generations": [
+    {
+      "slug": "i20-0",
+      "name": "i20 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i20/bc3-bi3-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "i20-1",
+      "name": "i20 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i20/bc3-bi3-2023-now.webp"
+      }
+    },
+    {
+      "slug": "i20-2",
+      "name": "i20 3",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i20/gb-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "i20-3",
+      "name": "i20 4",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i20/gb-2018-2020.webp"
+      }
+    },
+    {
+      "slug": "i20-4",
+      "name": "i20 5",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i20/pb-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "i20-5",
+      "name": "i20 6",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i20/pb-2012-2015.webp"
+      }
+    }
+  ]
+}

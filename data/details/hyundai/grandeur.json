@@ -1,0 +1,120 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "grandeur",
+  "name": "grandeur",
+  "generations": [
+    {
+      "slug": "grandeur-0",
+      "name": "grandeur 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/grandeur/gn7-2022-now.webp"
+      }
+    },
+    {
+      "slug": "grandeur-1",
+      "name": "grandeur 2",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/grandeur/hg-2011-2017.webp"
+      }
+    },
+    {
+      "slug": "grandeur-2",
+      "name": "grandeur 3",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/grandeur/ig-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "grandeur-3",
+      "name": "grandeur 4",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/grandeur/ig-2020-2022.webp"
+      }
+    },
+    {
+      "slug": "grandeur-4",
+      "name": "grandeur 5",
+      "year_start": 1986,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/grandeur/l-1986-1989.webp"
+      }
+    },
+    {
+      "slug": "grandeur-5",
+      "name": "grandeur 6",
+      "year_start": 1989,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/grandeur/l-1989-1992.webp"
+      }
+    },
+    {
+      "slug": "grandeur-6",
+      "name": "grandeur 7",
+      "year_start": 1992,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/grandeur/lx-1992-1998.webp"
+      }
+    },
+    {
+      "slug": "grandeur-7",
+      "name": "grandeur 8",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/grandeur/tg-2005-2009.webp"
+      }
+    },
+    {
+      "slug": "grandeur-8",
+      "name": "grandeur 9",
+      "year_start": 2009,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/grandeur/tg-2009-2011.webp"
+      }
+    },
+    {
+      "slug": "grandeur-9",
+      "name": "grandeur 10",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/grandeur/xg-1998-2002.webp"
+      }
+    },
+    {
+      "slug": "grandeur-10",
+      "name": "grandeur 11",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/grandeur/xg-2002-2005.webp"
+      }
+    }
+  ]
+}

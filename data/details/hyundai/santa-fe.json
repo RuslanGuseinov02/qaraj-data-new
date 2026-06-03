@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "santa-fe",
+  "name": "santa-fe",
+  "generations": [
+    {
+      "slug": "santa-fe-0",
+      "name": "santa-fe 1",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/santa-fe/cm-2006-2010.webp"
+      }
+    },
+    {
+      "slug": "santa-fe-1",
+      "name": "santa-fe 2",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/santa-fe/cm-2010-2012.webp"
+      }
+    },
+    {
+      "slug": "santa-fe-2",
+      "name": "santa-fe 3",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/santa-fe/dm-nc-2012-2016.webp"
+      }
+    },
+    {
+      "slug": "santa-fe-3",
+      "name": "santa-fe 4",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/santa-fe/dm-nc-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "santa-fe-4",
+      "name": "santa-fe 5",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/santa-fe/mx5-2023-now.webp"
+      }
+    },
+    {
+      "slug": "santa-fe-5",
+      "name": "santa-fe 6",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/santa-fe/sm-2000-2006.webp"
+      }
+    },
+    {
+      "slug": "santa-fe-6",
+      "name": "santa-fe 7",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/santa-fe/tm-2018-2021.webp"
+      }
+    },
+    {
+      "slug": "santa-fe-7",
+      "name": "santa-fe 8",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/santa-fe/tm-2020-2024.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "nexo",
+  "name": "nexo",
+  "generations": [
+    {
+      "slug": "nexo-0",
+      "name": "nexo 1",
+      "year_start": 2018,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/nexo/fe-2018-2025.webp"
+      }
+    },
+    {
+      "slug": "nexo-1",
+      "name": "nexo 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/nexo/nh2-2025-now.webp"
+      }
+    }
+  ]
+}

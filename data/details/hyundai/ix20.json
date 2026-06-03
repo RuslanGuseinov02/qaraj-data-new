@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "ix20",
+  "name": "ix20",
+  "generations": [
+    {
+      "slug": "ix20-0",
+      "name": "ix20 1",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/ix20/jc-2010-2015.webp"
+      }
+    },
+    {
+      "slug": "ix20-1",
+      "name": "ix20 2",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/ix20/jc-2015-2020.webp"
+      }
+    }
+  ]
+}

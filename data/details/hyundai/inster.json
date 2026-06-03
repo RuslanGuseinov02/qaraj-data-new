@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "inster",
+  "name": "inster",
+  "generations": [
+    {
+      "slug": "inster-0",
+      "name": "inster 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/inster/ax1-2024-now.webp"
+      }
+    }
+  ]
+}

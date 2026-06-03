@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "elantra-lavita",
+  "name": "elantra-lavita",
+  "generations": [
+    {
+      "slug": "elantra-lavita-0",
+      "name": "elantra-lavita 1",
+      "year_start": 2001,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elantra-lavita/fc-2001-2003.webp"
+      }
+    }
+  ]
+}

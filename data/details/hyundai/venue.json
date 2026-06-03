@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "venue",
+  "name": "venue",
+  "generations": [
+    {
+      "slug": "venue-0",
+      "name": "venue 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/venue/qx-2019-now.webp"
+      }
+    },
+    {
+      "slug": "venue-1",
+      "name": "venue 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/venue/qx-2022-now.webp"
+      }
+    }
+  ]
+}

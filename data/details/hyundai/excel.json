@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "excel",
+  "name": "excel",
+  "generations": [
+    {
+      "slug": "excel-0",
+      "name": "excel 1",
+      "year_start": 1985,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/excel/x1-1985-1989.webp"
+      }
+    },
+    {
+      "slug": "excel-1",
+      "name": "excel 2",
+      "year_start": 1989,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/excel/x2-1989-1998.webp"
+      }
+    }
+  ]
+}

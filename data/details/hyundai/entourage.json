@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "entourage",
+  "name": "entourage",
+  "generations": [
+    {
+      "slug": "entourage-0",
+      "name": "entourage 1",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/entourage/vq-2006-2010.webp"
+      }
+    }
+  ]
+}

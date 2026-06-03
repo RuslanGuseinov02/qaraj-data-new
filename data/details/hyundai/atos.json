@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "atos",
+  "name": "atos",
+  "generations": [
+    {
+      "slug": "atos-0",
+      "name": "atos 1",
+      "year_start": 1997,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/atos/mx-1997-2003.webp"
+      }
+    },
+    {
+      "slug": "atos-1",
+      "name": "atos 2",
+      "year_start": 2004,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/atos/mx-2004-2011.webp"
+      }
+    }
+  ]
+}

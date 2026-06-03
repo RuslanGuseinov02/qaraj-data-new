@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "celesta",
+  "name": "celesta",
+  "generations": [
+    {
+      "slug": "celesta-0",
+      "name": "celesta 1",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/celesta/id-2017-2023.webp"
+      }
+    }
+  ]
+}

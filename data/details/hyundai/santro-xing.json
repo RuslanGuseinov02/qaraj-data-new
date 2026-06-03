@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "santro-xing",
+  "name": "santro-xing",
+  "generations": [
+    {
+      "slug": "santro-xing-0",
+      "name": "santro-xing 1",
+      "year_start": 2003,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/santro-xing/mx-2003-2014.webp"
+      }
+    }
+  ]
+}

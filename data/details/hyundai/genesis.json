@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "genesis",
+  "name": "genesis",
+  "generations": [
+    {
+      "slug": "genesis-0",
+      "name": "genesis 1",
+      "year_start": 2008,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/genesis/bh-2008-2014.webp"
+      }
+    },
+    {
+      "slug": "genesis-1",
+      "name": "genesis 2",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/genesis/dh-2013-2017.webp"
+      }
+    }
+  ]
+}

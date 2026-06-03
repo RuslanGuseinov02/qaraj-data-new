@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "i30",
+  "name": "i30",
+  "generations": [
+    {
+      "slug": "i30-0",
+      "name": "i30 1",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i30/fd-2007-2012.webp"
+      }
+    },
+    {
+      "slug": "i30-1",
+      "name": "i30 2",
+      "year_start": 2012,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i30/gd-2012-2017.webp"
+      }
+    },
+    {
+      "slug": "i30-2",
+      "name": "i30 3",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i30/pd-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "i30-3",
+      "name": "i30 4",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i30/pd-2020-2025.webp"
+      }
+    },
+    {
+      "slug": "i30-4",
+      "name": "i30 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i30/pd-2024-now.webp"
+      }
+    }
+  ]
+}

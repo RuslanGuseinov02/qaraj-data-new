@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "verna-rv",
+  "name": "verna-rv",
+  "generations": [
+    {
+      "slug": "verna-rv-0",
+      "name": "verna-rv 1",
+      "year_start": 2017,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/verna-rv/hc-2017-2019.webp"
+      }
+    }
+  ]
+}

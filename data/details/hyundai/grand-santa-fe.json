@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "grand-santa-fe",
+  "name": "grand-santa-fe",
+  "generations": [
+    {
+      "slug": "grand-santa-fe-0",
+      "name": "grand-santa-fe 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/grand-santa-fe/dm-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "grand-santa-fe-1",
+      "name": "grand-santa-fe 2",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/grand-santa-fe/dm-2016-2020.webp"
+      }
+    }
+  ]
+}

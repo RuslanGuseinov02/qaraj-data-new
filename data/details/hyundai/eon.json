@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "eon",
+  "name": "eon",
+  "generations": [
+    {
+      "slug": "eon-0",
+      "name": "eon 1",
+      "year_start": 2011,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/eon/sa-2011-2019.webp"
+      }
+    }
+  ]
+}

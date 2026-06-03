@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "tiburon",
+  "name": "tiburon",
+  "generations": [
+    {
+      "slug": "tiburon-0",
+      "name": "tiburon 1",
+      "year_start": 2003,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/tiburon/gk-2003-2004.webp"
+      }
+    },
+    {
+      "slug": "tiburon-1",
+      "name": "tiburon 2",
+      "year_start": 2005,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/tiburon/gk-2005-2006.webp"
+      }
+    },
+    {
+      "slug": "tiburon-2",
+      "name": "tiburon 3",
+      "year_start": 2007,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/tiburon/gk-2007-2008.webp"
+      }
+    },
+    {
+      "slug": "tiburon-3",
+      "name": "tiburon 4",
+      "year_start": 1996,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/tiburon/rd-1996-1999.webp"
+      }
+    },
+    {
+      "slug": "tiburon-4",
+      "name": "tiburon 5",
+      "year_start": 1999,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/tiburon/rd2-1999-2001.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "kona-n",
+  "name": "kona-n",
+  "generations": [
+    {
+      "slug": "kona-n-0",
+      "name": "kona-n 1",
+      "year_start": 2021,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/kona-n/os-2021-2023.webp"
+      }
+    }
+  ]
+}

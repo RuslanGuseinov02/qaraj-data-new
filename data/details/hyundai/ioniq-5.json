@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "ioniq-5",
+  "name": "ioniq-5",
+  "generations": [
+    {
+      "slug": "ioniq-5-0",
+      "name": "ioniq-5 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/ioniq-5/ne-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "ioniq-5-1",
+      "name": "ioniq-5 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/ioniq-5/ne-2024-now.webp"
+      }
+    }
+  ]
+}

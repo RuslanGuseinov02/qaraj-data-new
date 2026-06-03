@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "galloper",
+  "name": "galloper",
+  "generations": [
+    {
+      "slug": "galloper-0",
+      "name": "galloper 1",
+      "year_start": 1991,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/galloper/1991-1997.webp"
+      }
+    },
+    {
+      "slug": "galloper-1",
+      "name": "galloper 2",
+      "year_start": 1997,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/galloper/1997-2003.webp"
+      }
+    }
+  ]
+}

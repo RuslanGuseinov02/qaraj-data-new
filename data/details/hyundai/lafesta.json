@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "lafesta",
+  "name": "lafesta",
+  "generations": [
+    {
+      "slug": "lafesta-0",
+      "name": "lafesta 1",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/lafesta/sq-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "lafesta-1",
+      "name": "lafesta 2",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/lafesta/sq-2023-2025.webp"
+      }
+    }
+  ]
+}

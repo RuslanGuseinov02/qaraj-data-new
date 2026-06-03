@@ -1,0 +1,140 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "elantra",
+  "name": "elantra",
+  "generations": [
+    {
+      "slug": "elantra-0",
+      "name": "elantra 1",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elantra/ad-2016-2019.webp"
+      }
+    },
+    {
+      "slug": "elantra-1",
+      "name": "elantra 2",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elantra/ad-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "elantra-2",
+      "name": "elantra 3",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elantra/cn7-2020-2024.webp"
+      }
+    },
+    {
+      "slug": "elantra-3",
+      "name": "elantra 4",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elantra/cn7-2023-now.webp"
+      }
+    },
+    {
+      "slug": "elantra-4",
+      "name": "elantra 5",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elantra/hd-2006-2011.webp"
+      }
+    },
+    {
+      "slug": "elantra-5",
+      "name": "elantra 6",
+      "year_start": 1990,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elantra/j1-1990-1993.webp"
+      }
+    },
+    {
+      "slug": "elantra-6",
+      "name": "elantra 7",
+      "year_start": 1993,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elantra/j1-1993-1995.webp"
+      }
+    },
+    {
+      "slug": "elantra-7",
+      "name": "elantra 8",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elantra/j2-rd-1995-1998.webp"
+      }
+    },
+    {
+      "slug": "elantra-8",
+      "name": "elantra 9",
+      "year_start": 1998,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elantra/j2-rd-1998-2000.webp"
+      }
+    },
+    {
+      "slug": "elantra-9",
+      "name": "elantra 10",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elantra/md-jk-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "elantra-10",
+      "name": "elantra 11",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elantra/md-ud-2010-2013.webp"
+      }
+    },
+    {
+      "slug": "elantra-11",
+      "name": "elantra 12",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elantra/xd-2000-2003.webp"
+      }
+    },
+    {
+      "slug": "elantra-12",
+      "name": "elantra 13",
+      "year_start": 2003,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elantra/xd-2003-2010.webp"
+      }
+    }
+  ]
+}

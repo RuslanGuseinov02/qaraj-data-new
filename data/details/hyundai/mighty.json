@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "mighty",
+  "name": "mighty",
+  "generations": [
+    {
+      "slug": "mighty-0",
+      "name": "mighty 1",
+      "year_start": 1997,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/mighty/1997-2015.webp"
+      }
+    },
+    {
+      "slug": "mighty-1",
+      "name": "mighty 2",
+      "year_start": 2015,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/mighty/2015-2025.webp"
+      }
+    }
+  ]
+}

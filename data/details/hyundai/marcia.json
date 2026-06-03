@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "marcia",
+  "name": "marcia",
+  "generations": [
+    {
+      "slug": "marcia-0",
+      "name": "marcia 1",
+      "year_start": 1995,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/marcia/h-1995-1997.webp"
+      }
+    },
+    {
+      "slug": "marcia-1",
+      "name": "marcia 2",
+      "year_start": 1997,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/marcia/h-1997-1998.webp"
+      }
+    }
+  ]
+}

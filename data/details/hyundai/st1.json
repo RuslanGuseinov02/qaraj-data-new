@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "st1",
+  "name": "st1",
+  "generations": [
+    {
+      "slug": "st1-0",
+      "name": "st1 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/st1/a01-2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "elite-i20",
+  "name": "elite-i20",
+  "generations": [
+    {
+      "slug": "elite-i20-0",
+      "name": "elite-i20 1",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elite-i20/gb-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "elite-i20-1",
+      "name": "elite-i20 2",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elite-i20/gb-2018-2020.webp"
+      }
+    }
+  ]
+}

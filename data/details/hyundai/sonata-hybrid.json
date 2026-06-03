@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "sonata-hybrid",
+  "name": "sonata-hybrid",
+  "generations": [
+    {
+      "slug": "sonata-hybrid-0",
+      "name": "sonata-hybrid 1",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/sonata-hybrid/dn8-2020-2024.webp"
+      }
+    },
+    {
+      "slug": "sonata-hybrid-1",
+      "name": "sonata-hybrid 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/sonata-hybrid/dn8-2023-now.webp"
+      }
+    },
+    {
+      "slug": "sonata-hybrid-2",
+      "name": "sonata-hybrid 3",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/sonata-hybrid/lf-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "sonata-hybrid-3",
+      "name": "sonata-hybrid 4",
+      "year_start": 2018,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/sonata-hybrid/lf-2018-2019.webp"
+      }
+    },
+    {
+      "slug": "sonata-hybrid-4",
+      "name": "sonata-hybrid 5",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/sonata-hybrid/yf-2010-2015.webp"
+      }
+    }
+  ]
+}

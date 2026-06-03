@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "nf",
+  "name": "nf",
+  "generations": [
+    {
+      "slug": "nf-0",
+      "name": "nf 1",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/nf/2004-2008.webp"
+      }
+    }
+  ]
+}

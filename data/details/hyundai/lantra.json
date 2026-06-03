@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "lantra",
+  "name": "lantra",
+  "generations": [
+    {
+      "slug": "lantra-0",
+      "name": "lantra 1",
+      "year_start": 1990,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/lantra/j1-1990-1993.webp"
+      }
+    },
+    {
+      "slug": "lantra-1",
+      "name": "lantra 2",
+      "year_start": 1993,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/lantra/j1-1993-1995.webp"
+      }
+    },
+    {
+      "slug": "lantra-2",
+      "name": "lantra 3",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/lantra/j2-1995-1998.webp"
+      }
+    },
+    {
+      "slug": "lantra-3",
+      "name": "lantra 4",
+      "year_start": 1998,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/lantra/j3-1998-2000.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "coupe",
+  "name": "coupe",
+  "generations": [
+    {
+      "slug": "coupe-0",
+      "name": "coupe 1",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/coupe/gk-2002-2005.webp"
+      }
+    },
+    {
+      "slug": "coupe-1",
+      "name": "coupe 2",
+      "year_start": 2005,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/coupe/gk-2005-2006.webp"
+      }
+    },
+    {
+      "slug": "coupe-2",
+      "name": "coupe 3",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/coupe/gk-2007-2009.webp"
+      }
+    },
+    {
+      "slug": "coupe-3",
+      "name": "coupe 4",
+      "year_start": 1996,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/coupe/rd-1996-1999.webp"
+      }
+    },
+    {
+      "slug": "coupe-4",
+      "name": "coupe 5",
+      "year_start": 1999,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/coupe/rd2-1999-2002.webp"
+      }
+    }
+  ]
+}

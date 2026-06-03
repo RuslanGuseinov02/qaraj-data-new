@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "i25",
+  "name": "i25",
+  "generations": [
+    {
+      "slug": "i25-0",
+      "name": "i25 1",
+      "year_start": 2012,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i25/rb-2012-2018.webp"
+      }
+    }
+  ]
+}

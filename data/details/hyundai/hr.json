@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "hr",
+  "name": "hr",
+  "generations": [
+    {
+      "slug": "hr-0",
+      "name": "hr 1",
+      "year_start": 2005,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/hr/hr-2005-2021.webp"
+      }
+    },
+    {
+      "slug": "hr-1",
+      "name": "hr 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/hr/hr-2021-now.webp"
+      }
+    }
+  ]
+}

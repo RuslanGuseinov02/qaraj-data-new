@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "accent",
+  "name": "accent",
+  "generations": [
+    {
+      "slug": "accent-0",
+      "name": "accent 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/accent/bn7-2023-now.webp"
+      }
+    },
+    {
+      "slug": "accent-1",
+      "name": "accent 2",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/accent/hc-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "accent-2",
+      "name": "accent 3",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/accent/hc-yc-2017-2022.webp"
+      }
+    },
+    {
+      "slug": "accent-3",
+      "name": "accent 4",
+      "year_start": 1999,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/accent/lc-1999-2012.webp"
+      }
+    },
+    {
+      "slug": "accent-4",
+      "name": "accent 5",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/accent/lc2-2003-2006.webp"
+      }
+    },
+    {
+      "slug": "accent-5",
+      "name": "accent 6",
+      "year_start": 2005,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/accent/mc-2005-2011.webp"
+      }
+    },
+    {
+      "slug": "accent-6",
+      "name": "accent 7",
+      "year_start": 2010,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/accent/rb-rc-2010-2023.webp"
+      }
+    },
+    {
+      "slug": "accent-7",
+      "name": "accent 8",
+      "year_start": 1994,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/accent/x3-1994-1999.webp"
+      }
+    }
+  ]
+}

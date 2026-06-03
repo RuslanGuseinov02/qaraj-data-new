@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "i30-fastback",
+  "name": "i30-fastback",
+  "generations": [
+    {
+      "slug": "i30-fastback-0",
+      "name": "i30-fastback 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i30-fastback/pd-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "i30-fastback-1",
+      "name": "i30-fastback 2",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i30-fastback/pd-2020-2024.webp"
+      }
+    }
+  ]
+}

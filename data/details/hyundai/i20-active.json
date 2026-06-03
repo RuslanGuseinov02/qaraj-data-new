@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "i20-active",
+  "name": "i20-active",
+  "generations": [
+    {
+      "slug": "i20-active-0",
+      "name": "i20-active 1",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/i20-active/gb-2015-2020.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "kona",
+  "name": "kona",
+  "generations": [
+    {
+      "slug": "kona-0",
+      "name": "kona 1",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/kona/os-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "kona-1",
+      "name": "kona 2",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/kona/os-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "kona-2",
+      "name": "kona 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/kona/sx2-2023-now.webp"
+      }
+    }
+  ]
+}

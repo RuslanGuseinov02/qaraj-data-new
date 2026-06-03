@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "solati",
+  "name": "solati",
+  "generations": [
+    {
+      "slug": "solati-0",
+      "name": "solati 1",
+      "year_start": 2014,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/solati/2014-2025.webp"
+      }
+    }
+  ]
+}

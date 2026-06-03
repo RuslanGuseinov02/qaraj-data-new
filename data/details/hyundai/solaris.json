@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "solaris",
+  "name": "solaris",
+  "generations": [
+    {
+      "slug": "solaris-0",
+      "name": "solaris 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/solaris/hcr-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "solaris-1",
+      "name": "solaris 2",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/solaris/hcr-2020-2022.webp"
+      }
+    },
+    {
+      "slug": "solaris-2",
+      "name": "solaris 3",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/solaris/rbr-2011-2014.webp"
+      }
+    },
+    {
+      "slug": "solaris-3",
+      "name": "solaris 4",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/solaris/rbr-2014-2017.webp"
+      }
+    }
+  ]
+}

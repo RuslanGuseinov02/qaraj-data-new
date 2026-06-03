@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "elantra-ev",
+  "name": "elantra-ev",
+  "generations": [
+    {
+      "slug": "elantra-ev-0",
+      "name": "elantra-ev 1",
+      "year_start": 2017,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elantra-ev/2017-2018.webp"
+      }
+    }
+  ]
+}

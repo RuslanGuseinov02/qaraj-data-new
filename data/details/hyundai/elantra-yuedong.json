@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "elantra-yuedong",
+  "name": "elantra-yuedong",
+  "generations": [
+    {
+      "slug": "elantra-yuedong-0",
+      "name": "elantra-yuedong 1",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elantra-yuedong/hd-2008-2010.webp"
+      }
+    },
+    {
+      "slug": "elantra-yuedong-1",
+      "name": "elantra-yuedong 2",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elantra-yuedong/hd-2011-2014.webp"
+      }
+    },
+    {
+      "slug": "elantra-yuedong-2",
+      "name": "elantra-yuedong 3",
+      "year_start": 2015,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/elantra-yuedong/hd-2015-2016.webp"
+      }
+    }
+  ]
+}

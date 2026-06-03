@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "jm",
+  "name": "jm",
+  "generations": [
+    {
+      "slug": "jm-0",
+      "name": "jm 1",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/jm/2004-2010.webp"
+      }
+    }
+  ]
+}

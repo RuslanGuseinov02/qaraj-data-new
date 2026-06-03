@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "kauai",
+  "name": "kauai",
+  "generations": [
+    {
+      "slug": "kauai-0",
+      "name": "kauai 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/kauai/os-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "kauai-1",
+      "name": "kauai 2",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/kauai/os-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "kauai-2",
+      "name": "kauai 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/kauai/sx2-2023-now.webp"
+      }
+    }
+  ]
+}

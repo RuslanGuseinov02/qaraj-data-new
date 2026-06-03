@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "xg350",
+  "name": "xg350",
+  "generations": [
+    {
+      "slug": "xg350-0",
+      "name": "xg350 1",
+      "year_start": 2002,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/xg350/2002-2003.webp"
+      }
+    },
+    {
+      "slug": "xg350-1",
+      "name": "xg350 2",
+      "year_start": 2004,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/xg350/2004-2005.webp"
+      }
+    }
+  ]
+}

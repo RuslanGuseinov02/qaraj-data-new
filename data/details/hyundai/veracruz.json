@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "veracruz",
+  "name": "veracruz",
+  "generations": [
+    {
+      "slug": "veracruz-0",
+      "name": "veracruz 1",
+      "year_start": 2006,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/veracruz/en-2006-2015.webp"
+      }
+    }
+  ]
+}

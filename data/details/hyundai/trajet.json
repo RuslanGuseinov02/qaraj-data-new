@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "trajet",
+  "name": "trajet",
+  "generations": [
+    {
+      "slug": "trajet-0",
+      "name": "trajet 1",
+      "year_start": 2000,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/trajet/fo-2000-2008.webp"
+      }
+    }
+  ]
+}

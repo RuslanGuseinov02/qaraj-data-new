@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "grand-starex",
+  "name": "grand-starex",
+  "generations": [
+    {
+      "slug": "grand-starex-0",
+      "name": "grand-starex 1",
+      "year_start": 2007,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/grand-starex/tq-2007-2018.webp"
+      }
+    },
+    {
+      "slug": "grand-starex-1",
+      "name": "grand-starex 2",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/grand-starex/tq-2018-2021.webp"
+      }
+    }
+  ]
+}

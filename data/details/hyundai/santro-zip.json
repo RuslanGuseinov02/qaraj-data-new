@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "santro-zip",
+  "name": "santro-zip",
+  "generations": [
+    {
+      "slug": "santro-zip-0",
+      "name": "santro-zip 1",
+      "year_start": 1999,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/santro-zip/mx-1999-2003.webp"
+      }
+    }
+  ]
+}

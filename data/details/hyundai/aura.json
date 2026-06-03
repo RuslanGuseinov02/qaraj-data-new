@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "aura",
+  "name": "aura",
+  "generations": [
+    {
+      "slug": "aura-0",
+      "name": "aura 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/aura/al3-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "aura-1",
+      "name": "aura 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/aura/al3-2023-now.webp"
+      }
+    }
+  ]
+}

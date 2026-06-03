@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "avante",
+  "name": "avante",
+  "generations": [
+    {
+      "slug": "avante-0",
+      "name": "avante 1",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/avante/ad-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "avante-1",
+      "name": "avante 2",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/avante/ad-2018-2020.webp"
+      }
+    },
+    {
+      "slug": "avante-2",
+      "name": "avante 3",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/avante/cn7-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "avante-3",
+      "name": "avante 4",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/avante/cn7-2023-now.webp"
+      }
+    },
+    {
+      "slug": "avante-4",
+      "name": "avante 5",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/avante/hd-2006-2010.webp"
+      }
+    },
+    {
+      "slug": "avante-5",
+      "name": "avante 6",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/avante/j2-rd-1995-2000.webp"
+      }
+    },
+    {
+      "slug": "avante-6",
+      "name": "avante 7",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/avante/md-jk-2013-2015.webp"
+      }
+    },
+    {
+      "slug": "avante-7",
+      "name": "avante 8",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/avante/md-ud-2010-2013.webp"
+      }
+    },
+    {
+      "slug": "avante-8",
+      "name": "avante 9",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/avante/xd-2000-2006.webp"
+      }
+    }
+  ]
+}

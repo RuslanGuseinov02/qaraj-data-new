@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "grand-i10",
+  "name": "grand-i10",
+  "generations": [
+    {
+      "slug": "grand-i10-0",
+      "name": "grand-i10 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/grand-i10/ai3-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "grand-i10-1",
+      "name": "grand-i10 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/grand-i10/ai3-2023-now.webp"
+      }
+    },
+    {
+      "slug": "grand-i10-2",
+      "name": "grand-i10 3",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/grand-i10/ba-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "grand-i10-3",
+      "name": "grand-i10 4",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/grand-i10/ba-2017-2020.webp"
+      }
+    }
+  ]
+}

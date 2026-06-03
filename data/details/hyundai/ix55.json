@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "ix55",
+  "name": "ix55",
+  "generations": [
+    {
+      "slug": "ix55-0",
+      "name": "ix55 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/ix55/2008-2012.webp"
+      }
+    }
+  ]
+}

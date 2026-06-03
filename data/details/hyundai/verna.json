@@ -1,0 +1,120 @@
+{
+  "make": {
+    "slug": "hyundai",
+    "name": "HYUNDAI"
+  },
+  "slug": "verna",
+  "name": "verna",
+  "generations": [
+    {
+      "slug": "verna-0",
+      "name": "verna 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/verna/bn7-2023-now.webp"
+      }
+    },
+    {
+      "slug": "verna-1",
+      "name": "verna 2",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/verna/hci-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "verna-2",
+      "name": "verna 3",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/verna/hci-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "verna-3",
+      "name": "verna 4",
+      "year_start": 1999,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/verna/lc-1999-2005.webp"
+      }
+    },
+    {
+      "slug": "verna-4",
+      "name": "verna 5",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/verna/mc-2005-2010.webp"
+      }
+    },
+    {
+      "slug": "verna-5",
+      "name": "verna 6",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/verna/rb-2010-2015.webp"
+      }
+    },
+    {
+      "slug": "verna-6",
+      "name": "verna 7",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/verna/rb-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "verna-7",
+      "name": "verna 8",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/verna/rc-2010-2015.webp"
+      }
+    },
+    {
+      "slug": "verna-8",
+      "name": "verna 9",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/verna/rc-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "verna-9",
+      "name": "verna 10",
+      "year_start": 2017,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/verna/yc-2017-2019.webp"
+      }
+    },
+    {
+      "slug": "verna-10",
+      "name": "verna 11",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hyundai/verna/yc-2019-2022.webp"
+      }
+    }
+  ]
+}
