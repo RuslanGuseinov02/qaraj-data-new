@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "delica-van",
+  "name": "delica-van",
+  "generations": [
+    {
+      "slug": "delica-van-0",
+      "name": "delica-van 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/delica-van/2019-now.webp"
+      }
+    },
+    {
+      "slug": "delica-van-1",
+      "name": "delica-van 2",
+      "year_start": 2011,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/delica-van/bvm-2011-2019.webp"
+      }
+    },
+    {
+      "slug": "delica-van-2",
+      "name": "delica-van 3",
+      "year_start": 1999,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/delica-van/sk-1999-2011.webp"
+      }
+    }
+  ]
+}

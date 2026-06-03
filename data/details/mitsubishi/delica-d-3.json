@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "delica-d-3",
+  "name": "delica-d-3",
+  "generations": [
+    {
+      "slug": "delica-d-3-0",
+      "name": "delica-d-3 1",
+      "year_start": 2011,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/delica-d-3/bm-2011-2019.webp"
+      }
+    }
+  ]
+}

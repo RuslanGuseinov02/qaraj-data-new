@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "xpander-cross",
+  "name": "xpander-cross",
+  "generations": [
+    {
+      "slug": "xpander-cross-0",
+      "name": "xpander-cross 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/xpander-cross/nc-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "xpander-cross-1",
+      "name": "xpander-cross 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/xpander-cross/nc-2022-now.webp"
+      }
+    }
+  ]
+}

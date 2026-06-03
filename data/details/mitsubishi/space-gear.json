@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "space-gear",
+  "name": "space-gear",
+  "generations": [
+    {
+      "slug": "space-gear-0",
+      "name": "space-gear 1",
+      "year_start": 1995,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/space-gear/l400-1995-2002.webp"
+      }
+    }
+  ]
+}

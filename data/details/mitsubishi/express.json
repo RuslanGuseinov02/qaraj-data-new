@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "express",
+  "name": "express",
+  "generations": [
+    {
+      "slug": "express-0",
+      "name": "express 1",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/express/x82-2020-2022.webp"
+      }
+    }
+  ]
+}

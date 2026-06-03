@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "magna",
+  "name": "magna",
+  "generations": [
+    {
+      "slug": "magna-0",
+      "name": "magna 1",
+      "year_start": 1996,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/magna/te-tf-1996-1999.webp"
+      }
+    },
+    {
+      "slug": "magna-1",
+      "name": "magna 2",
+      "year_start": 1999,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/magna/th-tj-1999-2003.webp"
+      }
+    },
+    {
+      "slug": "magna-2",
+      "name": "magna 3",
+      "year_start": 2003,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/magna/tl-tw-2003-2005.webp"
+      }
+    },
+    {
+      "slug": "magna-3",
+      "name": "magna 4",
+      "year_start": 1991,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/magna/tr-ts-1991-1996.webp"
+      }
+    }
+  ]
+}

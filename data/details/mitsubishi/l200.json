@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "l200",
+  "name": "l200",
+  "generations": [
+    {
+      "slug": "l200-0",
+      "name": "l200 1",
+      "year_start": 1986,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/l200/k00-k10-k20-k30-1986-1996.webp"
+      }
+    },
+    {
+      "slug": "l200-1",
+      "name": "l200 2",
+      "year_start": 1996,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/l200/k50-k60-k70-1996-2005.webp"
+      }
+    },
+    {
+      "slug": "l200-2",
+      "name": "l200 3",
+      "year_start": 2005,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/l200/ka-kb-2005-2015.webp"
+      }
+    },
+    {
+      "slug": "l200-3",
+      "name": "l200 4",
+      "year_start": 2015,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/l200/kj-kk-kl-2015-2023.webp"
+      }
+    },
+    {
+      "slug": "l200-4",
+      "name": "l200 5",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/l200/kj-kk-kl-2019-now.webp"
+      }
+    },
+    {
+      "slug": "l200-5",
+      "name": "l200 6",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/l200/lc-mv-2023-now.webp"
+      }
+    }
+  ]
+}

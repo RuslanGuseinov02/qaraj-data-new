@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "colt",
+  "name": "colt",
+  "generations": [
+    {
+      "slug": "colt-0",
+      "name": "colt 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/colt/2023-now.webp"
+      }
+    },
+    {
+      "slug": "colt-1",
+      "name": "colt 2",
+      "year_start": 1991,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/colt/ca-1991-1995.webp"
+      }
+    },
+    {
+      "slug": "colt-2",
+      "name": "colt 3",
+      "year_start": 1996,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/colt/cj-1996-2003.webp"
+      }
+    },
+    {
+      "slug": "colt-3",
+      "name": "colt 4",
+      "year_start": 2002,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/colt/z20-z30-2002-2008.webp"
+      }
+    },
+    {
+      "slug": "colt-4",
+      "name": "colt 5",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/colt/z20-z30-2009-2012.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "grand-lancer",
+  "name": "grand-lancer",
+  "generations": [
+    {
+      "slug": "grand-lancer-0",
+      "name": "grand-lancer 1",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/grand-lancer/2017-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "lancer-wagon",
+  "name": "lancer-wagon",
+  "generations": [
+    {
+      "slug": "lancer-wagon-0",
+      "name": "lancer-wagon 1",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/lancer-wagon/csw-2003-2007.webp"
+      }
+    }
+  ]
+}

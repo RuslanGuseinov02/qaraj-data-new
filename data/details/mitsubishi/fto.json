@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "fto",
+  "name": "fto",
+  "generations": [
+    {
+      "slug": "fto-0",
+      "name": "fto 1",
+      "year_start": 1994,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/fto/de-1994-1997.webp"
+      }
+    },
+    {
+      "slug": "fto-1",
+      "name": "fto 2",
+      "year_start": 1997,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/fto/de-1997-2001.webp"
+      }
+    }
+  ]
+}

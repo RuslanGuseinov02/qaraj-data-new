@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "outlander-xl",
+  "name": "outlander-xl",
+  "generations": [
+    {
+      "slug": "outlander-xl-0",
+      "name": "outlander-xl 1",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/outlander-xl/2006-2009.webp"
+      }
+    },
+    {
+      "slug": "outlander-xl-1",
+      "name": "outlander-xl 2",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/outlander-xl/2009-2012.webp"
+      }
+    }
+  ]
+}

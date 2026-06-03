@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "l300",
+  "name": "l300",
+  "generations": [
+    {
+      "slug": "l300-0",
+      "name": "l300 1",
+      "year_start": 1987,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/l300/1987-2013.webp"
+      }
+    },
+    {
+      "slug": "l300-1",
+      "name": "l300 2",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/l300/2019-now.webp"
+      }
+    }
+  ]
+}

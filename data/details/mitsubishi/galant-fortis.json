@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "galant-fortis",
+  "name": "galant-fortis",
+  "generations": [
+    {
+      "slug": "galant-fortis-0",
+      "name": "galant-fortis 1",
+      "year_start": 2007,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/galant-fortis/cy-2007-2015.webp"
+      }
+    }
+  ]
+}

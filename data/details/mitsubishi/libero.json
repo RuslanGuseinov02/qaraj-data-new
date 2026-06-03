@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "libero",
+  "name": "libero",
+  "generations": [
+    {
+      "slug": "libero-0",
+      "name": "libero 1",
+      "year_start": 1992,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/libero/cb-cd-1992-2002.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "galant",
+  "name": "galant",
+  "generations": [
+    {
+      "slug": "galant-0",
+      "name": "galant 1",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/galant/2004-2006.webp"
+      }
+    },
+    {
+      "slug": "galant-1",
+      "name": "galant 2",
+      "year_start": 2007,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/galant/2007-2008.webp"
+      }
+    },
+    {
+      "slug": "galant-2",
+      "name": "galant 3",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/galant/2009-2014.webp"
+      }
+    },
+    {
+      "slug": "galant-3",
+      "name": "galant 4",
+      "year_start": 1987,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/galant/e3-1987-1992.webp"
+      }
+    },
+    {
+      "slug": "galant-4",
+      "name": "galant 5",
+      "year_start": 1992,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/galant/e5-e7-e8-1992-1996.webp"
+      }
+    },
+    {
+      "slug": "galant-5",
+      "name": "galant 6",
+      "year_start": 1996,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/galant/ea-ec-1996-2005.webp"
+      }
+    },
+    {
+      "slug": "galant-6",
+      "name": "galant 7",
+      "year_start": 1998,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/galant/ea-ec-1998-2003.webp"
+      }
+    }
+  ]
+}

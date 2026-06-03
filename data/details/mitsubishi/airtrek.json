@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "airtrek",
+  "name": "airtrek",
+  "generations": [
+    {
+      "slug": "airtrek-0",
+      "name": "airtrek 1",
+      "year_start": 2021,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/airtrek/2021-2023.webp"
+      }
+    },
+    {
+      "slug": "airtrek-1",
+      "name": "airtrek 2",
+      "year_start": 2001,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/airtrek/cu-2001-2002.webp"
+      }
+    },
+    {
+      "slug": "airtrek-2",
+      "name": "airtrek 3",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/airtrek/cu-2002-2005.webp"
+      }
+    }
+  ]
+}

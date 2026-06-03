@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "minicab-miev",
+  "name": "minicab-miev",
+  "generations": [
+    {
+      "slug": "minicab-miev-0",
+      "name": "minicab-miev 1",
+      "year_start": 2011,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/minicab-miev/u60-2011-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "carisma",
+  "name": "carisma",
+  "generations": [
+    {
+      "slug": "carisma-0",
+      "name": "carisma 1",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/carisma/da-1995-1999.webp"
+      }
+    },
+    {
+      "slug": "carisma-1",
+      "name": "carisma 2",
+      "year_start": 2000,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/carisma/da-2000-2004.webp"
+      }
+    }
+  ]
+}

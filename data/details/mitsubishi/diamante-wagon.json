@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "diamante-wagon",
+  "name": "diamante-wagon",
+  "generations": [
+    {
+      "slug": "diamante-wagon-0",
+      "name": "diamante-wagon 1",
+      "year_start": 1997,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/diamante-wagon/f3-1997-2001.webp"
+      }
+    },
+    {
+      "slug": "diamante-wagon-1",
+      "name": "diamante-wagon 2",
+      "year_start": 1993,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/diamante-wagon/k4-1993-1996.webp"
+      }
+    }
+  ]
+}

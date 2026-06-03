@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "asx",
+  "name": "asx",
+  "generations": [
+    {
+      "slug": "asx-0",
+      "name": "asx 1",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/asx/2010-2012.webp"
+      }
+    },
+    {
+      "slug": "asx-1",
+      "name": "asx 2",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/asx/2013-2016.webp"
+      }
+    },
+    {
+      "slug": "asx-2",
+      "name": "asx 3",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/asx/2017-2021.webp"
+      }
+    },
+    {
+      "slug": "asx-3",
+      "name": "asx 4",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/asx/2019-now.webp"
+      }
+    },
+    {
+      "slug": "asx-4",
+      "name": "asx 5",
+      "year_start": 2023,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/asx/2023-2024.webp"
+      }
+    },
+    {
+      "slug": "asx-5",
+      "name": "asx 6",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/asx/2024-now.webp"
+      }
+    }
+  ]
+}

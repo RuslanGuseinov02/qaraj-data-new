@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "outlander-sport",
+  "name": "outlander-sport",
+  "generations": [
+    {
+      "slug": "outlander-sport-0",
+      "name": "outlander-sport 1",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/outlander-sport/2010-2012.webp"
+      }
+    },
+    {
+      "slug": "outlander-sport-1",
+      "name": "outlander-sport 2",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/outlander-sport/2013-2015.webp"
+      }
+    },
+    {
+      "slug": "outlander-sport-2",
+      "name": "outlander-sport 3",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/outlander-sport/2016-2020.webp"
+      }
+    },
+    {
+      "slug": "outlander-sport-3",
+      "name": "outlander-sport 4",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/outlander-sport/2021-now.webp"
+      }
+    },
+    {
+      "slug": "outlander-sport-4",
+      "name": "outlander-sport 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/outlander-sport/2024-now.webp"
+      }
+    }
+  ]
+}

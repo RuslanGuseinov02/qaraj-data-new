@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "toppo",
+  "name": "toppo",
+  "generations": [
+    {
+      "slug": "toppo-0",
+      "name": "toppo 1",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/toppo/h8-2008-2013.webp"
+      }
+    }
+  ]
+}

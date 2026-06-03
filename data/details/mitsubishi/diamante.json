@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "diamante",
+  "name": "diamante",
+  "generations": [
+    {
+      "slug": "diamante-0",
+      "name": "diamante 1",
+      "year_start": 1990,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/diamante/f1-f2-1990-1995.webp"
+      }
+    },
+    {
+      "slug": "diamante-1",
+      "name": "diamante 2",
+      "year_start": 1995,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/diamante/f3-f4-1995-2005.webp"
+      }
+    }
+  ]
+}

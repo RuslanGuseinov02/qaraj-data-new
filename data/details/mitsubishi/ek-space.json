@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "ek-space",
+  "name": "ek-space",
+  "generations": [
+    {
+      "slug": "ek-space-0",
+      "name": "ek-space 1",
+      "year_start": 2014,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/ek-space/b11-2014-2016.webp"
+      }
+    },
+    {
+      "slug": "ek-space-1",
+      "name": "ek-space 2",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/ek-space/b11-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "ek-space-2",
+      "name": "ek-space 3",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/ek-space/b3-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "ek-space-3",
+      "name": "ek-space 4",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/ek-space/b3-2023-now.webp"
+      }
+    }
+  ]
+}

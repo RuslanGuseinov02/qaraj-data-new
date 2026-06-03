@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "lancer",
+  "name": "lancer",
+  "generations": [
+    {
+      "slug": "lancer-0",
+      "name": "lancer 1",
+      "year_start": 1988,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/lancer/ca-1988-1991.webp"
+      }
+    },
+    {
+      "slug": "lancer-1",
+      "name": "lancer 2",
+      "year_start": 1991,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/lancer/cba-cda-1991-1995.webp"
+      }
+    },
+    {
+      "slug": "lancer-2",
+      "name": "lancer 3",
+      "year_start": 1995,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/lancer/ck-cm-1995-2002.webp"
+      }
+    },
+    {
+      "slug": "lancer-3",
+      "name": "lancer 4",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/lancer/cka-cma-1995-2000.webp"
+      }
+    },
+    {
+      "slug": "lancer-4",
+      "name": "lancer 5",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/lancer/cs-2000-2003.webp"
+      }
+    },
+    {
+      "slug": "lancer-5",
+      "name": "lancer 6",
+      "year_start": 2010,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/lancer/cs-2003-2010-8e.webp"
+      }
+    },
+    {
+      "slug": "lancer-6",
+      "name": "lancer 7",
+      "year_start": 2003,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/lancer/cs-2003-2010.webp"
+      }
+    },
+    {
+      "slug": "lancer-7",
+      "name": "lancer 8",
+      "year_start": 2007,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/lancer/cy-2007-2017.webp"
+      }
+    }
+  ]
+}

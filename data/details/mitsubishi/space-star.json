@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "space-star",
+  "name": "space-star",
+  "generations": [
+    {
+      "slug": "space-star-0",
+      "name": "space-star 1",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/space-star/a0-2012-2015.webp"
+      }
+    },
+    {
+      "slug": "space-star-1",
+      "name": "space-star 2",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/space-star/a0-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "space-star-2",
+      "name": "space-star 3",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/space-star/a0-2019-now.webp"
+      }
+    },
+    {
+      "slug": "space-star-3",
+      "name": "space-star 4",
+      "year_start": 1998,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/space-star/dg-1998-2004.webp"
+      }
+    }
+  ]
+}

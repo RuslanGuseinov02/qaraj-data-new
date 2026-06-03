@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "ek",
+  "name": "ek",
+  "generations": [
+    {
+      "slug": "ek-0",
+      "name": "ek 1",
+      "year_start": 2001,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/ek/h8-2001-2012.webp"
+      }
+    }
+  ]
+}

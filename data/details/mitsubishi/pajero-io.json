@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "pajero-io",
+  "name": "pajero-io",
+  "generations": [
+    {
+      "slug": "pajero-io-0",
+      "name": "pajero-io 1",
+      "year_start": 1998,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/pajero-io/h60-h70-1998-2007.webp"
+      }
+    }
+  ]
+}

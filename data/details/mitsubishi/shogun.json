@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "shogun",
+  "name": "shogun",
+  "generations": [
+    {
+      "slug": "shogun-0",
+      "name": "shogun 1",
+      "year_start": 2006,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/shogun/v80-v90-2006-2015.webp"
+      }
+    },
+    {
+      "slug": "shogun-1",
+      "name": "shogun 2",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/shogun/v80-v90-2015-2019.webp"
+      }
+    }
+  ]
+}

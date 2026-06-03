@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "jeep",
+  "name": "jeep",
+  "generations": [
+    {
+      "slug": "jeep-0",
+      "name": "jeep 1",
+      "year_start": 1986,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/jeep/j5-1986-1998.webp"
+      }
+    }
+  ]
+}

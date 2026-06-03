@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "eclipse",
+  "name": "eclipse",
+  "generations": [
+    {
+      "slug": "eclipse-0",
+      "name": "eclipse 1",
+      "year_start": 1990,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/eclipse/d2-1990-1995.webp"
+      }
+    },
+    {
+      "slug": "eclipse-1",
+      "name": "eclipse 2",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/eclipse/d3-1995-1999.webp"
+      }
+    },
+    {
+      "slug": "eclipse-2",
+      "name": "eclipse 3",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/eclipse/gs-2006-2008.webp"
+      }
+    },
+    {
+      "slug": "eclipse-3",
+      "name": "eclipse 4",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/eclipse/gs-2009-2012.webp"
+      }
+    },
+    {
+      "slug": "eclipse-4",
+      "name": "eclipse 5",
+      "year_start": 2000,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/eclipse/st-2000-2005.webp"
+      }
+    }
+  ]
+}

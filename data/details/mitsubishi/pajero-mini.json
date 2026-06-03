@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "pajero-mini",
+  "name": "pajero-mini",
+  "generations": [
+    {
+      "slug": "pajero-mini-0",
+      "name": "pajero-mini 1",
+      "year_start": 1994,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/pajero-mini/h51-h56-1994-1999.webp"
+      }
+    },
+    {
+      "slug": "pajero-mini-1",
+      "name": "pajero-mini 2",
+      "year_start": 1998,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/pajero-mini/h53-h58-1998-2005.webp"
+      }
+    },
+    {
+      "slug": "pajero-mini-2",
+      "name": "pajero-mini 3",
+      "year_start": 2005,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/pajero-mini/h53-h58-2005-2012.webp"
+      }
+    }
+  ]
+}

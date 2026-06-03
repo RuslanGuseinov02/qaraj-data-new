@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "ek-wagon",
+  "name": "ek-wagon",
+  "generations": [
+    {
+      "slug": "ek-wagon-0",
+      "name": "ek-wagon 1",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/ek-wagon/b11-2013-2015.webp"
+      }
+    },
+    {
+      "slug": "ek-wagon-1",
+      "name": "ek-wagon 2",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/ek-wagon/b11-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "ek-wagon-2",
+      "name": "ek-wagon 3",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/ek-wagon/b3-2019-now.webp"
+      }
+    },
+    {
+      "slug": "ek-wagon-3",
+      "name": "ek-wagon 4",
+      "year_start": 2001,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/ek-wagon/h81-2001-2006.webp"
+      }
+    },
+    {
+      "slug": "ek-wagon-4",
+      "name": "ek-wagon 5",
+      "year_start": 2006,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/ek-wagon/h82-2006-2013.webp"
+      }
+    }
+  ]
+}

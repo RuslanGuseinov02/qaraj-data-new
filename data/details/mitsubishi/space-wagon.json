@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "space-wagon",
+  "name": "space-wagon",
+  "generations": [
+    {
+      "slug": "space-wagon-0",
+      "name": "space-wagon 1",
+      "year_start": 1983,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/space-wagon/d00-1983-1991.webp"
+      }
+    },
+    {
+      "slug": "space-wagon-1",
+      "name": "space-wagon 2",
+      "year_start": 1991,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/space-wagon/n30-n40-1991-1998.webp"
+      }
+    },
+    {
+      "slug": "space-wagon-2",
+      "name": "space-wagon 3",
+      "year_start": 1998,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/space-wagon/n50-1998-2004.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "nativa",
+  "name": "nativa",
+  "generations": [
+    {
+      "slug": "nativa-0",
+      "name": "nativa 1",
+      "year_start": 2004,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/nativa/pa-2004-2012.webp"
+      }
+    },
+    {
+      "slug": "nativa-1",
+      "name": "nativa 2",
+      "year_start": 2008,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/nativa/pb-2008-2016.webp"
+      }
+    }
+  ]
+}

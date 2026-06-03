@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "minicab-truck",
+  "name": "minicab-truck",
+  "generations": [
+    {
+      "slug": "minicab-truck-0",
+      "name": "minicab-truck 1",
+      "year_start": 2014,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/minicab-truck/ds1-2014-now.webp"
+      }
+    },
+    {
+      "slug": "minicab-truck-1",
+      "name": "minicab-truck 2",
+      "year_start": 1999,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/minicab-truck/u60-1999-2006.webp"
+      }
+    }
+  ]
+}

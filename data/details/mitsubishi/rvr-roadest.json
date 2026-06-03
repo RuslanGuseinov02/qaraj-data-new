@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "rvr-roadest",
+  "name": "rvr-roadest",
+  "generations": [
+    {
+      "slug": "rvr-roadest-0",
+      "name": "rvr-roadest 1",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/rvr-roadest/2011-2017.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "pajero",
+  "name": "pajero",
+  "generations": [
+    {
+      "slug": "pajero-0",
+      "name": "pajero 1",
+      "year_start": 1982,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/pajero/l040-1982-1990.webp"
+      }
+    },
+    {
+      "slug": "pajero-1",
+      "name": "pajero 2",
+      "year_start": 1990,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/pajero/v20-1990-1999.webp"
+      }
+    },
+    {
+      "slug": "pajero-2",
+      "name": "pajero 3",
+      "year_start": 1999,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/pajero/v60-v70-1999-2006.webp"
+      }
+    },
+    {
+      "slug": "pajero-3",
+      "name": "pajero 4",
+      "year_start": 2006,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/pajero/v80-v90-2006-2015.webp"
+      }
+    },
+    {
+      "slug": "pajero-4",
+      "name": "pajero 5",
+      "year_start": 2014,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/pajero/v80-v90-2014-2021.webp"
+      }
+    }
+  ]
+}

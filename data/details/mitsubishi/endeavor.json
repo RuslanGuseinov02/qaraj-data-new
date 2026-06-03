@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "endeavor",
+  "name": "endeavor",
+  "generations": [
+    {
+      "slug": "endeavor-0",
+      "name": "endeavor 1",
+      "year_start": 2003,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/endeavor/ps-2003-2005.webp"
+      }
+    },
+    {
+      "slug": "endeavor-1",
+      "name": "endeavor 2",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/endeavor/ps-2006-2008.webp"
+      }
+    },
+    {
+      "slug": "endeavor-2",
+      "name": "endeavor 3",
+      "year_start": 2009,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/endeavor/ps-2009-2011.webp"
+      }
+    }
+  ]
+}

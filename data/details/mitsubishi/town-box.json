@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "town-box",
+  "name": "town-box",
+  "generations": [
+    {
+      "slug": "town-box-0",
+      "name": "town-box 1",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/town-box/ds17-2015-now.webp"
+      }
+    },
+    {
+      "slug": "town-box-1",
+      "name": "town-box 2",
+      "year_start": 2014,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/town-box/ds64-2014-2015.webp"
+      }
+    },
+    {
+      "slug": "town-box-2",
+      "name": "town-box 3",
+      "year_start": 1999,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/town-box/u6-1999-2002.webp"
+      }
+    },
+    {
+      "slug": "town-box-3",
+      "name": "town-box 4",
+      "year_start": 2002,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/town-box/u6-2002-2011.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "ek-classy",
+  "name": "ek-classy",
+  "generations": [
+    {
+      "slug": "ek-classy-0",
+      "name": "ek-classy 1",
+      "year_start": 2004,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/ek-classy/h81-2004-2005.webp"
+      }
+    }
+  ]
+}

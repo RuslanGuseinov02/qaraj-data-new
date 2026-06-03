@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "delica-d-5",
+  "name": "delica-d-5",
+  "generations": [
+    {
+      "slug": "delica-d-5-0",
+      "name": "delica-d-5 1",
+      "year_start": 2007,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/delica-d-5/cv-2007-2020.webp"
+      }
+    },
+    {
+      "slug": "delica-d-5-1",
+      "name": "delica-d-5 2",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/delica-d-5/cv-2019-now.webp"
+      }
+    }
+  ]
+}

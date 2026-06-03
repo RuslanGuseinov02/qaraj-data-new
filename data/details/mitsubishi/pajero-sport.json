@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "pajero-sport",
+  "name": "pajero-sport",
+  "generations": [
+    {
+      "slug": "pajero-sport-0",
+      "name": "pajero-sport 1",
+      "year_start": 1998,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/pajero-sport/pa-1998-2008.webp"
+      }
+    },
+    {
+      "slug": "pajero-sport-1",
+      "name": "pajero-sport 2",
+      "year_start": 2008,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/pajero-sport/pb-2008-2016.webp"
+      }
+    },
+    {
+      "slug": "pajero-sport-2",
+      "name": "pajero-sport 3",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/pajero-sport/qe-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "pajero-sport-3",
+      "name": "pajero-sport 4",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/pajero-sport/qf-2020-now.webp"
+      }
+    }
+  ]
+}

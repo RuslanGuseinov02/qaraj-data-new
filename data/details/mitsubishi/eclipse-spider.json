@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "eclipse-spider",
+  "name": "eclipse-spider",
+  "generations": [
+    {
+      "slug": "eclipse-spider-0",
+      "name": "eclipse-spider 1",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/eclipse-spider/st-2004-2006.webp"
+      }
+    }
+  ]
+}

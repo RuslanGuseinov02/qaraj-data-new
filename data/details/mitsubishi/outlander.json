@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "outlander",
+  "name": "outlander",
+  "generations": [
+    {
+      "slug": "outlander-0",
+      "name": "outlander 1",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/outlander/cu-2003-2006.webp"
+      }
+    },
+    {
+      "slug": "outlander-1",
+      "name": "outlander 2",
+      "year_start": 2005,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/outlander/cw-2005-2012.webp"
+      }
+    },
+    {
+      "slug": "outlander-2",
+      "name": "outlander 3",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/outlander/cw-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "outlander-3",
+      "name": "outlander 4",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/outlander/gf-2013-2015.webp"
+      }
+    },
+    {
+      "slug": "outlander-4",
+      "name": "outlander 5",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/outlander/gf-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "outlander-5",
+      "name": "outlander 6",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/outlander/gf-2018-now.webp"
+      }
+    },
+    {
+      "slug": "outlander-6",
+      "name": "outlander 7",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/outlander/gn-2021-2025.webp"
+      }
+    },
+    {
+      "slug": "outlander-7",
+      "name": "outlander 8",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/outlander/gn-2024-now.webp"
+      }
+    }
+  ]
+}

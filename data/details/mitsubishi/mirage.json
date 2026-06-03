@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "mirage",
+  "name": "mirage",
+  "generations": [
+    {
+      "slug": "mirage-0",
+      "name": "mirage 1",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/mirage/a0-2012-2016.webp"
+      }
+    },
+    {
+      "slug": "mirage-1",
+      "name": "mirage 2",
+      "year_start": 2016,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/mirage/a0-2016-now.webp"
+      }
+    },
+    {
+      "slug": "mirage-2",
+      "name": "mirage 3",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/mirage/a0-2020-now.webp"
+      }
+    },
+    {
+      "slug": "mirage-3",
+      "name": "mirage 4",
+      "year_start": 1991,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/mirage/ca-cb-cd-cc-1991-1995.webp"
+      }
+    },
+    {
+      "slug": "mirage-4",
+      "name": "mirage 5",
+      "year_start": 1995,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/mirage/cj-ck-cl-cm-1995-2001.webp"
+      }
+    }
+  ]
+}

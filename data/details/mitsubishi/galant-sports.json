@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "galant-sports",
+  "name": "galant-sports",
+  "generations": [
+    {
+      "slug": "galant-sports-0",
+      "name": "galant-sports 1",
+      "year_start": 1994,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/galant-sports/e5-e7-1994-1996.webp"
+      }
+    }
+  ]
+}

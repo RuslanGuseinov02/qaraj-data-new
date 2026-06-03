@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "ek-x-space",
+  "name": "ek-x-space",
+  "generations": [
+    {
+      "slug": "ek-x-space-0",
+      "name": "ek-x-space 1",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/ek-x-space/2020-2022.webp"
+      }
+    }
+  ]
+}

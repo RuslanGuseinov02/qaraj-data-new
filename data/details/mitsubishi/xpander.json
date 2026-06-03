@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "xpander",
+  "name": "xpander",
+  "generations": [
+    {
+      "slug": "xpander-0",
+      "name": "xpander 1",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/xpander/nc-2017-now.webp"
+      }
+    },
+    {
+      "slug": "xpander-1",
+      "name": "xpander 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/xpander/nc-2021-now.webp"
+      }
+    }
+  ]
+}

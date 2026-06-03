@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "montero-sport",
+  "name": "montero-sport",
+  "generations": [
+    {
+      "slug": "montero-sport-0",
+      "name": "montero-sport 1",
+      "year_start": 1996,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/montero-sport/pa-1996-2008.webp"
+      }
+    },
+    {
+      "slug": "montero-sport-1",
+      "name": "montero-sport 2",
+      "year_start": 2008,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/montero-sport/pb-pc-2008-2015.webp"
+      }
+    },
+    {
+      "slug": "montero-sport-2",
+      "name": "montero-sport 3",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/montero-sport/qe-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "montero-sport-3",
+      "name": "montero-sport 4",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/montero-sport/qf-2020-now.webp"
+      }
+    }
+  ]
+}

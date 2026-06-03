@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "delica-space-gear",
+  "name": "delica-space-gear",
+  "generations": [
+    {
+      "slug": "delica-space-gear-0",
+      "name": "delica-space-gear 1",
+      "year_start": 1994,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/delica-space-gear/l400-1994-1997.webp"
+      }
+    },
+    {
+      "slug": "delica-space-gear-1",
+      "name": "delica-space-gear 2",
+      "year_start": 1997,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/delica-space-gear/l400-1997-2007.webp"
+      }
+    }
+  ]
+}

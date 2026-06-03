@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "triton",
+  "name": "triton",
+  "generations": [
+    {
+      "slug": "triton-0",
+      "name": "triton 1",
+      "year_start": 2005,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/triton/2005-2015.webp"
+      }
+    },
+    {
+      "slug": "triton-1",
+      "name": "triton 2",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/triton/2015-2018.webp"
+      }
+    },
+    {
+      "slug": "triton-2",
+      "name": "triton 3",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/triton/2018-2023.webp"
+      }
+    },
+    {
+      "slug": "triton-3",
+      "name": "triton 4",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/triton/2023-now.webp"
+      }
+    },
+    {
+      "slug": "triton-4",
+      "name": "triton 5",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/triton/kk-kl-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "triton-5",
+      "name": "triton 6",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/triton/kk-kl-2018-now.webp"
+      }
+    },
+    {
+      "slug": "triton-6",
+      "name": "triton 7",
+      "year_start": 2005,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/triton/ml-mn-2005-2015.webp"
+      }
+    }
+  ]
+}

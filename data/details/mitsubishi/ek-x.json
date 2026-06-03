@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "ek-x",
+  "name": "ek-x",
+  "generations": [
+    {
+      "slug": "ek-x-0",
+      "name": "ek-x 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/ek-x/2019-now.webp"
+      }
+    }
+  ]
+}

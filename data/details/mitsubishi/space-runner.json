@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "space-runner",
+  "name": "space-runner",
+  "generations": [
+    {
+      "slug": "space-runner-0",
+      "name": "space-runner 1",
+      "year_start": 1991,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/space-runner/n1-n2-1991-1999.webp"
+      }
+    },
+    {
+      "slug": "space-runner-1",
+      "name": "space-runner 2",
+      "year_start": 1999,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/space-runner/n6-n7-1999-2002.webp"
+      }
+    }
+  ]
+}

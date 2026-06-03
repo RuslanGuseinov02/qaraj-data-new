@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "3000-gt",
+  "name": "3000-gt",
+  "generations": [
+    {
+      "slug": "3000-gt-0",
+      "name": "3000-gt 1",
+      "year_start": 1990,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/3000-gt/z16-z15-1990-2001.webp"
+      }
+    }
+  ]
+}

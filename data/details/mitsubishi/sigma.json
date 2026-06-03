@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "sigma",
+  "name": "sigma",
+  "generations": [
+    {
+      "slug": "sigma-0",
+      "name": "sigma 1",
+      "year_start": 1990,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/sigma/fa-1990-1995.webp"
+      }
+    }
+  ]
+}

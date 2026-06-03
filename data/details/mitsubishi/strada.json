@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mitsubishi",
+    "name": "MITSUBISHI"
+  },
+  "slug": "strada",
+  "name": "strada",
+  "generations": [
+    {
+      "slug": "strada-0",
+      "name": "strada 1",
+      "year_start": 1991,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/strada/k34t-1991-1997.webp"
+      }
+    },
+    {
+      "slug": "strada-1",
+      "name": "strada 2",
+      "year_start": 1997,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/strada/k74t-1997-1999.webp"
+      }
+    },
+    {
+      "slug": "strada-2",
+      "name": "strada 3",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/strada/kk-kl-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "strada-3",
+      "name": "strada 4",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mitsubishi/strada/kk-kl-2019-2023.webp"
+      }
+    }
+  ]
+}
