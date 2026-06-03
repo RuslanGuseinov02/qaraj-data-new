@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "eos",
+  "name": "eos",
+  "generations": [
+    {
+      "slug": "eos-0",
+      "name": "eos 1",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/eos/1f-2006-2011.webp"
+      }
+    },
+    {
+      "slug": "eos-1",
+      "name": "eos 2",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/eos/1f-2011-2016.webp"
+      }
+    }
+  ]
+}

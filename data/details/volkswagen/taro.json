@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "taro",
+  "name": "taro",
+  "generations": [
+    {
+      "slug": "taro-0",
+      "name": "taro 1",
+      "year_start": 1989,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/taro/7a-1989-1997.webp"
+      }
+    }
+  ]
+}

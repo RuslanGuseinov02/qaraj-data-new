@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "sagitar",
+  "name": "sagitar",
+  "generations": [
+    {
+      "slug": "sagitar-0",
+      "name": "sagitar 1",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/sagitar/mk1-a5-2006-2011.webp"
+      }
+    },
+    {
+      "slug": "sagitar-1",
+      "name": "sagitar 2",
+      "year_start": 2012,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/sagitar/mk2-a6-2012-2014.webp"
+      }
+    },
+    {
+      "slug": "sagitar-2",
+      "name": "sagitar 3",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/sagitar/mk2-a6-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "sagitar-3",
+      "name": "sagitar 4",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/sagitar/mk3-a7-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "sagitar-4",
+      "name": "sagitar 5",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/sagitar/mk3-a7-2022-now.webp"
+      }
+    }
+  ]
+}

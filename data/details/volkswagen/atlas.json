@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "atlas",
+  "name": "atlas",
+  "generations": [
+    {
+      "slug": "atlas-0",
+      "name": "atlas 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/atlas/ca1-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "atlas-1",
+      "name": "atlas 2",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/atlas/ca1-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "atlas-2",
+      "name": "atlas 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/atlas/ca1-2023-now.webp"
+      }
+    }
+  ]
+}

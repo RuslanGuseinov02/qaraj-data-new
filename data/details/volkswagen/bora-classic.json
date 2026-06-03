@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "bora-classic",
+  "name": "bora-classic",
+  "generations": [
+    {
+      "slug": "bora-classic-0",
+      "name": "bora-classic 1",
+      "year_start": 2019,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/bora-classic/2019-2020.webp"
+      }
+    }
+  ]
+}

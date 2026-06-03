@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "golf-sv",
+  "name": "golf-sv",
+  "generations": [
+    {
+      "slug": "golf-sv-0",
+      "name": "golf-sv 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-sv/mk7-5g-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "golf-sv-1",
+      "name": "golf-sv 2",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-sv/mk7-5g-2018-2020.webp"
+      }
+    }
+  ]
+}

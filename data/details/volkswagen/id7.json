@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "id7",
+  "name": "id7",
+  "generations": [
+    {
+      "slug": "id7-0",
+      "name": "id7 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/id7/2023-now.webp"
+      }
+    }
+  ]
+}

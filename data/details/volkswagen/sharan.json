@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "sharan",
+  "name": "sharan",
+  "generations": [
+    {
+      "slug": "sharan-0",
+      "name": "sharan 1",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/sharan/mk1-7m-1995-2000.webp"
+      }
+    },
+    {
+      "slug": "sharan-1",
+      "name": "sharan 2",
+      "year_start": 2000,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/sharan/mk1-7m-2000-2010.webp"
+      }
+    },
+    {
+      "slug": "sharan-2",
+      "name": "sharan 3",
+      "year_start": 2010,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/sharan/mk2-7n-2010-2022.webp"
+      }
+    }
+  ]
+}

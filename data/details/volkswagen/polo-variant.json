@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "polo-variant",
+  "name": "polo-variant",
+  "generations": [
+    {
+      "slug": "polo-variant-0",
+      "name": "polo-variant 1",
+      "year_start": 1997,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/polo-variant/1997-2001.webp"
+      }
+    }
+  ]
+}

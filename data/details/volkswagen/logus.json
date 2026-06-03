@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "logus",
+  "name": "logus",
+  "generations": [
+    {
+      "slug": "logus-0",
+      "name": "logus 1",
+      "year_start": 1993,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/logus/1993-1997.webp"
+      }
+    }
+  ]
+}

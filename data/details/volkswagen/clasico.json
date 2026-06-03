@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "clasico",
+  "name": "clasico",
+  "generations": [
+    {
+      "slug": "clasico-0",
+      "name": "clasico 1",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/clasico/2011-2015.webp"
+      }
+    }
+  ]
+}

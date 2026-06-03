@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "polo-vivo",
+  "name": "polo-vivo",
+  "generations": [
+    {
+      "slug": "polo-vivo-0",
+      "name": "polo-vivo 1",
+      "year_start": 2010,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/polo-vivo/mk4-2010-2018.webp"
+      }
+    },
+    {
+      "slug": "polo-vivo-1",
+      "name": "polo-vivo 2",
+      "year_start": 2018,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/polo-vivo/mk5-2018-2025.webp"
+      }
+    }
+  ]
+}

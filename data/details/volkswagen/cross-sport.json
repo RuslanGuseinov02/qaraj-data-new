@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "cross-sport",
+  "name": "cross-sport",
+  "generations": [
+    {
+      "slug": "cross-sport-0",
+      "name": "cross-sport 1",
+      "year_start": 2021,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/cross-sport/ca1-2021-2023.webp"
+      }
+    },
+    {
+      "slug": "cross-sport-1",
+      "name": "cross-sport 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/cross-sport/ca1-2023-now.webp"
+      }
+    }
+  ]
+}

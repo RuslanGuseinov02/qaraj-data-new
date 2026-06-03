@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "bora-variant",
+  "name": "bora-variant",
+  "generations": [
+    {
+      "slug": "bora-variant-0",
+      "name": "bora-variant 1",
+      "year_start": 1999,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/bora-variant/1j6-1999-2005.webp"
+      }
+    }
+  ]
+}

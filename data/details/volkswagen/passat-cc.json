@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "passat-cc",
+  "name": "passat-cc",
+  "generations": [
+    {
+      "slug": "passat-cc-0",
+      "name": "passat-cc 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/passat-cc/2008-2012.webp"
+      }
+    },
+    {
+      "slug": "passat-cc-1",
+      "name": "passat-cc 2",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/passat-cc/2012-2016.webp"
+      }
+    }
+  ]
+}

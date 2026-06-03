@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "santana-gts",
+  "name": "santana-gts",
+  "generations": [
+    {
+      "slug": "santana-gts-0",
+      "name": "santana-gts 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/santana-gts/2018-now.webp"
+      }
+    }
+  ]
+}

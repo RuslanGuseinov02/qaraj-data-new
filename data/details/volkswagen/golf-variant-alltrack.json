@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "golf-variant-alltrack",
+  "name": "golf-variant-alltrack",
+  "generations": [
+    {
+      "slug": "golf-variant-alltrack-0",
+      "name": "golf-variant-alltrack 1",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-variant-alltrack/mk7-5g-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "golf-variant-alltrack-1",
+      "name": "golf-variant-alltrack 2",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-variant-alltrack/mk7-5g-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "golf-variant-alltrack-2",
+      "name": "golf-variant-alltrack 3",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-variant-alltrack/mk8-cd1-2020-2024.webp"
+      }
+    }
+  ]
+}

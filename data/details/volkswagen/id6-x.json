@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "id6-x",
+  "name": "id6-x",
+  "generations": [
+    {
+      "slug": "id6-x-0",
+      "name": "id6-x 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/id6-x/2021-now.webp"
+      }
+    }
+  ]
+}

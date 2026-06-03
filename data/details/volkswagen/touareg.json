@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "touareg",
+  "name": "touareg",
+  "generations": [
+    {
+      "slug": "touareg-0",
+      "name": "touareg 1",
+      "year_start": 2002,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/touareg/7l-2002-2007.webp"
+      }
+    },
+    {
+      "slug": "touareg-1",
+      "name": "touareg 2",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/touareg/7l-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "touareg-2",
+      "name": "touareg 3",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/touareg/7p-2010-2015.webp"
+      }
+    },
+    {
+      "slug": "touareg-3",
+      "name": "touareg 4",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/touareg/7p-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "touareg-4",
+      "name": "touareg 5",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/touareg/cr-2018-2024.webp"
+      }
+    },
+    {
+      "slug": "touareg-5",
+      "name": "touareg 6",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/touareg/cr-2023-now.webp"
+      }
+    }
+  ]
+}

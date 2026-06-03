@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "eurovan",
+  "name": "eurovan",
+  "generations": [
+    {
+      "slug": "eurovan-0",
+      "name": "eurovan 1",
+      "year_start": 1992,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/eurovan/t4-1992-1996.webp"
+      }
+    },
+    {
+      "slug": "eurovan-1",
+      "name": "eurovan 2",
+      "year_start": 1997,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/eurovan/t4-1997-2004.webp"
+      }
+    }
+  ]
+}

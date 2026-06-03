@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "fusca",
+  "name": "fusca",
+  "generations": [
+    {
+      "slug": "fusca-0",
+      "name": "fusca 1",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/fusca/a5-2011-2017.webp"
+      }
+    }
+  ]
+}

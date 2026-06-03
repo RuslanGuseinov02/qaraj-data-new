@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "santana",
+  "name": "santana",
+  "generations": [
+    {
+      "slug": "santana-0",
+      "name": "santana 1",
+      "year_start": 1995,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/santana/2000-1995-2004.webp"
+      }
+    },
+    {
+      "slug": "santana-1",
+      "name": "santana 2",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/santana/3000-2004-2008.webp"
+      }
+    },
+    {
+      "slug": "santana-2",
+      "name": "santana 3",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/santana/a05-2012-2016.webp"
+      }
+    },
+    {
+      "slug": "santana-3",
+      "name": "santana 4",
+      "year_start": 2016,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/santana/a05-2016-2023.webp"
+      }
+    },
+    {
+      "slug": "santana-4",
+      "name": "santana 5",
+      "year_start": 1985,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/santana/b2-1985-1995.webp"
+      }
+    },
+    {
+      "slug": "santana-5",
+      "name": "santana 6",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/santana/vista-2008-2012.webp"
+      }
+    }
+  ]
+}

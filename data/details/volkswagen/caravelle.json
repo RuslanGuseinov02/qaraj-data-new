@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "caravelle",
+  "name": "caravelle",
+  "generations": [
+    {
+      "slug": "caravelle-0",
+      "name": "caravelle 1",
+      "year_start": 1979,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/caravelle/t3-1979-1987.webp"
+      }
+    },
+    {
+      "slug": "caravelle-1",
+      "name": "caravelle 2",
+      "year_start": 1987,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/caravelle/t3-1987-1991.webp"
+      }
+    },
+    {
+      "slug": "caravelle-2",
+      "name": "caravelle 3",
+      "year_start": 1990,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/caravelle/t4-1990-1996.webp"
+      }
+    },
+    {
+      "slug": "caravelle-3",
+      "name": "caravelle 4",
+      "year_start": 1996,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/caravelle/t4-1996-2003.webp"
+      }
+    },
+    {
+      "slug": "caravelle-4",
+      "name": "caravelle 5",
+      "year_start": 2003,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/caravelle/t5-2003-2009.webp"
+      }
+    },
+    {
+      "slug": "caravelle-5",
+      "name": "caravelle 6",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/caravelle/t5-2010-2015.webp"
+      }
+    },
+    {
+      "slug": "caravelle-6",
+      "name": "caravelle 7",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/caravelle/t6-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "caravelle-7",
+      "name": "caravelle 8",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/caravelle/t6-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "caravelle-8",
+      "name": "caravelle 9",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/caravelle/t7-2024-now.webp"
+      }
+    }
+  ]
+}

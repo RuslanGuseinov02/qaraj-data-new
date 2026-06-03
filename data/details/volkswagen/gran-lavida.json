@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "gran-lavida",
+  "name": "gran-lavida",
+  "generations": [
+    {
+      "slug": "gran-lavida-0",
+      "name": "gran-lavida 1",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/gran-lavida/2013-2015.webp"
+      }
+    },
+    {
+      "slug": "gran-lavida-1",
+      "name": "gran-lavida 2",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/gran-lavida/2015-2018.webp"
+      }
+    },
+    {
+      "slug": "gran-lavida-2",
+      "name": "gran-lavida 3",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/gran-lavida/2018-2022.webp"
+      }
+    }
+  ]
+}

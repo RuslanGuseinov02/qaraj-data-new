@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "id-unyx",
+  "name": "id-unyx",
+  "generations": [
+    {
+      "slug": "id-unyx-0",
+      "name": "id-unyx 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/id-unyx/2024-now.webp"
+      }
+    }
+  ]
+}

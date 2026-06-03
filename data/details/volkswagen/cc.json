@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "cc",
+  "name": "cc",
+  "generations": [
+    {
+      "slug": "cc-0",
+      "name": "cc 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/cc/2008-2012.webp"
+      }
+    },
+    {
+      "slug": "cc-1",
+      "name": "cc 2",
+      "year_start": 2012,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/cc/2012-2017.webp"
+      }
+    },
+    {
+      "slug": "cc-2",
+      "name": "cc 3",
+      "year_start": 2019,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/cc/2019-2020.webp"
+      }
+    },
+    {
+      "slug": "cc-3",
+      "name": "cc 4",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/cc/2021-now.webp"
+      }
+    }
+  ]
+}

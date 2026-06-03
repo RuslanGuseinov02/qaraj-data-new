@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "lavida-xr",
+  "name": "lavida-xr",
+  "generations": [
+    {
+      "slug": "lavida-xr-0",
+      "name": "lavida-xr 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/lavida-xr/2023-now.webp"
+      }
+    }
+  ]
+}

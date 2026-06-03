@@ -1,0 +1,110 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "bora",
+  "name": "bora",
+  "generations": [
+    {
+      "slug": "bora-0",
+      "name": "bora 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/bora/2008-2012.webp"
+      }
+    },
+    {
+      "slug": "bora-1",
+      "name": "bora 2",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/bora/2013-2015.webp"
+      }
+    },
+    {
+      "slug": "bora-2",
+      "name": "bora 3",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/bora/2016-2018.webp"
+      }
+    },
+    {
+      "slug": "bora-3",
+      "name": "bora 4",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/bora/2018-2022.webp"
+      }
+    },
+    {
+      "slug": "bora-4",
+      "name": "bora 5",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/bora/2022-now.webp"
+      }
+    },
+    {
+      "slug": "bora-5",
+      "name": "bora 6",
+      "year_start": 1998,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/bora/a4-1j-1998-2005.webp"
+      }
+    },
+    {
+      "slug": "bora-6",
+      "name": "bora 7",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/bora/a4-1j-2006-2008.webp"
+      }
+    },
+    {
+      "slug": "bora-7",
+      "name": "bora 8",
+      "year_start": 2008,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/bora/a4-1j-2008-2015.webp"
+      }
+    },
+    {
+      "slug": "bora-8",
+      "name": "bora 9",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/bora/a5-1k-2005-2010.webp"
+      }
+    },
+    {
+      "slug": "bora-9",
+      "name": "bora 10",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/bora/a6-5k-2016-2018.webp"
+      }
+    }
+  ]
+}

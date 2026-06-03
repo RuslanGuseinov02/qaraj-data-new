@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "id-buzz",
+  "name": "id-buzz",
+  "generations": [
+    {
+      "slug": "id-buzz-0",
+      "name": "id-buzz 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/id-buzz/2022-now.webp"
+      }
+    }
+  ]
+}

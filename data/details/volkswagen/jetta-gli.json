@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "jetta-gli",
+  "name": "jetta-gli",
+  "generations": [
+    {
+      "slug": "jetta-gli-0",
+      "name": "jetta-gli 1",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/jetta-gli/a6-2012-2015.webp"
+      }
+    },
+    {
+      "slug": "jetta-gli-1",
+      "name": "jetta-gli 2",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/jetta-gli/a6-2016-2018.webp"
+      }
+    },
+    {
+      "slug": "jetta-gli-2",
+      "name": "jetta-gli 3",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/jetta-gli/a7-2018-2022.webp"
+      }
+    },
+    {
+      "slug": "jetta-gli-3",
+      "name": "jetta-gli 4",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/jetta-gli/a7-2022-2024.webp"
+      }
+    },
+    {
+      "slug": "jetta-gli-4",
+      "name": "jetta-gli 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/jetta-gli/a7-2024-now.webp"
+      }
+    }
+  ]
+}

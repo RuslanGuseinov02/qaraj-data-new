@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "arteon",
+  "name": "arteon",
+  "generations": [
+    {
+      "slug": "arteon-0",
+      "name": "arteon 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/arteon/3h7-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "arteon-1",
+      "name": "arteon 2",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/arteon/3h7-2020-2025.webp"
+      }
+    }
+  ]
+}

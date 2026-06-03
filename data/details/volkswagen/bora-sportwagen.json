@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "bora-sportwagen",
+  "name": "bora-sportwagen",
+  "generations": [
+    {
+      "slug": "bora-sportwagen-0",
+      "name": "bora-sportwagen 1",
+      "year_start": 2008,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/bora-sportwagen/2008-2009.webp"
+      }
+    }
+  ]
+}

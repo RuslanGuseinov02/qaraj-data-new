@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "lupo",
+  "name": "lupo",
+  "generations": [
+    {
+      "slug": "lupo-0",
+      "name": "lupo 1",
+      "year_start": 1998,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/lupo/1998-2005.webp"
+      }
+    },
+    {
+      "slug": "lupo-1",
+      "name": "lupo 2",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/lupo/2005-2009.webp"
+      }
+    }
+  ]
+}

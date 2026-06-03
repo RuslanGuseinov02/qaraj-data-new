@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "california",
+  "name": "california",
+  "generations": [
+    {
+      "slug": "california-0",
+      "name": "california 1",
+      "year_start": 2003,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/california/t5-2003-2009.webp"
+      }
+    },
+    {
+      "slug": "california-1",
+      "name": "california 2",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/california/t5-2010-2015.webp"
+      }
+    },
+    {
+      "slug": "california-2",
+      "name": "california 3",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/california/t6-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "california-3",
+      "name": "california 4",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/california/t6-2019-2025.webp"
+      }
+    },
+    {
+      "slug": "california-4",
+      "name": "california 5",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/california/t7-2025-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "beetle",
+  "name": "beetle",
+  "generations": [
+    {
+      "slug": "beetle-0",
+      "name": "beetle 1",
+      "year_start": 1998,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/beetle/a4-1998-2010.webp"
+      }
+    },
+    {
+      "slug": "beetle-1",
+      "name": "beetle 2",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/beetle/a5-2011-2016.webp"
+      }
+    },
+    {
+      "slug": "beetle-2",
+      "name": "beetle 3",
+      "year_start": 2016,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/beetle/a5-2016-2024.webp"
+      }
+    },
+    {
+      "slug": "beetle-3",
+      "name": "beetle 4",
+      "year_start": 1946,
+      "year_end": 1969,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/beetle/mk1-1946-1969.webp"
+      }
+    },
+    {
+      "slug": "beetle-4",
+      "name": "beetle 5",
+      "year_start": 1970,
+      "year_end": 1979,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/beetle/mk2-1970-1979.webp"
+      }
+    },
+    {
+      "slug": "beetle-5",
+      "name": "beetle 6",
+      "year_start": 1985,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/beetle/mk2-1985-2003.webp"
+      }
+    }
+  ]
+}

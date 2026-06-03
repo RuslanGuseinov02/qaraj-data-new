@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "passat-variant",
+  "name": "passat-variant",
+  "generations": [
+    {
+      "slug": "passat-variant-0",
+      "name": "passat-variant 1",
+      "year_start": 1988,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/passat-variant/b3-1988-1993.webp"
+      }
+    },
+    {
+      "slug": "passat-variant-1",
+      "name": "passat-variant 2",
+      "year_start": 1993,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/passat-variant/b4-1993-1997.webp"
+      }
+    },
+    {
+      "slug": "passat-variant-2",
+      "name": "passat-variant 3",
+      "year_start": 1997,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/passat-variant/b5-1997-2000.webp"
+      }
+    },
+    {
+      "slug": "passat-variant-3",
+      "name": "passat-variant 4",
+      "year_start": 2000,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/passat-variant/b5-2000-2005.webp"
+      }
+    },
+    {
+      "slug": "passat-variant-4",
+      "name": "passat-variant 5",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/passat-variant/b6-2005-2010.webp"
+      }
+    },
+    {
+      "slug": "passat-variant-5",
+      "name": "passat-variant 6",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/passat-variant/b7-2010-2015.webp"
+      }
+    },
+    {
+      "slug": "passat-variant-6",
+      "name": "passat-variant 7",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/passat-variant/b8-2014-2019.webp"
+      }
+    },
+    {
+      "slug": "passat-variant-7",
+      "name": "passat-variant 8",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/passat-variant/b8-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "passat-variant-8",
+      "name": "passat-variant 9",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/passat-variant/b9-2024-now.webp"
+      }
+    }
+  ]
+}

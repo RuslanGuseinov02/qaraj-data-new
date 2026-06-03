@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "tharu-xr",
+  "name": "tharu-xr",
+  "generations": [
+    {
+      "slug": "tharu-xr-0",
+      "name": "tharu-xr 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/tharu-xr/c11-2024-now.webp"
+      }
+    }
+  ]
+}

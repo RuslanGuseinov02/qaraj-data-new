@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "passat-variant-alltrack",
+  "name": "passat-variant-alltrack",
+  "generations": [
+    {
+      "slug": "passat-variant-alltrack-0",
+      "name": "passat-variant-alltrack 1",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/passat-variant-alltrack/b7-2012-2015.webp"
+      }
+    },
+    {
+      "slug": "passat-variant-alltrack-1",
+      "name": "passat-variant-alltrack 2",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/passat-variant-alltrack/b8-2016-2019.webp"
+      }
+    },
+    {
+      "slug": "passat-variant-alltrack-2",
+      "name": "passat-variant-alltrack 3",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/passat-variant-alltrack/b8-2019-2024.webp"
+      }
+    }
+  ]
+}

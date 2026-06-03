@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "t-cross",
+  "name": "t-cross",
+  "generations": [
+    {
+      "slug": "t-cross-0",
+      "name": "t-cross 1",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/t-cross/c11-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "t-cross-1",
+      "name": "t-cross 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/t-cross/c11-2024-now.webp"
+      }
+    },
+    {
+      "slug": "t-cross-2",
+      "name": "t-cross 3",
+      "year_start": 2018,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/t-cross/c11-asia-2018-2025.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "gti",
+  "name": "gti",
+  "generations": [
+    {
+      "slug": "gti-0",
+      "name": "gti 1",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/gti/mk5-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "gti-1",
+      "name": "gti 2",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/gti/mk6-2010-2014.webp"
+      }
+    }
+  ]
+}

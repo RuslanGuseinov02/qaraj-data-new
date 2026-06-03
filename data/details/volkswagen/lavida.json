@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "lavida",
+  "name": "lavida",
+  "generations": [
+    {
+      "slug": "lavida-0",
+      "name": "lavida 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/lavida/2008-2012.webp"
+      }
+    },
+    {
+      "slug": "lavida-1",
+      "name": "lavida 2",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/lavida/2012-2015.webp"
+      }
+    },
+    {
+      "slug": "lavida-2",
+      "name": "lavida 3",
+      "year_start": 2015,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/lavida/2015-2024.webp"
+      }
+    },
+    {
+      "slug": "lavida-3",
+      "name": "lavida 4",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/lavida/2022-2025.webp"
+      }
+    }
+  ]
+}

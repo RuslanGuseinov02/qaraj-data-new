@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "grand-california",
+  "name": "grand-california",
+  "generations": [
+    {
+      "slug": "grand-california-0",
+      "name": "grand-california 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/grand-california/600-680-2018-now.webp"
+      }
+    }
+  ]
+}

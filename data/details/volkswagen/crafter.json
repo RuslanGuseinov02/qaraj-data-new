@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "crafter",
+  "name": "crafter",
+  "generations": [
+    {
+      "slug": "crafter-0",
+      "name": "crafter 1",
+      "year_start": 2006,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/crafter/typ-2e-2f-2006-2017.webp"
+      }
+    },
+    {
+      "slug": "crafter-1",
+      "name": "crafter 2",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/crafter/typ-sy-sz-2017-now.webp"
+      }
+    }
+  ]
+}

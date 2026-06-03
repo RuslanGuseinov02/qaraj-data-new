@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "magotan",
+  "name": "magotan",
+  "generations": [
+    {
+      "slug": "magotan-0",
+      "name": "magotan 1",
+      "year_start": 2007,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/magotan/b6-2007-2011.webp"
+      }
+    },
+    {
+      "slug": "magotan-1",
+      "name": "magotan 2",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/magotan/b7-2012-2016.webp"
+      }
+    },
+    {
+      "slug": "magotan-2",
+      "name": "magotan 3",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/magotan/b8-2016-2019.webp"
+      }
+    },
+    {
+      "slug": "magotan-3",
+      "name": "magotan 4",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/magotan/b8-2019-2025.webp"
+      }
+    },
+    {
+      "slug": "magotan-4",
+      "name": "magotan 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/magotan/b9-2024-now.webp"
+      }
+    }
+  ]
+}

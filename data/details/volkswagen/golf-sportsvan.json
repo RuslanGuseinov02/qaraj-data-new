@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "golf-sportsvan",
+  "name": "golf-sportsvan",
+  "generations": [
+    {
+      "slug": "golf-sportsvan-0",
+      "name": "golf-sportsvan 1",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-sportsvan/mk7-5g-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "golf-sportsvan-1",
+      "name": "golf-sportsvan 2",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-sportsvan/mk7-5g-2018-2020.webp"
+      }
+    }
+  ]
+}

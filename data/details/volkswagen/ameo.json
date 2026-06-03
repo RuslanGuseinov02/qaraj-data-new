@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "ameo",
+  "name": "ameo",
+  "generations": [
+    {
+      "slug": "ameo-0",
+      "name": "ameo 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/ameo/2016-2020.webp"
+      }
+    }
+  ]
+}

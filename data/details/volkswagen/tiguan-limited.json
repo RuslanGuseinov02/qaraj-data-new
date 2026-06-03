@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "tiguan-limited",
+  "name": "tiguan-limited",
+  "generations": [
+    {
+      "slug": "tiguan-limited-0",
+      "name": "tiguan-limited 1",
+      "year_start": 2017,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/tiguan-limited/5n-2017-2018.webp"
+      }
+    }
+  ]
+}

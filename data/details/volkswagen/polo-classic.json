@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "polo-classic",
+  "name": "polo-classic",
+  "generations": [
+    {
+      "slug": "polo-classic-0",
+      "name": "polo-classic 1",
+      "year_start": 1995,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/polo-classic/mk3-1995-2001.webp"
+      }
+    }
+  ]
+}

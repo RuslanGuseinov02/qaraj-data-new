@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "passat-pro",
+  "name": "passat-pro",
+  "generations": [
+    {
+      "slug": "passat-pro-0",
+      "name": "passat-pro 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/passat-pro/b9-2024-now.webp"
+      }
+    }
+  ]
+}

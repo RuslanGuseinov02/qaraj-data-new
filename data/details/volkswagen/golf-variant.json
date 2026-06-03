@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "golf-variant",
+  "name": "golf-variant",
+  "generations": [
+    {
+      "slug": "golf-variant-0",
+      "name": "golf-variant 1",
+      "year_start": 1993,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-variant/mk3-1v-1993-1999.webp"
+      }
+    },
+    {
+      "slug": "golf-variant-1",
+      "name": "golf-variant 2",
+      "year_start": 1999,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-variant/mk4-1j-1999-2006.webp"
+      }
+    },
+    {
+      "slug": "golf-variant-2",
+      "name": "golf-variant 3",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-variant/mk5-1k-2007-2009.webp"
+      }
+    },
+    {
+      "slug": "golf-variant-3",
+      "name": "golf-variant 4",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-variant/mk6-5k-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "golf-variant-4",
+      "name": "golf-variant 5",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-variant/mk7-5g-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "golf-variant-5",
+      "name": "golf-variant 6",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-variant/mk7-5g-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "golf-variant-6",
+      "name": "golf-variant 7",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-variant/mk8-cd1-2020-2024.webp"
+      }
+    },
+    {
+      "slug": "golf-variant-7",
+      "name": "golf-variant 8",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-variant/mk8-cd1-2024-now.webp"
+      }
+    }
+  ]
+}

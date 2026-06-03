@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "sedan",
+  "name": "sedan",
+  "generations": [
+    {
+      "slug": "sedan-0",
+      "name": "sedan 1",
+      "year_start": 1983,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/sedan/mk2-1983-2004.webp"
+      }
+    }
+  ]
+}

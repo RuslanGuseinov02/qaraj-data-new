@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "routan",
+  "name": "routan",
+  "generations": [
+    {
+      "slug": "routan-0",
+      "name": "routan 1",
+      "year_start": 2008,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/routan/2008-2014.webp"
+      }
+    }
+  ]
+}

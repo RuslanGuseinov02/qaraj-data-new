@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "cross-santana",
+  "name": "cross-santana",
+  "generations": [
+    {
+      "slug": "cross-santana-0",
+      "name": "cross-santana 1",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/cross-santana/2016-2018.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "amarok",
+  "name": "amarok",
+  "generations": [
+    {
+      "slug": "amarok-0",
+      "name": "amarok 1",
+      "year_start": 2010,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/amarok/2h-2010-2016.webp"
+      }
+    },
+    {
+      "slug": "amarok-1",
+      "name": "amarok 2",
+      "year_start": 2016,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/amarok/2h-2016-2024.webp"
+      }
+    },
+    {
+      "slug": "amarok-2",
+      "name": "amarok 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/amarok/2h-2024-2026.webp"
+      }
+    },
+    {
+      "slug": "amarok-3",
+      "name": "amarok 4",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/amarok/nf-2022-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "city-golf",
+  "name": "city-golf",
+  "generations": [
+    {
+      "slug": "city-golf-0",
+      "name": "city-golf 1",
+      "year_start": 2007,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/city-golf/2007-2007.webp"
+      }
+    },
+    {
+      "slug": "city-golf-1",
+      "name": "city-golf 2",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/city-golf/2008-2010.webp"
+      }
+    }
+  ]
+}

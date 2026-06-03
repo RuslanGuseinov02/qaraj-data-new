@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "golf-cabriolet",
+  "name": "golf-cabriolet",
+  "generations": [
+    {
+      "slug": "golf-cabriolet-0",
+      "name": "golf-cabriolet 1",
+      "year_start": 1979,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-cabriolet/mk1-1979-1993.webp"
+      }
+    },
+    {
+      "slug": "golf-cabriolet-1",
+      "name": "golf-cabriolet 2",
+      "year_start": 1993,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-cabriolet/mk3-1993-1998.webp"
+      }
+    },
+    {
+      "slug": "golf-cabriolet-2",
+      "name": "golf-cabriolet 3",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-cabriolet/mk4-1998-2002.webp"
+      }
+    },
+    {
+      "slug": "golf-cabriolet-3",
+      "name": "golf-cabriolet 4",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-cabriolet/mk6-2011-2016.webp"
+      }
+    }
+  ]
+}

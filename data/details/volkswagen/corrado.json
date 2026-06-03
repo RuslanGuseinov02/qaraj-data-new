@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "corrado",
+  "name": "corrado",
+  "generations": [
+    {
+      "slug": "corrado-0",
+      "name": "corrado 1",
+      "year_start": 1988,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/corrado/53l-1988-1995.webp"
+      }
+    }
+  ]
+}

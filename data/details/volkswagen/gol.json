@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "gol",
+  "name": "gol",
+  "generations": [
+    {
+      "slug": "gol-0",
+      "name": "gol 1",
+      "year_start": 1980,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/gol/g1-1980-1994.webp"
+      }
+    },
+    {
+      "slug": "gol-1",
+      "name": "gol 2",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/gol/g2-1995-1999.webp"
+      }
+    },
+    {
+      "slug": "gol-2",
+      "name": "gol 3",
+      "year_start": 1999,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/gol/g3-1999-2005.webp"
+      }
+    },
+    {
+      "slug": "gol-3",
+      "name": "gol 4",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/gol/g4-2005-2008.webp"
+      }
+    },
+    {
+      "slug": "gol-4",
+      "name": "gol 5",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/gol/g5-2009-2012.webp"
+      }
+    },
+    {
+      "slug": "gol-5",
+      "name": "gol 6",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/gol/g6-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "gol-6",
+      "name": "gol 7",
+      "year_start": 2017,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/gol/g7-2017-2018.webp"
+      }
+    },
+    {
+      "slug": "gol-7",
+      "name": "gol 8",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/gol/g8-2019-2024.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "derby",
+  "name": "derby",
+  "generations": [
+    {
+      "slug": "derby-0",
+      "name": "derby 1",
+      "year_start": 1994,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/derby/1994-1997.webp"
+      }
+    },
+    {
+      "slug": "derby-1",
+      "name": "derby 2",
+      "year_start": 1998,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/derby/1998-2004.webp"
+      }
+    },
+    {
+      "slug": "derby-2",
+      "name": "derby 3",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/derby/2005-2009.webp"
+      }
+    }
+  ]
+}

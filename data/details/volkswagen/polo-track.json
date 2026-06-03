@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "polo-track",
+  "name": "polo-track",
+  "generations": [
+    {
+      "slug": "polo-track-0",
+      "name": "polo-track 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/polo-track/mk6-aw-bz-2022-now.webp"
+      }
+    }
+  ]
+}

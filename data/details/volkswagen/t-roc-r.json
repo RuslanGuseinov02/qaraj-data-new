@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "t-roc-r",
+  "name": "t-roc-r",
+  "generations": [
+    {
+      "slug": "t-roc-r-0",
+      "name": "t-roc-r 1",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/t-roc-r/2019-2021.webp"
+      }
+    },
+    {
+      "slug": "t-roc-r-1",
+      "name": "t-roc-r 2",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/t-roc-r/2021-2025.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "tiguan",
+  "name": "tiguan",
+  "generations": [
+    {
+      "slug": "tiguan-0",
+      "name": "tiguan 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/tiguan/2024-now.webp"
+      }
+    },
+    {
+      "slug": "tiguan-1",
+      "name": "tiguan 2",
+      "year_start": 2007,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/tiguan/5n-2007-2011.webp"
+      }
+    },
+    {
+      "slug": "tiguan-2",
+      "name": "tiguan 3",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/tiguan/5n-2011-2017.webp"
+      }
+    },
+    {
+      "slug": "tiguan-3",
+      "name": "tiguan 4",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/tiguan/5n-2018-2022.webp"
+      }
+    },
+    {
+      "slug": "tiguan-4",
+      "name": "tiguan 5",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/tiguan/ad-bw-2016-2021.webp"
+      }
+    },
+    {
+      "slug": "tiguan-5",
+      "name": "tiguan 6",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/tiguan/ad-bw-2020-2025.webp"
+      }
+    },
+    {
+      "slug": "tiguan-6",
+      "name": "tiguan 7",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/tiguan/ad-bw-2024-now.webp"
+      }
+    }
+  ]
+}

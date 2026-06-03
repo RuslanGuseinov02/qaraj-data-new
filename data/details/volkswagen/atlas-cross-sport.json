@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "atlas-cross-sport",
+  "name": "atlas-cross-sport",
+  "generations": [
+    {
+      "slug": "atlas-cross-sport-0",
+      "name": "atlas-cross-sport 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/atlas-cross-sport/ca1-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "atlas-cross-sport-1",
+      "name": "atlas-cross-sport 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/atlas-cross-sport/ca1-2023-now.webp"
+      }
+    }
+  ]
+}

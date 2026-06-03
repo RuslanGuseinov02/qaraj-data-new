@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "scirocco",
+  "name": "scirocco",
+  "generations": [
+    {
+      "slug": "scirocco-0",
+      "name": "scirocco 1",
+      "year_start": 1974,
+      "year_end": 1977,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/scirocco/1974-1977.webp"
+      }
+    },
+    {
+      "slug": "scirocco-1",
+      "name": "scirocco 2",
+      "year_start": 1978,
+      "year_end": 1981,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/scirocco/1978-1981.webp"
+      }
+    },
+    {
+      "slug": "scirocco-2",
+      "name": "scirocco 3",
+      "year_start": 1981,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/scirocco/1981-1992.webp"
+      }
+    },
+    {
+      "slug": "scirocco-3",
+      "name": "scirocco 4",
+      "year_start": 2008,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/scirocco/2008-2014.webp"
+      }
+    },
+    {
+      "slug": "scirocco-4",
+      "name": "scirocco 5",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/scirocco/2014-2017.webp"
+      }
+    }
+  ]
+}

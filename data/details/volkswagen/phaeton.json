@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "phaeton",
+  "name": "phaeton",
+  "generations": [
+    {
+      "slug": "phaeton-0",
+      "name": "phaeton 1",
+      "year_start": 2002,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/phaeton/2002-2010.webp"
+      }
+    },
+    {
+      "slug": "phaeton-1",
+      "name": "phaeton 2",
+      "year_start": 2010,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/phaeton/2010-2016.webp"
+      }
+    }
+  ]
+}

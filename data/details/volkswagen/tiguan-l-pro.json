@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "tiguan-l-pro",
+  "name": "tiguan-l-pro",
+  "generations": [
+    {
+      "slug": "tiguan-l-pro-0",
+      "name": "tiguan-l-pro 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/tiguan-l-pro/2024-now.webp"
+      }
+    }
+  ]
+}

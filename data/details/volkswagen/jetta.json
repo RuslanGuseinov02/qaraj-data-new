@@ -1,0 +1,130 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "jetta",
+  "name": "jetta",
+  "generations": [
+    {
+      "slug": "jetta-0",
+      "name": "jetta 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/jetta/2013-2016.webp"
+      }
+    },
+    {
+      "slug": "jetta-1",
+      "name": "jetta 2",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/jetta/2016-2019.webp"
+      }
+    },
+    {
+      "slug": "jetta-2",
+      "name": "jetta 3",
+      "year_start": 1979,
+      "year_end": 1984,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/jetta/a1-1979-1984.webp"
+      }
+    },
+    {
+      "slug": "jetta-3",
+      "name": "jetta 4",
+      "year_start": 1984,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/jetta/a2-1984-1992.webp"
+      }
+    },
+    {
+      "slug": "jetta-4",
+      "name": "jetta 5",
+      "year_start": 1992,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/jetta/a3-1992-1999.webp"
+      }
+    },
+    {
+      "slug": "jetta-5",
+      "name": "jetta 6",
+      "year_start": 1998,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/jetta/a4-1998-2006.webp"
+      }
+    },
+    {
+      "slug": "jetta-6",
+      "name": "jetta 7",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/jetta/a5-2005-2010.webp"
+      }
+    },
+    {
+      "slug": "jetta-7",
+      "name": "jetta 8",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/jetta/a6-2010-2014.webp"
+      }
+    },
+    {
+      "slug": "jetta-8",
+      "name": "jetta 9",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/jetta/a6-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "jetta-9",
+      "name": "jetta 10",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/jetta/a7-2018-2022.webp"
+      }
+    },
+    {
+      "slug": "jetta-10",
+      "name": "jetta 11",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/jetta/a7-2022-2024.webp"
+      }
+    },
+    {
+      "slug": "jetta-11",
+      "name": "jetta 12",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/jetta/a7-2024-now.webp"
+      }
+    }
+  ]
+}

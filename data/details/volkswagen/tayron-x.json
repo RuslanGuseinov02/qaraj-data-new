@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "tayron-x",
+  "name": "tayron-x",
+  "generations": [
+    {
+      "slug": "tayron-x-0",
+      "name": "tayron-x 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/tayron-x/2020-2023.webp"
+      }
+    },
+    {
+      "slug": "tayron-x-1",
+      "name": "tayron-x 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/tayron-x/2023-now.webp"
+      }
+    }
+  ]
+}

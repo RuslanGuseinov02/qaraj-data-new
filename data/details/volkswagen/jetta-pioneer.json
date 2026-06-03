@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "jetta-pioneer",
+  "name": "jetta-pioneer",
+  "generations": [
+    {
+      "slug": "jetta-pioneer-0",
+      "name": "jetta-pioneer 1",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/jetta-pioneer/2010-2012.webp"
+      }
+    }
+  ]
+}

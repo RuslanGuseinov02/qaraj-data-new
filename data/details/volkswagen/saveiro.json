@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "saveiro",
+  "name": "saveiro",
+  "generations": [
+    {
+      "slug": "saveiro-0",
+      "name": "saveiro 1",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/saveiro/nf-2010-2013.webp"
+      }
+    },
+    {
+      "slug": "saveiro-1",
+      "name": "saveiro 2",
+      "year_start": 2014,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/saveiro/nf-2014-2016.webp"
+      }
+    },
+    {
+      "slug": "saveiro-2",
+      "name": "saveiro 3",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/saveiro/nf-2017-2022.webp"
+      }
+    },
+    {
+      "slug": "saveiro-3",
+      "name": "saveiro 4",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/saveiro/nf-2023-now.webp"
+      }
+    }
+  ]
+}

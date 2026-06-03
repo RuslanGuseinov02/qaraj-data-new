@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "golf-sportwagen",
+  "name": "golf-sportwagen",
+  "generations": [
+    {
+      "slug": "golf-sportwagen-0",
+      "name": "golf-sportwagen 1",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-sportwagen/mk6-5k-2010-2013.webp"
+      }
+    },
+    {
+      "slug": "golf-sportwagen-1",
+      "name": "golf-sportwagen 2",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-sportwagen/mk7-5g-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "golf-sportwagen-2",
+      "name": "golf-sportwagen 3",
+      "year_start": 2018,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-sportwagen/mk7-5g-2018-2019.webp"
+      }
+    }
+  ]
+}

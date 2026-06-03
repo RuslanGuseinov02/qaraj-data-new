@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "jetta-variant",
+  "name": "jetta-variant",
+  "generations": [
+    {
+      "slug": "jetta-variant-0",
+      "name": "jetta-variant 1",
+      "year_start": 2008,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/jetta-variant/a5-2008-2009.webp"
+      }
+    },
+    {
+      "slug": "jetta-variant-1",
+      "name": "jetta-variant 2",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/jetta-variant/a6-2010-2012.webp"
+      }
+    }
+  ]
+}

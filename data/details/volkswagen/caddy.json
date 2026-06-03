@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "caddy",
+  "name": "caddy",
+  "generations": [
+    {
+      "slug": "caddy-0",
+      "name": "caddy 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/caddy/2020-now.webp"
+      }
+    },
+    {
+      "slug": "caddy-1",
+      "name": "caddy 2",
+      "year_start": 1982,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/caddy/typ-14k-1982-1992.webp"
+      }
+    },
+    {
+      "slug": "caddy-2",
+      "name": "caddy 3",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/caddy/typ-2k-2004-2010.webp"
+      }
+    },
+    {
+      "slug": "caddy-3",
+      "name": "caddy 4",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/caddy/typ-2k-2010-2015.webp"
+      }
+    },
+    {
+      "slug": "caddy-4",
+      "name": "caddy 5",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/caddy/typ-2k-2015-2020.webp"
+      }
+    },
+    {
+      "slug": "caddy-5",
+      "name": "caddy 6",
+      "year_start": 1995,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/caddy/typ-9k-9u-1995-2003.webp"
+      }
+    }
+  ]
+}

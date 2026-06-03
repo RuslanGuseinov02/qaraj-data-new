@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "multivan",
+  "name": "multivan",
+  "generations": [
+    {
+      "slug": "multivan-0",
+      "name": "multivan 1",
+      "year_start": 1989,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/multivan/t3-1989-1992.webp"
+      }
+    },
+    {
+      "slug": "multivan-1",
+      "name": "multivan 2",
+      "year_start": 1992,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/multivan/t4-1992-1996.webp"
+      }
+    },
+    {
+      "slug": "multivan-2",
+      "name": "multivan 3",
+      "year_start": 1996,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/multivan/t4-1996-2003.webp"
+      }
+    },
+    {
+      "slug": "multivan-3",
+      "name": "multivan 4",
+      "year_start": 2003,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/multivan/t5-2003-2009.webp"
+      }
+    },
+    {
+      "slug": "multivan-4",
+      "name": "multivan 5",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/multivan/t5-2010-2015.webp"
+      }
+    },
+    {
+      "slug": "multivan-5",
+      "name": "multivan 6",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/multivan/t6-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "multivan-6",
+      "name": "multivan 7",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/multivan/t6-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "multivan-7",
+      "name": "multivan 8",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/multivan/t7-2021-now.webp"
+      }
+    }
+  ]
+}

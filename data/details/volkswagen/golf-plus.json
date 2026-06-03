@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "golf-plus",
+  "name": "golf-plus",
+  "generations": [
+    {
+      "slug": "golf-plus-0",
+      "name": "golf-plus 1",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-plus/2005-2008.webp"
+      }
+    },
+    {
+      "slug": "golf-plus-1",
+      "name": "golf-plus 2",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-plus/2009-2014.webp"
+      }
+    }
+  ]
+}

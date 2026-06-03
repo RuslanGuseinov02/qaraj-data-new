@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "lamando",
+  "name": "lamando",
+  "generations": [
+    {
+      "slug": "lamando-0",
+      "name": "lamando 1",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/lamando/2015-2018.webp"
+      }
+    },
+    {
+      "slug": "lamando-1",
+      "name": "lamando 2",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/lamando/2019-now.webp"
+      }
+    }
+  ]
+}

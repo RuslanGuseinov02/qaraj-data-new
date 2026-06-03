@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "cross-golf",
+  "name": "cross-golf",
+  "generations": [
+    {
+      "slug": "cross-golf-0",
+      "name": "cross-golf 1",
+      "year_start": 2004,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/cross-golf/2004-2009.webp"
+      }
+    }
+  ]
+}

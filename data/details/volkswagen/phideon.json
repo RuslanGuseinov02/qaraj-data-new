@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "phideon",
+  "name": "phideon",
+  "generations": [
+    {
+      "slug": "phideon-0",
+      "name": "phideon 1",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/phideon/3e-2016-2021.webp"
+      }
+    },
+    {
+      "slug": "phideon-1",
+      "name": "phideon 2",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/phideon/3e-2021-2024.webp"
+      }
+    }
+  ]
+}

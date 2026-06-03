@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "up",
+  "name": "up",
+  "generations": [
+    {
+      "slug": "up-0",
+      "name": "up 1",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/up/2011-2017.webp"
+      }
+    },
+    {
+      "slug": "up-1",
+      "name": "up 2",
+      "year_start": 2016,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/up/2016-2024.webp"
+      }
+    }
+  ]
+}

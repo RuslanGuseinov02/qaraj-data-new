@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "teramont-x",
+  "name": "teramont-x",
+  "generations": [
+    {
+      "slug": "teramont-x-0",
+      "name": "teramont-x 1",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/teramont-x/ca1-2019-2021.webp"
+      }
+    },
+    {
+      "slug": "teramont-x-1",
+      "name": "teramont-x 2",
+      "year_start": 2021,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/teramont-x/ca1-2021-2023.webp"
+      }
+    },
+    {
+      "slug": "teramont-x-2",
+      "name": "teramont-x 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/teramont-x/ca1-2023-now.webp"
+      }
+    }
+  ]
+}

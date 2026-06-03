@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "tiguan-allspace",
+  "name": "tiguan-allspace",
+  "generations": [
+    {
+      "slug": "tiguan-allspace-0",
+      "name": "tiguan-allspace 1",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/tiguan-allspace/ad-bw-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "tiguan-allspace-1",
+      "name": "tiguan-allspace 2",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/tiguan-allspace/ad-bw-2021-2025.webp"
+      }
+    }
+  ]
+}

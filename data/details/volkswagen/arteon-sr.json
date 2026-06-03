@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "arteon-sr",
+  "name": "arteon-sr",
+  "generations": [
+    {
+      "slug": "arteon-sr-0",
+      "name": "arteon-sr 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/arteon-sr/3h7-2022-now.webp"
+      }
+    }
+  ]
+}

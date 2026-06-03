@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "e-golf",
+  "name": "e-golf",
+  "generations": [
+    {
+      "slug": "e-golf-0",
+      "name": "e-golf 1",
+      "year_start": 2014,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/e-golf/mk7-2014-2021.webp"
+      }
+    }
+  ]
+}

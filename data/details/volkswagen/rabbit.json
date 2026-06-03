@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "rabbit",
+  "name": "rabbit",
+  "generations": [
+    {
+      "slug": "rabbit-0",
+      "name": "rabbit 1",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/rabbit/2006-2009.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "jetta-king",
+  "name": "jetta-king",
+  "generations": [
+    {
+      "slug": "jetta-king-0",
+      "name": "jetta-king 1",
+      "year_start": 2004,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/jetta-king/2004-2009.webp"
+      }
+    }
+  ]
+}

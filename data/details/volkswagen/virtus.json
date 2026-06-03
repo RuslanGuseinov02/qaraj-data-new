@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "virtus",
+  "name": "virtus",
+  "generations": [
+    {
+      "slug": "virtus-0",
+      "name": "virtus 1",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/virtus/2017-2022.webp"
+      }
+    },
+    {
+      "slug": "virtus-1",
+      "name": "virtus 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/virtus/2022-now.webp"
+      }
+    }
+  ]
+}

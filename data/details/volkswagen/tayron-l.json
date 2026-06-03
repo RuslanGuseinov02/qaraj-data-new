@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "tayron-l",
+  "name": "tayron-l",
+  "generations": [
+    {
+      "slug": "tayron-l-0",
+      "name": "tayron-l 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/tayron-l/2024-now.webp"
+      }
+    }
+  ]
+}

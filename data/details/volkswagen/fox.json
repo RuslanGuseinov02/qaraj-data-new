@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "fox",
+  "name": "fox",
+  "generations": [
+    {
+      "slug": "fox-0",
+      "name": "fox 1",
+      "year_start": 1987,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/fox/1987-1993.webp"
+      }
+    },
+    {
+      "slug": "fox-1",
+      "name": "fox 2",
+      "year_start": 2004,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/fox/2004-2009.webp"
+      }
+    },
+    {
+      "slug": "fox-2",
+      "name": "fox 3",
+      "year_start": 2005,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/fox/2005-2011.webp"
+      }
+    },
+    {
+      "slug": "fox-3",
+      "name": "fox 4",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/fox/2010-2014.webp"
+      }
+    },
+    {
+      "slug": "fox-4",
+      "name": "fox 5",
+      "year_start": 2015,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/fox/2015-2022.webp"
+      }
+    }
+  ]
+}

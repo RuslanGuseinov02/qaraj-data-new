@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "pointer",
+  "name": "pointer",
+  "generations": [
+    {
+      "slug": "pointer-0",
+      "name": "pointer 1",
+      "year_start": 1994,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/pointer/1994-1997.webp"
+      }
+    },
+    {
+      "slug": "pointer-1",
+      "name": "pointer 2",
+      "year_start": 1998,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/pointer/g3-1998-2006.webp"
+      }
+    },
+    {
+      "slug": "pointer-2",
+      "name": "pointer 3",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/pointer/g4-2006-2009.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "polo",
+  "name": "polo",
+  "generations": [
+    {
+      "slug": "polo-0",
+      "name": "polo 1",
+      "year_start": 1975,
+      "year_end": 1979,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/polo/mk1-86-1975-1979.webp"
+      }
+    },
+    {
+      "slug": "polo-1",
+      "name": "polo 2",
+      "year_start": 1979,
+      "year_end": 1981,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/polo/mk1-86-1979-1981.webp"
+      }
+    },
+    {
+      "slug": "polo-2",
+      "name": "polo 3",
+      "year_start": 1981,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/polo/mk2-86c-1981-1990.webp"
+      }
+    },
+    {
+      "slug": "polo-3",
+      "name": "polo 4",
+      "year_start": 1990,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/polo/mk2-86c-1990-1994.webp"
+      }
+    },
+    {
+      "slug": "polo-4",
+      "name": "polo 5",
+      "year_start": 1994,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/polo/mk3-6n-6kv-1994-1999.webp"
+      }
+    },
+    {
+      "slug": "polo-5",
+      "name": "polo 6",
+      "year_start": 1999,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/polo/mk3-6n-6kv-1999-2001.webp"
+      }
+    },
+    {
+      "slug": "polo-6",
+      "name": "polo 7",
+      "year_start": 2001,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/polo/mk4-6q-9n-2001-2005.webp"
+      }
+    },
+    {
+      "slug": "polo-7",
+      "name": "polo 8",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/polo/mk4-6q-9n-2005-2010.webp"
+      }
+    },
+    {
+      "slug": "polo-8",
+      "name": "polo 9",
+      "year_start": 2009,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/polo/mk5-6r-6c-61-2009-2015.webp"
+      }
+    },
+    {
+      "slug": "polo-9",
+      "name": "polo 10",
+      "year_start": 2014,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/polo/mk5-6r-6c-61-2014-2020.webp"
+      }
+    },
+    {
+      "slug": "polo-10",
+      "name": "polo 11",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/polo/mk6-aw-bz-2017-2023.webp"
+      }
+    },
+    {
+      "slug": "polo-11",
+      "name": "polo 12",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/polo/mk6-aw-bz-2021-now.webp"
+      }
+    }
+  ]
+}

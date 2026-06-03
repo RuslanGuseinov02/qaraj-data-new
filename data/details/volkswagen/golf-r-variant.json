@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "golf-r-variant",
+  "name": "golf-r-variant",
+  "generations": [
+    {
+      "slug": "golf-r-variant-0",
+      "name": "golf-r-variant 1",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-r-variant/mk7-5g-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "golf-r-variant-1",
+      "name": "golf-r-variant 2",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-r-variant/mk7-5g-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "golf-r-variant-2",
+      "name": "golf-r-variant 3",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-r-variant/mk8-cd1-2020-2024.webp"
+      }
+    },
+    {
+      "slug": "golf-r-variant-3",
+      "name": "golf-r-variant 4",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-r-variant/mk8-cd1-2024-now.webp"
+      }
+    }
+  ]
+}

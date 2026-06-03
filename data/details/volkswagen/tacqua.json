@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "tacqua",
+  "name": "tacqua",
+  "generations": [
+    {
+      "slug": "tacqua-0",
+      "name": "tacqua 1",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/tacqua/2020-2024.webp"
+      }
+    }
+  ]
+}

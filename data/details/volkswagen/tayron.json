@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "tayron",
+  "name": "tayron",
+  "generations": [
+    {
+      "slug": "tayron-0",
+      "name": "tayron 1",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/tayron/2019-2023.webp"
+      }
+    },
+    {
+      "slug": "tayron-1",
+      "name": "tayron 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/tayron/2023-now.webp"
+      }
+    },
+    {
+      "slug": "tayron-2",
+      "name": "tayron 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/tayron/2024-now.webp"
+      }
+    }
+  ]
+}

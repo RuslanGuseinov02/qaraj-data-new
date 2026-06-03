@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "space-cross",
+  "name": "space-cross",
+  "generations": [
+    {
+      "slug": "space-cross-0",
+      "name": "space-cross 1",
+      "year_start": 2012,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/space-cross/2012-2014.webp"
+      }
+    },
+    {
+      "slug": "space-cross-1",
+      "name": "space-cross 2",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/space-cross/2015-2017.webp"
+      }
+    }
+  ]
+}

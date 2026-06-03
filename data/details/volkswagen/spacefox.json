@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "spacefox",
+  "name": "spacefox",
+  "generations": [
+    {
+      "slug": "spacefox-0",
+      "name": "spacefox 1",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/spacefox/2005-2010.webp"
+      }
+    },
+    {
+      "slug": "spacefox-1",
+      "name": "spacefox 2",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/spacefox/2011-2014.webp"
+      }
+    },
+    {
+      "slug": "spacefox-2",
+      "name": "spacefox 3",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/spacefox/2015-2020.webp"
+      }
+    }
+  ]
+}

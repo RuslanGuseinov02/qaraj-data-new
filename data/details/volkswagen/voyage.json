@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "voyage",
+  "name": "voyage",
+  "generations": [
+    {
+      "slug": "voyage-0",
+      "name": "voyage 1",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/voyage/g5-2009-2012.webp"
+      }
+    },
+    {
+      "slug": "voyage-1",
+      "name": "voyage 2",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/voyage/g6-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "voyage-2",
+      "name": "voyage 3",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/voyage/g7-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "voyage-3",
+      "name": "voyage 4",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/voyage/g8-2019-2023.webp"
+      }
+    }
+  ]
+}

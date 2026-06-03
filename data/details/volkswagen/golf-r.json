@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "golf-r",
+  "name": "golf-r",
+  "generations": [
+    {
+      "slug": "golf-r-0",
+      "name": "golf-r 1",
+      "year_start": 2009,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-r/mk6-a6-5k-2009-2015.webp"
+      }
+    },
+    {
+      "slug": "golf-r-1",
+      "name": "golf-r 2",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-r/mk7-5g-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "golf-r-2",
+      "name": "golf-r 3",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-r/mk7-5g-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "golf-r-3",
+      "name": "golf-r 4",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-r/mk8-cd1-2020-2024.webp"
+      }
+    },
+    {
+      "slug": "golf-r-4",
+      "name": "golf-r 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/golf-r/mk8-cd1-2024-now.webp"
+      }
+    }
+  ]
+}

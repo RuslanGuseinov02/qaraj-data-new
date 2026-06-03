@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "new-beetle",
+  "name": "new-beetle",
+  "generations": [
+    {
+      "slug": "new-beetle-0",
+      "name": "new-beetle 1",
+      "year_start": 1998,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/new-beetle/a4-1998-2005.webp"
+      }
+    },
+    {
+      "slug": "new-beetle-1",
+      "name": "new-beetle 2",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/new-beetle/a4-2005-2010.webp"
+      }
+    }
+  ]
+}

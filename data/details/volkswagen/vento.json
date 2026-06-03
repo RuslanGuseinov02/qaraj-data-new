@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "vento",
+  "name": "vento",
+  "generations": [
+    {
+      "slug": "vento-0",
+      "name": "vento 1",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/vento/a05-2013-2015.webp"
+      }
+    },
+    {
+      "slug": "vento-1",
+      "name": "vento 2",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/vento/a05-2016-2019.webp"
+      }
+    },
+    {
+      "slug": "vento-2",
+      "name": "vento 3",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/vento/a05-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "vento-3",
+      "name": "vento 4",
+      "year_start": 1991,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/vento/a3-1991-1999.webp"
+      }
+    },
+    {
+      "slug": "vento-4",
+      "name": "vento 5",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/vento/a6-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "vento-5",
+      "name": "vento 6",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/vento/a7-2018-2024.webp"
+      }
+    },
+    {
+      "slug": "vento-6",
+      "name": "vento 7",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/vento/a7-2024-now.webp"
+      }
+    }
+  ]
+}

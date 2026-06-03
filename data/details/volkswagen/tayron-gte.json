@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "tayron-gte",
+  "name": "tayron-gte",
+  "generations": [
+    {
+      "slug": "tayron-gte-0",
+      "name": "tayron-gte 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/tayron-gte/2020-2023.webp"
+      }
+    }
+  ]
+}

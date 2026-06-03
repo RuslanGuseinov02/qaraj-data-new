@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "volkswagen",
+    "name": "VOLKSWAGEN"
+  },
+  "slug": "xl1",
+  "name": "xl1",
+  "generations": [
+    {
+      "slug": "xl1-0",
+      "name": "xl1 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/volkswagen/xl1/2013-2016.webp"
+      }
+    }
+  ]
+}
