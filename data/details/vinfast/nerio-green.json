@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "vinfast",
+    "name": "VINFAST"
+  },
+  "slug": "nerio-green",
+  "name": "nerio-green",
+  "generations": [
+    {
+      "slug": "nerio-green-0",
+      "name": "nerio-green 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vinfast/nerio-green/2024-now.webp"
+      }
+    }
+  ]
+}

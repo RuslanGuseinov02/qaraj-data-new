@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "vinfast",
+    "name": "VINFAST"
+  },
+  "slug": "vf9",
+  "name": "vf9",
+  "generations": [
+    {
+      "slug": "vf9-0",
+      "name": "vf9 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vinfast/vf9/2023-now.webp"
+      }
+    }
+  ]
+}
