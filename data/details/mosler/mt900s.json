@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mosler",
+    "name": "MOSLER"
+  },
+  "slug": "mt900s",
+  "name": "mt900s",
+  "generations": [
+    {
+      "slug": "mt900s-0",
+      "name": "mt900s 1",
+      "year_start": 2001,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mosler/mt900s/2001-2011.webp"
+      }
+    }
+  ]
+}
