@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zotye",
+    "name": "ZOTYE"
+  },
+  "slug": "t800",
+  "name": "t800",
+  "generations": [
+    {
+      "slug": "t800-0",
+      "name": "t800 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zotye/t800/2018-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zotye",
+    "name": "ZOTYE"
+  },
+  "slug": "z500ev",
+  "name": "z500ev",
+  "generations": [
+    {
+      "slug": "z500ev-0",
+      "name": "z500ev 1",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zotye/z500ev/2016-2021.webp"
+      }
+    }
+  ]
+}

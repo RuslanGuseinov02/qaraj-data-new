@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zotye",
+    "name": "ZOTYE"
+  },
+  "slug": "m300",
+  "name": "m300",
+  "generations": [
+    {
+      "slug": "m300-0",
+      "name": "m300 1",
+      "year_start": 2009,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zotye/m300/2009-2010.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zotye",
+    "name": "ZOTYE"
+  },
+  "slug": "e200",
+  "name": "e200",
+  "generations": [
+    {
+      "slug": "e200-0",
+      "name": "e200 1",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zotye/e200/2016-2021.webp"
+      }
+    }
+  ]
+}

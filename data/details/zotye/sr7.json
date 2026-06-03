@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zotye",
+    "name": "ZOTYE"
+  },
+  "slug": "sr7",
+  "name": "sr7",
+  "generations": [
+    {
+      "slug": "sr7-0",
+      "name": "sr7 1",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zotye/sr7/2016-2021.webp"
+      }
+    }
+  ]
+}

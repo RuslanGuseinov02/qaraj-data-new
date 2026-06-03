@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zotye",
+    "name": "ZOTYE"
+  },
+  "slug": "cloud",
+  "name": "cloud",
+  "generations": [
+    {
+      "slug": "cloud-0",
+      "name": "cloud 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zotye/cloud/2023-now.webp"
+      }
+    }
+  ]
+}

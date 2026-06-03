@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zotye",
+    "name": "ZOTYE"
+  },
+  "slug": "z100",
+  "name": "z100",
+  "generations": [
+    {
+      "slug": "z100-0",
+      "name": "z100 1",
+      "year_start": 2013,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zotye/z100/2013-2025.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zotye",
+    "name": "ZOTYE"
+  },
+  "slug": "cloud-100s",
+  "name": "cloud-100s",
+  "generations": [
+    {
+      "slug": "cloud-100s-0",
+      "name": "cloud-100s 1",
+      "year_start": 2016,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zotye/cloud-100s/2016-2017.webp"
+      }
+    }
+  ]
+}

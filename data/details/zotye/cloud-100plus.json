@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zotye",
+    "name": "ZOTYE"
+  },
+  "slug": "cloud-100plus",
+  "name": "cloud-100plus",
+  "generations": [
+    {
+      "slug": "cloud-100plus-0",
+      "name": "cloud-100plus 1",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zotye/cloud-100plus/2018-2023.webp"
+      }
+    }
+  ]
+}

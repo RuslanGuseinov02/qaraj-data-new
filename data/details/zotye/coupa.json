@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zotye",
+    "name": "ZOTYE"
+  },
+  "slug": "coupa",
+  "name": "coupa",
+  "generations": [
+    {
+      "slug": "coupa-0",
+      "name": "coupa 1",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zotye/coupa/b11f-2018-2021.webp"
+      }
+    }
+  ]
+}

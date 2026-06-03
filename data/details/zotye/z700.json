@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zotye",
+    "name": "ZOTYE"
+  },
+  "slug": "z700",
+  "name": "z700",
+  "generations": [
+    {
+      "slug": "z700-0",
+      "name": "z700 1",
+      "year_start": 2016,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zotye/z700/2016-now.webp"
+      }
+    }
+  ]
+}

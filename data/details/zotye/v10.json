@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zotye",
+    "name": "ZOTYE"
+  },
+  "slug": "v10",
+  "name": "v10",
+  "generations": [
+    {
+      "slug": "v10-0",
+      "name": "v10 1",
+      "year_start": 2011,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zotye/v10/2011-2012.webp"
+      }
+    }
+  ]
+}

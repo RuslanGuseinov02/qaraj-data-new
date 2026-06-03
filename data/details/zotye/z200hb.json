@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zotye",
+    "name": "ZOTYE"
+  },
+  "slug": "z200hb",
+  "name": "z200hb",
+  "generations": [
+    {
+      "slug": "z200hb-0",
+      "name": "z200hb 1",
+      "year_start": 2011,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zotye/z200hb/2011-2011.webp"
+      }
+    }
+  ]
+}

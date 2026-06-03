@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zotye",
+    "name": "ZOTYE"
+  },
+  "slug": "t300",
+  "name": "t300",
+  "generations": [
+    {
+      "slug": "t300-0",
+      "name": "t300 1",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zotye/t300/2017-now.webp"
+      }
+    }
+  ]
+}

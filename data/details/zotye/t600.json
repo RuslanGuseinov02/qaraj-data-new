@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "zotye",
+    "name": "ZOTYE"
+  },
+  "slug": "t600",
+  "name": "t600",
+  "generations": [
+    {
+      "slug": "t600-0",
+      "name": "t600 1",
+      "year_start": 2014,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zotye/t600/2014-2021.webp"
+      }
+    },
+    {
+      "slug": "t600-1",
+      "name": "t600 2",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zotye/t600/2018-now.webp"
+      }
+    }
+  ]
+}

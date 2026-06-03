@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zotye",
+    "name": "ZOTYE"
+  },
+  "slug": "t700l",
+  "name": "t700l",
+  "generations": [
+    {
+      "slug": "t700l-0",
+      "name": "t700l 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zotye/t700l/2020-now.webp"
+      }
+    }
+  ]
+}

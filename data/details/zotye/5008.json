@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zotye",
+    "name": "ZOTYE"
+  },
+  "slug": "5008",
+  "name": "5008",
+  "generations": [
+    {
+      "slug": "5008-0",
+      "name": "5008 1",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zotye/5008/2008-2010.webp"
+      }
+    }
+  ]
+}

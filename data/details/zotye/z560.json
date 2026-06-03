@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zotye",
+    "name": "ZOTYE"
+  },
+  "slug": "z560",
+  "name": "z560",
+  "generations": [
+    {
+      "slug": "z560-0",
+      "name": "z560 1",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zotye/z560/2017-now.webp"
+      }
+    }
+  ]
+}

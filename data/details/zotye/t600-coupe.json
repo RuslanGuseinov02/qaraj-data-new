@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zotye",
+    "name": "ZOTYE"
+  },
+  "slug": "t600-coupe",
+  "name": "t600-coupe",
+  "generations": [
+    {
+      "slug": "t600-coupe-0",
+      "name": "t600-coupe 1",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zotye/t600-coupe/2017-now.webp"
+      }
+    }
+  ]
+}

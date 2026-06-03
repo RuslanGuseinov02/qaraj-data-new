@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "zotye",
+    "name": "ZOTYE"
+  },
+  "slug": "nomad",
+  "name": "nomad",
+  "generations": [
+    {
+      "slug": "nomad-0",
+      "name": "nomad 1",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/zotye/nomad/2008-2010.webp"
+      }
+    }
+  ]
+}
