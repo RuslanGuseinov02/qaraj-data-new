@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ich-x",
+    "name": "ICH-X"
+  },
+  "slug": "k2",
+  "name": "k2",
+  "generations": [
+    {
+      "slug": "k2-0",
+      "name": "k2 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ich-x/k2/2023-now.webp"
+      }
+    }
+  ]
+}
