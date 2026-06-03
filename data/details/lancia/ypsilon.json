@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "lancia",
+    "name": "LANCIA"
+  },
+  "slug": "ypsilon",
+  "name": "ypsilon",
+  "generations": [
+    {
+      "slug": "ypsilon-0",
+      "name": "ypsilon 1",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/ypsilon/type-840-1995-2000.webp"
+      }
+    },
+    {
+      "slug": "ypsilon-1",
+      "name": "ypsilon 2",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/ypsilon/type-840-2000-2003.webp"
+      }
+    },
+    {
+      "slug": "ypsilon-2",
+      "name": "ypsilon 3",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/ypsilon/type-843-2003-2006.webp"
+      }
+    },
+    {
+      "slug": "ypsilon-3",
+      "name": "ypsilon 4",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/ypsilon/type-843-2006-2011.webp"
+      }
+    },
+    {
+      "slug": "ypsilon-4",
+      "name": "ypsilon 5",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/ypsilon/type-846-2011-2015.webp"
+      }
+    },
+    {
+      "slug": "ypsilon-5",
+      "name": "ypsilon 6",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/ypsilon/type-846-2015-2020.webp"
+      }
+    },
+    {
+      "slug": "ypsilon-6",
+      "name": "ypsilon 7",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/ypsilon/type-846-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "ypsilon-7",
+      "name": "ypsilon 8",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/ypsilon/type-l21-2024-now.webp"
+      }
+    }
+  ]
+}

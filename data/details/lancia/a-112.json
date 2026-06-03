@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lancia",
+    "name": "LANCIA"
+  },
+  "slug": "a-112",
+  "name": "a-112",
+  "generations": [
+    {
+      "slug": "a-112-0",
+      "name": "a-112 1",
+      "year_start": 1978,
+      "year_end": 1986,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/a-112/1978-1986.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lancia",
+    "name": "LANCIA"
+  },
+  "slug": "fulvia",
+  "name": "fulvia",
+  "generations": [
+    {
+      "slug": "fulvia-0",
+      "name": "fulvia 1",
+      "year_start": 1963,
+      "year_end": 1975,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/fulvia/818-1963-1975.webp"
+      }
+    }
+  ]
+}

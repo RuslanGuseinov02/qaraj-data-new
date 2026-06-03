@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lancia",
+    "name": "LANCIA"
+  },
+  "slug": "trevi",
+  "name": "trevi",
+  "generations": [
+    {
+      "slug": "trevi-0",
+      "name": "trevi 1",
+      "year_start": 1980,
+      "year_end": 1985,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/trevi/828-1980-1985.webp"
+      }
+    }
+  ]
+}

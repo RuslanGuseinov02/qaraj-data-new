@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lancia",
+    "name": "LANCIA"
+  },
+  "slug": "musa",
+  "name": "musa",
+  "generations": [
+    {
+      "slug": "musa-0",
+      "name": "musa 1",
+      "year_start": 2004,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/musa/2004-2012.webp"
+      }
+    }
+  ]
+}

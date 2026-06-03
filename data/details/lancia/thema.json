@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "lancia",
+    "name": "LANCIA"
+  },
+  "slug": "thema",
+  "name": "thema",
+  "generations": [
+    {
+      "slug": "thema-0",
+      "name": "thema 1",
+      "year_start": 1984,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/thema/834-1984-1995.webp"
+      }
+    },
+    {
+      "slug": "thema-1",
+      "name": "thema 2",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/thema/lx-2011-2014.webp"
+      }
+    }
+  ]
+}

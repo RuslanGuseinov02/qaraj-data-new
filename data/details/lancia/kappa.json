@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lancia",
+    "name": "LANCIA"
+  },
+  "slug": "kappa",
+  "name": "kappa",
+  "generations": [
+    {
+      "slug": "kappa-0",
+      "name": "kappa 1",
+      "year_start": 1994,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/kappa/838-1994-2000.webp"
+      }
+    }
+  ]
+}

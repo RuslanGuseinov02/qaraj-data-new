@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lancia",
+    "name": "LANCIA"
+  },
+  "slug": "gamma",
+  "name": "gamma",
+  "generations": [
+    {
+      "slug": "gamma-0",
+      "name": "gamma 1",
+      "year_start": 1976,
+      "year_end": 1984,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/gamma/830-1976-1984.webp"
+      }
+    }
+  ]
+}

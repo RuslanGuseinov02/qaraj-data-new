@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lancia",
+    "name": "LANCIA"
+  },
+  "slug": "monte-carlo",
+  "name": "monte-carlo",
+  "generations": [
+    {
+      "slug": "monte-carlo-0",
+      "name": "monte-carlo 1",
+      "year_start": 1975,
+      "year_end": 1981,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/monte-carlo/137-1975-1981.webp"
+      }
+    }
+  ]
+}

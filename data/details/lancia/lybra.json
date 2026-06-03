@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lancia",
+    "name": "LANCIA"
+  },
+  "slug": "lybra",
+  "name": "lybra",
+  "generations": [
+    {
+      "slug": "lybra-0",
+      "name": "lybra 1",
+      "year_start": 1999,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/lybra/839-1999-2006.webp"
+      }
+    }
+  ]
+}

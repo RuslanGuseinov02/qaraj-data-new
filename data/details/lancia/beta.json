@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lancia",
+    "name": "LANCIA"
+  },
+  "slug": "beta",
+  "name": "beta",
+  "generations": [
+    {
+      "slug": "beta-0",
+      "name": "beta 1",
+      "year_start": 1973,
+      "year_end": 1984,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/beta/828-1973-1984.webp"
+      }
+    }
+  ]
+}

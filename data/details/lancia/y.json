@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "lancia",
+    "name": "LANCIA"
+  },
+  "slug": "y",
+  "name": "y",
+  "generations": [
+    {
+      "slug": "y-0",
+      "name": "y 1",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/y/type-840-1995-2000.webp"
+      }
+    },
+    {
+      "slug": "y-1",
+      "name": "y 2",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/y/type-840-2000-2003.webp"
+      }
+    }
+  ]
+}

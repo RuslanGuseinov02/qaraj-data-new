@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "lancia",
+    "name": "LANCIA"
+  },
+  "slug": "delta",
+  "name": "delta",
+  "generations": [
+    {
+      "slug": "delta-0",
+      "name": "delta 1",
+      "year_start": 1979,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/delta/831-1979-1994.webp"
+      }
+    },
+    {
+      "slug": "delta-1",
+      "name": "delta 2",
+      "year_start": 1993,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/delta/836-1993-1999.webp"
+      }
+    },
+    {
+      "slug": "delta-2",
+      "name": "delta 3",
+      "year_start": 2008,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/delta/844-2008-2014.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lancia",
+    "name": "LANCIA"
+  },
+  "slug": "dedra",
+  "name": "dedra",
+  "generations": [
+    {
+      "slug": "dedra-0",
+      "name": "dedra 1",
+      "year_start": 1989,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/dedra/835-1989-2000.webp"
+      }
+    }
+  ]
+}

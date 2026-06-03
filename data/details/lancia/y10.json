@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lancia",
+    "name": "LANCIA"
+  },
+  "slug": "y10",
+  "name": "y10",
+  "generations": [
+    {
+      "slug": "y10-0",
+      "name": "y10 1",
+      "year_start": 1985,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/y10/156-1985-1995.webp"
+      }
+    }
+  ]
+}

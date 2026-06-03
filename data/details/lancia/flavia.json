@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "lancia",
+    "name": "LANCIA"
+  },
+  "slug": "flavia",
+  "name": "flavia",
+  "generations": [
+    {
+      "slug": "flavia-0",
+      "name": "flavia 1",
+      "year_start": 1960,
+      "year_end": 1971,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/flavia/1960-1971.webp"
+      }
+    },
+    {
+      "slug": "flavia-1",
+      "name": "flavia 2",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lancia/flavia/2011-2014.webp"
+      }
+    }
+  ]
+}
