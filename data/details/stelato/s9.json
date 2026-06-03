@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "stelato",
+    "name": "STELATO"
+  },
+  "slug": "s9",
+  "name": "s9",
+  "generations": [
+    {
+      "slug": "s9-0",
+      "name": "s9 1",
+      "year_start": 2024,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/stelato/s9/2024-2025.webp"
+      }
+    },
+    {
+      "slug": "s9-1",
+      "name": "s9 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/stelato/s9/2025-now.webp"
+      }
+    }
+  ]
+}
