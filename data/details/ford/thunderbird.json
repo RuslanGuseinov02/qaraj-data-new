@@ -1,0 +1,120 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "thunderbird",
+  "name": "thunderbird",
+  "generations": [
+    {
+      "slug": "thunderbird-0",
+      "name": "thunderbird 1",
+      "year_start": 1955,
+      "year_end": 1957,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/thunderbird/1955-1957.webp"
+      }
+    },
+    {
+      "slug": "thunderbird-1",
+      "name": "thunderbird 2",
+      "year_start": 1958,
+      "year_end": 1960,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/thunderbird/1958-1960.webp"
+      }
+    },
+    {
+      "slug": "thunderbird-2",
+      "name": "thunderbird 3",
+      "year_start": 1961,
+      "year_end": 1963,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/thunderbird/1961-1963.webp"
+      }
+    },
+    {
+      "slug": "thunderbird-3",
+      "name": "thunderbird 4",
+      "year_start": 1964,
+      "year_end": 1966,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/thunderbird/1964-1966.webp"
+      }
+    },
+    {
+      "slug": "thunderbird-4",
+      "name": "thunderbird 5",
+      "year_start": 1967,
+      "year_end": 1971,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/thunderbird/1967-1971.webp"
+      }
+    },
+    {
+      "slug": "thunderbird-5",
+      "name": "thunderbird 6",
+      "year_start": 1972,
+      "year_end": 1976,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/thunderbird/1972-1976.webp"
+      }
+    },
+    {
+      "slug": "thunderbird-6",
+      "name": "thunderbird 7",
+      "year_start": 1977,
+      "year_end": 1979,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/thunderbird/1977-1979.webp"
+      }
+    },
+    {
+      "slug": "thunderbird-7",
+      "name": "thunderbird 8",
+      "year_start": 1980,
+      "year_end": 1982,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/thunderbird/1980-1982.webp"
+      }
+    },
+    {
+      "slug": "thunderbird-8",
+      "name": "thunderbird 9",
+      "year_start": 1983,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/thunderbird/1983-1988.webp"
+      }
+    },
+    {
+      "slug": "thunderbird-9",
+      "name": "thunderbird 10",
+      "year_start": 1989,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/thunderbird/1989-1997.webp"
+      }
+    },
+    {
+      "slug": "thunderbird-10",
+      "name": "thunderbird 11",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/thunderbird/2002-2005.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "taurus-x",
+  "name": "taurus-x",
+  "generations": [
+    {
+      "slug": "taurus-x-0",
+      "name": "taurus-x 1",
+      "year_start": 2008,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/taurus-x/2008-2009.webp"
+      }
+    }
+  ]
+}

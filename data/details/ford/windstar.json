@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "windstar",
+  "name": "windstar",
+  "generations": [
+    {
+      "slug": "windstar-0",
+      "name": "windstar 1",
+      "year_start": 1994,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/windstar/1994-1998.webp"
+      }
+    },
+    {
+      "slug": "windstar-1",
+      "name": "windstar 2",
+      "year_start": 1998,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/windstar/1998-2003.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "taurus-sho",
+  "name": "taurus-sho",
+  "generations": [
+    {
+      "slug": "taurus-sho-0",
+      "name": "taurus-sho 1",
+      "year_start": 1989,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/taurus-sho/1989-1991.webp"
+      }
+    },
+    {
+      "slug": "taurus-sho-1",
+      "name": "taurus-sho 2",
+      "year_start": 1992,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/taurus-sho/1992-1995.webp"
+      }
+    },
+    {
+      "slug": "taurus-sho-2",
+      "name": "taurus-sho 3",
+      "year_start": 1996,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/taurus-sho/1996-1999.webp"
+      }
+    },
+    {
+      "slug": "taurus-sho-3",
+      "name": "taurus-sho 4",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/taurus-sho/2010-2012.webp"
+      }
+    },
+    {
+      "slug": "taurus-sho-4",
+      "name": "taurus-sho 5",
+      "year_start": 2013,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/taurus-sho/2013-2019.webp"
+      }
+    }
+  ]
+}

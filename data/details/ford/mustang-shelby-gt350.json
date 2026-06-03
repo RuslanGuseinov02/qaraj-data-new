@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "mustang-shelby-gt350",
+  "name": "mustang-shelby-gt350",
+  "generations": [
+    {
+      "slug": "mustang-shelby-gt350-0",
+      "name": "mustang-shelby-gt350 1",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang-shelby-gt350/s197-2011-2013.webp"
+      }
+    },
+    {
+      "slug": "mustang-shelby-gt350-1",
+      "name": "mustang-shelby-gt350 2",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang-shelby-gt350/s550-2016-2018.webp"
+      }
+    },
+    {
+      "slug": "mustang-shelby-gt350-2",
+      "name": "mustang-shelby-gt350 3",
+      "year_start": 1965,
+      "year_end": 1967,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang-shelby-gt350/t5-1965-1967.webp"
+      }
+    },
+    {
+      "slug": "mustang-shelby-gt350-3",
+      "name": "mustang-shelby-gt350 4",
+      "year_start": 1968,
+      "year_end": 1968,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang-shelby-gt350/t5-1968-1968.webp"
+      }
+    },
+    {
+      "slug": "mustang-shelby-gt350-4",
+      "name": "mustang-shelby-gt350 5",
+      "year_start": 1969,
+      "year_end": 1971,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang-shelby-gt350/t5-1969-1971.webp"
+      }
+    }
+  ]
+}

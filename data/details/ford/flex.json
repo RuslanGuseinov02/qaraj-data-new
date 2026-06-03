@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "flex",
+  "name": "flex",
+  "generations": [
+    {
+      "slug": "flex-0",
+      "name": "flex 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/flex/2008-2012.webp"
+      }
+    },
+    {
+      "slug": "flex-1",
+      "name": "flex 2",
+      "year_start": 2013,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/flex/2013-2019.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "granada",
+  "name": "granada",
+  "generations": [
+    {
+      "slug": "granada-0",
+      "name": "granada 1",
+      "year_start": 1977,
+      "year_end": 1985,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/granada/gu-gnu-1977-1985.webp"
+      }
+    }
+  ]
+}

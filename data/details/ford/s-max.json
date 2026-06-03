@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "s-max",
+  "name": "s-max",
+  "generations": [
+    {
+      "slug": "s-max-0",
+      "name": "s-max 1",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/s-max/cd340-2006-2010.webp"
+      }
+    },
+    {
+      "slug": "s-max-1",
+      "name": "s-max 2",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/s-max/cd340-2010-2015.webp"
+      }
+    },
+    {
+      "slug": "s-max-2",
+      "name": "s-max 3",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/s-max/cd539-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "s-max-3",
+      "name": "s-max 4",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/s-max/cd539-2020-2023.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "club-wagon",
+  "name": "club-wagon",
+  "generations": [
+    {
+      "slug": "club-wagon-0",
+      "name": "club-wagon 1",
+      "year_start": 1992,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/club-wagon/1992-1998.webp"
+      }
+    }
+  ]
+}

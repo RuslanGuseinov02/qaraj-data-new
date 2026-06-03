@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "explorer-ev",
+  "name": "explorer-ev",
+  "generations": [
+    {
+      "slug": "explorer-ev-0",
+      "name": "explorer-ev 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/explorer-ev/cx740-2024-now.webp"
+      }
+    }
+  ]
+}

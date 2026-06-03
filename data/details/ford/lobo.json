@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "lobo",
+  "name": "lobo",
+  "generations": [
+    {
+      "slug": "lobo-0",
+      "name": "lobo 1",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/lobo/p221-2004-2008.webp"
+      }
+    },
+    {
+      "slug": "lobo-1",
+      "name": "lobo 2",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/lobo/p415-2009-2014.webp"
+      }
+    },
+    {
+      "slug": "lobo-2",
+      "name": "lobo 3",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/lobo/p552-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "lobo-3",
+      "name": "lobo 4",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/lobo/p552-2018-2020.webp"
+      }
+    },
+    {
+      "slug": "lobo-4",
+      "name": "lobo 5",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/lobo/p702-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "lobo-5",
+      "name": "lobo 6",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/lobo/p702-2024-now.webp"
+      }
+    },
+    {
+      "slug": "lobo-6",
+      "name": "lobo 7",
+      "year_start": 1997,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/lobo/pn-96-1997-2004.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "equator",
+  "name": "equator",
+  "generations": [
+    {
+      "slug": "equator-0",
+      "name": "equator 1",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/equator/cx756-2021-2025.webp"
+      }
+    },
+    {
+      "slug": "equator-1",
+      "name": "equator 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/equator/cx756-2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "focus-c-max",
+  "name": "focus-c-max",
+  "generations": [
+    {
+      "slug": "focus-c-max-0",
+      "name": "focus-c-max 1",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/focus-c-max/214-2003-2007.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "aerostar",
+  "name": "aerostar",
+  "generations": [
+    {
+      "slug": "aerostar-0",
+      "name": "aerostar 1",
+      "year_start": 1985,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/aerostar/1985-1997.webp"
+      }
+    }
+  ]
+}

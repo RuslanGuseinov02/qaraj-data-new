@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "mondeo-sport",
+  "name": "mondeo-sport",
+  "generations": [
+    {
+      "slug": "mondeo-sport-0",
+      "name": "mondeo-sport 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mondeo-sport/2024-now.webp"
+      }
+    }
+  ]
+}

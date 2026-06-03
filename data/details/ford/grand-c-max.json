@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "grand-c-max",
+  "name": "grand-c-max",
+  "generations": [
+    {
+      "slug": "grand-c-max-0",
+      "name": "grand-c-max 1",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/grand-c-max/2010-2015.webp"
+      }
+    },
+    {
+      "slug": "grand-c-max-1",
+      "name": "grand-c-max 2",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/grand-c-max/2015-2019.webp"
+      }
+    }
+  ]
+}

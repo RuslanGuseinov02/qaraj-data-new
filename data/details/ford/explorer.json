@@ -1,0 +1,110 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "explorer",
+  "name": "explorer",
+  "generations": [
+    {
+      "slug": "explorer-0",
+      "name": "explorer 1",
+      "year_start": 2001,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/explorer/u152-2001-2005.webp"
+      }
+    },
+    {
+      "slug": "explorer-1",
+      "name": "explorer 2",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/explorer/u251-2005-2010.webp"
+      }
+    },
+    {
+      "slug": "explorer-2",
+      "name": "explorer 3",
+      "year_start": 2010,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/explorer/u502-2010-2016.webp"
+      }
+    },
+    {
+      "slug": "explorer-3",
+      "name": "explorer 4",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/explorer/u502-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "explorer-4",
+      "name": "explorer 5",
+      "year_start": 2018,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/explorer/u502-2018-2019.webp"
+      }
+    },
+    {
+      "slug": "explorer-5",
+      "name": "explorer 6",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/explorer/u625-2020-2025.webp"
+      }
+    },
+    {
+      "slug": "explorer-6",
+      "name": "explorer 7",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/explorer/u625-2022-now.webp"
+      }
+    },
+    {
+      "slug": "explorer-7",
+      "name": "explorer 8",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/explorer/u625-2024-now.webp"
+      }
+    },
+    {
+      "slug": "explorer-8",
+      "name": "explorer 9",
+      "year_start": 1995,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/explorer/un105-un150-1995-2001.webp"
+      }
+    },
+    {
+      "slug": "explorer-9",
+      "name": "explorer 10",
+      "year_start": 1990,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/explorer/un46-1990-1994.webp"
+      }
+    }
+  ]
+}

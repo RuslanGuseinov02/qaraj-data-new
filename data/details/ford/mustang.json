@@ -1,0 +1,130 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "mustang",
+  "name": "mustang",
+  "generations": [
+    {
+      "slug": "mustang-0",
+      "name": "mustang 1",
+      "year_start": 1964,
+      "year_end": 1973,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang/1964-1973.webp"
+      }
+    },
+    {
+      "slug": "mustang-1",
+      "name": "mustang 2",
+      "year_start": 1974,
+      "year_end": 1978,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang/1974-1978.webp"
+      }
+    },
+    {
+      "slug": "mustang-2",
+      "name": "mustang 3",
+      "year_start": 1979,
+      "year_end": 1982,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang/1979-1982.webp"
+      }
+    },
+    {
+      "slug": "mustang-3",
+      "name": "mustang 4",
+      "year_start": 1983,
+      "year_end": 1986,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang/1983-1986.webp"
+      }
+    },
+    {
+      "slug": "mustang-4",
+      "name": "mustang 5",
+      "year_start": 1987,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang/1987-1993.webp"
+      }
+    },
+    {
+      "slug": "mustang-5",
+      "name": "mustang 6",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang/s197-2005-2009.webp"
+      }
+    },
+    {
+      "slug": "mustang-6",
+      "name": "mustang 7",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang/s197-2010-2014.webp"
+      }
+    },
+    {
+      "slug": "mustang-7",
+      "name": "mustang 8",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang/s550-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "mustang-8",
+      "name": "mustang 9",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang/s550-2018-2023.webp"
+      }
+    },
+    {
+      "slug": "mustang-9",
+      "name": "mustang 10",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang/s650-2024-now.webp"
+      }
+    },
+    {
+      "slug": "mustang-10",
+      "name": "mustang 11",
+      "year_start": 1994,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang/sn95-1994-1998.webp"
+      }
+    },
+    {
+      "slug": "mustang-11",
+      "name": "mustang 12",
+      "year_start": 1999,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang/sn95-1999-2004.webp"
+      }
+    }
+  ]
+}

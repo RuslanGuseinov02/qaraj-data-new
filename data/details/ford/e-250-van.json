@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "e-250-van",
+  "name": "e-250-van",
+  "generations": [
+    {
+      "slug": "e-250-van-0",
+      "name": "e-250-van 1",
+      "year_start": 1992,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/e-250-van/1992-2007.webp"
+      }
+    },
+    {
+      "slug": "e-250-van-1",
+      "name": "e-250-van 2",
+      "year_start": 2008,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/e-250-van/2008-2014.webp"
+      }
+    }
+  ]
+}

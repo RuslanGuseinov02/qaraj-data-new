@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "bronco-2",
+  "name": "bronco-2",
+  "generations": [
+    {
+      "slug": "bronco-2-0",
+      "name": "bronco-2 1",
+      "year_start": 1984,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/bronco-2/1984-1988.webp"
+      }
+    },
+    {
+      "slug": "bronco-2-1",
+      "name": "bronco-2 2",
+      "year_start": 1989,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/bronco-2/1989-1990.webp"
+      }
+    }
+  ]
+}

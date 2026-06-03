@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "galaxy",
+  "name": "galaxy",
+  "generations": [
+    {
+      "slug": "galaxy-0",
+      "name": "galaxy 1",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/galaxy/cd390-2015-2020.webp"
+      }
+    },
+    {
+      "slug": "galaxy-1",
+      "name": "galaxy 2",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/galaxy/cd390-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "galaxy-2",
+      "name": "galaxy 3",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/galaxy/wa6-2006-2010.webp"
+      }
+    },
+    {
+      "slug": "galaxy-3",
+      "name": "galaxy 4",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/galaxy/wa6-2010-2015.webp"
+      }
+    },
+    {
+      "slug": "galaxy-4",
+      "name": "galaxy 5",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/galaxy/wgr-1995-2000.webp"
+      }
+    },
+    {
+      "slug": "galaxy-5",
+      "name": "galaxy 6",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/galaxy/wgr-2000-2006.webp"
+      }
+    }
+  ]
+}

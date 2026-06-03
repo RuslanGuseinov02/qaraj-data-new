@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "mustang-boss-302",
+  "name": "mustang-boss-302",
+  "generations": [
+    {
+      "slug": "mustang-boss-302-0",
+      "name": "mustang-boss-302 1",
+      "year_start": 1969,
+      "year_end": 1969,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang-boss-302/1969-1969.webp"
+      }
+    },
+    {
+      "slug": "mustang-boss-302-1",
+      "name": "mustang-boss-302 2",
+      "year_start": 1970,
+      "year_end": 1970,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang-boss-302/1970-1970.webp"
+      }
+    },
+    {
+      "slug": "mustang-boss-302-2",
+      "name": "mustang-boss-302 3",
+      "year_start": 2012,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang-boss-302/2012-2013.webp"
+      }
+    }
+  ]
+}

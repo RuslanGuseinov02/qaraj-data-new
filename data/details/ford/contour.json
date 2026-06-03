@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "contour",
+  "name": "contour",
+  "generations": [
+    {
+      "slug": "contour-0",
+      "name": "contour 1",
+      "year_start": 1995,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/contour/1995-1997.webp"
+      }
+    },
+    {
+      "slug": "contour-1",
+      "name": "contour 2",
+      "year_start": 1998,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/contour/1998-2000.webp"
+      }
+    }
+  ]
+}

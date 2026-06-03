@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "transit-350",
+  "name": "transit-350",
+  "generations": [
+    {
+      "slug": "transit-350-0",
+      "name": "transit-350 1",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/transit-350/2015-2019.webp"
+      }
+    },
+    {
+      "slug": "transit-350-1",
+      "name": "transit-350 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/transit-350/2020-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "kuga",
+  "name": "kuga",
+  "generations": [
+    {
+      "slug": "kuga-0",
+      "name": "kuga 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/kuga/c394-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "kuga-1",
+      "name": "kuga 2",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/kuga/c520-2012-2016.webp"
+      }
+    },
+    {
+      "slug": "kuga-2",
+      "name": "kuga 3",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/kuga/c520-2016-2019.webp"
+      }
+    },
+    {
+      "slug": "kuga-3",
+      "name": "kuga 4",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/kuga/cx482-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "kuga-4",
+      "name": "kuga 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/kuga/cx482-2024-now.webp"
+      }
+    }
+  ]
+}

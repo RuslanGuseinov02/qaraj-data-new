@@ -1,0 +1,290 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "falcon",
+  "name": "falcon",
+  "generations": [
+    {
+      "slug": "falcon-0",
+      "name": "falcon 1",
+      "year_start": 1960,
+      "year_end": 1963,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/1960-1963.webp"
+      }
+    },
+    {
+      "slug": "falcon-1",
+      "name": "falcon 2",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/au-1998-2002.webp"
+      }
+    },
+    {
+      "slug": "falcon-2",
+      "name": "falcon 3",
+      "year_start": 2002,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/ba-2002-2004.webp"
+      }
+    },
+    {
+      "slug": "falcon-3",
+      "name": "falcon 4",
+      "year_start": 2004,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/ba-2004-2005.webp"
+      }
+    },
+    {
+      "slug": "falcon-4",
+      "name": "falcon 5",
+      "year_start": 2005,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/bf-2005-2006.webp"
+      }
+    },
+    {
+      "slug": "falcon-5",
+      "name": "falcon 6",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/bf-2006-2010.webp"
+      }
+    },
+    {
+      "slug": "falcon-6",
+      "name": "falcon 7",
+      "year_start": 1988,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/ea-1988-1991.webp"
+      }
+    },
+    {
+      "slug": "falcon-7",
+      "name": "falcon 8",
+      "year_start": 1991,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/eb-1991-1993.webp"
+      }
+    },
+    {
+      "slug": "falcon-8",
+      "name": "falcon 9",
+      "year_start": 1993,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/ed-1993-1994.webp"
+      }
+    },
+    {
+      "slug": "falcon-9",
+      "name": "falcon 10",
+      "year_start": 1994,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/ef-1994-1996.webp"
+      }
+    },
+    {
+      "slug": "falcon-10",
+      "name": "falcon 11",
+      "year_start": 1996,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/el-1996-1998.webp"
+      }
+    },
+    {
+      "slug": "falcon-11",
+      "name": "falcon 12",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/fg-2008-2011.webp"
+      }
+    },
+    {
+      "slug": "falcon-12",
+      "name": "falcon 13",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/fg-2011-2014.webp"
+      }
+    },
+    {
+      "slug": "falcon-13",
+      "name": "falcon 14",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/fg-x-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "falcon-14",
+      "name": "falcon 15",
+      "year_start": 1972,
+      "year_end": 1973,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/xa-1972-1973.webp"
+      }
+    },
+    {
+      "slug": "falcon-15",
+      "name": "falcon 16",
+      "year_start": 1973,
+      "year_end": 1976,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/xb-1973-1976.webp"
+      }
+    },
+    {
+      "slug": "falcon-16",
+      "name": "falcon 17",
+      "year_start": 1976,
+      "year_end": 1979,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/xc-1976-1979.webp"
+      }
+    },
+    {
+      "slug": "falcon-17",
+      "name": "falcon 18",
+      "year_start": 1979,
+      "year_end": 1982,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/xd-1979-1982.webp"
+      }
+    },
+    {
+      "slug": "falcon-18",
+      "name": "falcon 19",
+      "year_start": 1982,
+      "year_end": 1984,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/xe-1982-1984.webp"
+      }
+    },
+    {
+      "slug": "falcon-19",
+      "name": "falcon 20",
+      "year_start": 1984,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/xf-1984-1988.webp"
+      }
+    },
+    {
+      "slug": "falcon-20",
+      "name": "falcon 21",
+      "year_start": 1960,
+      "year_end": 1962,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/xk-1960-1962.webp"
+      }
+    },
+    {
+      "slug": "falcon-21",
+      "name": "falcon 22",
+      "year_start": 1962,
+      "year_end": 1964,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/xl-1962-1964.webp"
+      }
+    },
+    {
+      "slug": "falcon-22",
+      "name": "falcon 23",
+      "year_start": 1964,
+      "year_end": 1965,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/xm-1964-1965.webp"
+      }
+    },
+    {
+      "slug": "falcon-23",
+      "name": "falcon 24",
+      "year_start": 1965,
+      "year_end": 1966,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/xp-1965-1966.webp"
+      }
+    },
+    {
+      "slug": "falcon-24",
+      "name": "falcon 25",
+      "year_start": 1966,
+      "year_end": 1968,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/xr-1966-1968.webp"
+      }
+    },
+    {
+      "slug": "falcon-25",
+      "name": "falcon 26",
+      "year_start": 1968,
+      "year_end": 1969,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/xt-1968-1969.webp"
+      }
+    },
+    {
+      "slug": "falcon-26",
+      "name": "falcon 27",
+      "year_start": 1969,
+      "year_end": 1970,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/xw-1969-1970.webp"
+      }
+    },
+    {
+      "slug": "falcon-27",
+      "name": "falcon 28",
+      "year_start": 1970,
+      "year_end": 1972,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/falcon/xy-1970-1972.webp"
+      }
+    }
+  ]
+}

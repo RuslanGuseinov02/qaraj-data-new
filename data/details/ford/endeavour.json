@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "endeavour",
+  "name": "endeavour",
+  "generations": [
+    {
+      "slug": "endeavour-0",
+      "name": "endeavour 1",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/endeavour/u268-2003-2006.webp"
+      }
+    },
+    {
+      "slug": "endeavour-1",
+      "name": "endeavour 2",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/endeavour/u268-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "endeavour-2",
+      "name": "endeavour 3",
+      "year_start": 2009,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/endeavour/u268-2009-2015.webp"
+      }
+    },
+    {
+      "slug": "endeavour-3",
+      "name": "endeavour 4",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/endeavour/u375-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "endeavour-4",
+      "name": "endeavour 5",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/endeavour/u375-2019-2022.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "everest",
+  "name": "everest",
+  "generations": [
+    {
+      "slug": "everest-0",
+      "name": "everest 1",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/everest/u268-2003-2006.webp"
+      }
+    },
+    {
+      "slug": "everest-1",
+      "name": "everest 2",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/everest/u268-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "everest-2",
+      "name": "everest 3",
+      "year_start": 2009,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/everest/u268-2009-2015.webp"
+      }
+    },
+    {
+      "slug": "everest-3",
+      "name": "everest 4",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/everest/u375-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "everest-4",
+      "name": "everest 5",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/everest/u375-2018-2022.webp"
+      }
+    },
+    {
+      "slug": "everest-5",
+      "name": "everest 6",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/everest/u704-2022-now.webp"
+      }
+    }
+  ]
+}

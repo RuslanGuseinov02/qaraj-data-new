@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "f-150",
+  "name": "f-150",
+  "generations": [
+    {
+      "slug": "f-150-0",
+      "name": "f-150 1",
+      "year_start": 1987,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/f-150/1987-1991.webp"
+      }
+    },
+    {
+      "slug": "f-150-1",
+      "name": "f-150 2",
+      "year_start": 1992,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/f-150/1992-1996.webp"
+      }
+    },
+    {
+      "slug": "f-150-2",
+      "name": "f-150 3",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/f-150/p221-2004-2008.webp"
+      }
+    },
+    {
+      "slug": "f-150-3",
+      "name": "f-150 4",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/f-150/p415-2009-2014.webp"
+      }
+    },
+    {
+      "slug": "f-150-4",
+      "name": "f-150 5",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/f-150/p552-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "f-150-5",
+      "name": "f-150 6",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/f-150/p552-2018-2020.webp"
+      }
+    },
+    {
+      "slug": "f-150-6",
+      "name": "f-150 7",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/f-150/p702-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "f-150-7",
+      "name": "f-150 8",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/f-150/p702-2024-now.webp"
+      }
+    },
+    {
+      "slug": "f-150-8",
+      "name": "f-150 9",
+      "year_start": 1997,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/f-150/pn-96-1997-2004.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "mustang-mach-e",
+  "name": "mustang-mach-e",
+  "generations": [
+    {
+      "slug": "mustang-mach-e-0",
+      "name": "mustang-mach-e 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang-mach-e/2020-now.webp"
+      }
+    }
+  ]
+}

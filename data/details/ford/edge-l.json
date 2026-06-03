@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "edge-l",
+  "name": "edge-l",
+  "generations": [
+    {
+      "slug": "edge-l-0",
+      "name": "edge-l 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/edge-l/cdx706-2023-now.webp"
+      }
+    }
+  ]
+}

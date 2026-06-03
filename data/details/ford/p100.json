@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "p100",
+  "name": "p100",
+  "generations": [
+    {
+      "slug": "p100-0",
+      "name": "p100 1",
+      "year_start": 1981,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/p100/1981-1988.webp"
+      }
+    },
+    {
+      "slug": "p100-1",
+      "name": "p100 2",
+      "year_start": 1988,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/p100/1988-1995.webp"
+      }
+    }
+  ]
+}

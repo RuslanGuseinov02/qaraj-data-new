@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "explorer-sport-trac",
+  "name": "explorer-sport-trac",
+  "generations": [
+    {
+      "slug": "explorer-sport-trac-0",
+      "name": "explorer-sport-trac 1",
+      "year_start": 2001,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/explorer-sport-trac/2001-2005.webp"
+      }
+    },
+    {
+      "slug": "explorer-sport-trac-1",
+      "name": "explorer-sport-trac 2",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/explorer-sport-trac/2007-2010.webp"
+      }
+    }
+  ]
+}

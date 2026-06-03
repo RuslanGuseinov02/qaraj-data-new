@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "fiesta-ikon",
+  "name": "fiesta-ikon",
+  "generations": [
+    {
+      "slug": "fiesta-ikon-0",
+      "name": "fiesta-ikon 1",
+      "year_start": 2001,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fiesta-ikon/2001-2007.webp"
+      }
+    },
+    {
+      "slug": "fiesta-ikon-1",
+      "name": "fiesta-ikon 2",
+      "year_start": 2011,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fiesta-ikon/2011-2012.webp"
+      }
+    }
+  ]
+}

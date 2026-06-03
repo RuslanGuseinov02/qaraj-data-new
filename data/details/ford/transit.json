@@ -1,0 +1,110 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "transit",
+  "name": "transit",
+  "generations": [
+    {
+      "slug": "transit-0",
+      "name": "transit 1",
+      "year_start": 1965,
+      "year_end": 1978,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/transit/1965-1978.webp"
+      }
+    },
+    {
+      "slug": "transit-1",
+      "name": "transit 2",
+      "year_start": 1978,
+      "year_end": 1986,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/transit/1978-1986.webp"
+      }
+    },
+    {
+      "slug": "transit-2",
+      "name": "transit 3",
+      "year_start": 1987,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/transit/1987-1992.webp"
+      }
+    },
+    {
+      "slug": "transit-3",
+      "name": "transit 4",
+      "year_start": 1992,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/transit/1992-1995.webp"
+      }
+    },
+    {
+      "slug": "transit-4",
+      "name": "transit 5",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/transit/1995-2000.webp"
+      }
+    },
+    {
+      "slug": "transit-5",
+      "name": "transit 6",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/transit/2000-2006.webp"
+      }
+    },
+    {
+      "slug": "transit-6",
+      "name": "transit 7",
+      "year_start": 2006,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/transit/2006-2014.webp"
+      }
+    },
+    {
+      "slug": "transit-7",
+      "name": "transit 8",
+      "year_start": 2014,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/transit/2014-2021.webp"
+      }
+    },
+    {
+      "slug": "transit-8",
+      "name": "transit 9",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/transit/2020-now.webp"
+      }
+    },
+    {
+      "slug": "transit-9",
+      "name": "transit 10",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/transit/2023-now.webp"
+      }
+    }
+  ]
+}

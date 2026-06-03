@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "fusion",
+  "name": "fusion",
+  "generations": [
+    {
+      "slug": "fusion-0",
+      "name": "fusion 1",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fusion/2002-2005.webp"
+      }
+    },
+    {
+      "slug": "fusion-1",
+      "name": "fusion 2",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fusion/2005-2009.webp"
+      }
+    },
+    {
+      "slug": "fusion-2",
+      "name": "fusion 3",
+      "year_start": 2005,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fusion/2005-2012.webp"
+      }
+    },
+    {
+      "slug": "fusion-3",
+      "name": "fusion 4",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fusion/2010-2012.webp"
+      }
+    },
+    {
+      "slug": "fusion-4",
+      "name": "fusion 5",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fusion/2013-2016.webp"
+      }
+    },
+    {
+      "slug": "fusion-5",
+      "name": "fusion 6",
+      "year_start": 2017,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fusion/2017-2018.webp"
+      }
+    },
+    {
+      "slug": "fusion-6",
+      "name": "fusion 7",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fusion/2019-2021.webp"
+      }
+    }
+  ]
+}

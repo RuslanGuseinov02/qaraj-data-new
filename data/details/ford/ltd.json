@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "ltd",
+  "name": "ltd",
+  "generations": [
+    {
+      "slug": "ltd-0",
+      "name": "ltd 1",
+      "year_start": 1965,
+      "year_end": 1968,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ltd/1965-1968.webp"
+      }
+    },
+    {
+      "slug": "ltd-1",
+      "name": "ltd 2",
+      "year_start": 1969,
+      "year_end": 1978,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ltd/1969-1978.webp"
+      }
+    },
+    {
+      "slug": "ltd-2",
+      "name": "ltd 3",
+      "year_start": 1999,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ltd/au-1999-2000.webp"
+      }
+    },
+    {
+      "slug": "ltd-3",
+      "name": "ltd 4",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ltd/au-2000-2003.webp"
+      }
+    },
+    {
+      "slug": "ltd-4",
+      "name": "ltd 5",
+      "year_start": 2003,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ltd/ba-2003-2005.webp"
+      }
+    },
+    {
+      "slug": "ltd-5",
+      "name": "ltd 6",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ltd/bf-2005-2007.webp"
+      }
+    },
+    {
+      "slug": "ltd-6",
+      "name": "ltd 7",
+      "year_start": 1995,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ltd/df-1995-1996.webp"
+      }
+    },
+    {
+      "slug": "ltd-7",
+      "name": "ltd 8",
+      "year_start": 1996,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ltd/dl-1996-1998.webp"
+      }
+    }
+  ]
+}

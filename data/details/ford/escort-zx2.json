@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "escort-zx2",
+  "name": "escort-zx2",
+  "generations": [
+    {
+      "slug": "escort-zx2-0",
+      "name": "escort-zx2 1",
+      "year_start": 1998,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/escort-zx2/1998-2003.webp"
+      }
+    }
+  ]
+}

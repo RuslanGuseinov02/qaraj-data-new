@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "tourneo-connect",
+  "name": "tourneo-connect",
+  "generations": [
+    {
+      "slug": "tourneo-connect-0",
+      "name": "tourneo-connect 1",
+      "year_start": 2002,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/tourneo-connect/2002-2007.webp"
+      }
+    },
+    {
+      "slug": "tourneo-connect-1",
+      "name": "tourneo-connect 2",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/tourneo-connect/2007-2009.webp"
+      }
+    },
+    {
+      "slug": "tourneo-connect-2",
+      "name": "tourneo-connect 3",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/tourneo-connect/2009-2013.webp"
+      }
+    },
+    {
+      "slug": "tourneo-connect-3",
+      "name": "tourneo-connect 4",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/tourneo-connect/2013-2018.webp"
+      }
+    },
+    {
+      "slug": "tourneo-connect-4",
+      "name": "tourneo-connect 5",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/tourneo-connect/2018-2023.webp"
+      }
+    },
+    {
+      "slug": "tourneo-connect-5",
+      "name": "tourneo-connect 6",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/tourneo-connect/2021-now.webp"
+      }
+    }
+  ]
+}

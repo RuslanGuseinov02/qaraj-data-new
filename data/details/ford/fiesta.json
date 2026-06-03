@@ -1,0 +1,160 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "fiesta",
+  "name": "fiesta",
+  "generations": [
+    {
+      "slug": "fiesta-0",
+      "name": "fiesta 1",
+      "year_start": 1976,
+      "year_end": 1983,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fiesta/1976-1983.webp"
+      }
+    },
+    {
+      "slug": "fiesta-1",
+      "name": "fiesta 2",
+      "year_start": 1983,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fiesta/1983-1989.webp"
+      }
+    },
+    {
+      "slug": "fiesta-2",
+      "name": "fiesta 3",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fiesta/2004-2006.webp"
+      }
+    },
+    {
+      "slug": "fiesta-3",
+      "name": "fiesta 4",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fiesta/b299-b409-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "fiesta-4",
+      "name": "fiesta 5",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fiesta/b299-b409-2011-2013.webp"
+      }
+    },
+    {
+      "slug": "fiesta-5",
+      "name": "fiesta 6",
+      "year_start": 2012,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fiesta/b299-b409-2012-2019.webp"
+      }
+    },
+    {
+      "slug": "fiesta-6",
+      "name": "fiesta 7",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fiesta/b479-2017-2022.webp"
+      }
+    },
+    {
+      "slug": "fiesta-7",
+      "name": "fiesta 8",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fiesta/b479-2022-2024.webp"
+      }
+    },
+    {
+      "slug": "fiesta-8",
+      "name": "fiesta 9",
+      "year_start": 1989,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fiesta/be13-1989-1995.webp"
+      }
+    },
+    {
+      "slug": "fiesta-9",
+      "name": "fiesta 10",
+      "year_start": 2002,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fiesta/be256-2002-2008.webp"
+      }
+    },
+    {
+      "slug": "fiesta-10",
+      "name": "fiesta 11",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fiesta/be256-2008-2010.webp"
+      }
+    },
+    {
+      "slug": "fiesta-11",
+      "name": "fiesta 12",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fiesta/be256-2008-2011.webp"
+      }
+    },
+    {
+      "slug": "fiesta-12",
+      "name": "fiesta 13",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fiesta/be256-2011-2014.webp"
+      }
+    },
+    {
+      "slug": "fiesta-13",
+      "name": "fiesta 14",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fiesta/be91-1995-1999.webp"
+      }
+    },
+    {
+      "slug": "fiesta-14",
+      "name": "fiesta 15",
+      "year_start": 2000,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fiesta/be91-2000-2002.webp"
+      }
+    }
+  ]
+}

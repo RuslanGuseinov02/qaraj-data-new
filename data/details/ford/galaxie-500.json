@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "galaxie-500",
+  "name": "galaxie-500",
+  "generations": [
+    {
+      "slug": "galaxie-500-0",
+      "name": "galaxie-500 1",
+      "year_start": 1962,
+      "year_end": 1964,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/galaxie-500/1962-1964.webp"
+      }
+    },
+    {
+      "slug": "galaxie-500-1",
+      "name": "galaxie-500 2",
+      "year_start": 1965,
+      "year_end": 1968,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/galaxie-500/1965-1968.webp"
+      }
+    },
+    {
+      "slug": "galaxie-500-2",
+      "name": "galaxie-500 3",
+      "year_start": 1969,
+      "year_end": 1974,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/galaxie-500/1969-1974.webp"
+      }
+    }
+  ]
+}

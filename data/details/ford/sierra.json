@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "sierra",
+  "name": "sierra",
+  "generations": [
+    {
+      "slug": "sierra-0",
+      "name": "sierra 1",
+      "year_start": 1982,
+      "year_end": 1986,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/sierra/1982-1986.webp"
+      }
+    },
+    {
+      "slug": "sierra-1",
+      "name": "sierra 2",
+      "year_start": 1987,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/sierra/1987-1993.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "scorpio",
+  "name": "scorpio",
+  "generations": [
+    {
+      "slug": "scorpio-0",
+      "name": "scorpio 1",
+      "year_start": 1985,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/scorpio/1985-1994.webp"
+      }
+    },
+    {
+      "slug": "scorpio-1",
+      "name": "scorpio 2",
+      "year_start": 1994,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/scorpio/1994-1998.webp"
+      }
+    }
+  ]
+}

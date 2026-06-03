@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "puma",
+  "name": "puma",
+  "generations": [
+    {
+      "slug": "puma-0",
+      "name": "puma 1",
+      "year_start": 1997,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/puma/1997-2002.webp"
+      }
+    },
+    {
+      "slug": "puma-1",
+      "name": "puma 2",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/puma/j2k-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "puma-2",
+      "name": "puma 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/puma/j2k-2024-now.webp"
+      }
+    }
+  ]
+}

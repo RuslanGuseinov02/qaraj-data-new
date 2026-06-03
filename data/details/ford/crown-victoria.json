@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "crown-victoria",
+  "name": "crown-victoria",
+  "generations": [
+    {
+      "slug": "crown-victoria-0",
+      "name": "crown-victoria 1",
+      "year_start": 1998,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/crown-victoria/en114-1998-2011.webp"
+      }
+    },
+    {
+      "slug": "crown-victoria-1",
+      "name": "crown-victoria 2",
+      "year_start": 1992,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/crown-victoria/en53-1992-1997.webp"
+      }
+    }
+  ]
+}

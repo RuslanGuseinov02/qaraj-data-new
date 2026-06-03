@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "bronco-sport",
+  "name": "bronco-sport",
+  "generations": [
+    {
+      "slug": "bronco-sport-0",
+      "name": "bronco-sport 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/bronco-sport/cx430-2021-now.webp"
+      }
+    }
+  ]
+}

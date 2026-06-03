@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "territory",
+  "name": "territory",
+  "generations": [
+    {
+      "slug": "territory-0",
+      "name": "territory 1",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/territory/cx743-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "territory-1",
+      "name": "territory 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/territory/cx756-2022-now.webp"
+      }
+    },
+    {
+      "slug": "territory-2",
+      "name": "territory 3",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/territory/cx756-2025-now.webp"
+      }
+    },
+    {
+      "slug": "territory-3",
+      "name": "territory 4",
+      "year_start": 2004,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/territory/sx-2004-2005.webp"
+      }
+    },
+    {
+      "slug": "territory-4",
+      "name": "territory 5",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/territory/sy-2005-2009.webp"
+      }
+    },
+    {
+      "slug": "territory-5",
+      "name": "territory 6",
+      "year_start": 2009,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/territory/sy-2009-2011.webp"
+      }
+    },
+    {
+      "slug": "territory-6",
+      "name": "territory 7",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/territory/sz-2011-2014.webp"
+      }
+    },
+    {
+      "slug": "territory-7",
+      "name": "territory 8",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/territory/sz-2014-2017.webp"
+      }
+    }
+  ]
+}

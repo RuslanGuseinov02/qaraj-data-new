@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "focus-active",
+  "name": "focus-active",
+  "generations": [
+    {
+      "slug": "focus-active-0",
+      "name": "focus-active 1",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/focus-active/2018-2022.webp"
+      }
+    },
+    {
+      "slug": "focus-active-1",
+      "name": "focus-active 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/focus-active/c519-2022-now.webp"
+      }
+    }
+  ]
+}

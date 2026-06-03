@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "probe",
+  "name": "probe",
+  "generations": [
+    {
+      "slug": "probe-0",
+      "name": "probe 1",
+      "year_start": 1989,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/probe/1989-1992.webp"
+      }
+    },
+    {
+      "slug": "probe-1",
+      "name": "probe 2",
+      "year_start": 1993,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/probe/1993-1998.webp"
+      }
+    }
+  ]
+}

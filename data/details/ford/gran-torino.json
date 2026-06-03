@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "gran-torino",
+  "name": "gran-torino",
+  "generations": [
+    {
+      "slug": "gran-torino-0",
+      "name": "gran-torino 1",
+      "year_start": 1972,
+      "year_end": 1976,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/gran-torino/1972-1976.webp"
+      }
+    }
+  ]
+}

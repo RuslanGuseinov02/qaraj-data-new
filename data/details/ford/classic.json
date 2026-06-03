@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "classic",
+  "name": "classic",
+  "generations": [
+    {
+      "slug": "classic-0",
+      "name": "classic 1",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/classic/2012-2015.webp"
+      }
+    }
+  ]
+}

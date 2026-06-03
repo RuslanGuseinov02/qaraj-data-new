@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "fairlane",
+  "name": "fairlane",
+  "generations": [
+    {
+      "slug": "fairlane-0",
+      "name": "fairlane 1",
+      "year_start": 1962,
+      "year_end": 1965,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fairlane/1962-1965.webp"
+      }
+    },
+    {
+      "slug": "fairlane-1",
+      "name": "fairlane 2",
+      "year_start": 1966,
+      "year_end": 1967,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fairlane/1966-1967.webp"
+      }
+    },
+    {
+      "slug": "fairlane-2",
+      "name": "fairlane 3",
+      "year_start": 1968,
+      "year_end": 1969,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fairlane/1968-1969.webp"
+      }
+    },
+    {
+      "slug": "fairlane-3",
+      "name": "fairlane 4",
+      "year_start": 1999,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fairlane/au-1999-2000.webp"
+      }
+    },
+    {
+      "slug": "fairlane-4",
+      "name": "fairlane 5",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fairlane/au-2000-2003.webp"
+      }
+    },
+    {
+      "slug": "fairlane-5",
+      "name": "fairlane 6",
+      "year_start": 2003,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fairlane/ba-2003-2005.webp"
+      }
+    },
+    {
+      "slug": "fairlane-6",
+      "name": "fairlane 7",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fairlane/bf-2005-2007.webp"
+      }
+    },
+    {
+      "slug": "fairlane-7",
+      "name": "fairlane 8",
+      "year_start": 1995,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fairlane/nf-df-1995-1996.webp"
+      }
+    },
+    {
+      "slug": "fairlane-8",
+      "name": "fairlane 9",
+      "year_start": 1996,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fairlane/nl-dl-1996-1998.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "mustang-shelby-gt500",
+  "name": "mustang-shelby-gt500",
+  "generations": [
+    {
+      "slug": "mustang-shelby-gt500-0",
+      "name": "mustang-shelby-gt500 1",
+      "year_start": 1967,
+      "year_end": 1967,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang-shelby-gt500/1967-1967.webp"
+      }
+    },
+    {
+      "slug": "mustang-shelby-gt500-1",
+      "name": "mustang-shelby-gt500 2",
+      "year_start": 1968,
+      "year_end": 1968,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang-shelby-gt500/1968-1968.webp"
+      }
+    },
+    {
+      "slug": "mustang-shelby-gt500-2",
+      "name": "mustang-shelby-gt500 3",
+      "year_start": 1969,
+      "year_end": 1970,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang-shelby-gt500/1969-1970.webp"
+      }
+    },
+    {
+      "slug": "mustang-shelby-gt500-3",
+      "name": "mustang-shelby-gt500 4",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang-shelby-gt500/2007-2009.webp"
+      }
+    },
+    {
+      "slug": "mustang-shelby-gt500-4",
+      "name": "mustang-shelby-gt500 5",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang-shelby-gt500/2010-2014.webp"
+      }
+    },
+    {
+      "slug": "mustang-shelby-gt500-5",
+      "name": "mustang-shelby-gt500 6",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/mustang-shelby-gt500/2020-2023.webp"
+      }
+    }
+  ]
+}

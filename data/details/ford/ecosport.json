@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "ecosport",
+  "name": "ecosport",
+  "generations": [
+    {
+      "slug": "ecosport-0",
+      "name": "ecosport 1",
+      "year_start": 2013,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ecosport/b515-2013-2019.webp"
+      }
+    },
+    {
+      "slug": "ecosport-1",
+      "name": "ecosport 2",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ecosport/b515-2017-2023.webp"
+      }
+    },
+    {
+      "slug": "ecosport-2",
+      "name": "ecosport 3",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ecosport/bv226-2003-2007.webp"
+      }
+    },
+    {
+      "slug": "ecosport-3",
+      "name": "ecosport 4",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ecosport/bv226-2007-2012.webp"
+      }
+    }
+  ]
+}

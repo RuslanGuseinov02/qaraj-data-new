@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "transit-courier",
+  "name": "transit-courier",
+  "generations": [
+    {
+      "slug": "transit-courier-0",
+      "name": "transit-courier 1",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/transit-courier/2014-2018.webp"
+      }
+    },
+    {
+      "slug": "transit-courier-1",
+      "name": "transit-courier 2",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/transit-courier/2018-2023.webp"
+      }
+    },
+    {
+      "slug": "transit-courier-2",
+      "name": "transit-courier 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/transit-courier/2023-now.webp"
+      }
+    }
+  ]
+}

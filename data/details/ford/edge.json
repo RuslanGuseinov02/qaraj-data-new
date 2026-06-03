@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "edge",
+  "name": "edge",
+  "generations": [
+    {
+      "slug": "edge-0",
+      "name": "edge 1",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/edge/2006-2010.webp"
+      }
+    },
+    {
+      "slug": "edge-1",
+      "name": "edge 2",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/edge/2011-2014.webp"
+      }
+    },
+    {
+      "slug": "edge-2",
+      "name": "edge 3",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/edge/2015-2018.webp"
+      }
+    },
+    {
+      "slug": "edge-3",
+      "name": "edge 4",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/edge/2018-2024.webp"
+      }
+    }
+  ]
+}

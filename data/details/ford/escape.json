@@ -1,0 +1,110 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "escape",
+  "name": "escape",
+  "generations": [
+    {
+      "slug": "escape-0",
+      "name": "escape 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/escape/2008-2012.webp"
+      }
+    },
+    {
+      "slug": "escape-1",
+      "name": "escape 2",
+      "year_start": 2000,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/escape/ba-za-2000-2004.webp"
+      }
+    },
+    {
+      "slug": "escape-2",
+      "name": "escape 3",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/escape/c520-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "escape-3",
+      "name": "escape 4",
+      "year_start": 2017,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/escape/c520-2017-2019.webp"
+      }
+    },
+    {
+      "slug": "escape-4",
+      "name": "escape 5",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/escape/cx482-2020-2024.webp"
+      }
+    },
+    {
+      "slug": "escape-5",
+      "name": "escape 6",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/escape/cx482-2023-now.webp"
+      }
+    },
+    {
+      "slug": "escape-6",
+      "name": "escape 7",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/escape/cx482-2024-now.webp"
+      }
+    },
+    {
+      "slug": "escape-7",
+      "name": "escape 8",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/escape/zb-2005-2007.webp"
+      }
+    },
+    {
+      "slug": "escape-8",
+      "name": "escape 9",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/escape/zc-2006-2008.webp"
+      }
+    },
+    {
+      "slug": "escape-9",
+      "name": "escape 10",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/escape/zd-2008-2012.webp"
+      }
+    }
+  ]
+}

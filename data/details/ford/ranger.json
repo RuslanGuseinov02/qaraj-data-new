@@ -1,0 +1,160 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "ranger",
+  "name": "ranger",
+  "generations": [
+    {
+      "slug": "ranger-0",
+      "name": "ranger 1",
+      "year_start": 1982,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ranger/1982-1988.webp"
+      }
+    },
+    {
+      "slug": "ranger-1",
+      "name": "ranger 2",
+      "year_start": 1989,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ranger/1989-1992.webp"
+      }
+    },
+    {
+      "slug": "ranger-2",
+      "name": "ranger 3",
+      "year_start": 1993,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ranger/1993-1997.webp"
+      }
+    },
+    {
+      "slug": "ranger-3",
+      "name": "ranger 4",
+      "year_start": 1998,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ranger/1998-2000.webp"
+      }
+    },
+    {
+      "slug": "ranger-4",
+      "name": "ranger 5",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ranger/1998-2002.webp"
+      }
+    },
+    {
+      "slug": "ranger-5",
+      "name": "ranger 6",
+      "year_start": 2001,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ranger/2001-2003.webp"
+      }
+    },
+    {
+      "slug": "ranger-6",
+      "name": "ranger 7",
+      "year_start": 2002,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ranger/2002-2006.webp"
+      }
+    },
+    {
+      "slug": "ranger-7",
+      "name": "ranger 8",
+      "year_start": 2004,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ranger/2004-2012.webp"
+      }
+    },
+    {
+      "slug": "ranger-8",
+      "name": "ranger 9",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ranger/2006-2009.webp"
+      }
+    },
+    {
+      "slug": "ranger-9",
+      "name": "ranger 10",
+      "year_start": 2009,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ranger/2009-2011.webp"
+      }
+    },
+    {
+      "slug": "ranger-10",
+      "name": "ranger 11",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ranger/2010-2012.webp"
+      }
+    },
+    {
+      "slug": "ranger-11",
+      "name": "ranger 12",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ranger/p375-2011-2016.webp"
+      }
+    },
+    {
+      "slug": "ranger-12",
+      "name": "ranger 13",
+      "year_start": 2015,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ranger/p375-2015-2023.webp"
+      }
+    },
+    {
+      "slug": "ranger-13",
+      "name": "ranger 14",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ranger/p375-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "ranger-14",
+      "name": "ranger 15",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ranger/p703-2022-now.webp"
+      }
+    }
+  ]
+}

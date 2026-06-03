@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "ka-plus",
+  "name": "ka-plus",
+  "generations": [
+    {
+      "slug": "ka-plus-0",
+      "name": "ka-plus 1",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ka-plus/2015-2018.webp"
+      }
+    },
+    {
+      "slug": "ka-plus-1",
+      "name": "ka-plus 2",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ka-plus/2016-2018.webp"
+      }
+    },
+    {
+      "slug": "ka-plus-2",
+      "name": "ka-plus 3",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ka-plus/2018-2020.webp"
+      }
+    },
+    {
+      "slug": "ka-plus-3",
+      "name": "ka-plus 4",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ka-plus/2019-2021.webp"
+      }
+    }
+  ]
+}

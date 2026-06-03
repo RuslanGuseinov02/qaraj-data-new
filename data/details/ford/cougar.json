@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "cougar",
+  "name": "cougar",
+  "generations": [
+    {
+      "slug": "cougar-0",
+      "name": "cougar 1",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/cougar/1998-2002.webp"
+      }
+    },
+    {
+      "slug": "cougar-1",
+      "name": "cougar 2",
+      "year_start": 1999,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/cougar/sw-1999-2001.webp"
+      }
+    },
+    {
+      "slug": "cougar-2",
+      "name": "cougar 3",
+      "year_start": 2001,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/cougar/sx-2001-2004.webp"
+      }
+    }
+  ]
+}

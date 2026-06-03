@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "fiesta-classic",
+  "name": "fiesta-classic",
+  "generations": [
+    {
+      "slug": "fiesta-classic-0",
+      "name": "fiesta-classic 1",
+      "year_start": 1995,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fiesta-classic/1995-1997.webp"
+      }
+    },
+    {
+      "slug": "fiesta-classic-1",
+      "name": "fiesta-classic 2",
+      "year_start": 2011,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/fiesta-classic/2011-2012.webp"
+      }
+    }
+  ]
+}

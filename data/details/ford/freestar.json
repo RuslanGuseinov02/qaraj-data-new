@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "freestar",
+  "name": "freestar",
+  "generations": [
+    {
+      "slug": "freestar-0",
+      "name": "freestar 1",
+      "year_start": 2004,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/freestar/2004-2007.webp"
+      }
+    }
+  ]
+}

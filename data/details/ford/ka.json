@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "ka",
+  "name": "ka",
+  "generations": [
+    {
+      "slug": "ka-0",
+      "name": "ka 1",
+      "year_start": 1996,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ka/1996-2008.webp"
+      }
+    },
+    {
+      "slug": "ka-1",
+      "name": "ka 2",
+      "year_start": 1997,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ka/1997-2008.webp"
+      }
+    },
+    {
+      "slug": "ka-2",
+      "name": "ka 3",
+      "year_start": 2016,
+      "year_end": 37,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ka/2008-2016-37.webp"
+      }
+    },
+    {
+      "slug": "ka-3",
+      "name": "ka 4",
+      "year_start": 2008,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ka/2008-2016.webp"
+      }
+    },
+    {
+      "slug": "ka-4",
+      "name": "ka 5",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ka/2015-2018.webp"
+      }
+    },
+    {
+      "slug": "ka-5",
+      "name": "ka 6",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ka/2019-2021.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "sportka",
+  "name": "sportka",
+  "generations": [
+    {
+      "slug": "sportka-0",
+      "name": "sportka 1",
+      "year_start": 2003,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/sportka/2003-2008.webp"
+      }
+    }
+  ]
+}

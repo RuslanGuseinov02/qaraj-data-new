@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "aspire",
+  "name": "aspire",
+  "generations": [
+    {
+      "slug": "aspire-0",
+      "name": "aspire 1",
+      "year_start": 1994,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/aspire/1994-1996.webp"
+      }
+    },
+    {
+      "slug": "aspire-1",
+      "name": "aspire 2",
+      "year_start": 1997,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/aspire/1997-1997.webp"
+      }
+    },
+    {
+      "slug": "aspire-2",
+      "name": "aspire 3",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/aspire/2015-2018.webp"
+      }
+    },
+    {
+      "slug": "aspire-3",
+      "name": "aspire 4",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/aspire/2019-2022.webp"
+      }
+    }
+  ]
+}

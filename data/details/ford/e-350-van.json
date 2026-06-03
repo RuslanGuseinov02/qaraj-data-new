@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "e-350-van",
+  "name": "e-350-van",
+  "generations": [
+    {
+      "slug": "e-350-van-0",
+      "name": "e-350-van 1",
+      "year_start": 1992,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/e-350-van/1992-2007.webp"
+      }
+    },
+    {
+      "slug": "e-350-van-1",
+      "name": "e-350-van 2",
+      "year_start": 2008,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/e-350-van/2008-2019.webp"
+      }
+    }
+  ]
+}

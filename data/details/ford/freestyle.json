@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "freestyle",
+  "name": "freestyle",
+  "generations": [
+    {
+      "slug": "freestyle-0",
+      "name": "freestyle 1",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/freestyle/2018-2022.webp"
+      }
+    },
+    {
+      "slug": "freestyle-1",
+      "name": "freestyle 2",
+      "year_start": 2004,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/freestyle/f2-2004-2007.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "five-hundred",
+  "name": "five-hundred",
+  "generations": [
+    {
+      "slug": "five-hundred-0",
+      "name": "five-hundred 1",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/five-hundred/d258-2005-2007.webp"
+      }
+    }
+  ]
+}

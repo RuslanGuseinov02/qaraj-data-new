@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "ranchero",
+  "name": "ranchero",
+  "generations": [
+    {
+      "slug": "ranchero-0",
+      "name": "ranchero 1",
+      "year_start": 1970,
+      "year_end": 1971,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ranchero/1970-1971.webp"
+      }
+    },
+    {
+      "slug": "ranchero-1",
+      "name": "ranchero 2",
+      "year_start": 1972,
+      "year_end": 1976,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ranchero/1972-1976.webp"
+      }
+    },
+    {
+      "slug": "ranchero-2",
+      "name": "ranchero 3",
+      "year_start": 1977,
+      "year_end": 1979,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/ranchero/1977-1979.webp"
+      }
+    }
+  ]
+}

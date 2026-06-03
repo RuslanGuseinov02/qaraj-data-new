@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "festiva",
+  "name": "festiva",
+  "generations": [
+    {
+      "slug": "festiva-0",
+      "name": "festiva 1",
+      "year_start": 1986,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/festiva/1986-1989.webp"
+      }
+    },
+    {
+      "slug": "festiva-1",
+      "name": "festiva 2",
+      "year_start": 1989,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/festiva/1989-1993.webp"
+      }
+    },
+    {
+      "slug": "festiva-2",
+      "name": "festiva 3",
+      "year_start": 1993,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/festiva/1993-1996.webp"
+      }
+    },
+    {
+      "slug": "festiva-3",
+      "name": "festiva 4",
+      "year_start": 1996,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/festiva/1996-1999.webp"
+      }
+    },
+    {
+      "slug": "festiva-4",
+      "name": "festiva 5",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/festiva/2000-2003.webp"
+      }
+    }
+  ]
+}

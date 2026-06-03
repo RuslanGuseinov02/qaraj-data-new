@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "excursion",
+  "name": "excursion",
+  "generations": [
+    {
+      "slug": "excursion-0",
+      "name": "excursion 1",
+      "year_start": 1999,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/excursion/1999-2004.webp"
+      }
+    },
+    {
+      "slug": "excursion-1",
+      "name": "excursion 2",
+      "year_start": 2005,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/excursion/2005-2005.webp"
+      }
+    }
+  ]
+}

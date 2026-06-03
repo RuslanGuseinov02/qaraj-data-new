@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "orion",
+  "name": "orion",
+  "generations": [
+    {
+      "slug": "orion-0",
+      "name": "orion 1",
+      "year_start": 1983,
+      "year_end": 1986,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/orion/afd-1983-1986.webp"
+      }
+    },
+    {
+      "slug": "orion-1",
+      "name": "orion 2",
+      "year_start": 1985,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/orion/aff-1985-1990.webp"
+      }
+    },
+    {
+      "slug": "orion-2",
+      "name": "orion 3",
+      "year_start": 1990,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/orion/gal-1990-1993.webp"
+      }
+    }
+  ]
+}

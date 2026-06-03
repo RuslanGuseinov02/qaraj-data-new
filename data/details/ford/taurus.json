@@ -1,0 +1,120 @@
+{
+  "make": {
+    "slug": "ford",
+    "name": "FORD"
+  },
+  "slug": "taurus",
+  "name": "taurus",
+  "generations": [
+    {
+      "slug": "taurus-0",
+      "name": "taurus 1",
+      "year_start": 1986,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/taurus/1986-1991.webp"
+      }
+    },
+    {
+      "slug": "taurus-1",
+      "name": "taurus 2",
+      "year_start": 1992,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/taurus/1992-1995.webp"
+      }
+    },
+    {
+      "slug": "taurus-2",
+      "name": "taurus 3",
+      "year_start": 1996,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/taurus/1996-1998.webp"
+      }
+    },
+    {
+      "slug": "taurus-3",
+      "name": "taurus 4",
+      "year_start": 1996,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/taurus/1996-1999.webp"
+      }
+    },
+    {
+      "slug": "taurus-4",
+      "name": "taurus 5",
+      "year_start": 2000,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/taurus/2000-2007.webp"
+      }
+    },
+    {
+      "slug": "taurus-5",
+      "name": "taurus 6",
+      "year_start": 2008,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/taurus/2008-2009.webp"
+      }
+    },
+    {
+      "slug": "taurus-6",
+      "name": "taurus 7",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/taurus/2010-2012.webp"
+      }
+    },
+    {
+      "slug": "taurus-7",
+      "name": "taurus 8",
+      "year_start": 2013,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/taurus/2013-2019.webp"
+      }
+    },
+    {
+      "slug": "taurus-8",
+      "name": "taurus 9",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/taurus/2015-2019.webp"
+      }
+    },
+    {
+      "slug": "taurus-9",
+      "name": "taurus 10",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/taurus/2019-2022.webp"
+      }
+    },
+    {
+      "slug": "taurus-10",
+      "name": "taurus 11",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ford/taurus/2022-now.webp"
+      }
+    }
+  ]
+}
