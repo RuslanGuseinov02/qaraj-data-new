@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jmc",
+    "name": "JMC"
+  },
+  "slug": "vigus-pro",
+  "name": "vigus-pro",
+  "generations": [
+    {
+      "slug": "vigus-pro-0",
+      "name": "vigus-pro 1",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jmc/vigus-pro/2019-2024.webp"
+      }
+    }
+  ]
+}

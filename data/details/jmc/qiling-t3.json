@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jmc",
+    "name": "JMC"
+  },
+  "slug": "qiling-t3",
+  "name": "qiling-t3",
+  "generations": [
+    {
+      "slug": "qiling-t3-0",
+      "name": "qiling-t3 1",
+      "year_start": 2016,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jmc/qiling-t3/2016-2017.webp"
+      }
+    }
+  ]
+}

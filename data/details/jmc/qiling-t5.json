@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "jmc",
+    "name": "JMC"
+  },
+  "slug": "qiling-t5",
+  "name": "qiling-t5",
+  "generations": [
+    {
+      "slug": "qiling-t5-0",
+      "name": "qiling-t5 1",
+      "year_start": 2014,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jmc/qiling-t5/2014-2015.webp"
+      }
+    },
+    {
+      "slug": "qiling-t5-1",
+      "name": "qiling-t5 2",
+      "year_start": 2016,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jmc/qiling-t5/2016-2017.webp"
+      }
+    }
+  ]
+}

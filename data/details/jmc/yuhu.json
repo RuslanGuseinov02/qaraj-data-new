@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "jmc",
+    "name": "JMC"
+  },
+  "slug": "yuhu",
+  "name": "yuhu",
+  "generations": [
+    {
+      "slug": "yuhu-0",
+      "name": "yuhu 1",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jmc/yuhu/2010-2014.webp"
+      }
+    },
+    {
+      "slug": "yuhu-1",
+      "name": "yuhu 2",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jmc/yuhu/2015-2020.webp"
+      }
+    },
+    {
+      "slug": "yuhu-2",
+      "name": "yuhu 3",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jmc/yuhu/2018-now.webp"
+      }
+    },
+    {
+      "slug": "yuhu-3",
+      "name": "yuhu 4",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jmc/yuhu/2022-now.webp"
+      }
+    }
+  ]
+}

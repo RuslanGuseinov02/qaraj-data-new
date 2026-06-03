@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "jmc",
+    "name": "JMC"
+  },
+  "slug": "teshun",
+  "name": "teshun",
+  "generations": [
+    {
+      "slug": "teshun-0",
+      "name": "teshun 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jmc/teshun/2017-2020.webp"
+      }
+    },
+    {
+      "slug": "teshun-1",
+      "name": "teshun 2",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jmc/teshun/2021-2024.webp"
+      }
+    }
+  ]
+}

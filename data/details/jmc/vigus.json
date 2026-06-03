@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "jmc",
+    "name": "JMC"
+  },
+  "slug": "vigus",
+  "name": "vigus",
+  "generations": [
+    {
+      "slug": "vigus-0",
+      "name": "vigus 1",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jmc/vigus/2015-now.webp"
+      }
+    },
+    {
+      "slug": "vigus-1",
+      "name": "vigus 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jmc/vigus/2023-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jmc",
+    "name": "JMC"
+  },
+  "slug": "grand-avenue",
+  "name": "grand-avenue",
+  "generations": [
+    {
+      "slug": "grand-avenue-0",
+      "name": "grand-avenue 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jmc/grand-avenue/2023-now.webp"
+      }
+    }
+  ]
+}

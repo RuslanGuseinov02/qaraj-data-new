@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jmc",
+    "name": "JMC"
+  },
+  "slug": "fushun",
+  "name": "fushun",
+  "generations": [
+    {
+      "slug": "fushun-0",
+      "name": "fushun 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jmc/fushun/2022-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jmc",
+    "name": "JMC"
+  },
+  "slug": "yusheng-s330",
+  "name": "yusheng-s330",
+  "generations": [
+    {
+      "slug": "yusheng-s330-0",
+      "name": "yusheng-s330 1",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jmc/yusheng-s330/2016-2018.webp"
+      }
+    }
+  ]
+}
