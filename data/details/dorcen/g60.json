@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dorcen",
+    "name": "DORCEN"
+  },
+  "slug": "g60",
+  "name": "g60",
+  "generations": [
+    {
+      "slug": "g60-0",
+      "name": "g60 1",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dorcen/g60/2019-2021.webp"
+      }
+    }
+  ]
+}

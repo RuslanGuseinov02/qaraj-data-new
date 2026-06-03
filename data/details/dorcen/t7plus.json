@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dorcen",
+    "name": "DORCEN"
+  },
+  "slug": "t7plus",
+  "name": "t7plus",
+  "generations": [
+    {
+      "slug": "t7plus-0",
+      "name": "t7plus 1",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dorcen/t7plus/2019-2021.webp"
+      }
+    }
+  ]
+}
