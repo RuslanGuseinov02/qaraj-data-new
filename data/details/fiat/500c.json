@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "500c",
+  "name": "500c",
+  "generations": [
+    {
+      "slug": "500c-0",
+      "name": "500c 1",
+      "year_start": 2009,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/500c/312-2009-2015.webp"
+      }
+    },
+    {
+      "slug": "500c-1",
+      "name": "500c 2",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/500c/312-2015-now.webp"
+      }
+    }
+  ]
+}

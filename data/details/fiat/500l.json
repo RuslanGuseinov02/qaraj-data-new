@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "500l",
+  "name": "500l",
+  "generations": [
+    {
+      "slug": "500l-0",
+      "name": "500l 1",
+      "year_start": 2012,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/500l/330-350-2012-2018.webp"
+      }
+    },
+    {
+      "slug": "500l-1",
+      "name": "500l 2",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/500l/330-350-2018-2022.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "qubo",
+  "name": "qubo",
+  "generations": [
+    {
+      "slug": "qubo-0",
+      "name": "qubo 1",
+      "year_start": 2007,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/qubo/225-2007-2016.webp"
+      }
+    },
+    {
+      "slug": "qubo-1",
+      "name": "qubo 2",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/qubo/225-2016-2021.webp"
+      }
+    }
+  ]
+}

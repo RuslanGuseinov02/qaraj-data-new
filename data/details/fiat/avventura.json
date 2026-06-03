@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "avventura",
+  "name": "avventura",
+  "generations": [
+    {
+      "slug": "avventura-0",
+      "name": "avventura 1",
+      "year_start": 2014,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/avventura/310-2014-2023.webp"
+      }
+    }
+  ]
+}

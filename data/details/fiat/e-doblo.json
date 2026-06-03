@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "e-doblo",
+  "name": "e-doblo",
+  "generations": [
+    {
+      "slug": "e-doblo-0",
+      "name": "e-doblo 1",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/e-doblo/k9-2022-2024.webp"
+      }
+    },
+    {
+      "slug": "e-doblo-1",
+      "name": "e-doblo 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/e-doblo/k9-2024-now.webp"
+      }
+    }
+  ]
+}

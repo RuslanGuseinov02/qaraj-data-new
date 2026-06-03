@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "tipo",
+  "name": "tipo",
+  "generations": [
+    {
+      "slug": "tipo-0",
+      "name": "tipo 1",
+      "year_start": 1987,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/tipo/160-1987-1995.webp"
+      }
+    },
+    {
+      "slug": "tipo-1",
+      "name": "tipo 2",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/tipo/350-2015-now.webp"
+      }
+    }
+  ]
+}

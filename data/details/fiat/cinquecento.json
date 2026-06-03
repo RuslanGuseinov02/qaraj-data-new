@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "cinquecento",
+  "name": "cinquecento",
+  "generations": [
+    {
+      "slug": "cinquecento-0",
+      "name": "cinquecento 1",
+      "year_start": 1991,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/cinquecento/170-1991-1998.webp"
+      }
+    }
+  ]
+}

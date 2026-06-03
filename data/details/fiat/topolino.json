@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "topolino",
+  "name": "topolino",
+  "generations": [
+    {
+      "slug": "topolino-0",
+      "name": "topolino 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/topolino/2023-now.webp"
+      }
+    }
+  ]
+}

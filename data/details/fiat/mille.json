@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "mille",
+  "name": "mille",
+  "generations": [
+    {
+      "slug": "mille-0",
+      "name": "mille 1",
+      "year_start": 1990,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/mille/146-1990-2013.webp"
+      }
+    }
+  ]
+}

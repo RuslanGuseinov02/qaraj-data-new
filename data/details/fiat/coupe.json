@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "coupe",
+  "name": "coupe",
+  "generations": [
+    {
+      "slug": "coupe-0",
+      "name": "coupe 1",
+      "year_start": 1993,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/coupe/175-1993-2000.webp"
+      }
+    }
+  ]
+}

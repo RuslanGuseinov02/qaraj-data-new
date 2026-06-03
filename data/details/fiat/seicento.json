@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "seicento",
+  "name": "seicento",
+  "generations": [
+    {
+      "slug": "seicento-0",
+      "name": "seicento 1",
+      "year_start": 1997,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/seicento/187-1997-2005.webp"
+      }
+    }
+  ]
+}

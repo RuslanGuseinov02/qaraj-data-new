@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "palio-weekend",
+  "name": "palio-weekend",
+  "generations": [
+    {
+      "slug": "palio-weekend-0",
+      "name": "palio-weekend 1",
+      "year_start": 2003,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/palio-weekend/178-2003-2020.webp"
+      }
+    },
+    {
+      "slug": "palio-weekend-1",
+      "name": "palio-weekend 2",
+      "year_start": 2008,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/palio-weekend/278-2008-2020.webp"
+      }
+    }
+  ]
+}

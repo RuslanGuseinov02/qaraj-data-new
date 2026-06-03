@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "scudo",
+  "name": "scudo",
+  "generations": [
+    {
+      "slug": "scudo-0",
+      "name": "scudo 1",
+      "year_start": 1996,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/scudo/220-1996-2006.webp"
+      }
+    },
+    {
+      "slug": "scudo-1",
+      "name": "scudo 2",
+      "year_start": 2007,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/scudo/270-2007-2016.webp"
+      }
+    },
+    {
+      "slug": "scudo-2",
+      "name": "scudo 3",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/scudo/507-2022-now.webp"
+      }
+    },
+    {
+      "slug": "scudo-3",
+      "name": "scudo 4",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/scudo/507-2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "doblo",
+  "name": "doblo",
+  "generations": [
+    {
+      "slug": "doblo-0",
+      "name": "doblo 1",
+      "year_start": 2000,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/doblo/223-2000-2005.webp"
+      }
+    },
+    {
+      "slug": "doblo-1",
+      "name": "doblo 2",
+      "year_start": 2005,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/doblo/223-2005-2016.webp"
+      }
+    },
+    {
+      "slug": "doblo-2",
+      "name": "doblo 3",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/doblo/263-2010-2015.webp"
+      }
+    },
+    {
+      "slug": "doblo-3",
+      "name": "doblo 4",
+      "year_start": 2015,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/doblo/263-2015-2024.webp"
+      }
+    },
+    {
+      "slug": "doblo-4",
+      "name": "doblo 5",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/doblo/k9-2022-now.webp"
+      }
+    },
+    {
+      "slug": "doblo-5",
+      "name": "doblo 6",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/doblo/k9-2024-now.webp"
+      }
+    }
+  ]
+}

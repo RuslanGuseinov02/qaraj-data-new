@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "toro",
+  "name": "toro",
+  "generations": [
+    {
+      "slug": "toro-0",
+      "name": "toro 1",
+      "year_start": 2016,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/toro/226-2016-now.webp"
+      }
+    }
+  ]
+}

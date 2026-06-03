@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "grande-panda",
+  "name": "grande-panda",
+  "generations": [
+    {
+      "slug": "grande-panda-0",
+      "name": "grande-panda 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/grande-panda/2025-now.webp"
+      }
+    }
+  ]
+}

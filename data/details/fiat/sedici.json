@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "sedici",
+  "name": "sedici",
+  "generations": [
+    {
+      "slug": "sedici-0",
+      "name": "sedici 1",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/sedici/189-2005-2009.webp"
+      }
+    },
+    {
+      "slug": "sedici-1",
+      "name": "sedici 2",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/sedici/189-2009-2014.webp"
+      }
+    }
+  ]
+}

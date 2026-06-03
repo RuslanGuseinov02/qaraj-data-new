@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "500x",
+  "name": "500x",
+  "generations": [
+    {
+      "slug": "500x-0",
+      "name": "500x 1",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/500x/334-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "500x-1",
+      "name": "500x 2",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/500x/334-2018-2022.webp"
+      }
+    },
+    {
+      "slug": "500x-2",
+      "name": "500x 3",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/500x/334-2022-now.webp"
+      }
+    }
+  ]
+}

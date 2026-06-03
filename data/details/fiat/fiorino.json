@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "fiorino",
+  "name": "fiorino",
+  "generations": [
+    {
+      "slug": "fiorino-0",
+      "name": "fiorino 1",
+      "year_start": 1977,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/fiorino/127-147-1977-1988.webp"
+      }
+    },
+    {
+      "slug": "fiorino-1",
+      "name": "fiorino 2",
+      "year_start": 1989,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/fiorino/146-1989-2001.webp"
+      }
+    },
+    {
+      "slug": "fiorino-2",
+      "name": "fiorino 3",
+      "year_start": 2006,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/fiorino/225-2006-2016.webp"
+      }
+    },
+    {
+      "slug": "fiorino-3",
+      "name": "fiorino 4",
+      "year_start": 2016,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/fiorino/225-2016-now.webp"
+      }
+    },
+    {
+      "slug": "fiorino-4",
+      "name": "fiorino 5",
+      "year_start": 2014,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/fiorino/327-2014-2021.webp"
+      }
+    },
+    {
+      "slug": "fiorino-5",
+      "name": "fiorino 6",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/fiorino/327-2021-now.webp"
+      }
+    }
+  ]
+}

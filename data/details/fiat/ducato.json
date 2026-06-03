@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "ducato",
+  "name": "ducato",
+  "generations": [
+    {
+      "slug": "ducato-0",
+      "name": "ducato 1",
+      "year_start": 1994,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/ducato/230-1994-2001.webp"
+      }
+    },
+    {
+      "slug": "ducato-1",
+      "name": "ducato 2",
+      "year_start": 2002,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/ducato/244-2002-2012.webp"
+      }
+    },
+    {
+      "slug": "ducato-2",
+      "name": "ducato 3",
+      "year_start": 2006,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/ducato/250-2006-now.webp"
+      }
+    },
+    {
+      "slug": "ducato-3",
+      "name": "ducato 4",
+      "year_start": 1982,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/ducato/280-1982-1990.webp"
+      }
+    },
+    {
+      "slug": "ducato-4",
+      "name": "ducato 5",
+      "year_start": 1989,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/ducato/290-1989-1994.webp"
+      }
+    },
+    {
+      "slug": "ducato-5",
+      "name": "ducato 6",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/ducato/290-2015-now.webp"
+      }
+    },
+    {
+      "slug": "ducato-6",
+      "name": "ducato 7",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/ducato/290-2023-now.webp"
+      }
+    }
+  ]
+}

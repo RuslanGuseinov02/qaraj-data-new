@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "600",
+  "name": "600",
+  "generations": [
+    {
+      "slug": "600-0",
+      "name": "600 1",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/600/187-2005-2010.webp"
+      }
+    },
+    {
+      "slug": "600-1",
+      "name": "600 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/600/2023-now.webp"
+      }
+    }
+  ]
+}

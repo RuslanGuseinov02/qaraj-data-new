@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "695",
+  "name": "695",
+  "generations": [
+    {
+      "slug": "695-0",
+      "name": "695 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/695/312-2023-now.webp"
+      }
+    }
+  ]
+}

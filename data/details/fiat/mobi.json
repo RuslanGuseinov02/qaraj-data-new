@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "mobi",
+  "name": "mobi",
+  "generations": [
+    {
+      "slug": "mobi-0",
+      "name": "mobi 1",
+      "year_start": 2016,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/mobi/344-2016-now.webp"
+      }
+    }
+  ]
+}

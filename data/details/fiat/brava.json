@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "brava",
+  "name": "brava",
+  "generations": [
+    {
+      "slug": "brava-0",
+      "name": "brava 1",
+      "year_start": 1995,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/brava/182-1995-2003.webp"
+      }
+    }
+  ]
+}

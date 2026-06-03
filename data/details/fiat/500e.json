@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "500e",
+  "name": "500e",
+  "generations": [
+    {
+      "slug": "500e-0",
+      "name": "500e 1",
+      "year_start": 2013,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/500e/312-2013-2019.webp"
+      }
+    },
+    {
+      "slug": "500e-1",
+      "name": "500e 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/500e/fa1-2020-now.webp"
+      }
+    }
+  ]
+}

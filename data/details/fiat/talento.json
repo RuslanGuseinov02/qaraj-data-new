@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "talento",
+  "name": "talento",
+  "generations": [
+    {
+      "slug": "talento-0",
+      "name": "talento 1",
+      "year_start": 1984,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/talento/280-1984-1994.webp"
+      }
+    },
+    {
+      "slug": "talento-1",
+      "name": "talento 2",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/talento/296-2016-2021.webp"
+      }
+    }
+  ]
+}

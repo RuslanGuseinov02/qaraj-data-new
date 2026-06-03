@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "uno",
+  "name": "uno",
+  "generations": [
+    {
+      "slug": "uno-0",
+      "name": "uno 1",
+      "year_start": 1983,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/uno/146-1983-1989.webp"
+      }
+    },
+    {
+      "slug": "uno-1",
+      "name": "uno 2",
+      "year_start": 1989,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/uno/146-1989-1995.webp"
+      }
+    },
+    {
+      "slug": "uno-2",
+      "name": "uno 3",
+      "year_start": 2010,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/uno/327-2010-2018.webp"
+      }
+    },
+    {
+      "slug": "uno-3",
+      "name": "uno 4",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/uno/327-2019-2021.webp"
+      }
+    }
+  ]
+}

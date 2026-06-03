@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "ottimo",
+  "name": "ottimo",
+  "generations": [
+    {
+      "slug": "ottimo-0",
+      "name": "ottimo 1",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/ottimo/pf-2013-2017.webp"
+      }
+    }
+  ]
+}

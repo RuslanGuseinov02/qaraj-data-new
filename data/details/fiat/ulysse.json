@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "ulysse",
+  "name": "ulysse",
+  "generations": [
+    {
+      "slug": "ulysse-0",
+      "name": "ulysse 1",
+      "year_start": 2003,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/ulysse/179-2003-2010.webp"
+      }
+    },
+    {
+      "slug": "ulysse-1",
+      "name": "ulysse 2",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/ulysse/2022-2024.webp"
+      }
+    },
+    {
+      "slug": "ulysse-2",
+      "name": "ulysse 3",
+      "year_start": 1994,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/ulysse/220-1994-2002.webp"
+      }
+    },
+    {
+      "slug": "ulysse-3",
+      "name": "ulysse 4",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/ulysse/367-2024-now.webp"
+      }
+    }
+  ]
+}

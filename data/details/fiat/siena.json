@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "siena",
+  "name": "siena",
+  "generations": [
+    {
+      "slug": "siena-0",
+      "name": "siena 1",
+      "year_start": 1996,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/siena/178-1996-2003.webp"
+      }
+    },
+    {
+      "slug": "siena-1",
+      "name": "siena 2",
+      "year_start": 2004,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/siena/178-2004-2007.webp"
+      }
+    },
+    {
+      "slug": "siena-2",
+      "name": "siena 3",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/siena/178-2008-2012.webp"
+      }
+    }
+  ]
+}

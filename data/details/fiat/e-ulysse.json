@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "e-ulysse",
+  "name": "e-ulysse",
+  "generations": [
+    {
+      "slug": "e-ulysse-0",
+      "name": "e-ulysse 1",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/e-ulysse/507-2022-2024.webp"
+      }
+    },
+    {
+      "slug": "e-ulysse-1",
+      "name": "e-ulysse 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/e-ulysse/507-2024-now.webp"
+      }
+    }
+  ]
+}

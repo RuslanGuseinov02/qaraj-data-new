@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "croma",
+  "name": "croma",
+  "generations": [
+    {
+      "slug": "croma-0",
+      "name": "croma 1",
+      "year_start": 1985,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/croma/154-1985-1996.webp"
+      }
+    },
+    {
+      "slug": "croma-1",
+      "name": "croma 2",
+      "year_start": 2005,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/croma/194-2005-2011.webp"
+      }
+    }
+  ]
+}

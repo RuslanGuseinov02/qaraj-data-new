@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "124-spider",
+  "name": "124-spider",
+  "generations": [
+    {
+      "slug": "124-spider-0",
+      "name": "124-spider 1",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/124-spider/348-2015-2020.webp"
+      }
+    }
+  ]
+}

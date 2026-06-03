@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "grande-punto",
+  "name": "grande-punto",
+  "generations": [
+    {
+      "slug": "grande-punto-0",
+      "name": "grande-punto 1",
+      "year_start": 2005,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/grande-punto/199-2005-2012.webp"
+      }
+    }
+  ]
+}

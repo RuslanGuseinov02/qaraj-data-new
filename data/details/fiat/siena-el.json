@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "siena-el",
+  "name": "siena-el",
+  "generations": [
+    {
+      "slug": "siena-el-0",
+      "name": "siena-el 1",
+      "year_start": 2012,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/siena-el/178-2012-2018.webp"
+      }
+    }
+  ]
+}

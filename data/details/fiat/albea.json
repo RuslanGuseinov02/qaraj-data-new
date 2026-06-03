@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "albea",
+  "name": "albea",
+  "generations": [
+    {
+      "slug": "albea-0",
+      "name": "albea 1",
+      "year_start": 2002,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/albea/170-2002-2012.webp"
+      }
+    }
+  ]
+}

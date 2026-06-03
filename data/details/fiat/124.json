@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "124",
+  "name": "124",
+  "generations": [
+    {
+      "slug": "124-0",
+      "name": "124 1",
+      "year_start": 1966,
+      "year_end": 1985,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/124/1966-1985.webp"
+      }
+    }
+  ]
+}

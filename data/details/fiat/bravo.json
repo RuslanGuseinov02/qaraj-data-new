@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "bravo",
+  "name": "bravo",
+  "generations": [
+    {
+      "slug": "bravo-0",
+      "name": "bravo 1",
+      "year_start": 1995,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/bravo/182-1995-2001.webp"
+      }
+    },
+    {
+      "slug": "bravo-1",
+      "name": "bravo 2",
+      "year_start": 2007,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/bravo/198-2007-2015.webp"
+      }
+    }
+  ]
+}

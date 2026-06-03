@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "freemont",
+  "name": "freemont",
+  "generations": [
+    {
+      "slug": "freemont-0",
+      "name": "freemont 1",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/freemont/345-2011-2016.webp"
+      }
+    }
+  ]
+}

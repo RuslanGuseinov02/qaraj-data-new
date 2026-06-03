@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "panda-cross",
+  "name": "panda-cross",
+  "generations": [
+    {
+      "slug": "panda-cross-0",
+      "name": "panda-cross 1",
+      "year_start": 2003,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/panda-cross/169-2003-2011.webp"
+      }
+    },
+    {
+      "slug": "panda-cross-1",
+      "name": "panda-cross 2",
+      "year_start": 2014,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/panda-cross/312-2014-2020.webp"
+      }
+    },
+    {
+      "slug": "panda-cross-2",
+      "name": "panda-cross 3",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/panda-cross/312-2020-now.webp"
+      }
+    }
+  ]
+}

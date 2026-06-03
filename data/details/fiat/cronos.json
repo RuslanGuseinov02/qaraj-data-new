@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "cronos",
+  "name": "cronos",
+  "generations": [
+    {
+      "slug": "cronos-0",
+      "name": "cronos 1",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/cronos/2018-2024.webp"
+      }
+    },
+    {
+      "slug": "cronos-1",
+      "name": "cronos 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/cronos/2024-now.webp"
+      }
+    }
+  ]
+}

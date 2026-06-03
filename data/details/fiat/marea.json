@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "marea",
+  "name": "marea",
+  "generations": [
+    {
+      "slug": "marea-0",
+      "name": "marea 1",
+      "year_start": 1996,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/marea/185-1996-2007.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "ritmo",
+  "name": "ritmo",
+  "generations": [
+    {
+      "slug": "ritmo-0",
+      "name": "ritmo 1",
+      "year_start": 1978,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/ritmo/138-1978-1989.webp"
+      }
+    },
+    {
+      "slug": "ritmo-1",
+      "name": "ritmo 2",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/ritmo/198-2008-2010.webp"
+      }
+    }
+  ]
+}

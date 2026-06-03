@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "fiat",
+    "name": "FIAT"
+  },
+  "slug": "argo",
+  "name": "argo",
+  "generations": [
+    {
+      "slug": "argo-0",
+      "name": "argo 1",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/argo/2017-now.webp"
+      }
+    },
+    {
+      "slug": "argo-1",
+      "name": "argo 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fiat/argo/2023-now.webp"
+      }
+    }
+  ]
+}
