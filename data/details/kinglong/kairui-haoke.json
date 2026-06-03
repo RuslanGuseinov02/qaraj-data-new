@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kinglong",
+    "name": "KINGLONG"
+  },
+  "slug": "kairui-haoke",
+  "name": "kairui-haoke",
+  "generations": [
+    {
+      "slug": "kairui-haoke-0",
+      "name": "kairui-haoke 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kinglong/kairui-haoke/2018-now.webp"
+      }
+    }
+  ]
+}

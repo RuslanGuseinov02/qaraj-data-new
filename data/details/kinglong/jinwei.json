@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "kinglong",
+    "name": "KINGLONG"
+  },
+  "slug": "jinwei",
+  "name": "jinwei",
+  "generations": [
+    {
+      "slug": "jinwei-0",
+      "name": "jinwei 1",
+      "year_start": 2016,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kinglong/jinwei/2016-now.webp"
+      }
+    },
+    {
+      "slug": "jinwei-1",
+      "name": "jinwei 2",
+      "year_start": 2017,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kinglong/jinwei/2017-2017.webp"
+      }
+    },
+    {
+      "slug": "jinwei-2",
+      "name": "jinwei 3",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kinglong/jinwei/2018-2020.webp"
+      }
+    }
+  ]
+}

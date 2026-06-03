@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kinglong",
+    "name": "KINGLONG"
+  },
+  "slug": "kingry",
+  "name": "kingry",
+  "generations": [
+    {
+      "slug": "kingry-0",
+      "name": "kingry 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kinglong/kingry/2018-now.webp"
+      }
+    }
+  ]
+}

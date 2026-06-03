@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "kinglong",
+    "name": "KINGLONG"
+  },
+  "slug": "longyao-6",
+  "name": "longyao-6",
+  "generations": [
+    {
+      "slug": "longyao-6-0",
+      "name": "longyao-6 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/kinglong/longyao-6/2019-now.webp"
+      }
+    }
+  ]
+}
