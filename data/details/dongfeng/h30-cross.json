@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "h30-cross",
+  "name": "h30-cross",
+  "generations": [
+    {
+      "slug": "h30-cross-0",
+      "name": "h30-cross 1",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/h30-cross/2010-2013.webp"
+      }
+    },
+    {
+      "slug": "h30-cross-1",
+      "name": "h30-cross 2",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/h30-cross/2013-2018.webp"
+      }
+    }
+  ]
+}

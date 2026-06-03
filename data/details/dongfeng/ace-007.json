@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "ace-007",
+  "name": "ace-007",
+  "generations": [
+    {
+      "slug": "ace-007-0",
+      "name": "ace-007 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/ace-007/2024-now.webp"
+      }
+    }
+  ]
+}

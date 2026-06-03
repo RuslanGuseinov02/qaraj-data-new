@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "f600",
+  "name": "f600",
+  "generations": [
+    {
+      "slug": "f600-0",
+      "name": "f600 1",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/f600/2016-2021.webp"
+      }
+    }
+  ]
+}

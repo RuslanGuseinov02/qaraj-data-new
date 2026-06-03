@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "ex1",
+  "name": "ex1",
+  "generations": [
+    {
+      "slug": "ex1-0",
+      "name": "ex1 1",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/ex1/2019-2023.webp"
+      }
+    }
+  ]
+}

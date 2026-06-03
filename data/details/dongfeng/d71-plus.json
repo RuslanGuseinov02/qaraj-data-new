@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "d71-plus",
+  "name": "d71-plus",
+  "generations": [
+    {
+      "slug": "d71-plus-0",
+      "name": "d71-plus 1",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/d71-plus/2020-2022.webp"
+      }
+    }
+  ]
+}

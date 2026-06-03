@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "ec31s",
+  "name": "ec31s",
+  "generations": [
+    {
+      "slug": "ec31s-0",
+      "name": "ec31s 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/ec31s/2023-now.webp"
+      }
+    }
+  ]
+}

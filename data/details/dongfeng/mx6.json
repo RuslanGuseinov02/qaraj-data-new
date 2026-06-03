@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "mx6",
+  "name": "mx6",
+  "generations": [
+    {
+      "slug": "mx6-0",
+      "name": "mx6 1",
+      "year_start": 2015,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/mx6/2015-2016.webp"
+      }
+    }
+  ]
+}

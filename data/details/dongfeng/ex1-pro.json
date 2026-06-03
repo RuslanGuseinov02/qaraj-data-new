@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "ex1-pro",
+  "name": "ex1-pro",
+  "generations": [
+    {
+      "slug": "ex1-pro-0",
+      "name": "ex1-pro 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/ex1-pro/2022-now.webp"
+      }
+    }
+  ]
+}

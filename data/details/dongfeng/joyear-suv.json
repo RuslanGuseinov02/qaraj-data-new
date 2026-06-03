@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "joyear-suv",
+  "name": "joyear-suv",
+  "generations": [
+    {
+      "slug": "joyear-suv-0",
+      "name": "joyear-suv 1",
+      "year_start": 2012,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/joyear-suv/2012-2012.webp"
+      }
+    }
+  ]
+}

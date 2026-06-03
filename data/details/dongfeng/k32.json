@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "k32",
+  "name": "k32",
+  "generations": [
+    {
+      "slug": "k32-0",
+      "name": "k32 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/k32/2023-now.webp"
+      }
+    }
+  ]
+}

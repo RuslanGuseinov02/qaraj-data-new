@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "c31",
+  "name": "c31",
+  "generations": [
+    {
+      "slug": "c31-0",
+      "name": "c31 1",
+      "year_start": 2015,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/c31/2015-2024.webp"
+      }
+    }
+  ]
+}

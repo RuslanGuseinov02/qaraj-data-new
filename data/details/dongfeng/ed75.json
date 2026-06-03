@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "ed75",
+  "name": "ed75",
+  "generations": [
+    {
+      "slug": "ed75-0",
+      "name": "ed75 1",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/ed75/2023-2025.webp"
+      }
+    }
+  ]
+}

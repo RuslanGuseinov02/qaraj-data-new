@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "sx6-pro",
+  "name": "sx6-pro",
+  "generations": [
+    {
+      "slug": "sx6-pro-0",
+      "name": "sx6-pro 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/sx6-pro/2024-now.webp"
+      }
+    }
+  ]
+}

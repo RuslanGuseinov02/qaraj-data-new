@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "mengshi-917",
+  "name": "mengshi-917",
+  "generations": [
+    {
+      "slug": "mengshi-917-0",
+      "name": "mengshi-917 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/mengshi-917/2023-now.webp"
+      }
+    }
+  ]
+}

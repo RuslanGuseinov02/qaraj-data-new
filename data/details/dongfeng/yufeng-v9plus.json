@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "yufeng-v9plus",
+  "name": "yufeng-v9plus",
+  "generations": [
+    {
+      "slug": "yufeng-v9plus-0",
+      "name": "yufeng-v9plus 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/yufeng-v9plus/2023-now.webp"
+      }
+    }
+  ]
+}

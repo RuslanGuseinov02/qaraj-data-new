@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "joyear-s50",
+  "name": "joyear-s50",
+  "generations": [
+    {
+      "slug": "joyear-s50-0",
+      "name": "joyear-s50 1",
+      "year_start": 2014,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/joyear-s50/2014-2016.webp"
+      }
+    },
+    {
+      "slug": "joyear-s50-1",
+      "name": "joyear-s50 2",
+      "year_start": 2015,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/joyear-s50/2015-2022.webp"
+      }
+    }
+  ]
+}

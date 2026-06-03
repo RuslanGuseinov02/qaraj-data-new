@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "es50",
+  "name": "es50",
+  "generations": [
+    {
+      "slug": "es50-0",
+      "name": "es50 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/es50/2024-now.webp"
+      }
+    }
+  ]
+}

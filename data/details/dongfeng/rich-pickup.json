@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "rich-pickup",
+  "name": "rich-pickup",
+  "generations": [
+    {
+      "slug": "rich-pickup-0",
+      "name": "rich-pickup 1",
+      "year_start": 2005,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/rich-pickup/2005-2013.webp"
+      }
+    },
+    {
+      "slug": "rich-pickup-1",
+      "name": "rich-pickup 2",
+      "year_start": 2014,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/rich-pickup/2014-2022.webp"
+      }
+    }
+  ]
+}

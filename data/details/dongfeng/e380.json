@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "e380",
+  "name": "e380",
+  "generations": [
+    {
+      "slug": "e380-0",
+      "name": "e380 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/e380/2022-2026.webp"
+      }
+    }
+  ]
+}

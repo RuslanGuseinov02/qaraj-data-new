@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "nammi-06",
+  "name": "nammi-06",
+  "generations": [
+    {
+      "slug": "nammi-06-0",
+      "name": "nammi-06 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/nammi-06/2024-now.webp"
+      }
+    }
+  ]
+}

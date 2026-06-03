@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "ruilida-v5",
+  "name": "ruilida-v5",
+  "generations": [
+    {
+      "slug": "ruilida-v5-0",
+      "name": "ruilida-v5 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/ruilida-v5/2024-now.webp"
+      }
+    }
+  ]
+}

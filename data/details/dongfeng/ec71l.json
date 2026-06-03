@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "ec71l",
+  "name": "ec71l",
+  "generations": [
+    {
+      "slug": "ec71l-0",
+      "name": "ec71l 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/ec71l/2021-now.webp"
+      }
+    }
+  ]
+}

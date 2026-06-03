@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "mage",
+  "name": "mage",
+  "generations": [
+    {
+      "slug": "mage-0",
+      "name": "mage 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/mage/2024-now.webp"
+      }
+    }
+  ]
+}

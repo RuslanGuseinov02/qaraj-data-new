@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "c35",
+  "name": "c35",
+  "generations": [
+    {
+      "slug": "c35-0",
+      "name": "c35 1",
+      "year_start": 2013,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/c35/2013-2024.webp"
+      }
+    }
+  ]
+}

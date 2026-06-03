@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "c52l",
+  "name": "c52l",
+  "generations": [
+    {
+      "slug": "c52l-0",
+      "name": "c52l 1",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/c52l/2020-2022.webp"
+      }
+    }
+  ]
+}

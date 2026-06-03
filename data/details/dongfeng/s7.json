@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "s7",
+  "name": "s7",
+  "generations": [
+    {
+      "slug": "s7-0",
+      "name": "s7 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/s7/2024-now.webp"
+      }
+    }
+  ]
+}

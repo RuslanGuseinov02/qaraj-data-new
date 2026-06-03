@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "k02",
+  "name": "k02",
+  "generations": [
+    {
+      "slug": "k02-0",
+      "name": "k02 1",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/k02/2011-2017.webp"
+      }
+    },
+    {
+      "slug": "k02-1",
+      "name": "k02 2",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/k02/2018-2022.webp"
+      }
+    }
+  ]
+}

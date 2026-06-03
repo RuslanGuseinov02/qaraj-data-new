@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "haoji",
+  "name": "haoji",
+  "generations": [
+    {
+      "slug": "haoji-0",
+      "name": "haoji 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/haoji/2022-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "succe",
+  "name": "succe",
+  "generations": [
+    {
+      "slug": "succe-0",
+      "name": "succe 1",
+      "year_start": 2009,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/succe/2009-2015.webp"
+      }
+    },
+    {
+      "slug": "succe-1",
+      "name": "succe 2",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/succe/2016-2021.webp"
+      }
+    }
+  ]
+}

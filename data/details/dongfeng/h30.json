@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "h30",
+  "name": "h30",
+  "generations": [
+    {
+      "slug": "h30-0",
+      "name": "h30 1",
+      "year_start": 2010,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/h30/2010-2017.webp"
+      }
+    }
+  ]
+}

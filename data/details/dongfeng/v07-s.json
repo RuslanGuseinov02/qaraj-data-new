@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "v07-s",
+  "name": "v07-s",
+  "generations": [
+    {
+      "slug": "v07-s-0",
+      "name": "v07-s 1",
+      "year_start": 2011,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/v07-s/2011-2011.webp"
+      }
+    }
+  ]
+}

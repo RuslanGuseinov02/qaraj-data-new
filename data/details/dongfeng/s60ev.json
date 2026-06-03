@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "s60ev",
+  "name": "s60ev",
+  "generations": [
+    {
+      "slug": "s60ev-0",
+      "name": "s60ev 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/s60ev/2021-now.webp"
+      }
+    }
+  ]
+}

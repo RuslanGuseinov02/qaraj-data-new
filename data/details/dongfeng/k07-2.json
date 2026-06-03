@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "k07-2",
+  "name": "k07-2",
+  "generations": [
+    {
+      "slug": "k07-2-0",
+      "name": "k07-2 1",
+      "year_start": 2007,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/k07-2/2007-2013.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "m6",
+  "name": "m6",
+  "generations": [
+    {
+      "slug": "m6-0",
+      "name": "m6 1",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/m6/2019-2022.webp"
+      }
+    }
+  ]
+}

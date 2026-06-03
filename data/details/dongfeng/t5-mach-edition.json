@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "t5-mach-edition",
+  "name": "t5-mach-edition",
+  "generations": [
+    {
+      "slug": "t5-mach-edition-0",
+      "name": "t5-mach-edition 1",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/t5-mach-edition/2022-2025.webp"
+      }
+    }
+  ]
+}

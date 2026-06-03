@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "s560",
+  "name": "s560",
+  "generations": [
+    {
+      "slug": "s560-0",
+      "name": "s560 1",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/s560/2017-2022.webp"
+      }
+    },
+    {
+      "slug": "s560-1",
+      "name": "s560 2",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/s560/2022-2025.webp"
+      }
+    }
+  ]
+}

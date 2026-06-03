@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "580",
+  "name": "580",
+  "generations": [
+    {
+      "slug": "580-0",
+      "name": "580 1",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/580/2016-2018.webp"
+      }
+    },
+    {
+      "slug": "580-1",
+      "name": "580 2",
+      "year_start": 2018,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/580/2018-2025.webp"
+      }
+    },
+    {
+      "slug": "580-2",
+      "name": "580 3",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/580/2021-2025.webp"
+      }
+    }
+  ]
+}

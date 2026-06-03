@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "lingzhi-v3",
+  "name": "lingzhi-v3",
+  "generations": [
+    {
+      "slug": "lingzhi-v3-0",
+      "name": "lingzhi-v3 1",
+      "year_start": 2013,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/lingzhi-v3/2013-2020.webp"
+      }
+    },
+    {
+      "slug": "lingzhi-v3-1",
+      "name": "lingzhi-v3 2",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/lingzhi-v3/2021-2024.webp"
+      }
+    }
+  ]
+}

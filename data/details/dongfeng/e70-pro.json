@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "e70-pro",
+  "name": "e70-pro",
+  "generations": [
+    {
+      "slug": "e70-pro-0",
+      "name": "e70-pro 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/e70-pro/2022-now.webp"
+      }
+    }
+  ]
+}

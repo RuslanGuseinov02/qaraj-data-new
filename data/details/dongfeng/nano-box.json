@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "nano-box",
+  "name": "nano-box",
+  "generations": [
+    {
+      "slug": "nano-box-0",
+      "name": "nano-box 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/nano-box/2022-now.webp"
+      }
+    }
+  ]
+}

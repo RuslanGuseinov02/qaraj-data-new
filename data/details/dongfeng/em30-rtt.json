@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "em30-rtt",
+  "name": "em30-rtt",
+  "generations": [
+    {
+      "slug": "em30-rtt-0",
+      "name": "em30-rtt 1",
+      "year_start": 2018,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/em30-rtt/2018-2018.webp"
+      }
+    }
+  ]
+}

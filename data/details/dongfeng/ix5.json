@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "ix5",
+  "name": "ix5",
+  "generations": [
+    {
+      "slug": "ix5-0",
+      "name": "ix5 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/ix5/2018-2026.webp"
+      }
+    }
+  ]
+}

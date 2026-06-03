@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "k06",
+  "name": "k06",
+  "generations": [
+    {
+      "slug": "k06-0",
+      "name": "k06 1",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/k06/2006-2009.webp"
+      }
+    }
+  ]
+}

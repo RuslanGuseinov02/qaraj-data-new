@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "ec36",
+  "name": "ec36",
+  "generations": [
+    {
+      "slug": "ec36-0",
+      "name": "ec36 1",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/ec36/2017-2022.webp"
+      }
+    },
+    {
+      "slug": "ec36-1",
+      "name": "ec36 2",
+      "year_start": 2021,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/ec36/2021-2022.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "justfor-cv03",
+  "name": "justfor-cv03",
+  "generations": [
+    {
+      "slug": "justfor-cv03-0",
+      "name": "justfor-cv03 1",
+      "year_start": 2012,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/justfor-cv03/2012-2013.webp"
+      }
+    }
+  ]
+}

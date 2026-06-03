@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "ed71",
+  "name": "ed71",
+  "generations": [
+    {
+      "slug": "ed71-0",
+      "name": "ed71 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/ed71/2021-now.webp"
+      }
+    }
+  ]
+}

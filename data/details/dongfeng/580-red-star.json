@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "580-red-star",
+  "name": "580-red-star",
+  "generations": [
+    {
+      "slug": "580-red-star-0",
+      "name": "580-red-star 1",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/580-red-star/2020-2025.webp"
+      }
+    }
+  ]
+}

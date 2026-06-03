@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "df6",
+  "name": "df6",
+  "generations": [
+    {
+      "slug": "df6-0",
+      "name": "df6 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/df6/2023-2026.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "ix7",
+  "name": "ix7",
+  "generations": [
+    {
+      "slug": "ix7-0",
+      "name": "ix7 1",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/ix7/2019-2023.webp"
+      }
+    },
+    {
+      "slug": "ix7-1",
+      "name": "ix7 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/ix7/2023-2026.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "m7",
+  "name": "m7",
+  "generations": [
+    {
+      "slug": "m7-0",
+      "name": "m7 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/m7/2017-2020.webp"
+      }
+    },
+    {
+      "slug": "m7-1",
+      "name": "m7 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/m7/2020-now.webp"
+      }
+    }
+  ]
+}

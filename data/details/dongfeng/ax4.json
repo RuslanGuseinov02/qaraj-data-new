@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "ax4",
+  "name": "ax4",
+  "generations": [
+    {
+      "slug": "ax4-0",
+      "name": "ax4 1",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/ax4/2017-2022.webp"
+      }
+    }
+  ]
+}

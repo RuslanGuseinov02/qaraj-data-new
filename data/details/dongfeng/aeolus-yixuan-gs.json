@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "aeolus-yixuan-gs",
+  "name": "aeolus-yixuan-gs",
+  "generations": [
+    {
+      "slug": "aeolus-yixuan-gs-0",
+      "name": "aeolus-yixuan-gs 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/aeolus-yixuan-gs/2020-2023.webp"
+      }
+    },
+    {
+      "slug": "aeolus-yixuan-gs-1",
+      "name": "aeolus-yixuan-gs 2",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/aeolus-yixuan-gs/2023-2025.webp"
+      }
+    }
+  ]
+}

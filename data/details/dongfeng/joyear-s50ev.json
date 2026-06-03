@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "joyear-s50ev",
+  "name": "joyear-s50ev",
+  "generations": [
+    {
+      "slug": "joyear-s50ev-0",
+      "name": "joyear-s50ev 1",
+      "year_start": 2018,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/joyear-s50ev/2018-2025.webp"
+      }
+    }
+  ]
+}

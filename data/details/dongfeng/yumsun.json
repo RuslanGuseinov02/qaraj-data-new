@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "yumsun",
+  "name": "yumsun",
+  "generations": [
+    {
+      "slug": "yumsun-0",
+      "name": "yumsun 1",
+      "year_start": 2007,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/yumsun/2007-2008.webp"
+      }
+    },
+    {
+      "slug": "yumsun-1",
+      "name": "yumsun 2",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/yumsun/2009-2014.webp"
+      }
+    }
+  ]
+}

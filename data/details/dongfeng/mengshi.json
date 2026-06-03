@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "mengshi",
+  "name": "mengshi",
+  "generations": [
+    {
+      "slug": "mengshi-0",
+      "name": "mengshi 1",
+      "year_start": 2007,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/mengshi/2007-2014.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "e70",
+  "name": "e70",
+  "generations": [
+    {
+      "slug": "e70-0",
+      "name": "e70 1",
+      "year_start": 2016,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/e70/2016-now.webp"
+      }
+    }
+  ]
+}

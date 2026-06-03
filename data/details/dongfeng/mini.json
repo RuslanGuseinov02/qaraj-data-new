@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "mini",
+  "name": "mini",
+  "generations": [
+    {
+      "slug": "mini-0",
+      "name": "mini 1",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/mini/2022-2025.webp"
+      }
+    }
+  ]
+}

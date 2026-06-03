@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "lingzhi-m5",
+  "name": "lingzhi-m5",
+  "generations": [
+    {
+      "slug": "lingzhi-m5-0",
+      "name": "lingzhi-m5 1",
+      "year_start": 2010,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/lingzhi-m5/2010-2016.webp"
+      }
+    },
+    {
+      "slug": "lingzhi-m5-1",
+      "name": "lingzhi-m5 2",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/lingzhi-m5/2016-2020.webp"
+      }
+    },
+    {
+      "slug": "lingzhi-m5-2",
+      "name": "lingzhi-m5 3",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/lingzhi-m5/2020-now.webp"
+      }
+    }
+  ]
+}

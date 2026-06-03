@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "ec55",
+  "name": "ec55",
+  "generations": [
+    {
+      "slug": "ec55-0",
+      "name": "ec55 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/ec55/2021-2024.webp"
+      }
+    }
+  ]
+}

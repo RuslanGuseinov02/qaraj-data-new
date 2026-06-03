@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "s16",
+  "name": "s16",
+  "generations": [
+    {
+      "slug": "s16-0",
+      "name": "s16 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/s16/2017-2020.webp"
+      }
+    }
+  ]
+}

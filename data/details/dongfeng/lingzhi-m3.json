@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "lingzhi-m3",
+  "name": "lingzhi-m3",
+  "generations": [
+    {
+      "slug": "lingzhi-m3-0",
+      "name": "lingzhi-m3 1",
+      "year_start": 2013,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/lingzhi-m3/2013-2021.webp"
+      }
+    }
+  ]
+}

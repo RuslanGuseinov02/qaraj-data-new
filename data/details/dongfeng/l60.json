@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "l60",
+  "name": "l60",
+  "generations": [
+    {
+      "slug": "l60-0",
+      "name": "l60 1",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/l60/2015-2018.webp"
+      }
+    }
+  ]
+}

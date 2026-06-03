@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dongfeng",
+    "name": "DONGFENG"
+  },
+  "slug": "ec31",
+  "name": "ec31",
+  "generations": [
+    {
+      "slug": "ec31-0",
+      "name": "ec31 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dongfeng/ec31/2020-now.webp"
+      }
+    }
+  ]
+}
