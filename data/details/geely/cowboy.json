@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "cowboy",
+  "name": "cowboy",
+  "generations": [
+    {
+      "slug": "cowboy-0",
+      "name": "cowboy 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/cowboy/bma-2024-now.webp"
+      }
+    }
+  ]
+}

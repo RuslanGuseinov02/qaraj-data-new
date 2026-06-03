@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "emgrand-ec8",
+  "name": "emgrand-ec8",
+  "generations": [
+    {
+      "slug": "emgrand-ec8-0",
+      "name": "emgrand-ec8 1",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/emgrand-ec8/2010-2015.webp"
+      }
+    }
+  ]
+}

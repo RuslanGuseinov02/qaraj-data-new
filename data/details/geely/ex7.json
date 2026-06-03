@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "ex7",
+  "name": "ex7",
+  "generations": [
+    {
+      "slug": "ex7-0",
+      "name": "ex7 1",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/ex7/2012-2016.webp"
+      }
+    },
+    {
+      "slug": "ex7-1",
+      "name": "ex7 2",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/ex7/2016-2018.webp"
+      }
+    },
+    {
+      "slug": "ex7-2",
+      "name": "ex7 3",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/ex7/nl-4jc-2018-2021.webp"
+      }
+    }
+  ]
+}

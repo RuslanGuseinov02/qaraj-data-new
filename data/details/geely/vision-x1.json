@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "vision-x1",
+  "name": "vision-x1",
+  "generations": [
+    {
+      "slug": "vision-x1-0",
+      "name": "vision-x1 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/vision-x1/2017-2020.webp"
+      }
+    }
+  ]
+}

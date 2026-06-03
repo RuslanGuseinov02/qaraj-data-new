@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "emgrand-gl",
+  "name": "emgrand-gl",
+  "generations": [
+    {
+      "slug": "emgrand-gl-0",
+      "name": "emgrand-gl 1",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/emgrand-gl/2016-2018.webp"
+      }
+    },
+    {
+      "slug": "emgrand-gl-1",
+      "name": "emgrand-gl 2",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/emgrand-gl/2018-2020.webp"
+      }
+    },
+    {
+      "slug": "emgrand-gl-2",
+      "name": "emgrand-gl 3",
+      "year_start": 2020,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/emgrand-gl/2020-2020.webp"
+      }
+    }
+  ]
+}

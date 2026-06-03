@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "panda-mini",
+  "name": "panda-mini",
+  "generations": [
+    {
+      "slug": "panda-mini-0",
+      "name": "panda-mini 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/panda-mini/2023-now.webp"
+      }
+    },
+    {
+      "slug": "panda-mini-1",
+      "name": "panda-mini 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/panda-mini/2025-now.webp"
+      }
+    }
+  ]
+}

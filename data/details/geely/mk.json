@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "mk",
+  "name": "mk",
+  "generations": [
+    {
+      "slug": "mk-0",
+      "name": "mk 1",
+      "year_start": 2006,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/mk/2006-2015.webp"
+      }
+    },
+    {
+      "slug": "mk-1",
+      "name": "mk 2",
+      "year_start": 2013,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/mk/2013-2019.webp"
+      }
+    }
+  ]
+}

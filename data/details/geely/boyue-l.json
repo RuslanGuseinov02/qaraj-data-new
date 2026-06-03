@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "boyue-l",
+  "name": "boyue-l",
+  "generations": [
+    {
+      "slug": "boyue-l-0",
+      "name": "boyue-l 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/boyue-l/fx11-2022-now.webp"
+      }
+    },
+    {
+      "slug": "boyue-l-1",
+      "name": "boyue-l 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/boyue-l/fx11-2025-now.webp"
+      }
+    }
+  ]
+}

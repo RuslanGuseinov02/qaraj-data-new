@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "tugella",
+  "name": "tugella",
+  "generations": [
+    {
+      "slug": "tugella-0",
+      "name": "tugella 1",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/tugella/fy11-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "tugella-1",
+      "name": "tugella 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/tugella/fy11-2022-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "sx7",
+  "name": "sx7",
+  "generations": [
+    {
+      "slug": "sx7-0",
+      "name": "sx7 1",
+      "year_start": 2013,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/sx7/2013-2014.webp"
+      }
+    }
+  ]
+}

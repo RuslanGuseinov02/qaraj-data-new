@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "emgrand-7",
+  "name": "emgrand-7",
+  "generations": [
+    {
+      "slug": "emgrand-7-0",
+      "name": "emgrand-7 1",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/emgrand-7/fe-1-fe-2-2016-2018.webp"
+      }
+    },
+    {
+      "slug": "emgrand-7-1",
+      "name": "emgrand-7 2",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/emgrand-7/fe-3-2018-2022.webp"
+      }
+    }
+  ]
+}

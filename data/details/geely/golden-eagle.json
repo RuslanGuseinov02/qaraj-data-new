@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "golden-eagle",
+  "name": "golden-eagle",
+  "generations": [
+    {
+      "slug": "golden-eagle-0",
+      "name": "golden-eagle 1",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/golden-eagle/2008-2011.webp"
+      }
+    }
+  ]
+}

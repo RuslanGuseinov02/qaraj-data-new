@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "otaka",
+  "name": "otaka",
+  "generations": [
+    {
+      "slug": "otaka-0",
+      "name": "otaka 1",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/otaka/2006-2009.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "emgrand",
+  "name": "emgrand",
+  "generations": [
+    {
+      "slug": "emgrand-0",
+      "name": "emgrand 1",
+      "year_start": 2009,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/emgrand/ec7-2009-2017.webp"
+      }
+    },
+    {
+      "slug": "emgrand-1",
+      "name": "emgrand 2",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/emgrand/fe-3-2017-2022.webp"
+      }
+    },
+    {
+      "slug": "emgrand-2",
+      "name": "emgrand 3",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/emgrand/ss11-2021-now.webp"
+      }
+    },
+    {
+      "slug": "emgrand-3",
+      "name": "emgrand 4",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/emgrand/ss11-2025-now.webp"
+      }
+    }
+  ]
+}

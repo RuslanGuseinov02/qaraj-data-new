@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "englon-tx4",
+  "name": "englon-tx4",
+  "generations": [
+    {
+      "slug": "englon-tx4-0",
+      "name": "englon-tx4 1",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/englon-tx4/2009-2012.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "emgrand-ev",
+  "name": "emgrand-ev",
+  "generations": [
+    {
+      "slug": "emgrand-ev-0",
+      "name": "emgrand-ev 1",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/emgrand-ev/fe-3-2016-2018.webp"
+      }
+    },
+    {
+      "slug": "emgrand-ev-1",
+      "name": "emgrand-ev 2",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/emgrand-ev/fe-3-2018-2022.webp"
+      }
+    }
+  ]
+}

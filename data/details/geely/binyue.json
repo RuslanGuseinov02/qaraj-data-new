@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "binyue",
+  "name": "binyue",
+  "generations": [
+    {
+      "slug": "binyue-0",
+      "name": "binyue 1",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/binyue/bma-2018-2024.webp"
+      }
+    },
+    {
+      "slug": "binyue-1",
+      "name": "binyue 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/binyue/bma-2024-now.webp"
+      }
+    }
+  ]
+}

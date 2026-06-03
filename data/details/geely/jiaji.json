@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "jiaji",
+  "name": "jiaji",
+  "generations": [
+    {
+      "slug": "jiaji-0",
+      "name": "jiaji 1",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/jiaji/vf11-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "jiaji-1",
+      "name": "jiaji 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/jiaji/vf11-2023-now.webp"
+      }
+    }
+  ]
+}

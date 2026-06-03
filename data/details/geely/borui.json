@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "borui",
+  "name": "borui",
+  "generations": [
+    {
+      "slug": "borui-0",
+      "name": "borui 1",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/borui/2020-2024.webp"
+      }
+    }
+  ]
+}

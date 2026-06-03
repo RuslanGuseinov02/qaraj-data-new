@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "sc6",
+  "name": "sc6",
+  "generations": [
+    {
+      "slug": "sc6-0",
+      "name": "sc6 1",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/sc6/2012-2015.webp"
+      }
+    }
+  ]
+}

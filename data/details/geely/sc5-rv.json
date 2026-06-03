@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "sc5-rv",
+  "name": "sc5-rv",
+  "generations": [
+    {
+      "slug": "sc5-rv-0",
+      "name": "sc5-rv 1",
+      "year_start": 2011,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/sc5-rv/2011-2011.webp"
+      }
+    }
+  ]
+}

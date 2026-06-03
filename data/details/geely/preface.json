@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "preface",
+  "name": "preface",
+  "generations": [
+    {
+      "slug": "preface-0",
+      "name": "preface 1",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/preface/2020-2022.webp"
+      }
+    },
+    {
+      "slug": "preface-1",
+      "name": "preface 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/preface/2022-now.webp"
+      }
+    },
+    {
+      "slug": "preface-2",
+      "name": "preface 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/preface/2023-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "emgrand-gt",
+  "name": "emgrand-gt",
+  "generations": [
+    {
+      "slug": "emgrand-gt-0",
+      "name": "emgrand-gt 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/emgrand-gt/2017-2020.webp"
+      }
+    }
+  ]
+}

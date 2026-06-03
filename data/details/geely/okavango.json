@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "okavango",
+  "name": "okavango",
+  "generations": [
+    {
+      "slug": "okavango-0",
+      "name": "okavango 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/okavango/vx11-2020-now.webp"
+      }
+    },
+    {
+      "slug": "okavango-1",
+      "name": "okavango 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/okavango/vx11-2022-now.webp"
+      }
+    }
+  ]
+}

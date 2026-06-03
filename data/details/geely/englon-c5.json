@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "englon-c5",
+  "name": "englon-c5",
+  "generations": [
+    {
+      "slug": "englon-c5-0",
+      "name": "englon-c5 1",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/englon-c5/2004-2006.webp"
+      }
+    },
+    {
+      "slug": "englon-c5-1",
+      "name": "englon-c5 2",
+      "year_start": 2015,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/englon-c5/2015-2015.webp"
+      }
+    }
+  ]
+}

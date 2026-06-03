@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "xingrui-l",
+  "name": "xingrui-l",
+  "generations": [
+    {
+      "slug": "xingrui-l-0",
+      "name": "xingrui-l 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/xingrui-l/2023-now.webp"
+      }
+    }
+  ]
+}

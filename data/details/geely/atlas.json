@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "atlas",
+  "name": "atlas",
+  "generations": [
+    {
+      "slug": "atlas-0",
+      "name": "atlas 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/atlas/fx11-2023-now.webp"
+      }
+    },
+    {
+      "slug": "atlas-1",
+      "name": "atlas 2",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/atlas/nl-3-2018-2022.webp"
+      }
+    }
+  ]
+}

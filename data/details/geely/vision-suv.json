@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "vision-suv",
+  "name": "vision-suv",
+  "generations": [
+    {
+      "slug": "vision-suv-0",
+      "name": "vision-suv 1",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/vision-suv/2016-2018.webp"
+      }
+    },
+    {
+      "slug": "vision-suv-1",
+      "name": "vision-suv 2",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/vision-suv/2018-2020.webp"
+      }
+    }
+  ]
+}

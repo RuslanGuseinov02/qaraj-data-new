@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "atlas-pro",
+  "name": "atlas-pro",
+  "generations": [
+    {
+      "slug": "atlas-pro-0",
+      "name": "atlas-pro 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/atlas-pro/2021-now.webp"
+      }
+    }
+  ]
+}

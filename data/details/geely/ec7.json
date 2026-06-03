@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "ec7",
+  "name": "ec7",
+  "generations": [
+    {
+      "slug": "ec7-0",
+      "name": "ec7 1",
+      "year_start": 2009,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/ec7/fe-1-fe-2-2009-2017.webp"
+      }
+    }
+  ]
+}

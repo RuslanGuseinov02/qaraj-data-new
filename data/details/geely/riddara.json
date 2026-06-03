@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "riddara",
+  "name": "riddara",
+  "generations": [
+    {
+      "slug": "riddara-0",
+      "name": "riddara 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/riddara/2024-now.webp"
+      }
+    }
+  ]
+}

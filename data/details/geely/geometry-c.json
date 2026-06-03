@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "geometry-c",
+  "name": "geometry-c",
+  "generations": [
+    {
+      "slug": "geometry-c-0",
+      "name": "geometry-c 1",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/geometry-c/2019-2024.webp"
+      }
+    },
+    {
+      "slug": "geometry-c-1",
+      "name": "geometry-c 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/geometry-c/2022-now.webp"
+      }
+    }
+  ]
+}

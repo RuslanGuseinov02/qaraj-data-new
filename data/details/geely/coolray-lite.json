@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "coolray-lite",
+  "name": "coolray-lite",
+  "generations": [
+    {
+      "slug": "coolray-lite-0",
+      "name": "coolray-lite 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/coolray-lite/bma-2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "fc",
+  "name": "fc",
+  "generations": [
+    {
+      "slug": "fc-0",
+      "name": "fc 1",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/fc/2006-2011.webp"
+      }
+    }
+  ]
+}

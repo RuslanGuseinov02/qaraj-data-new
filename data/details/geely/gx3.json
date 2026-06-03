@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "gx3",
+  "name": "gx3",
+  "generations": [
+    {
+      "slug": "gx3-0",
+      "name": "gx3 1",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/gx3/2017-2022.webp"
+      }
+    }
+  ]
+}

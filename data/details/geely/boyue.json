@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "boyue",
+  "name": "boyue",
+  "generations": [
+    {
+      "slug": "boyue-0",
+      "name": "boyue 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/boyue/2016-2020.webp"
+      }
+    },
+    {
+      "slug": "boyue-1",
+      "name": "boyue 2",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/boyue/2019-2024.webp"
+      }
+    }
+  ]
+}

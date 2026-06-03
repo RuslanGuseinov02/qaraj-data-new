@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "chinese-dragon",
+  "name": "chinese-dragon",
+  "generations": [
+    {
+      "slug": "chinese-dragon-0",
+      "name": "chinese-dragon 1",
+      "year_start": 2009,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/chinese-dragon/2009-2009.webp"
+      }
+    }
+  ]
+}

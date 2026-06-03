@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "haoyue-l",
+  "name": "haoyue-l",
+  "generations": [
+    {
+      "slug": "haoyue-l-0",
+      "name": "haoyue-l 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/haoyue-l/vx11-2022-now.webp"
+      }
+    }
+  ]
+}

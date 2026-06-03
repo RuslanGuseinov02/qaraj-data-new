@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "binyue-cool",
+  "name": "binyue-cool",
+  "generations": [
+    {
+      "slug": "binyue-cool-0",
+      "name": "binyue-cool 1",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/binyue-cool/2022-2024.webp"
+      }
+    }
+  ]
+}

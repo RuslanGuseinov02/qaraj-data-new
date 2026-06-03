@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "lc-panda-cross",
+  "name": "lc-panda-cross",
+  "generations": [
+    {
+      "slug": "lc-panda-cross-0",
+      "name": "lc-panda-cross 1",
+      "year_start": 2008,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/lc-panda-cross/2008-2016.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "emgrand-s",
+  "name": "emgrand-s",
+  "generations": [
+    {
+      "slug": "emgrand-s-0",
+      "name": "emgrand-s 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/emgrand-s/2021-2024.webp"
+      }
+    }
+  ]
+}

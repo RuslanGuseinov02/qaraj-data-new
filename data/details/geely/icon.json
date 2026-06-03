@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geely",
+    "name": "GEELY"
+  },
+  "slug": "icon",
+  "name": "icon",
+  "generations": [
+    {
+      "slug": "icon-0",
+      "name": "icon 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geely/icon/bma-2020-now.webp"
+      }
+    }
+  ]
+}
