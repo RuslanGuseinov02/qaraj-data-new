@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "park-avenue",
+  "name": "park-avenue",
+  "generations": [
+    {
+      "slug": "park-avenue-0",
+      "name": "park-avenue 1",
+      "year_start": 1990,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/park-avenue/1990-1996.webp"
+      }
+    },
+    {
+      "slug": "park-avenue-1",
+      "name": "park-avenue 2",
+      "year_start": 1997,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/park-avenue/1997-2006.webp"
+      }
+    },
+    {
+      "slug": "park-avenue-2",
+      "name": "park-avenue 3",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/park-avenue/2007-2012.webp"
+      }
+    }
+  ]
+}

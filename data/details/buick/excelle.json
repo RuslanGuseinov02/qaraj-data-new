@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "excelle",
+  "name": "excelle",
+  "generations": [
+    {
+      "slug": "excelle-0",
+      "name": "excelle 1",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/excelle/2004-2008.webp"
+      }
+    },
+    {
+      "slug": "excelle-1",
+      "name": "excelle 2",
+      "year_start": 2009,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/excelle/2009-2016.webp"
+      }
+    },
+    {
+      "slug": "excelle-2",
+      "name": "excelle 3",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/excelle/2018-2023.webp"
+      }
+    }
+  ]
+}

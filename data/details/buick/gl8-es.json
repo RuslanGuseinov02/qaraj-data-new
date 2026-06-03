@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "gl8-es",
+  "name": "gl8-es",
+  "generations": [
+    {
+      "slug": "gl8-es-0",
+      "name": "gl8-es 1",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/gl8-es/2020-2024.webp"
+      }
+    },
+    {
+      "slug": "gl8-es-1",
+      "name": "gl8-es 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/gl8-es/2024-now.webp"
+      }
+    }
+  ]
+}

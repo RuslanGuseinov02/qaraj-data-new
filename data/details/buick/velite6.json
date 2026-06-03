@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "velite6",
+  "name": "velite6",
+  "generations": [
+    {
+      "slug": "velite6-0",
+      "name": "velite6 1",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/velite6/2019-2024.webp"
+      }
+    },
+    {
+      "slug": "velite6-1",
+      "name": "velite6 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/velite6/2024-now.webp"
+      }
+    }
+  ]
+}

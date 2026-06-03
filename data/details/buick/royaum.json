@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "royaum",
+  "name": "royaum",
+  "generations": [
+    {
+      "slug": "royaum-0",
+      "name": "royaum 1",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/royaum/2004-2006.webp"
+      }
+    }
+  ]
+}

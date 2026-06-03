@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "velite7",
+  "name": "velite7",
+  "generations": [
+    {
+      "slug": "velite7-0",
+      "name": "velite7 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/velite7/2020-2023.webp"
+      }
+    }
+  ]
+}

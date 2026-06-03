@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "lucerne",
+  "name": "lucerne",
+  "generations": [
+    {
+      "slug": "lucerne-0",
+      "name": "lucerne 1",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/lucerne/2006-2011.webp"
+      }
+    }
+  ]
+}

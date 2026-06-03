@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "skylark",
+  "name": "skylark",
+  "generations": [
+    {
+      "slug": "skylark-0",
+      "name": "skylark 1",
+      "year_start": 1964,
+      "year_end": 1972,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/skylark/1964-1972.webp"
+      }
+    },
+    {
+      "slug": "skylark-1",
+      "name": "skylark 2",
+      "year_start": 1992,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/skylark/1992-1998.webp"
+      }
+    }
+  ]
+}

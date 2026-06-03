@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "wildcat",
+  "name": "wildcat",
+  "generations": [
+    {
+      "slug": "wildcat-0",
+      "name": "wildcat 1",
+      "year_start": 1965,
+      "year_end": 1970,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/wildcat/1965-1970.webp"
+      }
+    }
+  ]
+}

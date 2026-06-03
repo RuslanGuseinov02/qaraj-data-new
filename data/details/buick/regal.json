@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "regal",
+  "name": "regal",
+  "generations": [
+    {
+      "slug": "regal-0",
+      "name": "regal 1",
+      "year_start": 1987,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/regal/1987-1996.webp"
+      }
+    },
+    {
+      "slug": "regal-1",
+      "name": "regal 2",
+      "year_start": 1997,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/regal/1997-2004.webp"
+      }
+    },
+    {
+      "slug": "regal-2",
+      "name": "regal 3",
+      "year_start": 1999,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/regal/1999-2008.webp"
+      }
+    },
+    {
+      "slug": "regal-3",
+      "name": "regal 4",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/regal/2009-2013.webp"
+      }
+    },
+    {
+      "slug": "regal-4",
+      "name": "regal 5",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/regal/2014-2017.webp"
+      }
+    },
+    {
+      "slug": "regal-5",
+      "name": "regal 6",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/regal/2017-2020.webp"
+      }
+    },
+    {
+      "slug": "regal-6",
+      "name": "regal 7",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/regal/2020-2023.webp"
+      }
+    },
+    {
+      "slug": "regal-7",
+      "name": "regal 8",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/regal/2023-now.webp"
+      }
+    }
+  ]
+}

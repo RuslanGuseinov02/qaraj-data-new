@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "gl8-phev",
+  "name": "gl8-phev",
+  "generations": [
+    {
+      "slug": "gl8-phev-0",
+      "name": "gl8-phev 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/gl8-phev/2024-now.webp"
+      }
+    }
+  ]
+}

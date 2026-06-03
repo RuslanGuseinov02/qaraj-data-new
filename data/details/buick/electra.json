@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "electra",
+  "name": "electra",
+  "generations": [
+    {
+      "slug": "electra-0",
+      "name": "electra 1",
+      "year_start": 1985,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/electra/1985-1990.webp"
+      }
+    }
+  ]
+}

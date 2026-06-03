@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "le-sabre",
+  "name": "le-sabre",
+  "generations": [
+    {
+      "slug": "le-sabre-0",
+      "name": "le-sabre 1",
+      "year_start": 1965,
+      "year_end": 1970,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/le-sabre/b-body-1965-1970.webp"
+      }
+    },
+    {
+      "slug": "le-sabre-1",
+      "name": "le-sabre 2",
+      "year_start": 1971,
+      "year_end": 1976,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/le-sabre/b-body-1971-1976.webp"
+      }
+    },
+    {
+      "slug": "le-sabre-2",
+      "name": "le-sabre 3",
+      "year_start": 1977,
+      "year_end": 1985,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/le-sabre/b-body-1977-1985.webp"
+      }
+    },
+    {
+      "slug": "le-sabre-3",
+      "name": "le-sabre 4",
+      "year_start": 1999,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/le-sabre/g-platform-1999-2005.webp"
+      }
+    },
+    {
+      "slug": "le-sabre-4",
+      "name": "le-sabre 5",
+      "year_start": 1986,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/le-sabre/h-body-1986-1991.webp"
+      }
+    },
+    {
+      "slug": "le-sabre-5",
+      "name": "le-sabre 6",
+      "year_start": 1992,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/le-sabre/h-body-1992-1999.webp"
+      }
+    }
+  ]
+}

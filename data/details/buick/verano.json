@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "verano",
+  "name": "verano",
+  "generations": [
+    {
+      "slug": "verano-0",
+      "name": "verano 1",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/verano/2011-2017.webp"
+      }
+    },
+    {
+      "slug": "verano-1",
+      "name": "verano 2",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/verano/2015-2017.webp"
+      }
+    },
+    {
+      "slug": "verano-2",
+      "name": "verano 3",
+      "year_start": 2018,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/verano/2018-2019.webp"
+      }
+    },
+    {
+      "slug": "verano-3",
+      "name": "verano 4",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/verano/2020-2022.webp"
+      }
+    }
+  ]
+}

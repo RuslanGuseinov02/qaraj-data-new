@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "grand-national",
+  "name": "grand-national",
+  "generations": [
+    {
+      "slug": "grand-national-0",
+      "name": "grand-national 1",
+      "year_start": 1981,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/grand-national/1981-1987.webp"
+      }
+    }
+  ]
+}

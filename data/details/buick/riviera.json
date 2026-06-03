@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "riviera",
+  "name": "riviera",
+  "generations": [
+    {
+      "slug": "riviera-0",
+      "name": "riviera 1",
+      "year_start": 1963,
+      "year_end": 1965,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/riviera/1963-1965.webp"
+      }
+    },
+    {
+      "slug": "riviera-1",
+      "name": "riviera 2",
+      "year_start": 1966,
+      "year_end": 1970,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/riviera/1966-1970.webp"
+      }
+    },
+    {
+      "slug": "riviera-2",
+      "name": "riviera 3",
+      "year_start": 1971,
+      "year_end": 1973,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/riviera/1971-1973.webp"
+      }
+    },
+    {
+      "slug": "riviera-3",
+      "name": "riviera 4",
+      "year_start": 1974,
+      "year_end": 1976,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/riviera/1974-1976.webp"
+      }
+    },
+    {
+      "slug": "riviera-4",
+      "name": "riviera 5",
+      "year_start": 1977,
+      "year_end": 1978,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/riviera/1977-1978.webp"
+      }
+    },
+    {
+      "slug": "riviera-5",
+      "name": "riviera 6",
+      "year_start": 1979,
+      "year_end": 1985,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/riviera/1979-1985.webp"
+      }
+    },
+    {
+      "slug": "riviera-6",
+      "name": "riviera 7",
+      "year_start": 1986,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/riviera/1986-1993.webp"
+      }
+    },
+    {
+      "slug": "riviera-7",
+      "name": "riviera 8",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/riviera/1995-1999.webp"
+      }
+    }
+  ]
+}

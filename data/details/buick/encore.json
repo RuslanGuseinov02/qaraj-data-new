@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "encore",
+  "name": "encore",
+  "generations": [
+    {
+      "slug": "encore-0",
+      "name": "encore 1",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/encore/2012-2016.webp"
+      }
+    },
+    {
+      "slug": "encore-1",
+      "name": "encore 2",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/encore/2017-2022.webp"
+      }
+    },
+    {
+      "slug": "encore-2",
+      "name": "encore 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/encore/2020-2024-e7.webp"
+      }
+    },
+    {
+      "slug": "encore-3",
+      "name": "encore 4",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/encore/2020-2024.webp"
+      }
+    },
+    {
+      "slug": "encore-4",
+      "name": "encore 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/encore/2024-now.webp"
+      }
+    }
+  ]
+}

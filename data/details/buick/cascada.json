@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "cascada",
+  "name": "cascada",
+  "generations": [
+    {
+      "slug": "cascada-0",
+      "name": "cascada 1",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/cascada/2016-2019.webp"
+      }
+    }
+  ]
+}

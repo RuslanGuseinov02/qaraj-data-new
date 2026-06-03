@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "envision-plus",
+  "name": "envision-plus",
+  "generations": [
+    {
+      "slug": "envision-plus-0",
+      "name": "envision-plus 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/envision-plus/2021-2024.webp"
+      }
+    },
+    {
+      "slug": "envision-plus-1",
+      "name": "envision-plus 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/envision-plus/2024-now.webp"
+      }
+    }
+  ]
+}

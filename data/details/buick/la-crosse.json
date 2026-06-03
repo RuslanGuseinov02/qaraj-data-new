@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "la-crosse",
+  "name": "la-crosse",
+  "generations": [
+    {
+      "slug": "la-crosse-0",
+      "name": "la-crosse 1",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/la-crosse/2005-2007.webp"
+      }
+    },
+    {
+      "slug": "la-crosse-1",
+      "name": "la-crosse 2",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/la-crosse/2006-2009.webp"
+      }
+    },
+    {
+      "slug": "la-crosse-2",
+      "name": "la-crosse 3",
+      "year_start": 2008,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/la-crosse/2008-2009.webp"
+      }
+    },
+    {
+      "slug": "la-crosse-3",
+      "name": "la-crosse 4",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/la-crosse/2009-2013.webp"
+      }
+    },
+    {
+      "slug": "la-crosse-4",
+      "name": "la-crosse 5",
+      "year_start": 2014,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/la-crosse/2014-2016.webp"
+      }
+    },
+    {
+      "slug": "la-crosse-5",
+      "name": "la-crosse 6",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/la-crosse/2016-2019.webp"
+      }
+    },
+    {
+      "slug": "la-crosse-6",
+      "name": "la-crosse 7",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/la-crosse/2019-2023.webp"
+      }
+    },
+    {
+      "slug": "la-crosse-7",
+      "name": "la-crosse 8",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/la-crosse/2023-now.webp"
+      }
+    }
+  ]
+}

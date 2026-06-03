@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "electra-e5",
+  "name": "electra-e5",
+  "generations": [
+    {
+      "slug": "electra-e5-0",
+      "name": "electra-e5 1",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/electra-e5/2023-2025.webp"
+      }
+    },
+    {
+      "slug": "electra-e5-1",
+      "name": "electra-e5 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/electra-e5/2025-now.webp"
+      }
+    }
+  ]
+}

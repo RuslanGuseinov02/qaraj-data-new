@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "rainier",
+  "name": "rainier",
+  "generations": [
+    {
+      "slug": "rainier-0",
+      "name": "rainier 1",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/rainier/2003-2007.webp"
+      }
+    }
+  ]
+}

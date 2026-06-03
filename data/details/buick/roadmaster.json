@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "roadmaster",
+  "name": "roadmaster",
+  "generations": [
+    {
+      "slug": "roadmaster-0",
+      "name": "roadmaster 1",
+      "year_start": 1991,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/roadmaster/1991-1996.webp"
+      }
+    }
+  ]
+}

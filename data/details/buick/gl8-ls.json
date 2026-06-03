@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "gl8-ls",
+  "name": "gl8-ls",
+  "generations": [
+    {
+      "slug": "gl8-ls-0",
+      "name": "gl8-ls 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/gl8-ls/2024-now.webp"
+      }
+    }
+  ]
+}

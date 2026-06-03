@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "encore-plus",
+  "name": "encore-plus",
+  "generations": [
+    {
+      "slug": "encore-plus-0",
+      "name": "encore-plus 1",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/encore-plus/2023-2025.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "encore-gx",
+  "name": "encore-gx",
+  "generations": [
+    {
+      "slug": "encore-gx-0",
+      "name": "encore-gx 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/encore-gx/2020-2023.webp"
+      }
+    },
+    {
+      "slug": "encore-gx-1",
+      "name": "encore-gx 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/encore-gx/2023-now.webp"
+      }
+    }
+  ]
+}

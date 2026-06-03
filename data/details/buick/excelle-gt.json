@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "excelle-gt",
+  "name": "excelle-gt",
+  "generations": [
+    {
+      "slug": "excelle-gt-0",
+      "name": "excelle-gt 1",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/excelle-gt/2010-2015.webp"
+      }
+    },
+    {
+      "slug": "excelle-gt-1",
+      "name": "excelle-gt 2",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/excelle-gt/2015-2017.webp"
+      }
+    },
+    {
+      "slug": "excelle-gt-2",
+      "name": "excelle-gt 3",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/excelle-gt/2018-2023.webp"
+      }
+    }
+  ]
+}

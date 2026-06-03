@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "allure",
+  "name": "allure",
+  "generations": [
+    {
+      "slug": "allure-0",
+      "name": "allure 1",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/allure/2005-2007.webp"
+      }
+    },
+    {
+      "slug": "allure-1",
+      "name": "allure 2",
+      "year_start": 2008,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/allure/2008-2009.webp"
+      }
+    },
+    {
+      "slug": "allure-2",
+      "name": "allure 3",
+      "year_start": 2010,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/allure/2010-2010.webp"
+      }
+    }
+  ]
+}

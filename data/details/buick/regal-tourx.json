@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "regal-tourx",
+  "name": "regal-tourx",
+  "generations": [
+    {
+      "slug": "regal-tourx-0",
+      "name": "regal-tourx 1",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/regal-tourx/2018-2021.webp"
+      }
+    }
+  ]
+}

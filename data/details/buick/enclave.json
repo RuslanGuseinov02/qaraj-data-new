@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "enclave",
+  "name": "enclave",
+  "generations": [
+    {
+      "slug": "enclave-0",
+      "name": "enclave 1",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/enclave/2007-2012.webp"
+      }
+    },
+    {
+      "slug": "enclave-1",
+      "name": "enclave 2",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/enclave/2013-2017.webp"
+      }
+    },
+    {
+      "slug": "enclave-2",
+      "name": "enclave 3",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/enclave/2018-2021.webp"
+      }
+    },
+    {
+      "slug": "enclave-3",
+      "name": "enclave 4",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/enclave/2019-2025.webp"
+      }
+    },
+    {
+      "slug": "enclave-4",
+      "name": "enclave 5",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/enclave/2022-2024.webp"
+      }
+    },
+    {
+      "slug": "enclave-5",
+      "name": "enclave 6",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/enclave/2024-now.webp"
+      }
+    }
+  ]
+}

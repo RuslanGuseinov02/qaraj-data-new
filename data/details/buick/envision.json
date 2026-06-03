@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "buick",
+    "name": "BUICK"
+  },
+  "slug": "envision",
+  "name": "envision",
+  "generations": [
+    {
+      "slug": "envision-0",
+      "name": "envision 1",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/envision/2014-2018.webp"
+      }
+    },
+    {
+      "slug": "envision-1",
+      "name": "envision 2",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/envision/2018-2021.webp"
+      }
+    },
+    {
+      "slug": "envision-2",
+      "name": "envision 3",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/envision/2020-2022.webp"
+      }
+    },
+    {
+      "slug": "envision-3",
+      "name": "envision 4",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/envision/2021-2024.webp"
+      }
+    },
+    {
+      "slug": "envision-4",
+      "name": "envision 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/buick/envision/2024-now.webp"
+      }
+    }
+  ]
+}
