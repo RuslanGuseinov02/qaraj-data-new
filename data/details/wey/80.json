@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "wey",
+    "name": "WEY"
+  },
+  "slug": "80",
+  "name": "80",
+  "generations": [
+    {
+      "slug": "80-0",
+      "name": "80 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wey/80/2024-now.webp"
+      }
+    }
+  ]
+}

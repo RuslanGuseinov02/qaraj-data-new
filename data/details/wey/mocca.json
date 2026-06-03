@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "wey",
+    "name": "WEY"
+  },
+  "slug": "mocca",
+  "name": "mocca",
+  "generations": [
+    {
+      "slug": "mocca-0",
+      "name": "mocca 1",
+      "year_start": 2021,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wey/mocca/2021-2023.webp"
+      }
+    },
+    {
+      "slug": "mocca-1",
+      "name": "mocca 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wey/mocca/2023-now.webp"
+      }
+    }
+  ]
+}

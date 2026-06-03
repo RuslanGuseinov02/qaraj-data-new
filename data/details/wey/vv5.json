@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "wey",
+    "name": "WEY"
+  },
+  "slug": "vv5",
+  "name": "vv5",
+  "generations": [
+    {
+      "slug": "vv5-0",
+      "name": "vv5 1",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wey/vv5/2017-2021.webp"
+      }
+    }
+  ]
+}

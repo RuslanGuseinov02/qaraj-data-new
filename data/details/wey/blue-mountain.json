@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "wey",
+    "name": "WEY"
+  },
+  "slug": "blue-mountain",
+  "name": "blue-mountain",
+  "generations": [
+    {
+      "slug": "blue-mountain-0",
+      "name": "blue-mountain 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wey/blue-mountain/2023-now.webp"
+      }
+    }
+  ]
+}

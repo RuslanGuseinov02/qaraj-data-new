@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "wey",
+    "name": "WEY"
+  },
+  "slug": "latte",
+  "name": "latte",
+  "generations": [
+    {
+      "slug": "latte-0",
+      "name": "latte 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/wey/latte/2021-now.webp"
+      }
+    }
+  ]
+}
