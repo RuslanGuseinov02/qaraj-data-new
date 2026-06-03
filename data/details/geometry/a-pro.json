@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geometry",
+    "name": "GEOMETRY"
+  },
+  "slug": "a-pro",
+  "name": "a-pro",
+  "generations": [
+    {
+      "slug": "a-pro-0",
+      "name": "a-pro 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geometry/a-pro/2021-now.webp"
+      }
+    }
+  ]
+}

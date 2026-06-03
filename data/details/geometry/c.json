@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "geometry",
+    "name": "GEOMETRY"
+  },
+  "slug": "c",
+  "name": "c",
+  "generations": [
+    {
+      "slug": "c-0",
+      "name": "c 1",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geometry/c/2019-2024.webp"
+      }
+    },
+    {
+      "slug": "c-1",
+      "name": "c 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geometry/c/2022-now.webp"
+      }
+    }
+  ]
+}

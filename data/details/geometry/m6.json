@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geometry",
+    "name": "GEOMETRY"
+  },
+  "slug": "m6",
+  "name": "m6",
+  "generations": [
+    {
+      "slug": "m6-0",
+      "name": "m6 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geometry/m6/2022-now.webp"
+      }
+    }
+  ]
+}

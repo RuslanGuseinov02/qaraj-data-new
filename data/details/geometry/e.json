@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geometry",
+    "name": "GEOMETRY"
+  },
+  "slug": "e",
+  "name": "e",
+  "generations": [
+    {
+      "slug": "e-0",
+      "name": "e 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geometry/e/2022-now.webp"
+      }
+    }
+  ]
+}

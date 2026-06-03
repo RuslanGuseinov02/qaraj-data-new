@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geometry",
+    "name": "GEOMETRY"
+  },
+  "slug": "panda-mini",
+  "name": "panda-mini",
+  "generations": [
+    {
+      "slug": "panda-mini-0",
+      "name": "panda-mini 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geometry/panda-mini/2023-now.webp"
+      }
+    }
+  ]
+}

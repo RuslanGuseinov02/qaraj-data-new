@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "geometry",
+    "name": "GEOMETRY"
+  },
+  "slug": "panda-knight",
+  "name": "panda-knight",
+  "generations": [
+    {
+      "slug": "panda-knight-0",
+      "name": "panda-knight 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/geometry/panda-knight/2023-now.webp"
+      }
+    }
+  ]
+}
