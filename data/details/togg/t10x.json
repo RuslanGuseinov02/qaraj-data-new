@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "togg",
+    "name": "TOGG"
+  },
+  "slug": "t10x",
+  "name": "t10x",
+  "generations": [
+    {
+      "slug": "t10x-0",
+      "name": "t10x 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/togg/t10x/2023-now.webp"
+      }
+    }
+  ]
+}
