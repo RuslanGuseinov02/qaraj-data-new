@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "landwind",
+    "name": "LANDWIND"
+  },
+  "slug": "forward",
+  "name": "forward",
+  "generations": [
+    {
+      "slug": "forward-0",
+      "name": "forward 1",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/landwind/forward/2006-2011.webp"
+      }
+    }
+  ]
+}

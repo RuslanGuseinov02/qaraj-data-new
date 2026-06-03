@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "landwind",
+    "name": "LANDWIND"
+  },
+  "slug": "x5",
+  "name": "x5",
+  "generations": [
+    {
+      "slug": "x5-0",
+      "name": "x5 1",
+      "year_start": 2012,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/landwind/x5/2012-2020.webp"
+      }
+    }
+  ]
+}

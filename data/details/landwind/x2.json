@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "landwind",
+    "name": "LANDWIND"
+  },
+  "slug": "x2",
+  "name": "x2",
+  "generations": [
+    {
+      "slug": "x2-0",
+      "name": "x2 1",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/landwind/x2/e36-2017-2022.webp"
+      }
+    }
+  ]
+}

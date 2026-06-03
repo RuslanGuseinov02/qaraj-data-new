@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "landwind",
+    "name": "LANDWIND"
+  },
+  "slug": "fashion-cv9",
+  "name": "fashion-cv9",
+  "generations": [
+    {
+      "slug": "fashion-cv9-0",
+      "name": "fashion-cv9 1",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/landwind/fashion-cv9/2006-2011.webp"
+      }
+    }
+  ]
+}

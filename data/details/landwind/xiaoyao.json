@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "landwind",
+    "name": "LANDWIND"
+  },
+  "slug": "xiaoyao",
+  "name": "xiaoyao",
+  "generations": [
+    {
+      "slug": "xiaoyao-0",
+      "name": "xiaoyao 1",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/landwind/xiaoyao/2018-2022.webp"
+      }
+    }
+  ]
+}
