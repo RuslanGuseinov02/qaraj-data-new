@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "cadillac",
+    "name": "CADILLAC"
+  },
+  "slug": "fleetwood-brougham",
+  "name": "fleetwood-brougham",
+  "generations": [
+    {
+      "slug": "fleetwood-brougham-0",
+      "name": "fleetwood-brougham 1",
+      "year_start": 1977,
+      "year_end": 1986,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/fleetwood-brougham/d-body-1977-1986.webp"
+      }
+    }
+  ]
+}

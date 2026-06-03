@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "cadillac",
+    "name": "CADILLAC"
+  },
+  "slug": "xlr-v",
+  "name": "xlr-v",
+  "generations": [
+    {
+      "slug": "xlr-v-0",
+      "name": "xlr-v 1",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/xlr-v/y-body-2006-2009.webp"
+      }
+    }
+  ]
+}

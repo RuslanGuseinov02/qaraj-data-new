@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "cadillac",
+    "name": "CADILLAC"
+  },
+  "slug": "brougham",
+  "name": "brougham",
+  "generations": [
+    {
+      "slug": "brougham-0",
+      "name": "brougham 1",
+      "year_start": 1987,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/brougham/d-body-1987-1992.webp"
+      }
+    }
+  ]
+}

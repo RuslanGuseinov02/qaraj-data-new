@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "cadillac",
+    "name": "CADILLAC"
+  },
+  "slug": "escalade-v",
+  "name": "escalade-v",
+  "generations": [
+    {
+      "slug": "escalade-v-0",
+      "name": "escalade-v 1",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/escalade-v/2022-2024.webp"
+      }
+    },
+    {
+      "slug": "escalade-v-1",
+      "name": "escalade-v 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/escalade-v/2024-now.webp"
+      }
+    }
+  ]
+}

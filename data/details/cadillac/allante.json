@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "cadillac",
+    "name": "CADILLAC"
+  },
+  "slug": "allante",
+  "name": "allante",
+  "generations": [
+    {
+      "slug": "allante-0",
+      "name": "allante 1",
+      "year_start": 1987,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/allante/v-body-1987-1993.webp"
+      }
+    }
+  ]
+}

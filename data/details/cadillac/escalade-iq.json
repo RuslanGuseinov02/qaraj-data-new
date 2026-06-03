@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "cadillac",
+    "name": "CADILLAC"
+  },
+  "slug": "escalade-iq",
+  "name": "escalade-iq",
+  "generations": [
+    {
+      "slug": "escalade-iq-0",
+      "name": "escalade-iq 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/escalade-iq/2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "cadillac",
+    "name": "CADILLAC"
+  },
+  "slug": "cts",
+  "name": "cts",
+  "generations": [
+    {
+      "slug": "cts-0",
+      "name": "cts 1",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/cts/gm-alpha-2014-2019.webp"
+      }
+    },
+    {
+      "slug": "cts-1",
+      "name": "cts 2",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/cts/gm-sigma-i-2003-2007.webp"
+      }
+    },
+    {
+      "slug": "cts-2",
+      "name": "cts 3",
+      "year_start": 2008,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/cts/gm-sigma-ii-2008-2014.webp"
+      }
+    }
+  ]
+}

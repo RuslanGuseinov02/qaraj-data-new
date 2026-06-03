@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "cadillac",
+    "name": "CADILLAC"
+  },
+  "slug": "vistiq",
+  "name": "vistiq",
+  "generations": [
+    {
+      "slug": "vistiq-0",
+      "name": "vistiq 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/vistiq/2025-now.webp"
+      }
+    }
+  ]
+}

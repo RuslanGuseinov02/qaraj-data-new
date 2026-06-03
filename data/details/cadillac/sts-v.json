@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "cadillac",
+    "name": "CADILLAC"
+  },
+  "slug": "sts-v",
+  "name": "sts-v",
+  "generations": [
+    {
+      "slug": "sts-v-0",
+      "name": "sts-v 1",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/sts-v/gm-sigma-2005-2009.webp"
+      }
+    }
+  ]
+}

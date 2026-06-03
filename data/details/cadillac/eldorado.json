@@ -1,0 +1,110 @@
+{
+  "make": {
+    "slug": "cadillac",
+    "name": "CADILLAC"
+  },
+  "slug": "eldorado",
+  "name": "eldorado",
+  "generations": [
+    {
+      "slug": "eldorado-0",
+      "name": "eldorado 1",
+      "year_start": 1953,
+      "year_end": 1953,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/eldorado/c-body-1953-1953.webp"
+      }
+    },
+    {
+      "slug": "eldorado-1",
+      "name": "eldorado 2",
+      "year_start": 1954,
+      "year_end": 1956,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/eldorado/c-body-1954-1956.webp"
+      }
+    },
+    {
+      "slug": "eldorado-2",
+      "name": "eldorado 3",
+      "year_start": 1957,
+      "year_end": 1960,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/eldorado/c-body-1957-1960.webp"
+      }
+    },
+    {
+      "slug": "eldorado-3",
+      "name": "eldorado 4",
+      "year_start": 1961,
+      "year_end": 1964,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/eldorado/c-body-1961-1964.webp"
+      }
+    },
+    {
+      "slug": "eldorado-4",
+      "name": "eldorado 5",
+      "year_start": 1965,
+      "year_end": 1966,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/eldorado/c-body-1965-1966.webp"
+      }
+    },
+    {
+      "slug": "eldorado-5",
+      "name": "eldorado 6",
+      "year_start": 1967,
+      "year_end": 1970,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/eldorado/e-body-1967-1970.webp"
+      }
+    },
+    {
+      "slug": "eldorado-6",
+      "name": "eldorado 7",
+      "year_start": 1971,
+      "year_end": 1978,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/eldorado/e-body-1971-1978.webp"
+      }
+    },
+    {
+      "slug": "eldorado-7",
+      "name": "eldorado 8",
+      "year_start": 1979,
+      "year_end": 1985,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/eldorado/e-body-1979-1985.webp"
+      }
+    },
+    {
+      "slug": "eldorado-8",
+      "name": "eldorado 9",
+      "year_start": 1986,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/eldorado/e-body-1986-1991.webp"
+      }
+    },
+    {
+      "slug": "eldorado-9",
+      "name": "eldorado 10",
+      "year_start": 1992,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/eldorado/e-body-1992-2002.webp"
+      }
+    }
+  ]
+}

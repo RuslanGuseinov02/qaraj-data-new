@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "cadillac",
+    "name": "CADILLAC"
+  },
+  "slug": "lyriq-v",
+  "name": "lyriq-v",
+  "generations": [
+    {
+      "slug": "lyriq-v-0",
+      "name": "lyriq-v 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/lyriq-v/2025-now.webp"
+      }
+    }
+  ]
+}

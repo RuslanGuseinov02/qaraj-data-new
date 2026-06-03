@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "cadillac",
+    "name": "CADILLAC"
+  },
+  "slug": "ct6-v",
+  "name": "ct6-v",
+  "generations": [
+    {
+      "slug": "ct6-v-0",
+      "name": "ct6-v 1",
+      "year_start": 2019,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/ct6-v/gm-omega-2019-2020.webp"
+      }
+    }
+  ]
+}

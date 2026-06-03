@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "cadillac",
+    "name": "CADILLAC"
+  },
+  "slug": "srx",
+  "name": "srx",
+  "generations": [
+    {
+      "slug": "srx-0",
+      "name": "srx 1",
+      "year_start": 2010,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/srx/gmt166-2010-2016.webp"
+      }
+    },
+    {
+      "slug": "srx-1",
+      "name": "srx 2",
+      "year_start": 2003,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/srx/gmt265-2003-2009.webp"
+      }
+    }
+  ]
+}

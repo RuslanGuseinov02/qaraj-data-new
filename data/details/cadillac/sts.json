@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "cadillac",
+    "name": "CADILLAC"
+  },
+  "slug": "sts",
+  "name": "sts",
+  "generations": [
+    {
+      "slug": "sts-0",
+      "name": "sts 1",
+      "year_start": 2004,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/sts/gm-sigma-2004-2007.webp"
+      }
+    },
+    {
+      "slug": "sts-1",
+      "name": "sts 2",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/sts/gm-sigma-2008-2012.webp"
+      }
+    }
+  ]
+}

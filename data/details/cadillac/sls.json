@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "cadillac",
+    "name": "CADILLAC"
+  },
+  "slug": "sls",
+  "name": "sls",
+  "generations": [
+    {
+      "slug": "sls-0",
+      "name": "sls 1",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/sls/2007-2009.webp"
+      }
+    },
+    {
+      "slug": "sls-1",
+      "name": "sls 2",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/sls/2010-2013.webp"
+      }
+    }
+  ]
+}

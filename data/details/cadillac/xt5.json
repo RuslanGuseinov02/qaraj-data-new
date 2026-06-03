@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "cadillac",
+    "name": "CADILLAC"
+  },
+  "slug": "xt5",
+  "name": "xt5",
+  "generations": [
+    {
+      "slug": "xt5-0",
+      "name": "xt5 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/xt5/2016-2020.webp"
+      }
+    },
+    {
+      "slug": "xt5-1",
+      "name": "xt5 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/xt5/2021-now.webp"
+      }
+    },
+    {
+      "slug": "xt5-2",
+      "name": "xt5 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/xt5/2024-now.webp"
+      }
+    }
+  ]
+}

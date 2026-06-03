@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "cadillac",
+    "name": "CADILLAC"
+  },
+  "slug": "ct4-v",
+  "name": "ct4-v",
+  "generations": [
+    {
+      "slug": "ct4-v-0",
+      "name": "ct4-v 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/ct4-v/2020-now.webp"
+      }
+    }
+  ]
+}

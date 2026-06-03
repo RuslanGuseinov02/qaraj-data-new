@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "cadillac",
+    "name": "CADILLAC"
+  },
+  "slug": "deville",
+  "name": "deville",
+  "generations": [
+    {
+      "slug": "deville-0",
+      "name": "deville 1",
+      "year_start": 1971,
+      "year_end": 1976,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/deville/c-body-1971-1976.webp"
+      }
+    },
+    {
+      "slug": "deville-1",
+      "name": "deville 2",
+      "year_start": 1977,
+      "year_end": 1984,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/deville/c-body-1977-1984.webp"
+      }
+    },
+    {
+      "slug": "deville-2",
+      "name": "deville 3",
+      "year_start": 1985,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/deville/c-body-v-1985-1993.webp"
+      }
+    },
+    {
+      "slug": "deville-3",
+      "name": "deville 4",
+      "year_start": 2000,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/deville/g-body-2000-2005.webp"
+      }
+    },
+    {
+      "slug": "deville-4",
+      "name": "deville 5",
+      "year_start": 1994,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/deville/k-body-1994-1999.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "cadillac",
+    "name": "CADILLAC"
+  },
+  "slug": "catera",
+  "name": "catera",
+  "generations": [
+    {
+      "slug": "catera-0",
+      "name": "catera 1",
+      "year_start": 1997,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/catera/1997-1999.webp"
+      }
+    },
+    {
+      "slug": "catera-1",
+      "name": "catera 2",
+      "year_start": 2000,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/catera/2000-2001.webp"
+      }
+    }
+  ]
+}

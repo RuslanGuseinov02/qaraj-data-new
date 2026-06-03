@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "cadillac",
+    "name": "CADILLAC"
+  },
+  "slug": "fleetwood",
+  "name": "fleetwood",
+  "generations": [
+    {
+      "slug": "fleetwood-0",
+      "name": "fleetwood 1",
+      "year_start": 1985,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/fleetwood/c-body-1985-1992.webp"
+      }
+    },
+    {
+      "slug": "fleetwood-1",
+      "name": "fleetwood 2",
+      "year_start": 1993,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/cadillac/fleetwood/d-body-1993-1996.webp"
+      }
+    }
+  ]
+}
