@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "saab",
+    "name": "SAAB"
+  },
+  "slug": "9000",
+  "name": "9000",
+  "generations": [
+    {
+      "slug": "9000-0",
+      "name": "9000 1",
+      "year_start": 1984,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/saab/9000/1984-1998.webp"
+      }
+    }
+  ]
+}

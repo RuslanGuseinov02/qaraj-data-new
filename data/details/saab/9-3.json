@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "saab",
+    "name": "SAAB"
+  },
+  "slug": "9-3",
+  "name": "9-3",
+  "generations": [
+    {
+      "slug": "9-3-0",
+      "name": "9-3 1",
+      "year_start": 1998,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/saab/9-3/ys3d-1998-2003.webp"
+      }
+    },
+    {
+      "slug": "9-3-1",
+      "name": "9-3 2",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/saab/9-3/ys3f-2003-2007.webp"
+      }
+    },
+    {
+      "slug": "9-3-2",
+      "name": "9-3 3",
+      "year_start": 2008,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/saab/9-3/ys3f-2008-2014.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "saab",
+    "name": "SAAB"
+  },
+  "slug": "9-4x",
+  "name": "9-4x",
+  "generations": [
+    {
+      "slug": "9-4x-0",
+      "name": "9-4x 1",
+      "year_start": 2011,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/saab/9-4x/2011-2011.webp"
+      }
+    }
+  ]
+}
