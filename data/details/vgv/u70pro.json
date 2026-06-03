@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "vgv",
+    "name": "VGV"
+  },
+  "slug": "u70pro",
+  "name": "u70pro",
+  "generations": [
+    {
+      "slug": "u70pro-0",
+      "name": "u70pro 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vgv/u70pro/2022-now.webp"
+      }
+    }
+  ]
+}

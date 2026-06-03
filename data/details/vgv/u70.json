@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "vgv",
+    "name": "VGV"
+  },
+  "slug": "u70",
+  "name": "u70",
+  "generations": [
+    {
+      "slug": "u70-0",
+      "name": "u70 1",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vgv/u70/2020-2022.webp"
+      }
+    }
+  ]
+}

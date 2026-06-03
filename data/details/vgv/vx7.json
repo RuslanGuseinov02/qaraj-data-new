@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "vgv",
+    "name": "VGV"
+  },
+  "slug": "vx7",
+  "name": "vx7",
+  "generations": [
+    {
+      "slug": "vx7-0",
+      "name": "vx7 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/vgv/vx7/2023-now.webp"
+      }
+    }
+  ]
+}
