@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "nio",
+    "name": "NIO"
+  },
+  "slug": "et7",
+  "name": "et7",
+  "generations": [
+    {
+      "slug": "et7-0",
+      "name": "et7 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nio/et7/2021-now.webp"
+      }
+    }
+  ]
+}

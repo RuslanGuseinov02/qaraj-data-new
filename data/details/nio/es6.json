@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "nio",
+    "name": "NIO"
+  },
+  "slug": "es6",
+  "name": "es6",
+  "generations": [
+    {
+      "slug": "es6-0",
+      "name": "es6 1",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nio/es6/2019-2023.webp"
+      }
+    },
+    {
+      "slug": "es6-1",
+      "name": "es6 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/nio/es6/2023-now.webp"
+      }
+    }
+  ]
+}
