@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maxus",
+    "name": "MAXUS"
+  },
+  "slug": "g10-cargo",
+  "name": "g10-cargo",
+  "generations": [
+    {
+      "slug": "g10-cargo-0",
+      "name": "g10-cargo 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/g10-cargo/2018-now.webp"
+      }
+    }
+  ]
+}

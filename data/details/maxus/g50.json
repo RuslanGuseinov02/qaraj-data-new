@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maxus",
+    "name": "MAXUS"
+  },
+  "slug": "g50",
+  "name": "g50",
+  "generations": [
+    {
+      "slug": "g50-0",
+      "name": "g50 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/g50/2019-now.webp"
+      }
+    }
+  ]
+}

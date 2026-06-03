@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maxus",
+    "name": "MAXUS"
+  },
+  "slug": "interstellar-bull-demon-king",
+  "name": "interstellar-bull-demon-king",
+  "generations": [
+    {
+      "slug": "interstellar-bull-demon-king-0",
+      "name": "interstellar-bull-demon-king 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/interstellar-bull-demon-king/2023-now.webp"
+      }
+    }
+  ]
+}

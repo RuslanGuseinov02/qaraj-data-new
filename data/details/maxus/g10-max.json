@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maxus",
+    "name": "MAXUS"
+  },
+  "slug": "g10-max",
+  "name": "g10-max",
+  "generations": [
+    {
+      "slug": "g10-max-0",
+      "name": "g10-max 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/g10-max/2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maxus",
+    "name": "MAXUS"
+  },
+  "slug": "ev80-pro",
+  "name": "ev80-pro",
+  "generations": [
+    {
+      "slug": "ev80-pro-0",
+      "name": "ev80-pro 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/ev80-pro/2023-now.webp"
+      }
+    }
+  ]
+}

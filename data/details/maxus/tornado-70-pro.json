@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maxus",
+    "name": "MAXUS"
+  },
+  "slug": "tornado-70-pro",
+  "name": "tornado-70-pro",
+  "generations": [
+    {
+      "slug": "tornado-70-pro-0",
+      "name": "tornado-70-pro 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/tornado-70-pro/2023-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maxus",
+    "name": "MAXUS"
+  },
+  "slug": "g20-es",
+  "name": "g20-es",
+  "generations": [
+    {
+      "slug": "g20-es-0",
+      "name": "g20-es 1",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/g20-es/2023-2025.webp"
+      }
+    }
+  ]
+}

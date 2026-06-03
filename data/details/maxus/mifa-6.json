@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maxus",
+    "name": "MAXUS"
+  },
+  "slug": "mifa-6",
+  "name": "mifa-6",
+  "generations": [
+    {
+      "slug": "mifa-6-0",
+      "name": "mifa-6 1",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/mifa-6/2022-2025.webp"
+      }
+    }
+  ]
+}

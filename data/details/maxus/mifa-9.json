@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maxus",
+    "name": "MAXUS"
+  },
+  "slug": "mifa-9",
+  "name": "mifa-9",
+  "generations": [
+    {
+      "slug": "mifa-9-0",
+      "name": "mifa-9 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/mifa-9/epx1a-2022-now.webp"
+      }
+    }
+  ]
+}

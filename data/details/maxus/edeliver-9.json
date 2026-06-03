@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maxus",
+    "name": "MAXUS"
+  },
+  "slug": "edeliver-9",
+  "name": "edeliver-9",
+  "generations": [
+    {
+      "slug": "edeliver-9-0",
+      "name": "edeliver-9 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/edeliver-9/2023-now.webp"
+      }
+    }
+  ]
+}

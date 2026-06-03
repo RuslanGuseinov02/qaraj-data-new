@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "maxus",
+    "name": "MAXUS"
+  },
+  "slug": "v80-plus",
+  "name": "v80-plus",
+  "generations": [
+    {
+      "slug": "v80-plus-0",
+      "name": "v80-plus 1",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/v80-plus/2017-2023.webp"
+      }
+    },
+    {
+      "slug": "v80-plus-1",
+      "name": "v80-plus 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/v80-plus/2023-now.webp"
+      }
+    }
+  ]
+}

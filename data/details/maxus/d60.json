@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "maxus",
+    "name": "MAXUS"
+  },
+  "slug": "d60",
+  "name": "d60",
+  "generations": [
+    {
+      "slug": "d60-0",
+      "name": "d60 1",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/d60/2019-2024.webp"
+      }
+    },
+    {
+      "slug": "d60-1",
+      "name": "d60 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/d60/2024-now.webp"
+      }
+    }
+  ]
+}

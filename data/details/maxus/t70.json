@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maxus",
+    "name": "MAXUS"
+  },
+  "slug": "t70",
+  "name": "t70",
+  "generations": [
+    {
+      "slug": "t70-0",
+      "name": "t70 1",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/t70/2019-2023.webp"
+      }
+    }
+  ]
+}

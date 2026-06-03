@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maxus",
+    "name": "MAXUS"
+  },
+  "slug": "interstellar-l",
+  "name": "interstellar-l",
+  "generations": [
+    {
+      "slug": "interstellar-l-0",
+      "name": "interstellar-l 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/interstellar-l/2023-now.webp"
+      }
+    }
+  ]
+}

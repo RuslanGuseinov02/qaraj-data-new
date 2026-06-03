@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maxus",
+    "name": "MAXUS"
+  },
+  "slug": "d90-pro",
+  "name": "d90-pro",
+  "generations": [
+    {
+      "slug": "d90-pro-0",
+      "name": "d90-pro 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/d90-pro/2021-now.webp"
+      }
+    }
+  ]
+}

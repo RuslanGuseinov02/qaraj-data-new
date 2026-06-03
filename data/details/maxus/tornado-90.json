@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maxus",
+    "name": "MAXUS"
+  },
+  "slug": "tornado-90",
+  "name": "tornado-90",
+  "generations": [
+    {
+      "slug": "tornado-90-0",
+      "name": "tornado-90 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/tornado-90/2022-now.webp"
+      }
+    }
+  ]
+}

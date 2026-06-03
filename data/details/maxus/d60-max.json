@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maxus",
+    "name": "MAXUS"
+  },
+  "slug": "d60-max",
+  "name": "d60-max",
+  "generations": [
+    {
+      "slug": "d60-max-0",
+      "name": "d60-max 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/d60-max/2024-now.webp"
+      }
+    }
+  ]
+}

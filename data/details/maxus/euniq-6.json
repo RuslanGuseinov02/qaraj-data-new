@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maxus",
+    "name": "MAXUS"
+  },
+  "slug": "euniq-6",
+  "name": "euniq-6",
+  "generations": [
+    {
+      "slug": "euniq-6-0",
+      "name": "euniq-6 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/euniq-6/2020-now.webp"
+      }
+    }
+  ]
+}

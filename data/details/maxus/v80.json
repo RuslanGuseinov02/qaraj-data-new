@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maxus",
+    "name": "MAXUS"
+  },
+  "slug": "v80",
+  "name": "v80",
+  "generations": [
+    {
+      "slug": "v80-0",
+      "name": "v80 1",
+      "year_start": 2011,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/v80/2011-now.webp"
+      }
+    }
+  ]
+}

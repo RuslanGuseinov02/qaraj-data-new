@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "maxus",
+    "name": "MAXUS"
+  },
+  "slug": "eg10",
+  "name": "eg10",
+  "generations": [
+    {
+      "slug": "eg10-0",
+      "name": "eg10 1",
+      "year_start": 2016,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/maxus/eg10/2016-2022.webp"
+      }
+    }
+  ]
+}
