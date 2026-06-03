@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "cs75-pro",
+  "name": "cs75-pro",
+  "generations": [
+    {
+      "slug": "cs75-pro-0",
+      "name": "cs75-pro 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/cs75-pro/2025-now.webp"
+      }
+    }
+  ]
+}

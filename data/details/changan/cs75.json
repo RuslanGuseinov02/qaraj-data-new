@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "cs75",
+  "name": "cs75",
+  "generations": [
+    {
+      "slug": "cs75-0",
+      "name": "cs75 1",
+      "year_start": 2013,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/cs75/2013-2020.webp"
+      }
+    },
+    {
+      "slug": "cs75-1",
+      "name": "cs75 2",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/cs75/2018-2022.webp"
+      }
+    },
+    {
+      "slug": "cs75-2",
+      "name": "cs75 3",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/cs75/2022-2024.webp"
+      }
+    }
+  ]
+}

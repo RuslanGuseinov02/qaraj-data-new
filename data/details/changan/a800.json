@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "a800",
+  "name": "a800",
+  "generations": [
+    {
+      "slug": "a800-0",
+      "name": "a800 1",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/a800/2018-2021.webp"
+      }
+    }
+  ]
+}

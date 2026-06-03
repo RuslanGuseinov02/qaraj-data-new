@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "eado-dt",
+  "name": "eado-dt",
+  "generations": [
+    {
+      "slug": "eado-dt-0",
+      "name": "eado-dt 1",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/eado-dt/2018-2024.webp"
+      }
+    }
+  ]
+}

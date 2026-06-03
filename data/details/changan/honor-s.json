@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "honor-s",
+  "name": "honor-s",
+  "generations": [
+    {
+      "slug": "honor-s-0",
+      "name": "honor-s 1",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/honor-s/2017-2021.webp"
+      }
+    },
+    {
+      "slug": "honor-s-1",
+      "name": "honor-s 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/honor-s/2023-now.webp"
+      }
+    }
+  ]
+}

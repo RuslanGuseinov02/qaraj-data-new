@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "cs85-coupe",
+  "name": "cs85-coupe",
+  "generations": [
+    {
+      "slug": "cs85-coupe-0",
+      "name": "cs85-coupe 1",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/cs85-coupe/2019-2022.webp"
+      }
+    },
+    {
+      "slug": "cs85-coupe-1",
+      "name": "cs85-coupe 2",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/cs85-coupe/2022-2025.webp"
+      }
+    }
+  ]
+}

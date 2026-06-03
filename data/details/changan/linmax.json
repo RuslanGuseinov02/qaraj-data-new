@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "linmax",
+  "name": "linmax",
+  "generations": [
+    {
+      "slug": "linmax-0",
+      "name": "linmax 1",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/linmax/2017-2021.webp"
+      }
+    }
+  ]
+}

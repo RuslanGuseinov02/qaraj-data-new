@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "z-shine",
+  "name": "z-shine",
+  "generations": [
+    {
+      "slug": "z-shine-0",
+      "name": "z-shine 1",
+      "year_start": 2008,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/z-shine/2008-2009.webp"
+      }
+    }
+  ]
+}

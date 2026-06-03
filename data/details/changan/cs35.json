@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "cs35",
+  "name": "cs35",
+  "generations": [
+    {
+      "slug": "cs35-0",
+      "name": "cs35 1",
+      "year_start": 2012,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/cs35/2012-2021.webp"
+      }
+    }
+  ]
+}

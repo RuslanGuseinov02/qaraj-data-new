@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "eado-xt",
+  "name": "eado-xt",
+  "generations": [
+    {
+      "slug": "eado-xt-0",
+      "name": "eado-xt 1",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/eado-xt/2013-2017.webp"
+      }
+    },
+    {
+      "slug": "eado-xt-1",
+      "name": "eado-xt 2",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/eado-xt/2018-2021.webp"
+      }
+    }
+  ]
+}

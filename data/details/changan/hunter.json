@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "hunter",
+  "name": "hunter",
+  "generations": [
+    {
+      "slug": "hunter-0",
+      "name": "hunter 1",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/hunter/2019-2025.webp"
+      }
+    },
+    {
+      "slug": "hunter-1",
+      "name": "hunter 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/hunter/2023-now.webp"
+      }
+    }
+  ]
+}

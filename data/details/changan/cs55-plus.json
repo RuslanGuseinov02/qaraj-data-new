@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "cs55-plus",
+  "name": "cs55-plus",
+  "generations": [
+    {
+      "slug": "cs55-plus-0",
+      "name": "cs55-plus 1",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/cs55-plus/2019-2021.webp"
+      }
+    },
+    {
+      "slug": "cs55-plus-1",
+      "name": "cs55-plus 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/cs55-plus/2021-now.webp"
+      }
+    }
+  ]
+}

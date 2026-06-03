@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "eado-plus",
+  "name": "eado-plus",
+  "generations": [
+    {
+      "slug": "eado-plus-0",
+      "name": "eado-plus 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/eado-plus/2020-now.webp"
+      }
+    },
+    {
+      "slug": "eado-plus-1",
+      "name": "eado-plus 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/eado-plus/2023-now.webp"
+      }
+    }
+  ]
+}

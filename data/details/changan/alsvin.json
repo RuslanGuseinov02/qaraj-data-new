@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "alsvin",
+  "name": "alsvin",
+  "generations": [
+    {
+      "slug": "alsvin-0",
+      "name": "alsvin 1",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/alsvin/2009-2012.webp"
+      }
+    },
+    {
+      "slug": "alsvin-1",
+      "name": "alsvin 2",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/alsvin/2018-now.webp"
+      }
+    }
+  ]
+}

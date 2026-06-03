@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "cx70",
+  "name": "cx70",
+  "generations": [
+    {
+      "slug": "cx70-0",
+      "name": "cx70 1",
+      "year_start": 2016,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/cx70/2016-2023.webp"
+      }
+    }
+  ]
+}

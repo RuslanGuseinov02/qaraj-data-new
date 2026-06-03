@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "qiyuan-q05",
+  "name": "qiyuan-q05",
+  "generations": [
+    {
+      "slug": "qiyuan-q05-0",
+      "name": "qiyuan-q05 1",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/qiyuan-q05/2023-2025.webp"
+      }
+    }
+  ]
+}

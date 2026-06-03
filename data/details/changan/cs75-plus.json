@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "cs75-plus",
+  "name": "cs75-plus",
+  "generations": [
+    {
+      "slug": "cs75-plus-0",
+      "name": "cs75-plus 1",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/cs75-plus/2019-2022.webp"
+      }
+    },
+    {
+      "slug": "cs75-plus-1",
+      "name": "cs75-plus 2",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/cs75-plus/2022-2024.webp"
+      }
+    },
+    {
+      "slug": "cs75-plus-2",
+      "name": "cs75-plus 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/cs75-plus/2023-now.webp"
+      }
+    },
+    {
+      "slug": "cs75-plus-3",
+      "name": "cs75-plus 4",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/cs75-plus/2024-now.webp"
+      }
+    }
+  ]
+}

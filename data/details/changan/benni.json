@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "benni",
+  "name": "benni",
+  "generations": [
+    {
+      "slug": "benni-0",
+      "name": "benni 1",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/benni/2006-2010.webp"
+      }
+    },
+    {
+      "slug": "benni-1",
+      "name": "benni 2",
+      "year_start": 2014,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/benni/2014-2020.webp"
+      }
+    },
+    {
+      "slug": "benni-2",
+      "name": "benni 3",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/benni/2020-2024.webp"
+      }
+    }
+  ]
+}

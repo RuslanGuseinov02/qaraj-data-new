@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "oshan",
+  "name": "oshan",
+  "generations": [
+    {
+      "slug": "oshan-0",
+      "name": "oshan 1",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/oshan/2015-2020.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "cs1",
+  "name": "cs1",
+  "generations": [
+    {
+      "slug": "cs1-0",
+      "name": "cs1 1",
+      "year_start": 2014,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/cs1/2014-2016.webp"
+      }
+    }
+  ]
+}

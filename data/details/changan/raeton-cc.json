@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "raeton-cc",
+  "name": "raeton-cc",
+  "generations": [
+    {
+      "slug": "raeton-cc-0",
+      "name": "raeton-cc 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/raeton-cc/2017-2020.webp"
+      }
+    },
+    {
+      "slug": "raeton-cc-1",
+      "name": "raeton-cc 2",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/raeton-cc/2020-2025.webp"
+      }
+    }
+  ]
+}

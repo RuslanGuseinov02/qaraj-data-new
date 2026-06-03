@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "eado-et",
+  "name": "eado-et",
+  "generations": [
+    {
+      "slug": "eado-et-0",
+      "name": "eado-et 1",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/eado-et/2019-2021.webp"
+      }
+    }
+  ]
+}

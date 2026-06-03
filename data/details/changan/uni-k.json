@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "uni-k",
+  "name": "uni-k",
+  "generations": [
+    {
+      "slug": "uni-k-0",
+      "name": "uni-k 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/uni-k/2020-now.webp"
+      }
+    }
+  ]
+}

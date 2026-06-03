@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "cx20",
+  "name": "cx20",
+  "generations": [
+    {
+      "slug": "cx20-0",
+      "name": "cx20 1",
+      "year_start": 2010,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/cx20/2010-2016.webp"
+      }
+    }
+  ]
+}

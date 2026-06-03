@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "changan",
+    "name": "CHANGAN"
+  },
+  "slug": "cs15ev",
+  "name": "cs15ev",
+  "generations": [
+    {
+      "slug": "cs15ev-0",
+      "name": "cs15ev 1",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/changan/cs15ev/2018-2020.webp"
+      }
+    }
+  ]
+}
