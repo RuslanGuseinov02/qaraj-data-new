@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "550",
+  "name": "550",
+  "generations": [
+    {
+      "slug": "550-0",
+      "name": "550 1",
+      "year_start": 2008,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/550/2008-2016.webp"
+      }
+    }
+  ]
+}

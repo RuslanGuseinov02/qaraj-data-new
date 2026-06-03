@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "rx5",
+  "name": "rx5",
+  "generations": [
+    {
+      "slug": "rx5-0",
+      "name": "rx5 1",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/rx5/2018-2023.webp"
+      }
+    },
+    {
+      "slug": "rx5-1",
+      "name": "rx5 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/rx5/2023-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "rx8",
+  "name": "rx8",
+  "generations": [
+    {
+      "slug": "rx8-0",
+      "name": "rx8 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/rx8/is21-2019-now.webp"
+      }
+    }
+  ]
+}

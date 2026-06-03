@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "windsor",
+  "name": "windsor",
+  "generations": [
+    {
+      "slug": "windsor-0",
+      "name": "windsor 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/windsor/2024-now.webp"
+      }
+    }
+  ]
+}

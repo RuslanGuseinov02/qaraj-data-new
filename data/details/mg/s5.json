@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "s5",
+  "name": "s5",
+  "generations": [
+    {
+      "slug": "s5-0",
+      "name": "s5 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/s5/es34-2024-now.webp"
+      }
+    }
+  ]
+}

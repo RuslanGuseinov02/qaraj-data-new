@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "maxus-9",
+  "name": "maxus-9",
+  "generations": [
+    {
+      "slug": "maxus-9-0",
+      "name": "maxus-9 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/maxus-9/epx1a-2022-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "astor",
+  "name": "astor",
+  "generations": [
+    {
+      "slug": "astor-0",
+      "name": "astor 1",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/astor/zs11-2021-2025.webp"
+      }
+    }
+  ]
+}

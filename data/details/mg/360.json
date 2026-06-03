@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "360",
+  "name": "360",
+  "generations": [
+    {
+      "slug": "360-0",
+      "name": "360 1",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/360/2017-2022.webp"
+      }
+    }
+  ]
+}

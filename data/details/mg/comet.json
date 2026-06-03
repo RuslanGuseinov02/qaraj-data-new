@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "comet",
+  "name": "comet",
+  "generations": [
+    {
+      "slug": "comet-0",
+      "name": "comet 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/comet/2023-now.webp"
+      }
+    }
+  ]
+}

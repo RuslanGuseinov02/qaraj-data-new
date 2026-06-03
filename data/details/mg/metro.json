@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "metro",
+  "name": "metro",
+  "generations": [
+    {
+      "slug": "metro-0",
+      "name": "metro 1",
+      "year_start": 1982,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/metro/1982-1990.webp"
+      }
+    }
+  ]
+}

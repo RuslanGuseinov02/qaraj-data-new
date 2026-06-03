@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "6",
+  "name": "6",
+  "generations": [
+    {
+      "slug": "6-0",
+      "name": "6 1",
+      "year_start": 2010,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/6/2010-2018.webp"
+      }
+    },
+    {
+      "slug": "6-1",
+      "name": "6 2",
+      "year_start": 2017,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/6/2017-2024.webp"
+      }
+    },
+    {
+      "slug": "6-2",
+      "name": "6 3",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/6/2021-2025.webp"
+      }
+    }
+  ]
+}

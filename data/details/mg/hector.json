@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "hector",
+  "name": "hector",
+  "generations": [
+    {
+      "slug": "hector-0",
+      "name": "hector 1",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/hector/2019-2023.webp"
+      }
+    },
+    {
+      "slug": "hector-1",
+      "name": "hector 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/hector/2023-now.webp"
+      }
+    }
+  ]
+}

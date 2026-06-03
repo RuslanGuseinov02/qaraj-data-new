@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "es",
+  "name": "es",
+  "generations": [
+    {
+      "slug": "es-0",
+      "name": "es 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/es/ep22-2023-now.webp"
+      }
+    }
+  ]
+}

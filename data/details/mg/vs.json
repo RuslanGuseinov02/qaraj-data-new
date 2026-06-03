@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "vs",
+  "name": "vs",
+  "generations": [
+    {
+      "slug": "vs-0",
+      "name": "vs 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/vs/zs12-2022-now.webp"
+      }
+    }
+  ]
+}

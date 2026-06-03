@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "pilot",
+  "name": "pilot",
+  "generations": [
+    {
+      "slug": "pilot-0",
+      "name": "pilot 1",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/pilot/as23-2020-2024.webp"
+      }
+    }
+  ]
+}

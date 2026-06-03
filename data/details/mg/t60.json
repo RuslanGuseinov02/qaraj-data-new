@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "t60",
+  "name": "t60",
+  "generations": [
+    {
+      "slug": "t60-0",
+      "name": "t60 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/t60/2020-now.webp"
+      }
+    }
+  ]
+}

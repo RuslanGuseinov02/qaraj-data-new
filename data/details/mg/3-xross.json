@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "3-xross",
+  "name": "3-xross",
+  "generations": [
+    {
+      "slug": "3-xross-0",
+      "name": "3-xross 1",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/3-xross/2011-2017.webp"
+      }
+    }
+  ]
+}

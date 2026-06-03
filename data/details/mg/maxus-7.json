@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "maxus-7",
+  "name": "maxus-7",
+  "generations": [
+    {
+      "slug": "maxus-7-0",
+      "name": "maxus-7 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/maxus-7/2023-now.webp"
+      }
+    }
+  ]
+}

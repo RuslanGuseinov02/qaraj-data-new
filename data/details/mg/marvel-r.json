@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "marvel-r",
+  "name": "marvel-r",
+  "generations": [
+    {
+      "slug": "marvel-r-0",
+      "name": "marvel-r 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/marvel-r/2021-now.webp"
+      }
+    }
+  ]
+}

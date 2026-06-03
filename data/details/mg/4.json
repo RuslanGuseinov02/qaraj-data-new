@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "4",
+  "name": "4",
+  "generations": [
+    {
+      "slug": "4-0",
+      "name": "4 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/4/2025-now.webp"
+      }
+    },
+    {
+      "slug": "4-1",
+      "name": "4 2",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/4/eh32-2022-2025.webp"
+      }
+    }
+  ]
+}

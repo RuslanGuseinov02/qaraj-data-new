@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "f",
+  "name": "f",
+  "generations": [
+    {
+      "slug": "f-0",
+      "name": "f 1",
+      "year_start": 1995,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/f/1995-2002.webp"
+      }
+    }
+  ]
+}

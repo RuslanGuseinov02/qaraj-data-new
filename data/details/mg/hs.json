@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "hs",
+  "name": "hs",
+  "generations": [
+    {
+      "slug": "hs-0",
+      "name": "hs 1",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/hs/as23-2018-2023.webp"
+      }
+    },
+    {
+      "slug": "hs-1",
+      "name": "hs 2",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/hs/as23-2023-2025.webp"
+      }
+    },
+    {
+      "slug": "hs-2",
+      "name": "hs 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/hs/as33-2024-now.webp"
+      }
+    }
+  ]
+}

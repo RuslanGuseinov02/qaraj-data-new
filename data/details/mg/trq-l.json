@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "trq-l",
+  "name": "trq-l",
+  "generations": [
+    {
+      "slug": "trq-l-0",
+      "name": "trq-l 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/trq-l/2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "ruixing",
+  "name": "ruixing",
+  "generations": [
+    {
+      "slug": "ruixing-0",
+      "name": "ruixing 1",
+      "year_start": 2015,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/ruixing/2015-2016.webp"
+      }
+    }
+  ]
+}

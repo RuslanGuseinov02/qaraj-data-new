@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "3-cross",
+  "name": "3-cross",
+  "generations": [
+    {
+      "slug": "3-cross-0",
+      "name": "3-cross 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/3-cross/2013-2016.webp"
+      }
+    }
+  ]
+}

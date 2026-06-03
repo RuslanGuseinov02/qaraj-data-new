@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "maxus-g50-plus",
+  "name": "maxus-g50-plus",
+  "generations": [
+    {
+      "slug": "maxus-g50-plus-0",
+      "name": "maxus-g50-plus 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/maxus-g50-plus/2023-now.webp"
+      }
+    }
+  ]
+}

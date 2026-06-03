@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "5-ev",
+  "name": "5-ev",
+  "generations": [
+    {
+      "slug": "5-ev-0",
+      "name": "5-ev 1",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/5-ev/ep22-2020-2022.webp"
+      }
+    },
+    {
+      "slug": "5-ev-1",
+      "name": "5-ev 2",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/5-ev/ep22-2022-2025.webp"
+      }
+    }
+  ]
+}

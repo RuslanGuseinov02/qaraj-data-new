@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "gs",
+  "name": "gs",
+  "generations": [
+    {
+      "slug": "gs-0",
+      "name": "gs 1",
+      "year_start": 2015,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/gs/as21-2015-2022.webp"
+      }
+    },
+    {
+      "slug": "gs-1",
+      "name": "gs 2",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/gs/as21-2017-2020.webp"
+      }
+    }
+  ]
+}

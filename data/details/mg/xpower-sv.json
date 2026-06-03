@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "xpower-sv",
+  "name": "xpower-sv",
+  "generations": [
+    {
+      "slug": "xpower-sv-0",
+      "name": "xpower-sv 1",
+      "year_start": 2003,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/xpower-sv/2003-2008.webp"
+      }
+    }
+  ]
+}

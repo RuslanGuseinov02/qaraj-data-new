@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "ehs",
+  "name": "ehs",
+  "generations": [
+    {
+      "slug": "ehs-0",
+      "name": "ehs 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/ehs/as23-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "ehs-1",
+      "name": "ehs 2",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/ehs/as23-2023-2025.webp"
+      }
+    }
+  ]
+}

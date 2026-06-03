@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "ruiteng",
+  "name": "ruiteng",
+  "generations": [
+    {
+      "slug": "ruiteng-0",
+      "name": "ruiteng 1",
+      "year_start": 2016,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/ruiteng/2016-2016.webp"
+      }
+    },
+    {
+      "slug": "ruiteng-1",
+      "name": "ruiteng 2",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/ruiteng/2017-2021.webp"
+      }
+    }
+  ]
+}

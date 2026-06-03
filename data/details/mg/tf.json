@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "tf",
+  "name": "tf",
+  "generations": [
+    {
+      "slug": "tf-0",
+      "name": "tf 1",
+      "year_start": 2002,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/tf/2002-2011.webp"
+      }
+    }
+  ]
+}

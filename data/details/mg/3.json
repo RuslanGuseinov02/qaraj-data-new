@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "3",
+  "name": "3",
+  "generations": [
+    {
+      "slug": "3-0",
+      "name": "3 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/3/2008-2012.webp"
+      }
+    },
+    {
+      "slug": "3-1",
+      "name": "3 2",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/3/zp11-2011-2013.webp"
+      }
+    },
+    {
+      "slug": "3-2",
+      "name": "3 3",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/3/zp11-2013-2018.webp"
+      }
+    },
+    {
+      "slug": "3-3",
+      "name": "3 4",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/3/zp11-2018-2024.webp"
+      }
+    },
+    {
+      "slug": "3-4",
+      "name": "3 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/3/zp22-2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "mulan",
+  "name": "mulan",
+  "generations": [
+    {
+      "slug": "mulan-0",
+      "name": "mulan 1",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/mulan/eh32-2022-2025.webp"
+      }
+    }
+  ]
+}

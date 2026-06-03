@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "extender",
+  "name": "extender",
+  "generations": [
+    {
+      "slug": "extender-0",
+      "name": "extender 1",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/extender/2019-2021.webp"
+      }
+    },
+    {
+      "slug": "extender-1",
+      "name": "extender 2",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/extender/2021-2025.webp"
+      }
+    }
+  ]
+}

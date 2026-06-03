@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "maestro",
+  "name": "maestro",
+  "generations": [
+    {
+      "slug": "maestro-0",
+      "name": "maestro 1",
+      "year_start": 1983,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/maestro/1983-1990.webp"
+      }
+    }
+  ]
+}

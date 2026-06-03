@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mg",
+    "name": "MG"
+  },
+  "slug": "im5",
+  "name": "im5",
+  "generations": [
+    {
+      "slug": "im5-0",
+      "name": "im5 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mg/im5/2025-now.webp"
+      }
+    }
+  ]
+}
