@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "lexus",
+    "name": "LEXUS"
+  },
+  "slug": "sc",
+  "name": "sc",
+  "generations": [
+    {
+      "slug": "sc-0",
+      "name": "sc 1",
+      "year_start": 1991,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/sc/z30-1991-2000.webp"
+      }
+    },
+    {
+      "slug": "sc-1",
+      "name": "sc 2",
+      "year_start": 2001,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/sc/z40-2001-2010.webp"
+      }
+    }
+  ]
+}

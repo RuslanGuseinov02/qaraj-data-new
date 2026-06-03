@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "lexus",
+    "name": "LEXUS"
+  },
+  "slug": "gs",
+  "name": "gs",
+  "generations": [
+    {
+      "slug": "gs-0",
+      "name": "gs 1",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/gs/l10-2012-2015.webp"
+      }
+    },
+    {
+      "slug": "gs-1",
+      "name": "gs 2",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/gs/l10-2015-2020.webp"
+      }
+    },
+    {
+      "slug": "gs-2",
+      "name": "gs 3",
+      "year_start": 1993,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/gs/s140-1993-1997.webp"
+      }
+    },
+    {
+      "slug": "gs-3",
+      "name": "gs 4",
+      "year_start": 1998,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/gs/s160-1998-2005.webp"
+      }
+    },
+    {
+      "slug": "gs-4",
+      "name": "gs 5",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/gs/s190-2005-2007.webp"
+      }
+    },
+    {
+      "slug": "gs-5",
+      "name": "gs 6",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/gs/s190-2007-2012.webp"
+      }
+    }
+  ]
+}

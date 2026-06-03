@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "lexus",
+    "name": "LEXUS"
+  },
+  "slug": "ct",
+  "name": "ct",
+  "generations": [
+    {
+      "slug": "ct-0",
+      "name": "ct 1",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/ct/a10-2011-2013.webp"
+      }
+    },
+    {
+      "slug": "ct-1",
+      "name": "ct 2",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/ct/a10-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "ct-2",
+      "name": "ct 3",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/ct/a10-2017-2022.webp"
+      }
+    }
+  ]
+}

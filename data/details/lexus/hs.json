@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "lexus",
+    "name": "LEXUS"
+  },
+  "slug": "hs",
+  "name": "hs",
+  "generations": [
+    {
+      "slug": "hs-0",
+      "name": "hs 1",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/hs/anf10-2009-2012.webp"
+      }
+    },
+    {
+      "slug": "hs-1",
+      "name": "hs 2",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/hs/anf10-2013-2018.webp"
+      }
+    }
+  ]
+}

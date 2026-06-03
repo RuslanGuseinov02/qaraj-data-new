@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "lexus",
+    "name": "LEXUS"
+  },
+  "slug": "is",
+  "name": "is",
+  "generations": [
+    {
+      "slug": "is-0",
+      "name": "is 1",
+      "year_start": 1999,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/is/xe10-1999-2005.webp"
+      }
+    },
+    {
+      "slug": "is-1",
+      "name": "is 2",
+      "year_start": 2005,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/is/xe20-2005-2013.webp"
+      }
+    },
+    {
+      "slug": "is-2",
+      "name": "is 3",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/is/xe30-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "is-3",
+      "name": "is 4",
+      "year_start": 2016,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/is/xe30-2016-2022.webp"
+      }
+    },
+    {
+      "slug": "is-4",
+      "name": "is 5",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/is/xe30-2020-now.webp"
+      }
+    }
+  ]
+}

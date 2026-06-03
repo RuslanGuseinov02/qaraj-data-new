@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "lexus",
+    "name": "LEXUS"
+  },
+  "slug": "lm",
+  "name": "lm",
+  "generations": [
+    {
+      "slug": "lm-0",
+      "name": "lm 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/lm/aw10-2023-now.webp"
+      }
+    },
+    {
+      "slug": "lm-1",
+      "name": "lm 2",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/lm/h30-2019-2023.webp"
+      }
+    }
+  ]
+}

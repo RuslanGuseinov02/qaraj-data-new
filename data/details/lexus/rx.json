@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "lexus",
+    "name": "LEXUS"
+  },
+  "slug": "rx",
+  "name": "rx",
+  "generations": [
+    {
+      "slug": "rx-0",
+      "name": "rx 1",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/rx/al10-2009-2012.webp"
+      }
+    },
+    {
+      "slug": "rx-1",
+      "name": "rx 2",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/rx/al10-2012-2015.webp"
+      }
+    },
+    {
+      "slug": "rx-2",
+      "name": "rx 3",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/rx/al20-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "rx-3",
+      "name": "rx 4",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/rx/al20-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "rx-4",
+      "name": "rx 5",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/rx/al30-2022-now.webp"
+      }
+    },
+    {
+      "slug": "rx-5",
+      "name": "rx 6",
+      "year_start": 1997,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/rx/xu10-1997-2003.webp"
+      }
+    },
+    {
+      "slug": "rx-6",
+      "name": "rx 7",
+      "year_start": 2003,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/rx/xu30-2003-2009.webp"
+      }
+    }
+  ]
+}

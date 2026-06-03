@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lexus",
+    "name": "LEXUS"
+  },
+  "slug": "lfa",
+  "name": "lfa",
+  "generations": [
+    {
+      "slug": "lfa-0",
+      "name": "lfa 1",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/lfa/a10-2010-2012.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "make": {
+    "slug": "lexus",
+    "name": "LEXUS"
+  },
+  "slug": "es",
+  "name": "es",
+  "generations": [
+    {
+      "slug": "es-0",
+      "name": "es 1",
+      "year_start": 1989,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/es/v20-1989-1991.webp"
+      }
+    },
+    {
+      "slug": "es-1",
+      "name": "es 2",
+      "year_start": 1992,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/es/xv10-1992-1996.webp"
+      }
+    },
+    {
+      "slug": "es-2",
+      "name": "es 3",
+      "year_start": 1997,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/es/xv20-1997-2001.webp"
+      }
+    },
+    {
+      "slug": "es-3",
+      "name": "es 4",
+      "year_start": 2001,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/es/xv30-2001-2006.webp"
+      }
+    },
+    {
+      "slug": "es-4",
+      "name": "es 5",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/es/xv40-2007-2009.webp"
+      }
+    },
+    {
+      "slug": "es-5",
+      "name": "es 6",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/es/xv40-2009-2012.webp"
+      }
+    },
+    {
+      "slug": "es-6",
+      "name": "es 7",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/es/xv60-2012-2015.webp"
+      }
+    },
+    {
+      "slug": "es-7",
+      "name": "es 8",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/es/xv60-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "es-8",
+      "name": "es 9",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/es/xv70-xz10-2018-2021.webp"
+      }
+    },
+    {
+      "slug": "es-9",
+      "name": "es 10",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/es/xv70-xz10-2021-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "lexus",
+    "name": "LEXUS"
+  },
+  "slug": "ls",
+  "name": "ls",
+  "generations": [
+    {
+      "slug": "ls-0",
+      "name": "ls 1",
+      "year_start": 1989,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/ls/xf10-1989-1994.webp"
+      }
+    },
+    {
+      "slug": "ls-1",
+      "name": "ls 2",
+      "year_start": 1994,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/ls/xf20-1994-2000.webp"
+      }
+    },
+    {
+      "slug": "ls-2",
+      "name": "ls 3",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/ls/xf30-2000-2006.webp"
+      }
+    },
+    {
+      "slug": "ls-3",
+      "name": "ls 4",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/ls/xf40-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "ls-4",
+      "name": "ls 5",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/ls/xf40-2009-2012.webp"
+      }
+    },
+    {
+      "slug": "ls-5",
+      "name": "ls 6",
+      "year_start": 2012,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/ls/xf40-2012-2017.webp"
+      }
+    },
+    {
+      "slug": "ls-6",
+      "name": "ls 7",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/ls/xf50-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "ls-7",
+      "name": "ls 8",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/ls/xf50-2020-now.webp"
+      }
+    }
+  ]
+}

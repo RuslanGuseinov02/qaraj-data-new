@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "lexus",
+    "name": "LEXUS"
+  },
+  "slug": "rc-f",
+  "name": "rc-f",
+  "generations": [
+    {
+      "slug": "rc-f-0",
+      "name": "rc-f 1",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/rc-f/c10-2014-2019.webp"
+      }
+    },
+    {
+      "slug": "rc-f-1",
+      "name": "rc-f 2",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/rc-f/c10-2019-now.webp"
+      }
+    }
+  ]
+}

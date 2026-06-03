@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lexus",
+    "name": "LEXUS"
+  },
+  "slug": "lbx",
+  "name": "lbx",
+  "generations": [
+    {
+      "slug": "lbx-0",
+      "name": "lbx 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/lbx/ay10-2023-now.webp"
+      }
+    }
+  ]
+}

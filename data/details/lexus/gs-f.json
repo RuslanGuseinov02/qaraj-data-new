@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lexus",
+    "name": "LEXUS"
+  },
+  "slug": "gs-f",
+  "name": "gs-f",
+  "generations": [
+    {
+      "slug": "gs-f-0",
+      "name": "gs-f 1",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/gs-f/l10-2015-2020.webp"
+      }
+    }
+  ]
+}

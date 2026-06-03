@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lexus",
+    "name": "LEXUS"
+  },
+  "slug": "lc",
+  "name": "lc",
+  "generations": [
+    {
+      "slug": "lc-0",
+      "name": "lc 1",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lexus/lc/z100-2017-now.webp"
+      }
+    }
+  ]
+}
