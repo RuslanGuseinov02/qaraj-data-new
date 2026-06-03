@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "az-1",
+  "name": "az-1",
+  "generations": [
+    {
+      "slug": "az-1-0",
+      "name": "az-1 1",
+      "year_start": 1992,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/az-1/pg6-1992-1995.webp"
+      }
+    }
+  ]
+}

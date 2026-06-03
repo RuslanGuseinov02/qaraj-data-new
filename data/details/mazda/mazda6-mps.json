@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "mazda6-mps",
+  "name": "mazda6-mps",
+  "generations": [
+    {
+      "slug": "mazda6-mps-0",
+      "name": "mazda6-mps 1",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda6-mps/gg-2005-2008.webp"
+      }
+    }
+  ]
+}

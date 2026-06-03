@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "mazdaspeed-3",
+  "name": "mazdaspeed-3",
+  "generations": [
+    {
+      "slug": "mazdaspeed-3-0",
+      "name": "mazdaspeed-3 1",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazdaspeed-3/bk-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "mazdaspeed-3-1",
+      "name": "mazdaspeed-3 2",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazdaspeed-3/bl-2009-2013.webp"
+      }
+    }
+  ]
+}

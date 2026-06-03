@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "flair-wagon-tough-style",
+  "name": "flair-wagon-tough-style",
+  "generations": [
+    {
+      "slug": "flair-wagon-tough-style-0",
+      "name": "flair-wagon-tough-style 1",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/flair-wagon-tough-style/mm5-2018-2021.webp"
+      }
+    },
+    {
+      "slug": "flair-wagon-tough-style-1",
+      "name": "flair-wagon-tough-style 2",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/flair-wagon-tough-style/mm5-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "flair-wagon-tough-style-2",
+      "name": "flair-wagon-tough-style 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/flair-wagon-tough-style/mm5-mm9-2024-now.webp"
+      }
+    }
+  ]
+}

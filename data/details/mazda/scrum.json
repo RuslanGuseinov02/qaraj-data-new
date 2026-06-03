@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "scrum",
+  "name": "scrum",
+  "generations": [
+    {
+      "slug": "scrum-0",
+      "name": "scrum 1",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/scrum/dg17-2015-now.webp"
+      }
+    },
+    {
+      "slug": "scrum-1",
+      "name": "scrum 2",
+      "year_start": 1999,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/scrum/dg62-1999-2005.webp"
+      }
+    },
+    {
+      "slug": "scrum-2",
+      "name": "scrum 3",
+      "year_start": 2005,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/scrum/dg64-2005-2015.webp"
+      }
+    },
+    {
+      "slug": "scrum-3",
+      "name": "scrum 4",
+      "year_start": 1989,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/scrum/dh-dg-1989-1991.webp"
+      }
+    },
+    {
+      "slug": "scrum-4",
+      "name": "scrum 5",
+      "year_start": 1991,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/scrum/dm-dl-1991-1999.webp"
+      }
+    }
+  ]
+}

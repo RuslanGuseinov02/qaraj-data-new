@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "626",
+  "name": "626",
+  "generations": [
+    {
+      "slug": "626-0",
+      "name": "626 1",
+      "year_start": 1979,
+      "year_end": 1982,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/626/cb-1979-1982.webp"
+      }
+    },
+    {
+      "slug": "626-1",
+      "name": "626 2",
+      "year_start": 1983,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/626/gc-1983-1987.webp"
+      }
+    },
+    {
+      "slug": "626-2",
+      "name": "626 3",
+      "year_start": 1987,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/626/gd-gv-1987-1992.webp"
+      }
+    },
+    {
+      "slug": "626-3",
+      "name": "626 4",
+      "year_start": 1992,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/626/ge-1992-1997.webp"
+      }
+    },
+    {
+      "slug": "626-4",
+      "name": "626 5",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/626/gf-1998-2002.webp"
+      }
+    },
+    {
+      "slug": "626-5",
+      "name": "626 6",
+      "year_start": 1997,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/626/gf-gw-1997-2002.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "eunos-500",
+  "name": "eunos-500",
+  "generations": [
+    {
+      "slug": "eunos-500-0",
+      "name": "eunos-500 1",
+      "year_start": 1991,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/eunos-500/ca-1991-1996.webp"
+      }
+    }
+  ]
+}

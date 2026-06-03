@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "flair-wagon-custom-style",
+  "name": "flair-wagon-custom-style",
+  "generations": [
+    {
+      "slug": "flair-wagon-custom-style-0",
+      "name": "flair-wagon-custom-style 1",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/flair-wagon-custom-style/mm3-2013-2015.webp"
+      }
+    },
+    {
+      "slug": "flair-wagon-custom-style-1",
+      "name": "flair-wagon-custom-style 2",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/flair-wagon-custom-style/mm4-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "flair-wagon-custom-style-2",
+      "name": "flair-wagon-custom-style 3",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/flair-wagon-custom-style/mm5-2018-2021.webp"
+      }
+    },
+    {
+      "slug": "flair-wagon-custom-style-3",
+      "name": "flair-wagon-custom-style 4",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/flair-wagon-custom-style/mm5-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "flair-wagon-custom-style-4",
+      "name": "flair-wagon-custom-style 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/flair-wagon-custom-style/mm5-mm9-2024-now.webp"
+      }
+    }
+  ]
+}

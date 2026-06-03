@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "proceed-levante",
+  "name": "proceed-levante",
+  "generations": [
+    {
+      "slug": "proceed-levante-0",
+      "name": "proceed-levante 1",
+      "year_start": 1995,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/proceed-levante/tj-tf-1995-1997.webp"
+      }
+    },
+    {
+      "slug": "proceed-levante-1",
+      "name": "proceed-levante 2",
+      "year_start": 1997,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/proceed-levante/tj-tf-1997-2000.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "scrum-wagon",
+  "name": "scrum-wagon",
+  "generations": [
+    {
+      "slug": "scrum-wagon-0",
+      "name": "scrum-wagon 1",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/scrum-wagon/dg17-2015-now.webp"
+      }
+    },
+    {
+      "slug": "scrum-wagon-1",
+      "name": "scrum-wagon 2",
+      "year_start": 1999,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/scrum-wagon/dg52-1999-2001.webp"
+      }
+    },
+    {
+      "slug": "scrum-wagon-2",
+      "name": "scrum-wagon 3",
+      "year_start": 2001,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/scrum-wagon/dg62-2001-2005.webp"
+      }
+    },
+    {
+      "slug": "scrum-wagon-3",
+      "name": "scrum-wagon 4",
+      "year_start": 2005,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/scrum-wagon/dg64-2005-2015.webp"
+      }
+    }
+  ]
+}

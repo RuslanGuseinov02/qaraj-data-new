@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "savanna-rx-7",
+  "name": "savanna-rx-7",
+  "generations": [
+    {
+      "slug": "savanna-rx-7-0",
+      "name": "savanna-rx-7 1",
+      "year_start": 1985,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/savanna-rx-7/fc-1985-1991.webp"
+      }
+    },
+    {
+      "slug": "savanna-rx-7-1",
+      "name": "savanna-rx-7 2",
+      "year_start": 1991,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/savanna-rx-7/fd-1991-1997.webp"
+      }
+    }
+  ]
+}

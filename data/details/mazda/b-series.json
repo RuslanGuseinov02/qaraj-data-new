@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "b-series",
+  "name": "b-series",
+  "generations": [
+    {
+      "slug": "b-series-0",
+      "name": "b-series 1",
+      "year_start": 1993,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/b-series/1993-1997.webp"
+      }
+    },
+    {
+      "slug": "b-series-1",
+      "name": "b-series 2",
+      "year_start": 1998,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/b-series/1998-2010.webp"
+      }
+    },
+    {
+      "slug": "b-series-2",
+      "name": "b-series 3",
+      "year_start": 1986,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/b-series/uf-1986-1998.webp"
+      }
+    },
+    {
+      "slug": "b-series-3",
+      "name": "b-series 4",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/b-series/un-1998-2002.webp"
+      }
+    },
+    {
+      "slug": "b-series-4",
+      "name": "b-series 5",
+      "year_start": 2002,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/b-series/un-2002-2006.webp"
+      }
+    }
+  ]
+}

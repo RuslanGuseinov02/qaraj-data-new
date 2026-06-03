@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "mx-5-miata-rf",
+  "name": "mx-5-miata-rf",
+  "generations": [
+    {
+      "slug": "mx-5-miata-rf-0",
+      "name": "mx-5-miata-rf 1",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mx-5-miata-rf/nd-2017-now.webp"
+      }
+    }
+  ]
+}

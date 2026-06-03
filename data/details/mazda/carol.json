@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "carol",
+  "name": "carol",
+  "generations": [
+    {
+      "slug": "carol-0",
+      "name": "carol 1",
+      "year_start": 1989,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/carol/aa-1989-1995.webp"
+      }
+    },
+    {
+      "slug": "carol-1",
+      "name": "carol 2",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/carol/ac-1995-1998.webp"
+      }
+    },
+    {
+      "slug": "carol-2",
+      "name": "carol 3",
+      "year_start": 1998,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/carol/hb12-22-1998-2001.webp"
+      }
+    },
+    {
+      "slug": "carol-3",
+      "name": "carol 4",
+      "year_start": 2001,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/carol/hb23-2001-2004.webp"
+      }
+    },
+    {
+      "slug": "carol-4",
+      "name": "carol 5",
+      "year_start": 2004,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/carol/hb24-2004-2009.webp"
+      }
+    },
+    {
+      "slug": "carol-5",
+      "name": "carol 6",
+      "year_start": 2009,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/carol/hb25-2009-2015.webp"
+      }
+    },
+    {
+      "slug": "carol-6",
+      "name": "carol 7",
+      "year_start": 2015,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/carol/hb36-2015-2021.webp"
+      }
+    },
+    {
+      "slug": "carol-7",
+      "name": "carol 8",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/carol/hb37-hb97-2021-now.webp"
+      }
+    }
+  ]
+}

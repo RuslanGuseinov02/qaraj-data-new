@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "cx-4",
+  "name": "cx-4",
+  "generations": [
+    {
+      "slug": "cx-4-0",
+      "name": "cx-4 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/cx-4/2016-2020.webp"
+      }
+    },
+    {
+      "slug": "cx-4-1",
+      "name": "cx-4 2",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/cx-4/2020-2024.webp"
+      }
+    }
+  ]
+}

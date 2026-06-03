@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "mazda2",
+  "name": "mazda2",
+  "generations": [
+    {
+      "slug": "mazda2-0",
+      "name": "mazda2 1",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda2/de-dh-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "mazda2-1",
+      "name": "mazda2 2",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda2/de-dh-2010-2015.webp"
+      }
+    },
+    {
+      "slug": "mazda2-2",
+      "name": "mazda2 3",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda2/dj-dl-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "mazda2-3",
+      "name": "mazda2 4",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda2/dj-dl-2019-2023.webp"
+      }
+    },
+    {
+      "slug": "mazda2-4",
+      "name": "mazda2 5",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda2/dj-dl-2023-now.webp"
+      }
+    },
+    {
+      "slug": "mazda2-5",
+      "name": "mazda2 6",
+      "year_start": 2002,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda2/dy-2002-2007.webp"
+      }
+    }
+  ]
+}

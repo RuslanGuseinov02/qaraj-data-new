@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "mazdaspeed-6",
+  "name": "mazdaspeed-6",
+  "generations": [
+    {
+      "slug": "mazdaspeed-6-0",
+      "name": "mazdaspeed-6 1",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazdaspeed-6/gg-2005-2007.webp"
+      }
+    }
+  ]
+}

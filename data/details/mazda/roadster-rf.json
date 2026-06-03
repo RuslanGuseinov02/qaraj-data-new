@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "roadster-rf",
+  "name": "roadster-rf",
+  "generations": [
+    {
+      "slug": "roadster-rf-0",
+      "name": "roadster-rf 1",
+      "year_start": 2016,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/roadster-rf/nd-2016-now.webp"
+      }
+    }
+  ]
+}

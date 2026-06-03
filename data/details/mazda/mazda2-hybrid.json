@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "mazda2-hybrid",
+  "name": "mazda2-hybrid",
+  "generations": [
+    {
+      "slug": "mazda2-hybrid-0",
+      "name": "mazda2-hybrid 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda2-hybrid/xp210-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "mazda2-hybrid-1",
+      "name": "mazda2-hybrid 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda2-hybrid/xp210-2024-now.webp"
+      }
+    }
+  ]
+}

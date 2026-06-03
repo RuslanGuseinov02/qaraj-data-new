@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "flair-crossover",
+  "name": "flair-crossover",
+  "generations": [
+    {
+      "slug": "flair-crossover-0",
+      "name": "flair-crossover 1",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/flair-crossover/ms3-ms4-2014-2019.webp"
+      }
+    },
+    {
+      "slug": "flair-crossover-1",
+      "name": "flair-crossover 2",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/flair-crossover/ms5-ms9-2019-now.webp"
+      }
+    }
+  ]
+}

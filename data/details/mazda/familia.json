@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "familia",
+  "name": "familia",
+  "generations": [
+    {
+      "slug": "familia-0",
+      "name": "familia 1",
+      "year_start": 1994,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/familia/bh-1994-1998.webp"
+      }
+    },
+    {
+      "slug": "familia-1",
+      "name": "familia 2",
+      "year_start": 1998,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/familia/bj-1998-2004.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "verisa",
+  "name": "verisa",
+  "generations": [
+    {
+      "slug": "verisa-0",
+      "name": "verisa 1",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/verisa/dc-2004-2006.webp"
+      }
+    },
+    {
+      "slug": "verisa-1",
+      "name": "verisa 2",
+      "year_start": 2006,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/verisa/dc-2006-2015.webp"
+      }
+    }
+  ]
+}

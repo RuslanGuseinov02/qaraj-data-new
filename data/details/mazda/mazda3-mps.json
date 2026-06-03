@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "mazda3-mps",
+  "name": "mazda3-mps",
+  "generations": [
+    {
+      "slug": "mazda3-mps-0",
+      "name": "mazda3-mps 1",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda3-mps/bk-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "mazda3-mps-1",
+      "name": "mazda3-mps 2",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda3-mps/bl-2009-2013.webp"
+      }
+    }
+  ]
+}

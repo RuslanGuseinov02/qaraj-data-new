@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "bongo-van",
+  "name": "bongo-van",
+  "generations": [
+    {
+      "slug": "bongo-van-0",
+      "name": "bongo-van 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/bongo-van/s400-2020-now.webp"
+      }
+    },
+    {
+      "slug": "bongo-van-1",
+      "name": "bongo-van 2",
+      "year_start": 1999,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/bongo-van/sk-1999-2016.webp"
+      }
+    },
+    {
+      "slug": "bongo-van-2",
+      "name": "bongo-van 3",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/bongo-van/sl-2016-2020.webp"
+      }
+    }
+  ]
+}

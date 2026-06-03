@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "axela",
+  "name": "axela",
+  "generations": [
+    {
+      "slug": "axela-0",
+      "name": "axela 1",
+      "year_start": 2003,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/axela/bk-2003-2009.webp"
+      }
+    },
+    {
+      "slug": "axela-1",
+      "name": "axela 2",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/axela/bl-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "axela-2",
+      "name": "axela 3",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/axela/bm-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "axela-3",
+      "name": "axela 4",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/axela/bm-2016-2019.webp"
+      }
+    }
+  ]
+}

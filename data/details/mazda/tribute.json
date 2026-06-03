@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "tribute",
+  "name": "tribute",
+  "generations": [
+    {
+      "slug": "tribute-0",
+      "name": "tribute 1",
+      "year_start": 2000,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/tribute/cd1-2000-2007.webp"
+      }
+    },
+    {
+      "slug": "tribute-1",
+      "name": "tribute 2",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/tribute/cd2-2008-2011.webp"
+      }
+    }
+  ]
+}

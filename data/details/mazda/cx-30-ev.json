@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "cx-30-ev",
+  "name": "cx-30-ev",
+  "generations": [
+    {
+      "slug": "cx-30-ev-0",
+      "name": "cx-30-ev 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/cx-30-ev/2021-2024.webp"
+      }
+    }
+  ]
+}

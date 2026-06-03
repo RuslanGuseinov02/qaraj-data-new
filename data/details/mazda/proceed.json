@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "proceed",
+  "name": "proceed",
+  "generations": [
+    {
+      "slug": "proceed-0",
+      "name": "proceed 1",
+      "year_start": 1990,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/proceed/uf-1990-1996.webp"
+      }
+    },
+    {
+      "slug": "proceed-1",
+      "name": "proceed 2",
+      "year_start": 1996,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/proceed/uf-1996-1999.webp"
+      }
+    }
+  ]
+}

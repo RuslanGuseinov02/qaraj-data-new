@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "bongo",
+  "name": "bongo",
+  "generations": [
+    {
+      "slug": "bongo-0",
+      "name": "bongo 1",
+      "year_start": 1989,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/bongo/ss-1989-1999.webp"
+      }
+    }
+  ]
+}

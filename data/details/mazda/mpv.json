@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "mpv",
+  "name": "mpv",
+  "generations": [
+    {
+      "slug": "mpv-0",
+      "name": "mpv 1",
+      "year_start": 1988,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mpv/lv-1988-1999.webp"
+      }
+    },
+    {
+      "slug": "mpv-1",
+      "name": "mpv 2",
+      "year_start": 1999,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mpv/lw-1999-2006.webp"
+      }
+    },
+    {
+      "slug": "mpv-2",
+      "name": "mpv 3",
+      "year_start": 2006,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mpv/ly-2006-2016.webp"
+      }
+    }
+  ]
+}

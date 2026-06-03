@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "929",
+  "name": "929",
+  "generations": [
+    {
+      "slug": "929-0",
+      "name": "929 1",
+      "year_start": 1981,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/929/hb-1981-1987.webp"
+      }
+    },
+    {
+      "slug": "929-1",
+      "name": "929 2",
+      "year_start": 1986,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/929/hc-1986-1991.webp"
+      }
+    },
+    {
+      "slug": "929-2",
+      "name": "929 3",
+      "year_start": 1991,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/929/hd-1991-1995.webp"
+      }
+    },
+    {
+      "slug": "929-3",
+      "name": "929 4",
+      "year_start": 1978,
+      "year_end": 1981,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/929/la4-1978-1981.webp"
+      }
+    }
+  ]
+}

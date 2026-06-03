@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "revue",
+  "name": "revue",
+  "generations": [
+    {
+      "slug": "revue-0",
+      "name": "revue 1",
+      "year_start": 1990,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/revue/db-1990-1997.webp"
+      }
+    }
+  ]
+}

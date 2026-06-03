@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "mazda5",
+  "name": "mazda5",
+  "generations": [
+    {
+      "slug": "mazda5-0",
+      "name": "mazda5 1",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda5/cr-2005-2008.webp"
+      }
+    },
+    {
+      "slug": "mazda5-1",
+      "name": "mazda5 2",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda5/cr-2008-2010.webp"
+      }
+    },
+    {
+      "slug": "mazda5-2",
+      "name": "mazda5 3",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda5/cw-2010-2015.webp"
+      }
+    }
+  ]
+}

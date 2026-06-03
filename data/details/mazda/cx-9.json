@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "cx-9",
+  "name": "cx-9",
+  "generations": [
+    {
+      "slug": "cx-9-0",
+      "name": "cx-9 1",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/cx-9/tb-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "cx-9-1",
+      "name": "cx-9 2",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/cx-9/tb-2010-2012.webp"
+      }
+    },
+    {
+      "slug": "cx-9-2",
+      "name": "cx-9 3",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/cx-9/tb-2012-2015.webp"
+      }
+    },
+    {
+      "slug": "cx-9-3",
+      "name": "cx-9 4",
+      "year_start": 2016,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/cx-9/tc-2016-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "efini-mpv",
+  "name": "efini-mpv",
+  "generations": [
+    {
+      "slug": "efini-mpv-0",
+      "name": "efini-mpv 1",
+      "year_start": 1990,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/efini-mpv/lv-1990-1999.webp"
+      }
+    }
+  ]
+}

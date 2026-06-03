@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "rx-8",
+  "name": "rx-8",
+  "generations": [
+    {
+      "slug": "rx-8-0",
+      "name": "rx-8 1",
+      "year_start": 2003,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/rx-8/se-2003-2009.webp"
+      }
+    },
+    {
+      "slug": "rx-8-1",
+      "name": "rx-8 2",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/rx-8/se-2008-2012.webp"
+      }
+    }
+  ]
+}

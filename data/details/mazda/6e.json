@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "6e",
+  "name": "6e",
+  "generations": [
+    {
+      "slug": "6e-0",
+      "name": "6e 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/6e/j90a-2024-now.webp"
+      }
+    }
+  ]
+}

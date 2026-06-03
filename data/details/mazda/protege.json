@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "protege",
+  "name": "protege",
+  "generations": [
+    {
+      "slug": "protege-0",
+      "name": "protege 1",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/protege/ba-1995-1998.webp"
+      }
+    },
+    {
+      "slug": "protege-1",
+      "name": "protege 2",
+      "year_start": 1989,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/protege/bg-1989-1994.webp"
+      }
+    },
+    {
+      "slug": "protege-2",
+      "name": "protege 3",
+      "year_start": 1999,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/protege/bj-1999-2001.webp"
+      }
+    },
+    {
+      "slug": "protege-3",
+      "name": "protege 4",
+      "year_start": 2001,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/protege/bj-2001-2003.webp"
+      }
+    }
+  ]
+}

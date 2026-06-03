@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "roadster",
+  "name": "roadster",
+  "generations": [
+    {
+      "slug": "roadster-0",
+      "name": "roadster 1",
+      "year_start": 1989,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/roadster/na-1989-1998.webp"
+      }
+    },
+    {
+      "slug": "roadster-1",
+      "name": "roadster 2",
+      "year_start": 1998,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/roadster/nb-1998-2005.webp"
+      }
+    },
+    {
+      "slug": "roadster-2",
+      "name": "roadster 3",
+      "year_start": 2005,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/roadster/nc-2005-2015.webp"
+      }
+    },
+    {
+      "slug": "roadster-3",
+      "name": "roadster 4",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/roadster/nd-2015-now.webp"
+      }
+    }
+  ]
+}

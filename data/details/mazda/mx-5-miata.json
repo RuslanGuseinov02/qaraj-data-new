@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "mx-5-miata",
+  "name": "mx-5-miata",
+  "generations": [
+    {
+      "slug": "mx-5-miata-0",
+      "name": "mx-5-miata 1",
+      "year_start": 1990,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mx-5-miata/na-1990-1998.webp"
+      }
+    },
+    {
+      "slug": "mx-5-miata-1",
+      "name": "mx-5-miata 2",
+      "year_start": 1999,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mx-5-miata/nb-1999-2005.webp"
+      }
+    },
+    {
+      "slug": "mx-5-miata-2",
+      "name": "mx-5-miata 3",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mx-5-miata/nc-2006-2008.webp"
+      }
+    },
+    {
+      "slug": "mx-5-miata-3",
+      "name": "mx-5-miata 4",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mx-5-miata/nc-2009-2012.webp"
+      }
+    },
+    {
+      "slug": "mx-5-miata-4",
+      "name": "mx-5-miata 5",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mx-5-miata/nc-2013-2015.webp"
+      }
+    },
+    {
+      "slug": "mx-5-miata-5",
+      "name": "mx-5-miata 6",
+      "year_start": 2016,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mx-5-miata/nd-2016-now.webp"
+      }
+    }
+  ]
+}

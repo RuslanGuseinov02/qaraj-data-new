@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "flair",
+  "name": "flair",
+  "generations": [
+    {
+      "slug": "flair-0",
+      "name": "flair 1",
+      "year_start": 2012,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/flair/mj3-2012-2014.webp"
+      }
+    },
+    {
+      "slug": "flair-1",
+      "name": "flair 2",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/flair/mj3-mj4-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "flair-2",
+      "name": "flair 3",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/flair/mj5-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "flair-3",
+      "name": "flair 4",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/flair/mj5-mj9-2022-now.webp"
+      }
+    },
+    {
+      "slug": "flair-4",
+      "name": "flair 5",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/flair/mj9-2020-2022.webp"
+      }
+    }
+  ]
+}

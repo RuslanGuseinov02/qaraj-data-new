@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "cx-7",
+  "name": "cx-7",
+  "generations": [
+    {
+      "slug": "cx-7-0",
+      "name": "cx-7 1",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/cx-7/er-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "cx-7-1",
+      "name": "cx-7 2",
+      "year_start": 2009,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/cx-7/er-2009-2016.webp"
+      }
+    }
+  ]
+}

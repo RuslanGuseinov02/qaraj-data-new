@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "323",
+  "name": "323",
+  "generations": [
+    {
+      "slug": "323-0",
+      "name": "323 1",
+      "year_start": 1994,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/323/ba-1994-2000.webp"
+      }
+    },
+    {
+      "slug": "323-1",
+      "name": "323 2",
+      "year_start": 1980,
+      "year_end": 1985,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/323/bd-1980-1985.webp"
+      }
+    },
+    {
+      "slug": "323-2",
+      "name": "323 3",
+      "year_start": 1985,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/323/bf-1985-1989.webp"
+      }
+    },
+    {
+      "slug": "323-3",
+      "name": "323 4",
+      "year_start": 1989,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/323/bg-1989-1994.webp"
+      }
+    },
+    {
+      "slug": "323-4",
+      "name": "323 5",
+      "year_start": 1998,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/323/bj-1998-2004.webp"
+      }
+    },
+    {
+      "slug": "323-5",
+      "name": "323 6",
+      "year_start": 1977,
+      "year_end": 1980,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/323/fa4-1977-1980.webp"
+      }
+    }
+  ]
+}

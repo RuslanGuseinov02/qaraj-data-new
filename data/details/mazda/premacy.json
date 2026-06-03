@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "premacy",
+  "name": "premacy",
+  "generations": [
+    {
+      "slug": "premacy-0",
+      "name": "premacy 1",
+      "year_start": 1999,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/premacy/cp-1999-2005.webp"
+      }
+    },
+    {
+      "slug": "premacy-1",
+      "name": "premacy 2",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/premacy/cr-2005-2010.webp"
+      }
+    },
+    {
+      "slug": "premacy-2",
+      "name": "premacy 3",
+      "year_start": 2010,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/premacy/cw-2010-2018.webp"
+      }
+    }
+  ]
+}

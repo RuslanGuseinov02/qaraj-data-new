@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "allegro",
+  "name": "allegro",
+  "generations": [
+    {
+      "slug": "allegro-0",
+      "name": "allegro 1",
+      "year_start": 1994,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/allegro/1994-1998.webp"
+      }
+    },
+    {
+      "slug": "allegro-1",
+      "name": "allegro 2",
+      "year_start": 1998,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/allegro/1998-2007.webp"
+      }
+    }
+  ]
+}

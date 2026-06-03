@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "eunos-800",
+  "name": "eunos-800",
+  "generations": [
+    {
+      "slug": "eunos-800-0",
+      "name": "eunos-800 1",
+      "year_start": 1993,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/eunos-800/ta-1993-1997.webp"
+      }
+    }
+  ]
+}

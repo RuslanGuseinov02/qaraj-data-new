@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "efini-ms-9",
+  "name": "efini-ms-9",
+  "generations": [
+    {
+      "slug": "efini-ms-9-0",
+      "name": "efini-ms-9 1",
+      "year_start": 1991,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/efini-ms-9/hd-1991-1994.webp"
+      }
+    }
+  ]
+}

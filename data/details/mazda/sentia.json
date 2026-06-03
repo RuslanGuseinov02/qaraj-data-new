@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "sentia",
+  "name": "sentia",
+  "generations": [
+    {
+      "slug": "sentia-0",
+      "name": "sentia 1",
+      "year_start": 1991,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/sentia/hd-1991-1995.webp"
+      }
+    },
+    {
+      "slug": "sentia-1",
+      "name": "sentia 2",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/sentia/he-1995-2000.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "efini-rx-7",
+  "name": "efini-rx-7",
+  "generations": [
+    {
+      "slug": "efini-rx-7-0",
+      "name": "efini-rx-7 1",
+      "year_start": 1991,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/efini-rx-7/fd-1991-1997.webp"
+      }
+    }
+  ]
+}

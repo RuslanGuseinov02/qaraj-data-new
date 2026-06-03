@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "eunos-cosmo",
+  "name": "eunos-cosmo",
+  "generations": [
+    {
+      "slug": "eunos-cosmo-0",
+      "name": "eunos-cosmo 1",
+      "year_start": 1990,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/eunos-cosmo/jc-1990-1996.webp"
+      }
+    }
+  ]
+}

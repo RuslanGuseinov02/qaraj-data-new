@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "az-offroad",
+  "name": "az-offroad",
+  "generations": [
+    {
+      "slug": "az-offroad-0",
+      "name": "az-offroad 1",
+      "year_start": 1998,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/az-offroad/jm-1998-2014.webp"
+      }
+    }
+  ]
+}

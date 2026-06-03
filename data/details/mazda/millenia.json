@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "millenia",
+  "name": "millenia",
+  "generations": [
+    {
+      "slug": "millenia-0",
+      "name": "millenia 1",
+      "year_start": 1996,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/millenia/ta-1996-2000.webp"
+      }
+    },
+    {
+      "slug": "millenia-1",
+      "name": "millenia 2",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/millenia/ta-2000-2003.webp"
+      }
+    }
+  ]
+}

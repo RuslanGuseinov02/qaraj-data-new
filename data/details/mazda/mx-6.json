@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "mx-6",
+  "name": "mx-6",
+  "generations": [
+    {
+      "slug": "mx-6-0",
+      "name": "mx-6 1",
+      "year_start": 1992,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mx-6/ge-1992-1998.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "axela-speed",
+  "name": "axela-speed",
+  "generations": [
+    {
+      "slug": "axela-speed-0",
+      "name": "axela-speed 1",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/axela-speed/bk-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "axela-speed-1",
+      "name": "axela-speed 2",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/axela-speed/bl-2009-2013.webp"
+      }
+    }
+  ]
+}

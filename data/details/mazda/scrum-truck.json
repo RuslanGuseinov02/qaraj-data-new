@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "scrum-truck",
+  "name": "scrum-truck",
+  "generations": [
+    {
+      "slug": "scrum-truck-0",
+      "name": "scrum-truck 1",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/scrum-truck/dg16-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "scrum-truck-1",
+      "name": "scrum-truck 2",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/scrum-truck/dg16-2017-now.webp"
+      }
+    },
+    {
+      "slug": "scrum-truck-2",
+      "name": "scrum-truck 3",
+      "year_start": 2002,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/scrum-truck/dg63-2002-2013.webp"
+      }
+    }
+  ]
+}

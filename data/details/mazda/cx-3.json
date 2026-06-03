@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "cx-3",
+  "name": "cx-3",
+  "generations": [
+    {
+      "slug": "cx-3-0",
+      "name": "cx-3 1",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/cx-3/dk-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "cx-3-1",
+      "name": "cx-3 2",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/cx-3/dk-2018-now.webp"
+      }
+    }
+  ]
+}

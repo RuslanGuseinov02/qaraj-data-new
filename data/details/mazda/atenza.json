@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "atenza",
+  "name": "atenza",
+  "generations": [
+    {
+      "slug": "atenza-0",
+      "name": "atenza 1",
+      "year_start": 2002,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/atenza/gg-2002-2008.webp"
+      }
+    },
+    {
+      "slug": "atenza-1",
+      "name": "atenza 2",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/atenza/gh-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "atenza-2",
+      "name": "atenza 3",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/atenza/gj-2012-2016.webp"
+      }
+    },
+    {
+      "slug": "atenza-3",
+      "name": "atenza 4",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/atenza/gj-2016-2019.webp"
+      }
+    },
+    {
+      "slug": "atenza-4",
+      "name": "atenza 5",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/atenza/gj-2018-2021.webp"
+      }
+    }
+  ]
+}

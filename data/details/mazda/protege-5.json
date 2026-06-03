@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "protege-5",
+  "name": "protege-5",
+  "generations": [
+    {
+      "slug": "protege-5-0",
+      "name": "protege-5 1",
+      "year_start": 2001,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/protege-5/bj-2001-2004.webp"
+      }
+    }
+  ]
+}

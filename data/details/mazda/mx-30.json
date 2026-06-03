@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "mx-30",
+  "name": "mx-30",
+  "generations": [
+    {
+      "slug": "mx-30-0",
+      "name": "mx-30 1",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mx-30/dr-2020-2025.webp"
+      }
+    }
+  ]
+}

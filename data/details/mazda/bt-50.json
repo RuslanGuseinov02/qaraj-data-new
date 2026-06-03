@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "bt-50",
+  "name": "bt-50",
+  "generations": [
+    {
+      "slug": "bt-50-0",
+      "name": "bt-50 1",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/bt-50/j97m-2006-2011.webp"
+      }
+    },
+    {
+      "slug": "bt-50-1",
+      "name": "bt-50 2",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/bt-50/tf-2020-2025.webp"
+      }
+    },
+    {
+      "slug": "bt-50-2",
+      "name": "bt-50 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/bt-50/tf-2024-now.webp"
+      }
+    },
+    {
+      "slug": "bt-50-3",
+      "name": "bt-50 4",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/bt-50/up-2011-2015.webp"
+      }
+    },
+    {
+      "slug": "bt-50-4",
+      "name": "bt-50 5",
+      "year_start": 2015,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/bt-50/ur-2015-2021.webp"
+      }
+    },
+    {
+      "slug": "bt-50-5",
+      "name": "bt-50 6",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/bt-50/ur-2018-2021.webp"
+      }
+    }
+  ]
+}

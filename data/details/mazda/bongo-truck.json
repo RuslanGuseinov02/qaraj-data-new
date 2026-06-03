@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "bongo-truck",
+  "name": "bongo-truck",
+  "generations": [
+    {
+      "slug": "bongo-truck-0",
+      "name": "bongo-truck 1",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/bongo-truck/s400-2020-2025.webp"
+      }
+    },
+    {
+      "slug": "bongo-truck-1",
+      "name": "bongo-truck 2",
+      "year_start": 1999,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/bongo-truck/sk-1999-2016.webp"
+      }
+    },
+    {
+      "slug": "bongo-truck-2",
+      "name": "bongo-truck 3",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/bongo-truck/sl-2016-2020.webp"
+      }
+    }
+  ]
+}

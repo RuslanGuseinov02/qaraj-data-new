@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "121",
+  "name": "121",
+  "generations": [
+    {
+      "slug": "121-0",
+      "name": "121 1",
+      "year_start": 1988,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/121/da-1988-1991.webp"
+      }
+    },
+    {
+      "slug": "121-1",
+      "name": "121 2",
+      "year_start": 1991,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/121/db-1991-1998.webp"
+      }
+    },
+    {
+      "slug": "121-2",
+      "name": "121 3",
+      "year_start": 1996,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/121/dw-1996-2002.webp"
+      }
+    },
+    {
+      "slug": "121-3",
+      "name": "121 4",
+      "year_start": 1996,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/121/sm-1996-2002.webp"
+      }
+    }
+  ]
+}

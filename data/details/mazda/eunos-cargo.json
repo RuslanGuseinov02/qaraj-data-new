@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "eunos-cargo",
+  "name": "eunos-cargo",
+  "generations": [
+    {
+      "slug": "eunos-cargo-0",
+      "name": "eunos-cargo 1",
+      "year_start": 1990,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/eunos-cargo/ss-1990-1993.webp"
+      }
+    }
+  ]
+}

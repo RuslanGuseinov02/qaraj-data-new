@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "xedos-6",
+  "name": "xedos-6",
+  "generations": [
+    {
+      "slug": "xedos-6-0",
+      "name": "xedos-6 1",
+      "year_start": 1992,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/xedos-6/ca-1992-1994.webp"
+      }
+    },
+    {
+      "slug": "xedos-6-1",
+      "name": "xedos-6 2",
+      "year_start": 1994,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/xedos-6/ca-1994-1999.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "cx-8",
+  "name": "cx-8",
+  "generations": [
+    {
+      "slug": "cx-8-0",
+      "name": "cx-8 1",
+      "year_start": 2017,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/cx-8/kg-2017-2025.webp"
+      }
+    }
+  ]
+}

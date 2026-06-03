@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "eunos-300",
+  "name": "eunos-300",
+  "generations": [
+    {
+      "slug": "eunos-300-0",
+      "name": "eunos-300 1",
+      "year_start": 1989,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/eunos-300/ma-1989-1992.webp"
+      }
+    }
+  ]
+}

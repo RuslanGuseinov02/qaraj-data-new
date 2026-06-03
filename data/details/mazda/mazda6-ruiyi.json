@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "mazda6-ruiyi",
+  "name": "mazda6-ruiyi",
+  "generations": [
+    {
+      "slug": "mazda6-ruiyi-0",
+      "name": "mazda6-ruiyi 1",
+      "year_start": 2009,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda6-ruiyi/gh-2009-2011.webp"
+      }
+    },
+    {
+      "slug": "mazda6-ruiyi-1",
+      "name": "mazda6-ruiyi 2",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda6-ruiyi/gh-2012-2016.webp"
+      }
+    }
+  ]
+}

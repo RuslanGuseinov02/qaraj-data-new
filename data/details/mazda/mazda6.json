@@ -1,0 +1,120 @@
+{
+  "make": {
+    "slug": "mazda",
+    "name": "MAZDA"
+  },
+  "slug": "mazda6",
+  "name": "mazda6",
+  "generations": [
+    {
+      "slug": "mazda6-0",
+      "name": "mazda6 1",
+      "year_start": 2011,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda6/gg-2011-2012.webp"
+      }
+    },
+    {
+      "slug": "mazda6-1",
+      "name": "mazda6 2",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda6/gg-2013-2015.webp"
+      }
+    },
+    {
+      "slug": "mazda6-2",
+      "name": "mazda6 3",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda6/gg-gy-2002-2005.webp"
+      }
+    },
+    {
+      "slug": "mazda6-3",
+      "name": "mazda6 4",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda6/gg-gy-2005-2008.webp"
+      }
+    },
+    {
+      "slug": "mazda6-4",
+      "name": "mazda6 5",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda6/gh-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "mazda6-5",
+      "name": "mazda6 6",
+      "year_start": 2009,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda6/gh-2009-2010.webp"
+      }
+    },
+    {
+      "slug": "mazda6-6",
+      "name": "mazda6 7",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda6/gh-2010-2012.webp"
+      }
+    },
+    {
+      "slug": "mazda6-7",
+      "name": "mazda6 8",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda6/gh-2011-2013.webp"
+      }
+    },
+    {
+      "slug": "mazda6-8",
+      "name": "mazda6 9",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda6/gj-2012-2016.webp"
+      }
+    },
+    {
+      "slug": "mazda6-9",
+      "name": "mazda6 10",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda6/gj-gl-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "mazda6-10",
+      "name": "mazda6 11",
+      "year_start": 2018,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mazda/mazda6/gj-gl-2018-2025.webp"
+      }
+    }
+  ]
+}
