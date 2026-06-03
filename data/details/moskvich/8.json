@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "moskvich",
+    "name": "MOSKVICH"
+  },
+  "slug": "8",
+  "name": "8",
+  "generations": [
+    {
+      "slug": "8-0",
+      "name": "8 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/moskvich/8/2024-now.webp"
+      }
+    }
+  ]
+}

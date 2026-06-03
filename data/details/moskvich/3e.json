@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "moskvich",
+    "name": "MOSKVICH"
+  },
+  "slug": "3e",
+  "name": "3e",
+  "generations": [
+    {
+      "slug": "3e-0",
+      "name": "3e 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/moskvich/3e/2022-now.webp"
+      }
+    }
+  ]
+}
