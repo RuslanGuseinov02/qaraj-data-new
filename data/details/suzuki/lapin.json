@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "lapin",
+  "name": "lapin",
+  "generations": [
+    {
+      "slug": "lapin-0",
+      "name": "lapin 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/lapin/he33s-2020-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "alto-works",
+  "name": "alto-works",
+  "generations": [
+    {
+      "slug": "alto-works-0",
+      "name": "alto-works 1",
+      "year_start": 1988,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alto-works/cl-cm11-1988-1990.webp"
+      }
+    },
+    {
+      "slug": "alto-works-1",
+      "name": "alto-works 2",
+      "year_start": 1990,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alto-works/cn-cp21-1990-1991.webp"
+      }
+    },
+    {
+      "slug": "alto-works-2",
+      "name": "alto-works 3",
+      "year_start": 1991,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alto-works/cr-cs22-1991-1994.webp"
+      }
+    },
+    {
+      "slug": "alto-works-3",
+      "name": "alto-works 4",
+      "year_start": 1994,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alto-works/ha-hb11-21-1994-1998.webp"
+      }
+    },
+    {
+      "slug": "alto-works-4",
+      "name": "alto-works 5",
+      "year_start": 1998,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alto-works/ha12-22-1998-2000.webp"
+      }
+    },
+    {
+      "slug": "alto-works-5",
+      "name": "alto-works 6",
+      "year_start": 2015,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alto-works/ha36-2015-2021.webp"
+      }
+    }
+  ]
+}

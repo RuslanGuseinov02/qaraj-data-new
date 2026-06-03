@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "super-carry",
+  "name": "super-carry",
+  "generations": [
+    {
+      "slug": "super-carry-0",
+      "name": "super-carry 1",
+      "year_start": 1985,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/super-carry/1985-now.webp"
+      }
+    },
+    {
+      "slug": "super-carry-1",
+      "name": "super-carry 2",
+      "year_start": 2016,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/super-carry/2016-now.webp"
+      }
+    },
+    {
+      "slug": "super-carry-2",
+      "name": "super-carry 3",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/super-carry/da16-2022-now.webp"
+      }
+    }
+  ]
+}

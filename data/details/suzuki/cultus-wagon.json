@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "cultus-wagon",
+  "name": "cultus-wagon",
+  "generations": [
+    {
+      "slug": "cultus-wagon-0",
+      "name": "cultus-wagon 1",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/cultus-wagon/gd-gc-1998-2002.webp"
+      }
+    }
+  ]
+}

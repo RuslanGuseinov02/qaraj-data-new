@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "brezza",
+  "name": "brezza",
+  "generations": [
+    {
+      "slug": "brezza-0",
+      "name": "brezza 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/brezza/2022-now.webp"
+      }
+    }
+  ]
+}

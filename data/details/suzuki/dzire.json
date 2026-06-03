@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "dzire",
+  "name": "dzire",
+  "generations": [
+    {
+      "slug": "dzire-0",
+      "name": "dzire 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/dzire/2017-2020.webp"
+      }
+    },
+    {
+      "slug": "dzire-1",
+      "name": "dzire 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/dzire/2020-now.webp"
+      }
+    },
+    {
+      "slug": "dzire-2",
+      "name": "dzire 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/dzire/2024-now.webp"
+      }
+    }
+  ]
+}

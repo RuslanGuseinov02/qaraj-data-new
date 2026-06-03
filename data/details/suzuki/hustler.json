@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "hustler",
+  "name": "hustler",
+  "generations": [
+    {
+      "slug": "hustler-0",
+      "name": "hustler 1",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/hustler/mr3-mr4-2014-2019.webp"
+      }
+    },
+    {
+      "slug": "hustler-1",
+      "name": "hustler 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/hustler/mr5-mr9-2020-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "samurai",
+  "name": "samurai",
+  "generations": [
+    {
+      "slug": "samurai-0",
+      "name": "samurai 1",
+      "year_start": 1984,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/samurai/ja51-1984-1997.webp"
+      }
+    }
+  ]
+}

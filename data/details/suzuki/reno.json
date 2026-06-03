@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "reno",
+  "name": "reno",
+  "generations": [
+    {
+      "slug": "reno-0",
+      "name": "reno 1",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/reno/j200-2004-2008.webp"
+      }
+    }
+  ]
+}

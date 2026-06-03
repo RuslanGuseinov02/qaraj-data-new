@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "super-carry-pro",
+  "name": "super-carry-pro",
+  "generations": [
+    {
+      "slug": "super-carry-pro-0",
+      "name": "super-carry-pro 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/super-carry-pro/dc61t-dn61t-2019-now.webp"
+      }
+    }
+  ]
+}

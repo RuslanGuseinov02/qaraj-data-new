@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "cultus-crescent-wagon",
+  "name": "cultus-crescent-wagon",
+  "generations": [
+    {
+      "slug": "cultus-crescent-wagon-0",
+      "name": "cultus-crescent-wagon 1",
+      "year_start": 1996,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/cultus-crescent-wagon/gd-gc-1996-2000.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "apv",
+  "name": "apv",
+  "generations": [
+    {
+      "slug": "apv-0",
+      "name": "apv 1",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/apv/2005-2009.webp"
+      }
+    },
+    {
+      "slug": "apv-1",
+      "name": "apv 2",
+      "year_start": 2010,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/apv/2010-now.webp"
+      }
+    },
+    {
+      "slug": "apv-2",
+      "name": "apv 3",
+      "year_start": 2014,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/apv/2014-now.webp"
+      }
+    }
+  ]
+}

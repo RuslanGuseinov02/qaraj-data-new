@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "landy",
+  "name": "landy",
+  "generations": [
+    {
+      "slug": "landy-0",
+      "name": "landy 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/landy/r90c-2022-now.webp"
+      }
+    },
+    {
+      "slug": "landy-1",
+      "name": "landy 2",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/landy/sc-sgn27-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "landy-2",
+      "name": "landy 3",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/landy/sc-sgn27-2020-2022.webp"
+      }
+    },
+    {
+      "slug": "landy-3",
+      "name": "landy 4",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/landy/sc-shc-snc26-2010-2014.webp"
+      }
+    },
+    {
+      "slug": "landy-4",
+      "name": "landy 5",
+      "year_start": 2007,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/landy/sc-snc25-2007-2008.webp"
+      }
+    },
+    {
+      "slug": "landy-5",
+      "name": "landy 6",
+      "year_start": 2008,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/landy/sc-snc25-2008-2009.webp"
+      }
+    },
+    {
+      "slug": "landy-6",
+      "name": "landy 7",
+      "year_start": 2014,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/landy/sn-shc-snc26-2014-2016.webp"
+      }
+    }
+  ]
+}

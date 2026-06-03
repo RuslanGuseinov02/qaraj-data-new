@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "palette",
+  "name": "palette",
+  "generations": [
+    {
+      "slug": "palette-0",
+      "name": "palette 1",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/palette/mk21-2008-2013.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "equator",
+  "name": "equator",
+  "generations": [
+    {
+      "slug": "equator-0",
+      "name": "equator 1",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/equator/2008-2013.webp"
+      }
+    }
+  ]
+}

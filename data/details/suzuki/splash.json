@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "splash",
+  "name": "splash",
+  "generations": [
+    {
+      "slug": "splash-0",
+      "name": "splash 1",
+      "year_start": 2008,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/splash/xb32-2008-2015.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "swift",
+  "name": "swift",
+  "generations": [
+    {
+      "slug": "swift-0",
+      "name": "swift 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/swift/2023-now.webp"
+      }
+    },
+    {
+      "slug": "swift-1",
+      "name": "swift 2",
+      "year_start": 2016,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/swift/a2l-zc-zd-2016-now.webp"
+      }
+    },
+    {
+      "slug": "swift-2",
+      "name": "swift 3",
+      "year_start": 2010,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/swift/azg-zc-zd-2010-2017.webp"
+      }
+    },
+    {
+      "slug": "swift-3",
+      "name": "swift 4",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/swift/ht-2000-2006.webp"
+      }
+    },
+    {
+      "slug": "swift-4",
+      "name": "swift 5",
+      "year_start": 2004,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/swift/rs-zc-zd-2004-2011.webp"
+      }
+    }
+  ]
+}

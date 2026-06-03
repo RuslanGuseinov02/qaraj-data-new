@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "alivio",
+  "name": "alivio",
+  "generations": [
+    {
+      "slug": "alivio-0",
+      "name": "alivio 1",
+      "year_start": 2014,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alivio/vc-2014-2021.webp"
+      }
+    }
+  ]
+}

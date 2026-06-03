@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "ertiga-xl7",
+  "name": "ertiga-xl7",
+  "generations": [
+    {
+      "slug": "ertiga-xl7-0",
+      "name": "ertiga-xl7 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/ertiga-xl7/2020-now.webp"
+      }
+    }
+  ]
+}

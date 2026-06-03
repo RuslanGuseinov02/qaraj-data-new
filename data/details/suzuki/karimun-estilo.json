@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "karimun-estilo",
+  "name": "karimun-estilo",
+  "generations": [
+    {
+      "slug": "karimun-estilo-0",
+      "name": "karimun-estilo 1",
+      "year_start": 2007,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/karimun-estilo/mf31s-2007-2013.webp"
+      }
+    }
+  ]
+}

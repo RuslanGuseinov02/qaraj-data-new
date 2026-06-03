@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "sx4-sedan",
+  "name": "sx4-sedan",
+  "generations": [
+    {
+      "slug": "sx4-sedan-0",
+      "name": "sx4-sedan 1",
+      "year_start": 2007,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/sx4-sedan/2007-2015.webp"
+      }
+    }
+  ]
+}

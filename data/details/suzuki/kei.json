@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "kei",
+  "name": "kei",
+  "generations": [
+    {
+      "slug": "kei-0",
+      "name": "kei 1",
+      "year_start": 1998,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/kei/hn11-hn21-1998-2001.webp"
+      }
+    },
+    {
+      "slug": "kei-1",
+      "name": "kei 2",
+      "year_start": 2001,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/kei/hn12-hn22-2001-2009.webp"
+      }
+    }
+  ]
+}

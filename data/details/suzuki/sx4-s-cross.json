@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "sx4-s-cross",
+  "name": "sx4-s-cross",
+  "generations": [
+    {
+      "slug": "sx4-s-cross-0",
+      "name": "sx4-s-cross 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/sx4-s-cross/jy-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "sx4-s-cross-1",
+      "name": "sx4-s-cross 2",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/sx4-s-cross/jy-2017-2021.webp"
+      }
+    }
+  ]
+}

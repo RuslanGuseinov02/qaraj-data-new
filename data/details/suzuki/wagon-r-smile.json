@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "wagon-r-smile",
+  "name": "wagon-r-smile",
+  "generations": [
+    {
+      "slug": "wagon-r-smile-0",
+      "name": "wagon-r-smile 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/wagon-r-smile/mx81s-mx91s-2021-now.webp"
+      }
+    }
+  ]
+}

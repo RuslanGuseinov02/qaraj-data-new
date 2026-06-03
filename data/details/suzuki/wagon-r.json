@@ -1,0 +1,130 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "wagon-r",
+  "name": "wagon-r",
+  "generations": [
+    {
+      "slug": "wagon-r-0",
+      "name": "wagon-r 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/wagon-r/2019-now.webp"
+      }
+    },
+    {
+      "slug": "wagon-r-1",
+      "name": "wagon-r 2",
+      "year_start": 1993,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/wagon-r/cv-ct-1993-1998.webp"
+      }
+    },
+    {
+      "slug": "wagon-r-2",
+      "name": "wagon-r 3",
+      "year_start": 1998,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/wagon-r/mc11-mc21-1998-2000.webp"
+      }
+    },
+    {
+      "slug": "wagon-r-3",
+      "name": "wagon-r 4",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/wagon-r/mc12-mc22-2000-2003.webp"
+      }
+    },
+    {
+      "slug": "wagon-r-4",
+      "name": "wagon-r 5",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/wagon-r/mh21-2003-2007.webp"
+      }
+    },
+    {
+      "slug": "wagon-r-5",
+      "name": "wagon-r 6",
+      "year_start": 2007,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/wagon-r/mh22-2007-2008.webp"
+      }
+    },
+    {
+      "slug": "wagon-r-6",
+      "name": "wagon-r 7",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/wagon-r/mh23-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "wagon-r-7",
+      "name": "wagon-r 8",
+      "year_start": 2012,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/wagon-r/mh34-2012-2014.webp"
+      }
+    },
+    {
+      "slug": "wagon-r-8",
+      "name": "wagon-r 9",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/wagon-r/mh35-mh55-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "wagon-r-9",
+      "name": "wagon-r 10",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/wagon-r/mh44-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "wagon-r-10",
+      "name": "wagon-r 11",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/wagon-r/mh85-mh95-2020-2022.webp"
+      }
+    },
+    {
+      "slug": "wagon-r-11",
+      "name": "wagon-r 12",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/wagon-r/mh85-mh95-2022-now.webp"
+      }
+    }
+  ]
+}

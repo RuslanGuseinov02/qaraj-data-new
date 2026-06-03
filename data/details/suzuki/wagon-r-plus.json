@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "wagon-r-plus",
+  "name": "wagon-r-plus",
+  "generations": [
+    {
+      "slug": "wagon-r-plus-0",
+      "name": "wagon-r-plus 1",
+      "year_start": 1997,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/wagon-r-plus/em-1997-1999.webp"
+      }
+    },
+    {
+      "slug": "wagon-r-plus-1",
+      "name": "wagon-r-plus 2",
+      "year_start": 1999,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/wagon-r-plus/ma-1999-2000.webp"
+      }
+    },
+    {
+      "slug": "wagon-r-plus-2",
+      "name": "wagon-r-plus 3",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/wagon-r-plus/mm-2000-2006.webp"
+      }
+    }
+  ]
+}

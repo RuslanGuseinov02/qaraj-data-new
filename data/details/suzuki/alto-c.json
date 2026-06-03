@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "alto-c",
+  "name": "alto-c",
+  "generations": [
+    {
+      "slug": "alto-c-0",
+      "name": "alto-c 1",
+      "year_start": 1999,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alto-c/ha12-1999-2000.webp"
+      }
+    }
+  ]
+}

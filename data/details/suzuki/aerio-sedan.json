@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "aerio-sedan",
+  "name": "aerio-sedan",
+  "generations": [
+    {
+      "slug": "aerio-sedan-0",
+      "name": "aerio-sedan 1",
+      "year_start": 2001,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/aerio-sedan/ra-rc-2001-2007.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "alto",
+  "name": "alto",
+  "generations": [
+    {
+      "slug": "alto-0",
+      "name": "alto 1",
+      "year_start": 1988,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alto/cl-cm-cn-cp11-21-1988-1992.webp"
+      }
+    },
+    {
+      "slug": "alto-1",
+      "name": "alto 2",
+      "year_start": 1991,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alto/cl-cm-cr-cs22-1991-1994.webp"
+      }
+    },
+    {
+      "slug": "alto-2",
+      "name": "alto 3",
+      "year_start": 1994,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alto/ha-hb-hc-hd11-21-1994-1998.webp"
+      }
+    },
+    {
+      "slug": "alto-3",
+      "name": "alto 4",
+      "year_start": 1998,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alto/ha12-22-1998-2001.webp"
+      }
+    },
+    {
+      "slug": "alto-4",
+      "name": "alto 5",
+      "year_start": 2000,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alto/ha23-2000-2004.webp"
+      }
+    },
+    {
+      "slug": "alto-5",
+      "name": "alto 6",
+      "year_start": 2004,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alto/ha24-2004-2009.webp"
+      }
+    },
+    {
+      "slug": "alto-6",
+      "name": "alto 7",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alto/ha25-35-2009-2014.webp"
+      }
+    },
+    {
+      "slug": "alto-7",
+      "name": "alto 8",
+      "year_start": 2014,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alto/ha36-2014-2021.webp"
+      }
+    },
+    {
+      "slug": "alto-8",
+      "name": "alto 9",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alto/ha37-ha97-2021-now.webp"
+      }
+    }
+  ]
+}

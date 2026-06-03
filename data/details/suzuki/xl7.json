@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "xl7",
+  "name": "xl7",
+  "generations": [
+    {
+      "slug": "xl7-0",
+      "name": "xl7 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/xl7/2020-now.webp"
+      }
+    }
+  ]
+}

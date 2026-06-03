@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "sx4",
+  "name": "sx4",
+  "generations": [
+    {
+      "slug": "sx4-0",
+      "name": "sx4 1",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/sx4/gy-ey-rw-2006-2009.webp"
+      }
+    },
+    {
+      "slug": "sx4-1",
+      "name": "sx4 2",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/sx4/gy-ey-rw-2010-2015.webp"
+      }
+    },
+    {
+      "slug": "sx4-2",
+      "name": "sx4 3",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/sx4/jy-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "sx4-3",
+      "name": "sx4 4",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/sx4/jy-2017-2021.webp"
+      }
+    }
+  ]
+}

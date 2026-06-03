@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "kei-sport",
+  "name": "kei-sport",
+  "generations": [
+    {
+      "slug": "kei-sport-0",
+      "name": "kei-sport 1",
+      "year_start": 2000,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/kei-sport/hn11-hn21-2000-2001.webp"
+      }
+    },
+    {
+      "slug": "kei-sport-1",
+      "name": "kei-sport 2",
+      "year_start": 2001,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/kei-sport/hn22-2001-2003.webp"
+      }
+    }
+  ]
+}

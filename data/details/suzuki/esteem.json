@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "esteem",
+  "name": "esteem",
+  "generations": [
+    {
+      "slug": "esteem-0",
+      "name": "esteem 1",
+      "year_start": 1999,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/esteem/1999-2002.webp"
+      }
+    }
+  ]
+}

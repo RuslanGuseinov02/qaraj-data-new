@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "cervo-mode",
+  "name": "cervo-mode",
+  "generations": [
+    {
+      "slug": "cervo-mode-0",
+      "name": "cervo-mode 1",
+      "year_start": 1990,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/cervo-mode/cn-cp-1990-1995.webp"
+      }
+    },
+    {
+      "slug": "cervo-mode-1",
+      "name": "cervo-mode 2",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/cervo-mode/cn-cp-1995-1998.webp"
+      }
+    }
+  ]
+}

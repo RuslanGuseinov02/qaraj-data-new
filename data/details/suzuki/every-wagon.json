@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "every-wagon",
+  "name": "every-wagon",
+  "generations": [
+    {
+      "slug": "every-wagon-0",
+      "name": "every-wagon 1",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/every-wagon/da17-2015-now.webp"
+      }
+    },
+    {
+      "slug": "every-wagon-1",
+      "name": "every-wagon 2",
+      "year_start": 1999,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/every-wagon/da52-1999-2001.webp"
+      }
+    },
+    {
+      "slug": "every-wagon-2",
+      "name": "every-wagon 3",
+      "year_start": 2001,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/every-wagon/da62-2001-2005.webp"
+      }
+    },
+    {
+      "slug": "every-wagon-3",
+      "name": "every-wagon 4",
+      "year_start": 2005,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/every-wagon/da64-2005-2015.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "s-presso",
+  "name": "s-presso",
+  "generations": [
+    {
+      "slug": "s-presso-0",
+      "name": "s-presso 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/s-presso/2019-now.webp"
+      }
+    }
+  ]
+}

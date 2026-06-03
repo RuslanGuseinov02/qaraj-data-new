@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "mr-wagon",
+  "name": "mr-wagon",
+  "generations": [
+    {
+      "slug": "mr-wagon-0",
+      "name": "mr-wagon 1",
+      "year_start": 2001,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/mr-wagon/mf21-2001-2006.webp"
+      }
+    },
+    {
+      "slug": "mr-wagon-1",
+      "name": "mr-wagon 2",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/mr-wagon/mf22-2006-2011.webp"
+      }
+    },
+    {
+      "slug": "mr-wagon-2",
+      "name": "mr-wagon 3",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/mr-wagon/mf33-2011-2016.webp"
+      }
+    }
+  ]
+}

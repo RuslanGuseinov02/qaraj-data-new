@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "alto-lapin",
+  "name": "alto-lapin",
+  "generations": [
+    {
+      "slug": "alto-lapin-0",
+      "name": "alto-lapin 1",
+      "year_start": 2002,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alto-lapin/he21-2002-2008.webp"
+      }
+    },
+    {
+      "slug": "alto-lapin-1",
+      "name": "alto-lapin 2",
+      "year_start": 2008,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alto-lapin/he22-2008-2015.webp"
+      }
+    },
+    {
+      "slug": "alto-lapin-2",
+      "name": "alto-lapin 3",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alto-lapin/he33-2015-2020.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "spacia-gear",
+  "name": "spacia-gear",
+  "generations": [
+    {
+      "slug": "spacia-gear-0",
+      "name": "spacia-gear 1",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/spacia-gear/mk53-2018-2023.webp"
+      }
+    },
+    {
+      "slug": "spacia-gear-1",
+      "name": "spacia-gear 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/spacia-gear/mk54-2023-now.webp"
+      }
+    }
+  ]
+}

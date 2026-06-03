@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "cervo-classic",
+  "name": "cervo-classic",
+  "generations": [
+    {
+      "slug": "cervo-classic-0",
+      "name": "cervo-classic 1",
+      "year_start": 1996,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/cervo-classic/cn-cp22-1996-1998.webp"
+      }
+    }
+  ]
+}

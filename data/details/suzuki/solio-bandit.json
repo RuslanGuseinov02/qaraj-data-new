@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "solio-bandit",
+  "name": "solio-bandit",
+  "generations": [
+    {
+      "slug": "solio-bandit-0",
+      "name": "solio-bandit 1",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/solio-bandit/ma15-2012-2015.webp"
+      }
+    },
+    {
+      "slug": "solio-bandit-1",
+      "name": "solio-bandit 2",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/solio-bandit/ma36-46-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "solio-bandit-2",
+      "name": "solio-bandit 3",
+      "year_start": 2019,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/solio-bandit/ma36-46-2019-2020.webp"
+      }
+    },
+    {
+      "slug": "solio-bandit-3",
+      "name": "solio-bandit 4",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/solio-bandit/ma37-2020-2025.webp"
+      }
+    },
+    {
+      "slug": "solio-bandit-4",
+      "name": "solio-bandit 5",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/solio-bandit/mad7s-2025-now.webp"
+      }
+    }
+  ]
+}

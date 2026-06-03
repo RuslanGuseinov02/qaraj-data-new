@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "cervo",
+  "name": "cervo",
+  "generations": [
+    {
+      "slug": "cervo-0",
+      "name": "cervo 1",
+      "year_start": 1988,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/cervo/cg-ch-1988-1990.webp"
+      }
+    },
+    {
+      "slug": "cervo-1",
+      "name": "cervo 2",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/cervo/hg21-2006-2009.webp"
+      }
+    }
+  ]
+}

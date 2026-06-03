@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "grand-nomade",
+  "name": "grand-nomade",
+  "generations": [
+    {
+      "slug": "grand-nomade-0",
+      "name": "grand-nomade 1",
+      "year_start": 2013,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/grand-nomade/jt-2013-2020.webp"
+      }
+    }
+  ]
+}

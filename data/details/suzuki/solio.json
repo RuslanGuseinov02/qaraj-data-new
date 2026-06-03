@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "solio",
+  "name": "solio",
+  "generations": [
+    {
+      "slug": "solio-0",
+      "name": "solio 1",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/solio/ma15-2011-2015.webp"
+      }
+    },
+    {
+      "slug": "solio-1",
+      "name": "solio 2",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/solio/ma26-36-46-2015-2020.webp"
+      }
+    },
+    {
+      "slug": "solio-2",
+      "name": "solio 3",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/solio/ma27-37-2020-2024.webp"
+      }
+    },
+    {
+      "slug": "solio-3",
+      "name": "solio 4",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/solio/ma34-2004-2010.webp"
+      }
+    },
+    {
+      "slug": "solio-4",
+      "name": "solio 5",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/solio/mad7s-2025-now.webp"
+      }
+    }
+  ]
+}

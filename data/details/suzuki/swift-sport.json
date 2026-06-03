@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "swift-sport",
+  "name": "swift-sport",
+  "generations": [
+    {
+      "slug": "swift-sport-0",
+      "name": "swift-sport 1",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/swift-sport/a2l-zc-zd-2017-now.webp"
+      }
+    },
+    {
+      "slug": "swift-sport-1",
+      "name": "swift-sport 2",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/swift-sport/azg-zc-zd-2011-2017.webp"
+      }
+    },
+    {
+      "slug": "swift-sport-2",
+      "name": "swift-sport 3",
+      "year_start": 2003,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/swift-sport/ht-2003-2005.webp"
+      }
+    },
+    {
+      "slug": "swift-sport-3",
+      "name": "swift-sport 4",
+      "year_start": 2005,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/swift-sport/rs-zc-zd-2005-2011.webp"
+      }
+    }
+  ]
+}

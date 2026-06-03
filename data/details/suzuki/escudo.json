@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "escudo",
+  "name": "escudo",
+  "generations": [
+    {
+      "slug": "escudo-0",
+      "name": "escudo 1",
+      "year_start": 1988,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/escudo/ta-td1-1988-1998.webp"
+      }
+    },
+    {
+      "slug": "escudo-1",
+      "name": "escudo 2",
+      "year_start": 1997,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/escudo/ta-td2-1997-2002.webp"
+      }
+    },
+    {
+      "slug": "escudo-2",
+      "name": "escudo 3",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/escudo/ta7-td5-td9-2005-2008.webp"
+      }
+    },
+    {
+      "slug": "escudo-3",
+      "name": "escudo 4",
+      "year_start": 2008,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/escudo/tda-tdb-2008-2015.webp"
+      }
+    },
+    {
+      "slug": "escudo-4",
+      "name": "escudo 5",
+      "year_start": 1997,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/escudo/tl-1997-2005.webp"
+      }
+    },
+    {
+      "slug": "escudo-5",
+      "name": "escudo 6",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/escudo/yd-ye-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "escudo-6",
+      "name": "escudo 7",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/escudo/yd-ye-2018-2023.webp"
+      }
+    }
+  ]
+}

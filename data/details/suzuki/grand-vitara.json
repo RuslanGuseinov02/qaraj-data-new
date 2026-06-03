@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "grand-vitara",
+  "name": "grand-vitara",
+  "generations": [
+    {
+      "slug": "grand-vitara-0",
+      "name": "grand-vitara 1",
+      "year_start": 1998,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/grand-vitara/ft-gt-1998-2005.webp"
+      }
+    },
+    {
+      "slug": "grand-vitara-1",
+      "name": "grand-vitara 2",
+      "year_start": 2005,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/grand-vitara/jt-2005-2012.webp"
+      }
+    },
+    {
+      "slug": "grand-vitara-2",
+      "name": "grand-vitara 3",
+      "year_start": 2013,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/grand-vitara/jt-2013-2021.webp"
+      }
+    },
+    {
+      "slug": "grand-vitara-3",
+      "name": "grand-vitara 4",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/grand-vitara/ym-2022-now.webp"
+      }
+    }
+  ]
+}

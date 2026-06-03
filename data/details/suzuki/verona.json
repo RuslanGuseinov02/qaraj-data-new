@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "verona",
+  "name": "verona",
+  "generations": [
+    {
+      "slug": "verona-0",
+      "name": "verona 1",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/verona/v200-2003-2006.webp"
+      }
+    }
+  ]
+}

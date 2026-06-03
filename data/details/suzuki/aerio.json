@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "aerio",
+  "name": "aerio",
+  "generations": [
+    {
+      "slug": "aerio-0",
+      "name": "aerio 1",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/aerio/ra-rb-rc-2003-2007.webp"
+      }
+    },
+    {
+      "slug": "aerio-1",
+      "name": "aerio 2",
+      "year_start": 2001,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/aerio/rb-2001-2006.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "carry",
+  "name": "carry",
+  "generations": [
+    {
+      "slug": "carry-0",
+      "name": "carry 1",
+      "year_start": 1990,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/carry/da-db51-1990-1991.webp"
+      }
+    },
+    {
+      "slug": "carry-1",
+      "name": "carry 2",
+      "year_start": 1999,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/carry/da-db52-1999-2001.webp"
+      }
+    },
+    {
+      "slug": "carry-2",
+      "name": "carry 3",
+      "year_start": 2013,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/carry/da16-2013-now.webp"
+      }
+    },
+    {
+      "slug": "carry-3",
+      "name": "carry 4",
+      "year_start": 2001,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/carry/da62-2001-2005.webp"
+      }
+    },
+    {
+      "slug": "carry-4",
+      "name": "carry 5",
+      "year_start": 2005,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/carry/da63-65-2005-2013.webp"
+      }
+    },
+    {
+      "slug": "carry-5",
+      "name": "carry 6",
+      "year_start": 1991,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/carry/dc-dd51-1991-1995.webp"
+      }
+    },
+    {
+      "slug": "carry-6",
+      "name": "carry 7",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/carry/dc-dd51-1995-1998.webp"
+      }
+    },
+    {
+      "slug": "carry-7",
+      "name": "carry 8",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/carry/dc61t-dn61t-2019-now.webp"
+      }
+    }
+  ]
+}

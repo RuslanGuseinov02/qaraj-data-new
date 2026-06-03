@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "spacia",
+  "name": "spacia",
+  "generations": [
+    {
+      "slug": "spacia-0",
+      "name": "spacia 1",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/spacia/mk32-42-2013-2015.webp"
+      }
+    },
+    {
+      "slug": "spacia-1",
+      "name": "spacia 2",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/spacia/mk32-mk42-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "spacia-2",
+      "name": "spacia 3",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/spacia/mk53-2017-2023.webp"
+      }
+    },
+    {
+      "slug": "spacia-3",
+      "name": "spacia 4",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/spacia/mk54-mk94-2023-now.webp"
+      }
+    }
+  ]
+}

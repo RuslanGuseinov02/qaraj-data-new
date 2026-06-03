@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "ignis",
+  "name": "ignis",
+  "generations": [
+    {
+      "slug": "ignis-0",
+      "name": "ignis 1",
+      "year_start": 2000,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/ignis/fh-mh-2000-2005.webp"
+      }
+    },
+    {
+      "slug": "ignis-1",
+      "name": "ignis 2",
+      "year_start": 2003,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/ignis/fh-mh-2003-2008.webp"
+      }
+    },
+    {
+      "slug": "ignis-2",
+      "name": "ignis 3",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/ignis/mf-mz-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "ignis-3",
+      "name": "ignis 4",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/ignis/mf-mz-2020-now.webp"
+      }
+    }
+  ]
+}

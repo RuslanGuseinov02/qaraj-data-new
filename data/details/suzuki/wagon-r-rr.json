@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "wagon-r-rr",
+  "name": "wagon-r-rr",
+  "generations": [
+    {
+      "slug": "wagon-r-rr-0",
+      "name": "wagon-r-rr 1",
+      "year_start": 1998,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/wagon-r-rr/mc11-21-1998-2000.webp"
+      }
+    },
+    {
+      "slug": "wagon-r-rr-1",
+      "name": "wagon-r-rr 2",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/wagon-r-rr/mc12-22-2000-2003.webp"
+      }
+    },
+    {
+      "slug": "wagon-r-rr-2",
+      "name": "wagon-r-rr 3",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/wagon-r-rr/mh21-2003-2007.webp"
+      }
+    },
+    {
+      "slug": "wagon-r-rr-3",
+      "name": "wagon-r-rr 4",
+      "year_start": 2007,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/wagon-r-rr/mh22-2007-2008.webp"
+      }
+    }
+  ]
+}

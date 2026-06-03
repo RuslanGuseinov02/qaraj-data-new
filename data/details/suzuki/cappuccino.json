@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "cappuccino",
+  "name": "cappuccino",
+  "generations": [
+    {
+      "slug": "cappuccino-0",
+      "name": "cappuccino 1",
+      "year_start": 1991,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/cappuccino/ea-1991-1998.webp"
+      }
+    }
+  ]
+}

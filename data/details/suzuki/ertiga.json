@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "ertiga",
+  "name": "ertiga",
+  "generations": [
+    {
+      "slug": "ertiga-0",
+      "name": "ertiga 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/ertiga/nc-2018-now.webp"
+      }
+    },
+    {
+      "slug": "ertiga-1",
+      "name": "ertiga 2",
+      "year_start": 2012,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/ertiga/ze-2012-2018.webp"
+      }
+    },
+    {
+      "slug": "ertiga-2",
+      "name": "ertiga 3",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/ertiga/ze-2016-2018.webp"
+      }
+    }
+  ]
+}

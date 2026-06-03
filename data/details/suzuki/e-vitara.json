@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "e-vitara",
+  "name": "e-vitara",
+  "generations": [
+    {
+      "slug": "e-vitara-0",
+      "name": "e-vitara 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/e-vitara/2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "every",
+  "name": "every",
+  "generations": [
+    {
+      "slug": "every-0",
+      "name": "every 1",
+      "year_start": 1985,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/every/da-db41-1985-1990.webp"
+      }
+    },
+    {
+      "slug": "every-1",
+      "name": "every 2",
+      "year_start": 1990,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/every/da-db51-1990-1991.webp"
+      }
+    },
+    {
+      "slug": "every-2",
+      "name": "every 3",
+      "year_start": 1999,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/every/da-db52-1999-2001.webp"
+      }
+    },
+    {
+      "slug": "every-3",
+      "name": "every 4",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/every/da17-2015-now.webp"
+      }
+    },
+    {
+      "slug": "every-4",
+      "name": "every 5",
+      "year_start": 2001,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/every/da62-2001-2005.webp"
+      }
+    },
+    {
+      "slug": "every-5",
+      "name": "every 6",
+      "year_start": 2005,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/every/da64-2005-2015.webp"
+      }
+    },
+    {
+      "slug": "every-6",
+      "name": "every 7",
+      "year_start": 1991,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/every/de-df51-1991-1998.webp"
+      }
+    }
+  ]
+}

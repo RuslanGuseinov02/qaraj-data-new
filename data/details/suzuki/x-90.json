@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "x-90",
+  "name": "x-90",
+  "generations": [
+    {
+      "slug": "x-90-0",
+      "name": "x-90 1",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/x-90/lb-1995-1998.webp"
+      }
+    }
+  ]
+}

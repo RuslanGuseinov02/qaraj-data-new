@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "mr-wagon-wit",
+  "name": "mr-wagon-wit",
+  "generations": [
+    {
+      "slug": "mr-wagon-wit-0",
+      "name": "mr-wagon-wit 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/mr-wagon-wit/mf33-2013-2016.webp"
+      }
+    }
+  ]
+}

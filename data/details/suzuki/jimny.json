@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "jimny",
+  "name": "jimny",
+  "generations": [
+    {
+      "slug": "jimny-0",
+      "name": "jimny 1",
+      "year_start": 1987,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/jimny/ja-jb-1987-1990.webp"
+      }
+    },
+    {
+      "slug": "jimny-1",
+      "name": "jimny 2",
+      "year_start": 1990,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/jimny/ja-jb-1990-1995.webp"
+      }
+    },
+    {
+      "slug": "jimny-2",
+      "name": "jimny 3",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/jimny/ja12-ja22-1995-1998.webp"
+      }
+    },
+    {
+      "slug": "jimny-3",
+      "name": "jimny 4",
+      "year_start": 1998,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/jimny/jb23-1998-2022.webp"
+      }
+    },
+    {
+      "slug": "jimny-4",
+      "name": "jimny 5",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/jimny/jb64-2018-now.webp"
+      }
+    }
+  ]
+}

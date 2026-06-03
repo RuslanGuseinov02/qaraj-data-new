@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "vitara",
+  "name": "vitara",
+  "generations": [
+    {
+      "slug": "vitara-0",
+      "name": "vitara 1",
+      "year_start": 1988,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/vitara/et-ta-1988-1998.webp"
+      }
+    },
+    {
+      "slug": "vitara-1",
+      "name": "vitara 2",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/vitara/ly-2015-now.webp"
+      }
+    },
+    {
+      "slug": "vitara-2",
+      "name": "vitara 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/vitara/ly-2024-now.webp"
+      }
+    }
+  ]
+}

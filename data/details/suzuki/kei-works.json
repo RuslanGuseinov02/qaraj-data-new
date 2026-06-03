@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "kei-works",
+  "name": "kei-works",
+  "generations": [
+    {
+      "slug": "kei-works-0",
+      "name": "kei-works 1",
+      "year_start": 2002,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/kei-works/hn22-2002-2009.webp"
+      }
+    }
+  ]
+}

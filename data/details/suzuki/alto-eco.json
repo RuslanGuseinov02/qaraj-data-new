@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "alto-eco",
+  "name": "alto-eco",
+  "generations": [
+    {
+      "slug": "alto-eco-0",
+      "name": "alto-eco 1",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alto-eco/ha35-2011-2014.webp"
+      }
+    }
+  ]
+}

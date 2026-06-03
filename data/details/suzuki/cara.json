@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "cara",
+  "name": "cara",
+  "generations": [
+    {
+      "slug": "cara-0",
+      "name": "cara 1",
+      "year_start": 1993,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/cara/pg-1993-1995.webp"
+      }
+    }
+  ]
+}

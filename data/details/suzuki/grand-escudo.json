@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "grand-escudo",
+  "name": "grand-escudo",
+  "generations": [
+    {
+      "slug": "grand-escudo-0",
+      "name": "grand-escudo 1",
+      "year_start": 2000,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/grand-escudo/tx92-2000-2005.webp"
+      }
+    }
+  ]
+}

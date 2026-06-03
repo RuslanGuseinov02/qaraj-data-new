@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "alto-800",
+  "name": "alto-800",
+  "generations": [
+    {
+      "slug": "alto-800-0",
+      "name": "alto-800 1",
+      "year_start": 2014,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/alto-800/ha36-2014-2023.webp"
+      }
+    }
+  ]
+}

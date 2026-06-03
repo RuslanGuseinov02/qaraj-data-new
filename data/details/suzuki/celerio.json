@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "celerio",
+  "name": "celerio",
+  "generations": [
+    {
+      "slug": "celerio-0",
+      "name": "celerio 1",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/celerio/2009-2014.webp"
+      }
+    },
+    {
+      "slug": "celerio-1",
+      "name": "celerio 2",
+      "year_start": 2014,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/celerio/2014-2021.webp"
+      }
+    },
+    {
+      "slug": "celerio-2",
+      "name": "celerio 3",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/celerio/2021-now.webp"
+      }
+    }
+  ]
+}

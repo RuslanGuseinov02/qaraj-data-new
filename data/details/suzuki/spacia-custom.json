@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "suzuki",
+    "name": "SUZUKI"
+  },
+  "slug": "spacia-custom",
+  "name": "spacia-custom",
+  "generations": [
+    {
+      "slug": "spacia-custom-0",
+      "name": "spacia-custom 1",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/spacia-custom/mk32-mk42-2013-2015.webp"
+      }
+    },
+    {
+      "slug": "spacia-custom-1",
+      "name": "spacia-custom 2",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/spacia-custom/mk32-mk42-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "spacia-custom-2",
+      "name": "spacia-custom 3",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/spacia-custom/mk53-2017-2023.webp"
+      }
+    },
+    {
+      "slug": "spacia-custom-3",
+      "name": "spacia-custom 4",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/suzuki/spacia-custom/mk54-mk94-2023-now.webp"
+      }
+    }
+  ]
+}
