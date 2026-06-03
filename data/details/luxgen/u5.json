@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "luxgen",
+    "name": "LUXGEN"
+  },
+  "slug": "u5",
+  "name": "u5",
+  "generations": [
+    {
+      "slug": "u5-0",
+      "name": "u5 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/luxgen/u5/2017-2020.webp"
+      }
+    }
+  ]
+}

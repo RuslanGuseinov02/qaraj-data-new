@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "luxgen",
+    "name": "LUXGEN"
+  },
+  "slug": "7-mpv",
+  "name": "7-mpv",
+  "generations": [
+    {
+      "slug": "7-mpv-0",
+      "name": "7-mpv 1",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/luxgen/7-mpv/2009-2014.webp"
+      }
+    }
+  ]
+}

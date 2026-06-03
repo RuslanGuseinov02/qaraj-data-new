@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "luxgen",
+    "name": "LUXGEN"
+  },
+  "slug": "m7",
+  "name": "m7",
+  "generations": [
+    {
+      "slug": "m7-0",
+      "name": "m7 1",
+      "year_start": 2014,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/luxgen/m7/2014-2021.webp"
+      }
+    }
+  ]
+}

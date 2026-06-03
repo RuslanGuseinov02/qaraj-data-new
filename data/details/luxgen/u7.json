@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "luxgen",
+    "name": "LUXGEN"
+  },
+  "slug": "u7",
+  "name": "u7",
+  "generations": [
+    {
+      "slug": "u7-0",
+      "name": "u7 1",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/luxgen/u7/2013-2015.webp"
+      }
+    },
+    {
+      "slug": "u7-1",
+      "name": "u7 2",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/luxgen/u7/2015-2020.webp"
+      }
+    }
+  ]
+}

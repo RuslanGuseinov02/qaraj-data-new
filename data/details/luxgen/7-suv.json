@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "luxgen",
+    "name": "LUXGEN"
+  },
+  "slug": "7-suv",
+  "name": "7-suv",
+  "generations": [
+    {
+      "slug": "7-suv-0",
+      "name": "7-suv 1",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/luxgen/7-suv/2010-2015.webp"
+      }
+    }
+  ]
+}
