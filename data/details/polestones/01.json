@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "polestones",
+    "name": "POLESTONES"
+  },
+  "slug": "01",
+  "name": "01",
+  "generations": [
+    {
+      "slug": "01-0",
+      "name": "01 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/polestones/01/2023-now.webp"
+      }
+    }
+  ]
+}

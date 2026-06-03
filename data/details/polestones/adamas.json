@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "polestones",
+    "name": "POLESTONES"
+  },
+  "slug": "adamas",
+  "name": "adamas",
+  "generations": [
+    {
+      "slug": "adamas-0",
+      "name": "adamas 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/polestones/adamas/2025-now.webp"
+      }
+    }
+  ]
+}
