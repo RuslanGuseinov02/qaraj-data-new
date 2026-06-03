@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "leapmotor",
+    "name": "LEAPMOTOR"
+  },
+  "slug": "t03",
+  "name": "t03",
+  "generations": [
+    {
+      "slug": "t03-0",
+      "name": "t03 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/leapmotor/t03/2020-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "leapmotor",
+    "name": "LEAPMOTOR"
+  },
+  "slug": "lafa-5",
+  "name": "lafa-5",
+  "generations": [
+    {
+      "slug": "lafa-5-0",
+      "name": "lafa-5 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/leapmotor/lafa-5/2025-now.webp"
+      }
+    }
+  ]
+}

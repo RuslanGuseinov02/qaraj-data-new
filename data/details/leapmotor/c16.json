@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "leapmotor",
+    "name": "LEAPMOTOR"
+  },
+  "slug": "c16",
+  "name": "c16",
+  "generations": [
+    {
+      "slug": "c16-0",
+      "name": "c16 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/leapmotor/c16/2024-now.webp"
+      }
+    }
+  ]
+}
