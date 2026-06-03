@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "triumph",
+    "name": "TRIUMPH"
+  },
+  "slug": "dolomite",
+  "name": "dolomite",
+  "generations": [
+    {
+      "slug": "dolomite-0",
+      "name": "dolomite 1",
+      "year_start": 1974,
+      "year_end": 1981,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/triumph/dolomite/1974-1981.webp"
+      }
+    }
+  ]
+}

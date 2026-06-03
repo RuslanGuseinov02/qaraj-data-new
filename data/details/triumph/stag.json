@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "triumph",
+    "name": "TRIUMPH"
+  },
+  "slug": "stag",
+  "name": "stag",
+  "generations": [
+    {
+      "slug": "stag-0",
+      "name": "stag 1",
+      "year_start": 1970,
+      "year_end": 1977,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/triumph/stag/1970-1977.webp"
+      }
+    }
+  ]
+}

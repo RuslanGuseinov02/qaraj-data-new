@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "triumph",
+    "name": "TRIUMPH"
+  },
+  "slug": "tr6",
+  "name": "tr6",
+  "generations": [
+    {
+      "slug": "tr6-0",
+      "name": "tr6 1",
+      "year_start": 1968,
+      "year_end": 1976,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/triumph/tr6/1968-1976.webp"
+      }
+    }
+  ]
+}

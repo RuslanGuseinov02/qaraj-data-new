@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "triumph",
+    "name": "TRIUMPH"
+  },
+  "slug": "acclaim",
+  "name": "acclaim",
+  "generations": [
+    {
+      "slug": "acclaim-0",
+      "name": "acclaim 1",
+      "year_start": 1981,
+      "year_end": 1984,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/triumph/acclaim/1981-1984.webp"
+      }
+    }
+  ]
+}
