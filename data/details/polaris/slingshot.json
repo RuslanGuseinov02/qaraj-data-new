@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "polaris",
+    "name": "POLARIS"
+  },
+  "slug": "slingshot",
+  "name": "slingshot",
+  "generations": [
+    {
+      "slug": "slingshot-0",
+      "name": "slingshot 1",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/polaris/slingshot/2015-2020.webp"
+      }
+    },
+    {
+      "slug": "slingshot-1",
+      "name": "slingshot 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/polaris/slingshot/2020-now.webp"
+      }
+    }
+  ]
+}

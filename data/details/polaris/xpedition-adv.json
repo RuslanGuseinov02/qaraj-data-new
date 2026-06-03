@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "polaris",
+    "name": "POLARIS"
+  },
+  "slug": "xpedition-adv",
+  "name": "xpedition-adv",
+  "generations": [
+    {
+      "slug": "xpedition-adv-0",
+      "name": "xpedition-adv 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/polaris/xpedition-adv/2024-now.webp"
+      }
+    }
+  ]
+}

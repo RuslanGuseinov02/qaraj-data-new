@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "polaris",
+    "name": "POLARIS"
+  },
+  "slug": "rzr-xp-4",
+  "name": "rzr-xp-4",
+  "generations": [
+    {
+      "slug": "rzr-xp-4-0",
+      "name": "rzr-xp-4 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/polaris/rzr-xp-4/2020-now.webp"
+      }
+    }
+  ]
+}

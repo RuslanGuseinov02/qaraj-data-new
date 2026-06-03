@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "polaris",
+    "name": "POLARIS"
+  },
+  "slug": "rzr-trail-s",
+  "name": "rzr-trail-s",
+  "generations": [
+    {
+      "slug": "rzr-trail-s-0",
+      "name": "rzr-trail-s 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/polaris/rzr-trail-s/2020-now.webp"
+      }
+    }
+  ]
+}

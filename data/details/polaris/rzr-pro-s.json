@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "polaris",
+    "name": "POLARIS"
+  },
+  "slug": "rzr-pro-s",
+  "name": "rzr-pro-s",
+  "generations": [
+    {
+      "slug": "rzr-pro-s-0",
+      "name": "rzr-pro-s 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/polaris/rzr-pro-s/2022-now.webp"
+      }
+    }
+  ]
+}

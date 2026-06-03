@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "polaris",
+    "name": "POLARIS"
+  },
+  "slug": "general-xp",
+  "name": "general-xp",
+  "generations": [
+    {
+      "slug": "general-xp-0",
+      "name": "general-xp 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/polaris/general-xp/2020-now.webp"
+      }
+    }
+  ]
+}
