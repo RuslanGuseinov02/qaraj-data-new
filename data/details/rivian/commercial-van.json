@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "rivian",
+    "name": "RIVIAN"
+  },
+  "slug": "commercial-van",
+  "name": "commercial-van",
+  "generations": [
+    {
+      "slug": "commercial-van-0",
+      "name": "commercial-van 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/rivian/commercial-van/2023-now.webp"
+      }
+    }
+  ]
+}

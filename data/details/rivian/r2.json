@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "rivian",
+    "name": "RIVIAN"
+  },
+  "slug": "r2",
+  "name": "r2",
+  "generations": [
+    {
+      "slug": "r2-0",
+      "name": "r2 1",
+      "year_start": 2026,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/rivian/r2/2026-now.webp"
+      }
+    }
+  ]
+}
