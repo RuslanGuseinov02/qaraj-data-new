@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daewoo",
+    "name": "DAEWOO"
+  },
+  "slug": "tosca",
+  "name": "tosca",
+  "generations": [
+    {
+      "slug": "tosca-0",
+      "name": "tosca 1",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daewoo/tosca/v250-2006-2011.webp"
+      }
+    }
+  ]
+}

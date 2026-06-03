@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daewoo",
+    "name": "DAEWOO"
+  },
+  "slug": "lanos-sens",
+  "name": "lanos-sens",
+  "generations": [
+    {
+      "slug": "lanos-sens-0",
+      "name": "lanos-sens 1",
+      "year_start": 2002,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daewoo/lanos-sens/t100-150-2002-2008.webp"
+      }
+    }
+  ]
+}

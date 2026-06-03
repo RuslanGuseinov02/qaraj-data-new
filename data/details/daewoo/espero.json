@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daewoo",
+    "name": "DAEWOO"
+  },
+  "slug": "espero",
+  "name": "espero",
+  "generations": [
+    {
+      "slug": "espero-0",
+      "name": "espero 1",
+      "year_start": 1990,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daewoo/espero/gm-j-1990-1999.webp"
+      }
+    }
+  ]
+}

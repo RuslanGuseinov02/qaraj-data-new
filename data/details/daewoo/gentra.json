@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "daewoo",
+    "name": "DAEWOO"
+  },
+  "slug": "gentra",
+  "name": "gentra",
+  "generations": [
+    {
+      "slug": "gentra-0",
+      "name": "gentra 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daewoo/gentra/j200-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "gentra-1",
+      "name": "gentra 2",
+      "year_start": 2005,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daewoo/gentra/t250-2005-2011.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "daewoo",
+    "name": "DAEWOO"
+  },
+  "slug": "matiz",
+  "name": "matiz",
+  "generations": [
+    {
+      "slug": "matiz-0",
+      "name": "matiz 1",
+      "year_start": 1998,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daewoo/matiz/m100-1998-2000.webp"
+      }
+    },
+    {
+      "slug": "matiz-1",
+      "name": "matiz 2",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daewoo/matiz/m150-2000-2003.webp"
+      }
+    },
+    {
+      "slug": "matiz-2",
+      "name": "matiz 3",
+      "year_start": 2000,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daewoo/matiz/m150-2000-2016.webp"
+      }
+    },
+    {
+      "slug": "matiz-3",
+      "name": "matiz 4",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daewoo/matiz/m200-2005-2007.webp"
+      }
+    },
+    {
+      "slug": "matiz-4",
+      "name": "matiz 5",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daewoo/matiz/m250-2007-2009.webp"
+      }
+    },
+    {
+      "slug": "matiz-5",
+      "name": "matiz 6",
+      "year_start": 2009,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daewoo/matiz/m300-2009-2015.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daewoo",
+    "name": "DAEWOO"
+  },
+  "slug": "statesman",
+  "name": "statesman",
+  "generations": [
+    {
+      "slug": "statesman-0",
+      "name": "statesman 1",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daewoo/statesman/wk-wl-2003-2006.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daewoo",
+    "name": "DAEWOO"
+  },
+  "slug": "prince",
+  "name": "prince",
+  "generations": [
+    {
+      "slug": "prince-0",
+      "name": "prince 1",
+      "year_start": 1991,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daewoo/prince/gm-v-1991-1997.webp"
+      }
+    }
+  ]
+}

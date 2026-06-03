@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daewoo",
+    "name": "DAEWOO"
+  },
+  "slug": "arcadia",
+  "name": "arcadia",
+  "generations": [
+    {
+      "slug": "arcadia-0",
+      "name": "arcadia 1",
+      "year_start": 1994,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daewoo/arcadia/ka9-1994-1999.webp"
+      }
+    }
+  ]
+}

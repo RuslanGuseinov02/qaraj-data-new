@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "daewoo",
+    "name": "DAEWOO"
+  },
+  "slug": "lacetti",
+  "name": "lacetti",
+  "generations": [
+    {
+      "slug": "lacetti-0",
+      "name": "lacetti 1",
+      "year_start": 2002,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daewoo/lacetti/j200-2002-2008.webp"
+      }
+    },
+    {
+      "slug": "lacetti-1",
+      "name": "lacetti 2",
+      "year_start": 2009,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daewoo/lacetti/j300-2009-2011.webp"
+      }
+    }
+  ]
+}

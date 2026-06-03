@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daewoo",
+    "name": "DAEWOO"
+  },
+  "slug": "lublin",
+  "name": "lublin",
+  "generations": [
+    {
+      "slug": "lublin-0",
+      "name": "lublin 1",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daewoo/lublin/fcc2-1995-1999.webp"
+      }
+    }
+  ]
+}

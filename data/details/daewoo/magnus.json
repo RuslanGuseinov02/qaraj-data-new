@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daewoo",
+    "name": "DAEWOO"
+  },
+  "slug": "magnus",
+  "name": "magnus",
+  "generations": [
+    {
+      "slug": "magnus-0",
+      "name": "magnus 1",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daewoo/magnus/v200-2000-2006.webp"
+      }
+    }
+  ]
+}

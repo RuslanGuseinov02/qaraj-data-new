@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daewoo",
+    "name": "DAEWOO"
+  },
+  "slug": "lanos",
+  "name": "lanos",
+  "generations": [
+    {
+      "slug": "lanos-0",
+      "name": "lanos 1",
+      "year_start": 1997,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daewoo/lanos/t100-150-1997-2008.webp"
+      }
+    }
+  ]
+}
