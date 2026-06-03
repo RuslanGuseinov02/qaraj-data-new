@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ram",
+    "name": "RAM"
+  },
+  "slug": "v700-city",
+  "name": "v700-city",
+  "generations": [
+    {
+      "slug": "v700-city-0",
+      "name": "v700-city 1",
+      "year_start": 2018,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ram/v700-city/225-2018-2025.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ram",
+    "name": "RAM"
+  },
+  "slug": "v1000",
+  "name": "v1000",
+  "generations": [
+    {
+      "slug": "v1000-0",
+      "name": "v1000 1",
+      "year_start": 2016,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ram/v1000/2016-2025.webp"
+      }
+    }
+  ]
+}

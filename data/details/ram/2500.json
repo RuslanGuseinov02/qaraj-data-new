@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "ram",
+    "name": "RAM"
+  },
+  "slug": "2500",
+  "name": "2500",
+  "generations": [
+    {
+      "slug": "2500-0",
+      "name": "2500 1",
+      "year_start": 2011,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ram/2500/ds-dj-2011-2018.webp"
+      }
+    },
+    {
+      "slug": "2500-1",
+      "name": "2500 2",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ram/2500/ds-dj-2019-2025.webp"
+      }
+    },
+    {
+      "slug": "2500-2",
+      "name": "2500 3",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ram/2500/ds-dj-2025-now.webp"
+      }
+    }
+  ]
+}

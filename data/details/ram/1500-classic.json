@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ram",
+    "name": "RAM"
+  },
+  "slug": "1500-classic",
+  "name": "1500-classic",
+  "generations": [
+    {
+      "slug": "1500-classic-0",
+      "name": "1500-classic 1",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ram/1500-classic/ds-dj-2019-2024.webp"
+      }
+    }
+  ]
+}

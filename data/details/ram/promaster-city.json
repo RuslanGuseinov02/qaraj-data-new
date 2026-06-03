@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ram",
+    "name": "RAM"
+  },
+  "slug": "promaster-city",
+  "name": "promaster-city",
+  "generations": [
+    {
+      "slug": "promaster-city-0",
+      "name": "promaster-city 1",
+      "year_start": 2015,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ram/promaster-city/636-2015-2023.webp"
+      }
+    }
+  ]
+}

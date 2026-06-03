@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ram",
+    "name": "RAM"
+  },
+  "slug": "chassis-cab",
+  "name": "chassis-cab",
+  "generations": [
+    {
+      "slug": "chassis-cab-0",
+      "name": "chassis-cab 1",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ram/chassis-cab/dj-ds-2013-2018.webp"
+      }
+    }
+  ]
+}

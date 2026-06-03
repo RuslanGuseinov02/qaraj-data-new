@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ram",
+    "name": "RAM"
+  },
+  "slug": "700",
+  "name": "700",
+  "generations": [
+    {
+      "slug": "700-0",
+      "name": "700 1",
+      "year_start": 2014,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ram/700/278-2014-2020.webp"
+      }
+    },
+    {
+      "slug": "700-1",
+      "name": "700 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ram/700/281-2020-now.webp"
+      }
+    }
+  ]
+}

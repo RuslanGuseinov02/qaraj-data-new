@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ram",
+    "name": "RAM"
+  },
+  "slug": "4000",
+  "name": "4000",
+  "generations": [
+    {
+      "slug": "4000-0",
+      "name": "4000 1",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ram/4000/ds-dj-2019-2025.webp"
+      }
+    },
+    {
+      "slug": "4000-1",
+      "name": "4000 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ram/4000/ds-dj-2025-now.webp"
+      }
+    }
+  ]
+}
