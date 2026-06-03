@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "jeep",
+    "name": "JEEP"
+  },
+  "slug": "commander",
+  "name": "commander",
+  "generations": [
+    {
+      "slug": "commander-0",
+      "name": "commander 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/commander/2021-now.webp"
+      }
+    },
+    {
+      "slug": "commander-1",
+      "name": "commander 2",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/commander/xk-xh-2005-2010.webp"
+      }
+    }
+  ]
+}

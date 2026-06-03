@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "jeep",
+    "name": "JEEP"
+  },
+  "slug": "wagoneer",
+  "name": "wagoneer",
+  "generations": [
+    {
+      "slug": "wagoneer-0",
+      "name": "wagoneer 1",
+      "year_start": 1978,
+      "year_end": 1983,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/wagoneer/sj-1978-1983.webp"
+      }
+    },
+    {
+      "slug": "wagoneer-1",
+      "name": "wagoneer 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/wagoneer/ws-2021-now.webp"
+      }
+    },
+    {
+      "slug": "wagoneer-2",
+      "name": "wagoneer 3",
+      "year_start": 1984,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/wagoneer/xj-1984-1992.webp"
+      }
+    }
+  ]
+}

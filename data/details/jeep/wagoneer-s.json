@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jeep",
+    "name": "JEEP"
+  },
+  "slug": "wagoneer-s",
+  "name": "wagoneer-s",
+  "generations": [
+    {
+      "slug": "wagoneer-s-0",
+      "name": "wagoneer-s 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/wagoneer-s/2024-now.webp"
+      }
+    }
+  ]
+}

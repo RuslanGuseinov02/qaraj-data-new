@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jeep",
+    "name": "JEEP"
+  },
+  "slug": "comanche",
+  "name": "comanche",
+  "generations": [
+    {
+      "slug": "comanche-0",
+      "name": "comanche 1",
+      "year_start": 1986,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/comanche/mj-1986-1992.webp"
+      }
+    }
+  ]
+}

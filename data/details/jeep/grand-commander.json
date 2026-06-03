@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "jeep",
+    "name": "JEEP"
+  },
+  "slug": "grand-commander",
+  "name": "grand-commander",
+  "generations": [
+    {
+      "slug": "grand-commander-0",
+      "name": "grand-commander 1",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/grand-commander/2018-2021.webp"
+      }
+    },
+    {
+      "slug": "grand-commander-1",
+      "name": "grand-commander 2",
+      "year_start": 2021,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/grand-commander/2021-2022.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "jeep",
+    "name": "JEEP"
+  },
+  "slug": "compass",
+  "name": "compass",
+  "generations": [
+    {
+      "slug": "compass-0",
+      "name": "compass 1",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/compass/mk-2006-2010.webp"
+      }
+    },
+    {
+      "slug": "compass-1",
+      "name": "compass 2",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/compass/mk-2011-2017.webp"
+      }
+    },
+    {
+      "slug": "compass-2",
+      "name": "compass 3",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/compass/mp-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "compass-3",
+      "name": "compass 4",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/compass/mp-2021-now.webp"
+      }
+    }
+  ]
+}

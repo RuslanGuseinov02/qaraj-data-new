@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jeep",
+    "name": "JEEP"
+  },
+  "slug": "grand-cherokee-l",
+  "name": "grand-cherokee-l",
+  "generations": [
+    {
+      "slug": "grand-cherokee-l-0",
+      "name": "grand-cherokee-l 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/grand-cherokee-l/wl-2021-now.webp"
+      }
+    }
+  ]
+}

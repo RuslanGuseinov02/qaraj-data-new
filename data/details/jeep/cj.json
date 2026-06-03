@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "jeep",
+    "name": "JEEP"
+  },
+  "slug": "cj",
+  "name": "cj",
+  "generations": [
+    {
+      "slug": "cj-0",
+      "name": "cj 1",
+      "year_start": 1945,
+      "year_end": 1949,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/cj/cj-2a-1945-1949.webp"
+      }
+    },
+    {
+      "slug": "cj-1",
+      "name": "cj 2",
+      "year_start": 1949,
+      "year_end": 1953,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/cj/cj-3a-1949-1953.webp"
+      }
+    },
+    {
+      "slug": "cj-2",
+      "name": "cj 3",
+      "year_start": 1953,
+      "year_end": 1968,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/cj/cj-3b-1953-1968.webp"
+      }
+    },
+    {
+      "slug": "cj-3",
+      "name": "cj 4",
+      "year_start": 1955,
+      "year_end": 1983,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/cj/cj-5-cj-6-1955-1983.webp"
+      }
+    },
+    {
+      "slug": "cj-4",
+      "name": "cj 5",
+      "year_start": 1976,
+      "year_end": 1986,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/cj/cj-7-cj-8-1976-1986.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "jeep",
+    "name": "JEEP"
+  },
+  "slug": "jt",
+  "name": "jt",
+  "generations": [
+    {
+      "slug": "jt-0",
+      "name": "jt 1",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/jt/jt-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "jt-1",
+      "name": "jt 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/jt/jt-2024-now.webp"
+      }
+    }
+  ]
+}

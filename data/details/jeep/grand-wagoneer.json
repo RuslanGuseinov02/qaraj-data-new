@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "jeep",
+    "name": "JEEP"
+  },
+  "slug": "grand-wagoneer",
+  "name": "grand-wagoneer",
+  "generations": [
+    {
+      "slug": "grand-wagoneer-0",
+      "name": "grand-wagoneer 1",
+      "year_start": 1984,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/grand-wagoneer/sj-1984-1991.webp"
+      }
+    },
+    {
+      "slug": "grand-wagoneer-1",
+      "name": "grand-wagoneer 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/grand-wagoneer/ws-2021-now.webp"
+      }
+    },
+    {
+      "slug": "grand-wagoneer-2",
+      "name": "grand-wagoneer 3",
+      "year_start": 1993,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/grand-wagoneer/zj-1993-1994.webp"
+      }
+    }
+  ]
+}

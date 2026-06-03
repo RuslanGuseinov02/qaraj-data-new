@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jeep",
+    "name": "JEEP"
+  },
+  "slug": "grand-wagoneer-l",
+  "name": "grand-wagoneer-l",
+  "generations": [
+    {
+      "slug": "grand-wagoneer-l-0",
+      "name": "grand-wagoneer-l 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/grand-wagoneer-l/ws-2023-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jeep",
+    "name": "JEEP"
+  },
+  "slug": "avenger",
+  "name": "avenger",
+  "generations": [
+    {
+      "slug": "avenger-0",
+      "name": "avenger 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/avenger/fh1-2023-now.webp"
+      }
+    }
+  ]
+}

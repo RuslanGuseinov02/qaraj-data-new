@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "jeep",
+    "name": "JEEP"
+  },
+  "slug": "cherokee",
+  "name": "cherokee",
+  "generations": [
+    {
+      "slug": "cherokee-0",
+      "name": "cherokee 1",
+      "year_start": 2001,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/cherokee/kj-2001-2008.webp"
+      }
+    },
+    {
+      "slug": "cherokee-1",
+      "name": "cherokee 2",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/cherokee/kk-2008-2013.webp"
+      }
+    },
+    {
+      "slug": "cherokee-2",
+      "name": "cherokee 3",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/cherokee/kl-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "cherokee-3",
+      "name": "cherokee 4",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/cherokee/kl-2018-2024.webp"
+      }
+    },
+    {
+      "slug": "cherokee-4",
+      "name": "cherokee 5",
+      "year_start": 1974,
+      "year_end": 1983,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/cherokee/sj-1974-1983.webp"
+      }
+    },
+    {
+      "slug": "cherokee-5",
+      "name": "cherokee 6",
+      "year_start": 1984,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/cherokee/xj-1984-2001.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "jeep",
+    "name": "JEEP"
+  },
+  "slug": "gladiator",
+  "name": "gladiator",
+  "generations": [
+    {
+      "slug": "gladiator-0",
+      "name": "gladiator 1",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/gladiator/jt-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "gladiator-1",
+      "name": "gladiator 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/gladiator/jt-2024-now.webp"
+      }
+    },
+    {
+      "slug": "gladiator-2",
+      "name": "gladiator 3",
+      "year_start": 1962,
+      "year_end": 1971,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/gladiator/sj-1962-1971.webp"
+      }
+    }
+  ]
+}

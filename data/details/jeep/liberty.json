@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "jeep",
+    "name": "JEEP"
+  },
+  "slug": "liberty",
+  "name": "liberty",
+  "generations": [
+    {
+      "slug": "liberty-0",
+      "name": "liberty 1",
+      "year_start": 2001,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/liberty/kj-2001-2007.webp"
+      }
+    },
+    {
+      "slug": "liberty-1",
+      "name": "liberty 2",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/liberty/kk-2008-2013.webp"
+      }
+    },
+    {
+      "slug": "liberty-2",
+      "name": "liberty 3",
+      "year_start": 2007,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jeep/liberty/mk-2007-2014.webp"
+      }
+    }
+  ]
+}
