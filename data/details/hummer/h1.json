@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "hummer",
+    "name": "HUMMER"
+  },
+  "slug": "h1",
+  "name": "h1",
+  "generations": [
+    {
+      "slug": "h1-0",
+      "name": "h1 1",
+      "year_start": 1992,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/hummer/h1/1992-2006.webp"
+      }
+    }
+  ]
+}
