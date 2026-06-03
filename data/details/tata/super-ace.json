@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "super-ace",
+  "name": "super-ace",
+  "generations": [
+    {
+      "slug": "super-ace-0",
+      "name": "super-ace 1",
+      "year_start": 2009,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/super-ace/2009-now.webp"
+      }
+    }
+  ]
+}

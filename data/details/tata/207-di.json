@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "207-di",
+  "name": "207-di",
+  "generations": [
+    {
+      "slug": "207-di-0",
+      "name": "207-di 1",
+      "year_start": 2002,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/207-di/2002-2023.webp"
+      }
+    }
+  ]
+}

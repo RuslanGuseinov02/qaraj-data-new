@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "xenon",
+  "name": "xenon",
+  "generations": [
+    {
+      "slug": "xenon-0",
+      "name": "xenon 1",
+      "year_start": 2007,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/xenon/2007-now.webp"
+      }
+    }
+  ]
+}

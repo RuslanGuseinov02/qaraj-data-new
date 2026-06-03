@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "intra-v20",
+  "name": "intra-v20",
+  "generations": [
+    {
+      "slug": "intra-v20-0",
+      "name": "intra-v20 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/intra-v20/2019-now.webp"
+      }
+    }
+  ]
+}

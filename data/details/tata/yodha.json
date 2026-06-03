@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "yodha",
+  "name": "yodha",
+  "generations": [
+    {
+      "slug": "yodha-0",
+      "name": "yodha 1",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/yodha/2017-now.webp"
+      }
+    }
+  ]
+}

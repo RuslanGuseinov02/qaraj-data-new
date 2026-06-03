@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "ace-pro",
+  "name": "ace-pro",
+  "generations": [
+    {
+      "slug": "ace-pro-0",
+      "name": "ace-pro 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/ace-pro/2025-now.webp"
+      }
+    }
+  ]
+}

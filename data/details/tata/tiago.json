@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "tiago",
+  "name": "tiago",
+  "generations": [
+    {
+      "slug": "tiago-0",
+      "name": "tiago 1",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/tiago/2016-2019.webp"
+      }
+    },
+    {
+      "slug": "tiago-1",
+      "name": "tiago 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/tiago/2020-now.webp"
+      }
+    }
+  ]
+}

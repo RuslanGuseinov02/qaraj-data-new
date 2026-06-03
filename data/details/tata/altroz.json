@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "altroz",
+  "name": "altroz",
+  "generations": [
+    {
+      "slug": "altroz-0",
+      "name": "altroz 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/altroz/2019-now.webp"
+      }
+    }
+  ]
+}

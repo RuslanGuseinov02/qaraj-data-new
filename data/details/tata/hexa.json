@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "hexa",
+  "name": "hexa",
+  "generations": [
+    {
+      "slug": "hexa-0",
+      "name": "hexa 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/hexa/2017-2020.webp"
+      }
+    }
+  ]
+}

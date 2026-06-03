@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "indigo-manza",
+  "name": "indigo-manza",
+  "generations": [
+    {
+      "slug": "indigo-manza-0",
+      "name": "indigo-manza 1",
+      "year_start": 2009,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/indigo-manza/2009-2016.webp"
+      }
+    }
+  ]
+}

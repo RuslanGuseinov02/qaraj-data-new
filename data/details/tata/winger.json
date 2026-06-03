@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "winger",
+  "name": "winger",
+  "generations": [
+    {
+      "slug": "winger-0",
+      "name": "winger 1",
+      "year_start": 2007,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/winger/2007-2020.webp"
+      }
+    },
+    {
+      "slug": "winger-1",
+      "name": "winger 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/winger/2020-now.webp"
+      }
+    }
+  ]
+}

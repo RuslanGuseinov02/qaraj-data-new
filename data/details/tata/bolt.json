@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "bolt",
+  "name": "bolt",
+  "generations": [
+    {
+      "slug": "bolt-0",
+      "name": "bolt 1",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/bolt/2014-2019.webp"
+      }
+    }
+  ]
+}

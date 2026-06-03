@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "nano",
+  "name": "nano",
+  "generations": [
+    {
+      "slug": "nano-0",
+      "name": "nano 1",
+      "year_start": 2008,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/nano/2008-2015.webp"
+      }
+    }
+  ]
+}

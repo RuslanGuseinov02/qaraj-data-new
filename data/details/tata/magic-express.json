@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "magic-express",
+  "name": "magic-express",
+  "generations": [
+    {
+      "slug": "magic-express-0",
+      "name": "magic-express 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/magic-express/2020-now.webp"
+      }
+    }
+  ]
+}

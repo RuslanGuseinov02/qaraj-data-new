@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "ace-gold",
+  "name": "ace-gold",
+  "generations": [
+    {
+      "slug": "ace-gold-0",
+      "name": "ace-gold 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/ace-gold/2018-now.webp"
+      }
+    },
+    {
+      "slug": "ace-gold-1",
+      "name": "ace-gold 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/ace-gold/2023-now.webp"
+      }
+    }
+  ]
+}

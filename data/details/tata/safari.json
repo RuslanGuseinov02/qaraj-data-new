@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "safari",
+  "name": "safari",
+  "generations": [
+    {
+      "slug": "safari-0",
+      "name": "safari 1",
+      "year_start": 1998,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/safari/1998-2016.webp"
+      }
+    },
+    {
+      "slug": "safari-1",
+      "name": "safari 2",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/safari/2021-2025.webp"
+      }
+    },
+    {
+      "slug": "safari-2",
+      "name": "safari 3",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/safari/2025-now.webp"
+      }
+    }
+  ]
+}

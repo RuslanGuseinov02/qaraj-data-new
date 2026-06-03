@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "zest",
+  "name": "zest",
+  "generations": [
+    {
+      "slug": "zest-0",
+      "name": "zest 1",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/zest/2014-2019.webp"
+      }
+    }
+  ]
+}

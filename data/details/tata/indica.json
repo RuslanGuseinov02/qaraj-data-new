@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "indica",
+  "name": "indica",
+  "generations": [
+    {
+      "slug": "indica-0",
+      "name": "indica 1",
+      "year_start": 1998,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/indica/v1-1998-2001.webp"
+      }
+    },
+    {
+      "slug": "indica-1",
+      "name": "indica 2",
+      "year_start": 2001,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/indica/v2-2001-2004.webp"
+      }
+    },
+    {
+      "slug": "indica-2",
+      "name": "indica 3",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/indica/v2-2004-2008.webp"
+      }
+    },
+    {
+      "slug": "indica-3",
+      "name": "indica 4",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/indica/v2-2008-2011.webp"
+      }
+    },
+    {
+      "slug": "indica-4",
+      "name": "indica 5",
+      "year_start": 2011,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/indica/v2-2011-2018.webp"
+      }
+    }
+  ]
+}

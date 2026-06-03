@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "ace",
+  "name": "ace",
+  "generations": [
+    {
+      "slug": "ace-0",
+      "name": "ace 1",
+      "year_start": 2005,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/ace/2005-2014.webp"
+      }
+    },
+    {
+      "slug": "ace-1",
+      "name": "ace 2",
+      "year_start": 2014,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/ace/2014-now.webp"
+      }
+    }
+  ]
+}

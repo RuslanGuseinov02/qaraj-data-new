@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "aria",
+  "name": "aria",
+  "generations": [
+    {
+      "slug": "aria-0",
+      "name": "aria 1",
+      "year_start": 2010,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/aria/2010-2017.webp"
+      }
+    }
+  ]
+}

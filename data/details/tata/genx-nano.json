@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "genx-nano",
+  "name": "genx-nano",
+  "generations": [
+    {
+      "slug": "genx-nano-0",
+      "name": "genx-nano 1",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/genx-nano/2015-2018.webp"
+      }
+    }
+  ]
+}

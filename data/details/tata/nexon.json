@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "nexon",
+  "name": "nexon",
+  "generations": [
+    {
+      "slug": "nexon-0",
+      "name": "nexon 1",
+      "year_start": 2017,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/nexon/2017-2019.webp"
+      }
+    },
+    {
+      "slug": "nexon-1",
+      "name": "nexon 2",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/nexon/2020-2024.webp"
+      }
+    },
+    {
+      "slug": "nexon-2",
+      "name": "nexon 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/nexon/2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "tata",
+    "name": "TATA"
+  },
+  "slug": "magic",
+  "name": "magic",
+  "generations": [
+    {
+      "slug": "magic-0",
+      "name": "magic 1",
+      "year_start": 2007,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/magic/2007-2014.webp"
+      }
+    },
+    {
+      "slug": "magic-1",
+      "name": "magic 2",
+      "year_start": 2014,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/tata/magic/2014-now.webp"
+      }
+    }
+  ]
+}
