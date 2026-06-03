@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "c4l",
+  "name": "c4l",
+  "generations": [
+    {
+      "slug": "c4l-0",
+      "name": "c4l 1",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c4l/2013-2015.webp"
+      }
+    },
+    {
+      "slug": "c4l-1",
+      "name": "c4l 2",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c4l/2016-2021.webp"
+      }
+    }
+  ]
+}

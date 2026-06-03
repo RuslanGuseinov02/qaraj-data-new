@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "relay",
+  "name": "relay",
+  "generations": [
+    {
+      "slug": "relay-0",
+      "name": "relay 1",
+      "year_start": 1993,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/relay/230-1993-2001.webp"
+      }
+    },
+    {
+      "slug": "relay-1",
+      "name": "relay 2",
+      "year_start": 2002,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/relay/244-2002-2006.webp"
+      }
+    },
+    {
+      "slug": "relay-2",
+      "name": "relay 3",
+      "year_start": 2006,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/relay/250-2006-2014.webp"
+      }
+    },
+    {
+      "slug": "relay-3",
+      "name": "relay 4",
+      "year_start": 2014,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/relay/290-2014-2024.webp"
+      }
+    },
+    {
+      "slug": "relay-4",
+      "name": "relay 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/relay/290-2024-now.webp"
+      }
+    }
+  ]
+}

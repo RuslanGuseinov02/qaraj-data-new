@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "jumpy",
+  "name": "jumpy",
+  "generations": [
+    {
+      "slug": "jumpy-0",
+      "name": "jumpy 1",
+      "year_start": 1996,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/jumpy/1996-2006.webp"
+      }
+    },
+    {
+      "slug": "jumpy-1",
+      "name": "jumpy 2",
+      "year_start": 2007,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/jumpy/2007-2016.webp"
+      }
+    },
+    {
+      "slug": "jumpy-2",
+      "name": "jumpy 3",
+      "year_start": 2016,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/jumpy/2016-2024.webp"
+      }
+    },
+    {
+      "slug": "jumpy-3",
+      "name": "jumpy 4",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/jumpy/2024-now.webp"
+      }
+    }
+  ]
+}

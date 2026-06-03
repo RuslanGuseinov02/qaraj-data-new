@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "c3-aircross",
+  "name": "c3-aircross",
+  "generations": [
+    {
+      "slug": "c3-aircross-0",
+      "name": "c3-aircross 1",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c3-aircross/a88-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "c3-aircross-1",
+      "name": "c3-aircross 2",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c3-aircross/a88-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "c3-aircross-2",
+      "name": "c3-aircross 3",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c3-aircross/ai58-2010-2015.webp"
+      }
+    },
+    {
+      "slug": "c3-aircross-3",
+      "name": "c3-aircross 4",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c3-aircross/cc24-2023-now.webp"
+      }
+    },
+    {
+      "slug": "c3-aircross-4",
+      "name": "c3-aircross 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c3-aircross/cc24-eu-2024-now.webp"
+      }
+    }
+  ]
+}

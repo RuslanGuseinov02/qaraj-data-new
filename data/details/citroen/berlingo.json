@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "berlingo",
+  "name": "berlingo",
+  "generations": [
+    {
+      "slug": "berlingo-0",
+      "name": "berlingo 1",
+      "year_start": 2008,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/berlingo/b9-2008-2015.webp"
+      }
+    },
+    {
+      "slug": "berlingo-1",
+      "name": "berlingo 2",
+      "year_start": 2015,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/berlingo/b9-2015-2022.webp"
+      }
+    },
+    {
+      "slug": "berlingo-2",
+      "name": "berlingo 3",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/berlingo/k9-2018-2024.webp"
+      }
+    },
+    {
+      "slug": "berlingo-3",
+      "name": "berlingo 4",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/berlingo/k9-2024-now.webp"
+      }
+    },
+    {
+      "slug": "berlingo-4",
+      "name": "berlingo 5",
+      "year_start": 1996,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/berlingo/m49-1996-2002.webp"
+      }
+    },
+    {
+      "slug": "berlingo-5",
+      "name": "berlingo 6",
+      "year_start": 2002,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/berlingo/m59-2002-2012.webp"
+      }
+    }
+  ]
+}

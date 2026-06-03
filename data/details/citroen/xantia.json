@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "xantia",
+  "name": "xantia",
+  "generations": [
+    {
+      "slug": "xantia-0",
+      "name": "xantia 1",
+      "year_start": 1993,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/xantia/x1-1993-1997.webp"
+      }
+    },
+    {
+      "slug": "xantia-1",
+      "name": "xantia 2",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/xantia/x2-1998-2002.webp"
+      }
+    }
+  ]
+}

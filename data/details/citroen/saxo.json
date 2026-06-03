@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "saxo",
+  "name": "saxo",
+  "generations": [
+    {
+      "slug": "saxo-0",
+      "name": "saxo 1",
+      "year_start": 1996,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/saxo/mk1-1996-1999.webp"
+      }
+    },
+    {
+      "slug": "saxo-1",
+      "name": "saxo 2",
+      "year_start": 2000,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/saxo/mk2-2000-2004.webp"
+      }
+    }
+  ]
+}

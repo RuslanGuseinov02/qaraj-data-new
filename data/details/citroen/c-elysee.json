@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "c-elysee",
+  "name": "c-elysee",
+  "generations": [
+    {
+      "slug": "c-elysee-0",
+      "name": "c-elysee 1",
+      "year_start": 2012,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c-elysee/2012-2017.webp"
+      }
+    },
+    {
+      "slug": "c-elysee-1",
+      "name": "c-elysee 2",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c-elysee/2017-2022.webp"
+      }
+    }
+  ]
+}

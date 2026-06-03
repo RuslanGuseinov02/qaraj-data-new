@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "c3l",
+  "name": "c3l",
+  "generations": [
+    {
+      "slug": "c3l-0",
+      "name": "c3l 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c3l/2020-2023.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "aircross",
+  "name": "aircross",
+  "generations": [
+    {
+      "slug": "aircross-0",
+      "name": "aircross 1",
+      "year_start": 2010,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/aircross/ai58-2010-2015.webp"
+      }
+    },
+    {
+      "slug": "aircross-1",
+      "name": "aircross 2",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/aircross/ai58r-2016-2021.webp"
+      }
+    },
+    {
+      "slug": "aircross-2",
+      "name": "aircross 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/aircross/cc24-2023-now.webp"
+      }
+    }
+  ]
+}

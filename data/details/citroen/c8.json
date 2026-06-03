@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "c8",
+  "name": "c8",
+  "generations": [
+    {
+      "slug": "c8-0",
+      "name": "c8 1",
+      "year_start": 2002,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c8/e-2002-2014.webp"
+      }
+    }
+  ]
+}

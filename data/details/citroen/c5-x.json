@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "c5-x",
+  "name": "c5-x",
+  "generations": [
+    {
+      "slug": "c5-x-0",
+      "name": "c5-x 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c5-x/2021-now.webp"
+      }
+    }
+  ]
+}

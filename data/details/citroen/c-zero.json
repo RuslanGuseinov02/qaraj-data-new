@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "c-zero",
+  "name": "c-zero",
+  "generations": [
+    {
+      "slug": "c-zero-0",
+      "name": "c-zero 1",
+      "year_start": 2010,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c-zero/2010-2020.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "c4",
+  "name": "c4",
+  "generations": [
+    {
+      "slug": "c4-0",
+      "name": "c4 1",
+      "year_start": 2004,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c4/2004-2011.webp"
+      }
+    },
+    {
+      "slug": "c4-1",
+      "name": "c4 2",
+      "year_start": 2011,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c4/b7-2011-2018.webp"
+      }
+    },
+    {
+      "slug": "c4-2",
+      "name": "c4 3",
+      "year_start": 2016,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c4/b7-2016-2022.webp"
+      }
+    },
+    {
+      "slug": "c4-3",
+      "name": "c4 4",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c4/c41-2020-2025.webp"
+      }
+    },
+    {
+      "slug": "c4-4",
+      "name": "c4 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c4/c41-2024-now.webp"
+      }
+    }
+  ]
+}

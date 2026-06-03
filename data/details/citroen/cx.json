@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "cx",
+  "name": "cx",
+  "generations": [
+    {
+      "slug": "cx-0",
+      "name": "cx 1",
+      "year_start": 1974,
+      "year_end": 1985,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/cx/1974-1985.webp"
+      }
+    },
+    {
+      "slug": "cx-1",
+      "name": "cx 2",
+      "year_start": 1985,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/cx/1985-1992.webp"
+      }
+    }
+  ]
+}

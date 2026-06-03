@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "xsara",
+  "name": "xsara",
+  "generations": [
+    {
+      "slug": "xsara-0",
+      "name": "xsara 1",
+      "year_start": 1997,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/xsara/n-1997-2000.webp"
+      }
+    },
+    {
+      "slug": "xsara-1",
+      "name": "xsara 2",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/xsara/n-2000-2006.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "c4-picasso",
+  "name": "c4-picasso",
+  "generations": [
+    {
+      "slug": "c4-picasso-0",
+      "name": "c4-picasso 1",
+      "year_start": 2006,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c4-picasso/2006-2013.webp"
+      }
+    },
+    {
+      "slug": "c4-picasso-1",
+      "name": "c4-picasso 2",
+      "year_start": 2013,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c4-picasso/2013-2021.webp"
+      }
+    }
+  ]
+}

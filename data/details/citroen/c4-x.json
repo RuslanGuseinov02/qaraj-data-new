@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "c4-x",
+  "name": "c4-x",
+  "generations": [
+    {
+      "slug": "c4-x-0",
+      "name": "c4-x 1",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c4-x/c43-2022-2025.webp"
+      }
+    },
+    {
+      "slug": "c4-x-1",
+      "name": "c4-x 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c4-x/c43-2024-now.webp"
+      }
+    }
+  ]
+}

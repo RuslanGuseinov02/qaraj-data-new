@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "c3",
+  "name": "c3",
+  "generations": [
+    {
+      "slug": "c3-0",
+      "name": "c3 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c3/cc21-2022-2026.webp"
+      }
+    },
+    {
+      "slug": "c3-1",
+      "name": "c3 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c3/cc21-eu-2024-now.webp"
+      }
+    },
+    {
+      "slug": "c3-2",
+      "name": "c3 3",
+      "year_start": 2002,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c3/fc-fn-2002-2009.webp"
+      }
+    },
+    {
+      "slug": "c3-3",
+      "name": "c3 4",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c3/sc-2009-2012.webp"
+      }
+    },
+    {
+      "slug": "c3-4",
+      "name": "c3 5",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c3/sc-2013-2015.webp"
+      }
+    },
+    {
+      "slug": "c3-5",
+      "name": "c3 6",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c3/sx-sy-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "c3-6",
+      "name": "c3 7",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c3/sx-sy-2020-2024.webp"
+      }
+    }
+  ]
+}

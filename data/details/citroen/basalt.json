@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "basalt",
+  "name": "basalt",
+  "generations": [
+    {
+      "slug": "basalt-0",
+      "name": "basalt 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/basalt/cc26-2024-now.webp"
+      }
+    }
+  ]
+}

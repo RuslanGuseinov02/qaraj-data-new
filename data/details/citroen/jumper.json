@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "jumper",
+  "name": "jumper",
+  "generations": [
+    {
+      "slug": "jumper-0",
+      "name": "jumper 1",
+      "year_start": 1993,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/jumper/230-1993-2001.webp"
+      }
+    },
+    {
+      "slug": "jumper-1",
+      "name": "jumper 2",
+      "year_start": 2002,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/jumper/244-2002-2006.webp"
+      }
+    },
+    {
+      "slug": "jumper-2",
+      "name": "jumper 3",
+      "year_start": 2006,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/jumper/250-2006-2014.webp"
+      }
+    },
+    {
+      "slug": "jumper-3",
+      "name": "jumper 4",
+      "year_start": 2014,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/jumper/290-2014-2024.webp"
+      }
+    },
+    {
+      "slug": "jumper-4",
+      "name": "jumper 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/jumper/290-2024-now.webp"
+      }
+    }
+  ]
+}

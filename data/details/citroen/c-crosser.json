@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "c-crosser",
+  "name": "c-crosser",
+  "generations": [
+    {
+      "slug": "c-crosser-0",
+      "name": "c-crosser 1",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c-crosser/gs-2007-2012.webp"
+      }
+    }
+  ]
+}

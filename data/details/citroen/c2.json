@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "c2",
+  "name": "c2",
+  "generations": [
+    {
+      "slug": "c2-0",
+      "name": "c2 1",
+      "year_start": 2006,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c2/aj-2006-2012.webp"
+      }
+    },
+    {
+      "slug": "c2-1",
+      "name": "c2 2",
+      "year_start": 2003,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c2/jm-2003-2009.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "c5-aircross",
+  "name": "c5-aircross",
+  "generations": [
+    {
+      "slug": "c5-aircross-0",
+      "name": "c5-aircross 1",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c5-aircross/2017-2022.webp"
+      }
+    },
+    {
+      "slug": "c5-aircross-1",
+      "name": "c5-aircross 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c5-aircross/2022-now.webp"
+      }
+    }
+  ]
+}

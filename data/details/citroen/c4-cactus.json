@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "c4-cactus",
+  "name": "c4-cactus",
+  "generations": [
+    {
+      "slug": "c4-cactus-0",
+      "name": "c4-cactus 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c4-cactus/2014-2017.webp"
+      }
+    },
+    {
+      "slug": "c4-cactus-1",
+      "name": "c4-cactus 2",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c4-cactus/2018-now.webp"
+      }
+    }
+  ]
+}

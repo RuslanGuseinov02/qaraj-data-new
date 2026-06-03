@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "bx",
+  "name": "bx",
+  "generations": [
+    {
+      "slug": "bx-0",
+      "name": "bx 1",
+      "year_start": 1982,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/bx/1982-1994.webp"
+      }
+    }
+  ]
+}

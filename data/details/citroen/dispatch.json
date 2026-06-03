@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "dispatch",
+  "name": "dispatch",
+  "generations": [
+    {
+      "slug": "dispatch-0",
+      "name": "dispatch 1",
+      "year_start": 1996,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/dispatch/1996-2006.webp"
+      }
+    },
+    {
+      "slug": "dispatch-1",
+      "name": "dispatch 2",
+      "year_start": 2007,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/dispatch/2007-2015.webp"
+      }
+    },
+    {
+      "slug": "dispatch-2",
+      "name": "dispatch 3",
+      "year_start": 2016,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/dispatch/2016-2024.webp"
+      }
+    },
+    {
+      "slug": "dispatch-3",
+      "name": "dispatch 4",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/dispatch/2024-now.webp"
+      }
+    }
+  ]
+}

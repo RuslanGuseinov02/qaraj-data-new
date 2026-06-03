@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "c4-sega",
+  "name": "c4-sega",
+  "generations": [
+    {
+      "slug": "c4-sega-0",
+      "name": "c4-sega 1",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c4-sega/2016-2021.webp"
+      }
+    }
+  ]
+}

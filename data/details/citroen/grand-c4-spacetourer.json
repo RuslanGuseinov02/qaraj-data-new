@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "grand-c4-spacetourer",
+  "name": "grand-c4-spacetourer",
+  "generations": [
+    {
+      "slug": "grand-c4-spacetourer-0",
+      "name": "grand-c4-spacetourer 1",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/grand-c4-spacetourer/2018-2022.webp"
+      }
+    }
+  ]
+}

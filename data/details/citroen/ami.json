@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "ami",
+  "name": "ami",
+  "generations": [
+    {
+      "slug": "ami-0",
+      "name": "ami 1",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/ami/2020-2025.webp"
+      }
+    },
+    {
+      "slug": "ami-1",
+      "name": "ami 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/ami/2025-now.webp"
+      }
+    }
+  ]
+}

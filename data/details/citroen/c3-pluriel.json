@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "c3-pluriel",
+  "name": "c3-pluriel",
+  "generations": [
+    {
+      "slug": "c3-pluriel-0",
+      "name": "c3-pluriel 1",
+      "year_start": 2003,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c3-pluriel/h-2003-2010.webp"
+      }
+    }
+  ]
+}

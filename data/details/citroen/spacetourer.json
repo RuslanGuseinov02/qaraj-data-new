@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "spacetourer",
+  "name": "spacetourer",
+  "generations": [
+    {
+      "slug": "spacetourer-0",
+      "name": "spacetourer 1",
+      "year_start": 2016,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/spacetourer/2016-2024.webp"
+      }
+    },
+    {
+      "slug": "spacetourer-1",
+      "name": "spacetourer 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/spacetourer/2024-now.webp"
+      }
+    }
+  ]
+}

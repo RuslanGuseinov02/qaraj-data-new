@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "c4-spacetourer",
+  "name": "c4-spacetourer",
+  "generations": [
+    {
+      "slug": "c4-spacetourer-0",
+      "name": "c4-spacetourer 1",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/c4-spacetourer/2018-2021.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "xsara-picasso",
+  "name": "xsara-picasso",
+  "generations": [
+    {
+      "slug": "xsara-picasso-0",
+      "name": "xsara-picasso 1",
+      "year_start": 1999,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/xsara-picasso/n68-1999-2010.webp"
+      }
+    }
+  ]
+}

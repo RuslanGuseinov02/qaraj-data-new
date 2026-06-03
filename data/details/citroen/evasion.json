@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "citroen",
+    "name": "CITROEN"
+  },
+  "slug": "evasion",
+  "name": "evasion",
+  "generations": [
+    {
+      "slug": "evasion-0",
+      "name": "evasion 1",
+      "year_start": 1994,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/citroen/evasion/e-1994-2002.webp"
+      }
+    }
+  ]
+}
