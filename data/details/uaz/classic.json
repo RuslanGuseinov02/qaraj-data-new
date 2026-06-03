@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "uaz",
+    "name": "UAZ"
+  },
+  "slug": "classic",
+  "name": "classic",
+  "generations": [
+    {
+      "slug": "classic-0",
+      "name": "classic 1",
+      "year_start": 2016,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/uaz/classic/2206-3303-3741-3909-39094-2016-now.webp"
+      }
+    }
+  ]
+}

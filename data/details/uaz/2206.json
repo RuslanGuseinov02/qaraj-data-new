@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "uaz",
+    "name": "UAZ"
+  },
+  "slug": "2206",
+  "name": "2206",
+  "generations": [
+    {
+      "slug": "2206-0",
+      "name": "2206 1",
+      "year_start": 1985,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/uaz/2206/1985-2016.webp"
+      }
+    }
+  ]
+}

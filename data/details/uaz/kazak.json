@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "uaz",
+    "name": "UAZ"
+  },
+  "slug": "kazak",
+  "name": "kazak",
+  "generations": [
+    {
+      "slug": "kazak-0",
+      "name": "kazak 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/uaz/kazak/3163-2019-now.webp"
+      }
+    }
+  ]
+}

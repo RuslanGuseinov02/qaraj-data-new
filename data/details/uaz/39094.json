@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "uaz",
+    "name": "UAZ"
+  },
+  "slug": "39094",
+  "name": "39094",
+  "generations": [
+    {
+      "slug": "39094-0",
+      "name": "39094 1",
+      "year_start": 1996,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/uaz/39094/1996-2016.webp"
+      }
+    }
+  ]
+}

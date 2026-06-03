@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "uaz",
+    "name": "UAZ"
+  },
+  "slug": "hunter",
+  "name": "hunter",
+  "generations": [
+    {
+      "slug": "hunter-0",
+      "name": "hunter 1",
+      "year_start": 2003,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/uaz/hunter/3151-2003-now.webp"
+      }
+    }
+  ]
+}

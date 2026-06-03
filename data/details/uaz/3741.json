@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "uaz",
+    "name": "UAZ"
+  },
+  "slug": "3741",
+  "name": "3741",
+  "generations": [
+    {
+      "slug": "3741-0",
+      "name": "3741 1",
+      "year_start": 1985,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/uaz/3741/1985-2016.webp"
+      }
+    }
+  ]
+}

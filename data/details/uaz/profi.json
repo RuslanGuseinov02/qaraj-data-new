@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "uaz",
+    "name": "UAZ"
+  },
+  "slug": "profi",
+  "name": "profi",
+  "generations": [
+    {
+      "slug": "profi-0",
+      "name": "profi 1",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/uaz/profi/236x-2017-now.webp"
+      }
+    }
+  ]
+}
