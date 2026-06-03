@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "microcar",
+    "name": "MICROCAR"
+  },
+  "slug": "f8c",
+  "name": "f8c",
+  "generations": [
+    {
+      "slug": "f8c-0",
+      "name": "f8c 1",
+      "year_start": 2009,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/microcar/f8c/2009-2015.webp"
+      }
+    }
+  ]
+}

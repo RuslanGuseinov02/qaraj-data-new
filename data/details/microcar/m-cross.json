@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "microcar",
+    "name": "MICROCAR"
+  },
+  "slug": "m-cross",
+  "name": "m-cross",
+  "generations": [
+    {
+      "slug": "m-cross-0",
+      "name": "m-cross 1",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/microcar/m-cross/2018-2024.webp"
+      }
+    }
+  ]
+}

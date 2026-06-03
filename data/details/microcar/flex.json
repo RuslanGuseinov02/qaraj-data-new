@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "microcar",
+    "name": "MICROCAR"
+  },
+  "slug": "flex",
+  "name": "flex",
+  "generations": [
+    {
+      "slug": "flex-0",
+      "name": "flex 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/microcar/flex/2014-2017.webp"
+      }
+    }
+  ]
+}
