@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "qiantu",
+    "name": "QIANTU"
+  },
+  "slug": "k50",
+  "name": "k50",
+  "generations": [
+    {
+      "slug": "k50-0",
+      "name": "k50 1",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/qiantu/k50/2018-2020.webp"
+      }
+    }
+  ]
+}
