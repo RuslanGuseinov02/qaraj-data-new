@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "ssangyong",
+    "name": "SSANGYONG"
+  },
+  "slug": "rexton",
+  "name": "rexton",
+  "generations": [
+    {
+      "slug": "rexton-0",
+      "name": "rexton 1",
+      "year_start": 2001,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/rexton/y200-2001-2006.webp"
+      }
+    },
+    {
+      "slug": "rexton-1",
+      "name": "rexton 2",
+      "year_start": 2006,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/rexton/y250-2006-2016.webp"
+      }
+    },
+    {
+      "slug": "rexton-2",
+      "name": "rexton 3",
+      "year_start": 2012,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/rexton/y300-2012-2017.webp"
+      }
+    },
+    {
+      "slug": "rexton-3",
+      "name": "rexton 4",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/rexton/y400-2017-2023.webp"
+      }
+    },
+    {
+      "slug": "rexton-4",
+      "name": "rexton 5",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/rexton/y400-2020-2024.webp"
+      }
+    }
+  ]
+}

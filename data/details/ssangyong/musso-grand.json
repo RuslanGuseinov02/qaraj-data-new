@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ssangyong",
+    "name": "SSANGYONG"
+  },
+  "slug": "musso-grand",
+  "name": "musso-grand",
+  "generations": [
+    {
+      "slug": "musso-grand-0",
+      "name": "musso-grand 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/musso-grand/q200-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "musso-grand-1",
+      "name": "musso-grand 2",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/musso-grand/q200-2021-2024.webp"
+      }
+    }
+  ]
+}

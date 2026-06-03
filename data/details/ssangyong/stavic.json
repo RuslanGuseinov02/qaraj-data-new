@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "ssangyong",
+    "name": "SSANGYONG"
+  },
+  "slug": "stavic",
+  "name": "stavic",
+  "generations": [
+    {
+      "slug": "stavic-0",
+      "name": "stavic 1",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/stavic/2013-2018.webp"
+      }
+    },
+    {
+      "slug": "stavic-1",
+      "name": "stavic 2",
+      "year_start": 2019,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/stavic/2019-2023.webp"
+      }
+    },
+    {
+      "slug": "stavic-2",
+      "name": "stavic 3",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/stavic/a100-2005-2007.webp"
+      }
+    },
+    {
+      "slug": "stavic-3",
+      "name": "stavic 4",
+      "year_start": 2007,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/stavic/a100-2007-2013.webp"
+      }
+    }
+  ]
+}

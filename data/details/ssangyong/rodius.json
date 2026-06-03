@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "ssangyong",
+    "name": "SSANGYONG"
+  },
+  "slug": "rodius",
+  "name": "rodius",
+  "generations": [
+    {
+      "slug": "rodius-0",
+      "name": "rodius 1",
+      "year_start": 2004,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/rodius/2004-2007.webp"
+      }
+    },
+    {
+      "slug": "rodius-1",
+      "name": "rodius 2",
+      "year_start": 2007,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/rodius/2007-2013.webp"
+      }
+    },
+    {
+      "slug": "rodius-2",
+      "name": "rodius 3",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/rodius/2013-2018.webp"
+      }
+    },
+    {
+      "slug": "rodius-3",
+      "name": "rodius 4",
+      "year_start": 2018,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/rodius/2018-2019.webp"
+      }
+    }
+  ]
+}

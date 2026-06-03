@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "ssangyong",
+    "name": "SSANGYONG"
+  },
+  "slug": "korando",
+  "name": "korando",
+  "generations": [
+    {
+      "slug": "korando-0",
+      "name": "korando 1",
+      "year_start": 1996,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/korando/1996-2006.webp"
+      }
+    },
+    {
+      "slug": "korando-1",
+      "name": "korando 2",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/korando/c200-2010-2012.webp"
+      }
+    },
+    {
+      "slug": "korando-2",
+      "name": "korando 3",
+      "year_start": 2013,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/korando/c200-2013-2024.webp"
+      }
+    },
+    {
+      "slug": "korando-3",
+      "name": "korando 4",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/korando/c200-2017-2023.webp"
+      }
+    },
+    {
+      "slug": "korando-4",
+      "name": "korando 5",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/korando/c300-2019-2024.webp"
+      }
+    }
+  ]
+}

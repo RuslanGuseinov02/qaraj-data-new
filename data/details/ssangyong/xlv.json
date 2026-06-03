@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "ssangyong",
+    "name": "SSANGYONG"
+  },
+  "slug": "xlv",
+  "name": "xlv",
+  "generations": [
+    {
+      "slug": "xlv-0",
+      "name": "xlv 1",
+      "year_start": 2016,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/xlv/2016-2023.webp"
+      }
+    },
+    {
+      "slug": "xlv-1",
+      "name": "xlv 2",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/xlv/2020-2023.webp"
+      }
+    },
+    {
+      "slug": "xlv-2",
+      "name": "xlv 3",
+      "year_start": 2023,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/xlv/2023-2024.webp"
+      }
+    }
+  ]
+}

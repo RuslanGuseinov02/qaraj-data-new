@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ssangyong",
+    "name": "SSANGYONG"
+  },
+  "slug": "rhino",
+  "name": "rhino",
+  "generations": [
+    {
+      "slug": "rhino-0",
+      "name": "rhino 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/rhino/q200-2021-2024.webp"
+      }
+    }
+  ]
+}

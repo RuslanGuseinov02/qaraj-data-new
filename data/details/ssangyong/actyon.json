@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "ssangyong",
+    "name": "SSANGYONG"
+  },
+  "slug": "actyon",
+  "name": "actyon",
+  "generations": [
+    {
+      "slug": "actyon-0",
+      "name": "actyon 1",
+      "year_start": 2005,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/actyon/2005-2016.webp"
+      }
+    },
+    {
+      "slug": "actyon-1",
+      "name": "actyon 2",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/actyon/2010-2013.webp"
+      }
+    },
+    {
+      "slug": "actyon-2",
+      "name": "actyon 3",
+      "year_start": 2013,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/actyon/2013-2021.webp"
+      }
+    }
+  ]
+}

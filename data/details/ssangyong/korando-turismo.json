@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ssangyong",
+    "name": "SSANGYONG"
+  },
+  "slug": "korando-turismo",
+  "name": "korando-turismo",
+  "generations": [
+    {
+      "slug": "korando-turismo-0",
+      "name": "korando-turismo 1",
+      "year_start": 2013,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/korando-turismo/a150-2013-2021.webp"
+      }
+    },
+    {
+      "slug": "korando-turismo-1",
+      "name": "korando-turismo 2",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/korando-turismo/a170-2018-2020.webp"
+      }
+    }
+  ]
+}

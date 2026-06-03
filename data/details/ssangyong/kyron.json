@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ssangyong",
+    "name": "SSANGYONG"
+  },
+  "slug": "kyron",
+  "name": "kyron",
+  "generations": [
+    {
+      "slug": "kyron-0",
+      "name": "kyron 1",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/kyron/2005-2007.webp"
+      }
+    },
+    {
+      "slug": "kyron-1",
+      "name": "kyron 2",
+      "year_start": 2007,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/kyron/2007-2016.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "ssangyong",
+    "name": "SSANGYONG"
+  },
+  "slug": "musso",
+  "name": "musso",
+  "generations": [
+    {
+      "slug": "musso-0",
+      "name": "musso 1",
+      "year_start": 1993,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/musso/mj-1993-2006.webp"
+      }
+    },
+    {
+      "slug": "musso-1",
+      "name": "musso 2",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/musso/q200-2018-2023.webp"
+      }
+    },
+    {
+      "slug": "musso-2",
+      "name": "musso 3",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/musso/q200-2021-2024.webp"
+      }
+    }
+  ]
+}

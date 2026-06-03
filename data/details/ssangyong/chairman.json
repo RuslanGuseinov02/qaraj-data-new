@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "ssangyong",
+    "name": "SSANGYONG"
+  },
+  "slug": "chairman",
+  "name": "chairman",
+  "generations": [
+    {
+      "slug": "chairman-0",
+      "name": "chairman 1",
+      "year_start": 1997,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/chairman/h-1997-2014.webp"
+      }
+    },
+    {
+      "slug": "chairman-1",
+      "name": "chairman 2",
+      "year_start": 2008,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/chairman/w-2008-2024.webp"
+      }
+    }
+  ]
+}

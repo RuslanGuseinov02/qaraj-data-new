@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "ssangyong",
+    "name": "SSANGYONG"
+  },
+  "slug": "luvi",
+  "name": "luvi",
+  "generations": [
+    {
+      "slug": "luvi-0",
+      "name": "luvi 1",
+      "year_start": 2015,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/ssangyong/luvi/2015-2021.webp"
+      }
+    }
+  ]
+}
