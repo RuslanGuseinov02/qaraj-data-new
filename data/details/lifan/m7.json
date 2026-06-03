@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lifan",
+    "name": "LIFAN"
+  },
+  "slug": "m7",
+  "name": "m7",
+  "generations": [
+    {
+      "slug": "m7-0",
+      "name": "m7 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lifan/m7/2017-2020.webp"
+      }
+    }
+  ]
+}

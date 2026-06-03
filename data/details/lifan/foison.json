@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lifan",
+    "name": "LIFAN"
+  },
+  "slug": "foison",
+  "name": "foison",
+  "generations": [
+    {
+      "slug": "foison-0",
+      "name": "foison 1",
+      "year_start": 2014,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lifan/foison/2014-2023.webp"
+      }
+    }
+  ]
+}

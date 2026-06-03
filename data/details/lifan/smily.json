@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "lifan",
+    "name": "LIFAN"
+  },
+  "slug": "smily",
+  "name": "smily",
+  "generations": [
+    {
+      "slug": "smily-0",
+      "name": "smily 1",
+      "year_start": 2008,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lifan/smily/320-2008-2015.webp"
+      }
+    },
+    {
+      "slug": "smily-1",
+      "name": "smily 2",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lifan/smily/330-2015-2018.webp"
+      }
+    }
+  ]
+}

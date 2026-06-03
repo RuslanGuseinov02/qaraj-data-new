@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lifan",
+    "name": "LIFAN"
+  },
+  "slug": "320",
+  "name": "320",
+  "generations": [
+    {
+      "slug": "320-0",
+      "name": "320 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lifan/320/2008-2012.webp"
+      }
+    }
+  ]
+}

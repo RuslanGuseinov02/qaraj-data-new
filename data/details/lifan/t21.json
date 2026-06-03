@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lifan",
+    "name": "LIFAN"
+  },
+  "slug": "t21",
+  "name": "t21",
+  "generations": [
+    {
+      "slug": "t21-0",
+      "name": "t21 1",
+      "year_start": 2013,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lifan/t21/2013-2013.webp"
+      }
+    }
+  ]
+}

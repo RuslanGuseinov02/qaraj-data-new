@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "lifan",
+    "name": "LIFAN"
+  },
+  "slug": "x60",
+  "name": "x60",
+  "generations": [
+    {
+      "slug": "x60-0",
+      "name": "x60 1",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lifan/x60/2011-2015.webp"
+      }
+    },
+    {
+      "slug": "x60-1",
+      "name": "x60 2",
+      "year_start": 2015,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lifan/x60/2015-2016.webp"
+      }
+    },
+    {
+      "slug": "x60-2",
+      "name": "x60 3",
+      "year_start": 2016,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lifan/x60/2016-2023.webp"
+      }
+    }
+  ]
+}

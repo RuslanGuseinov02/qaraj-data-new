@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lifan",
+    "name": "LIFAN"
+  },
+  "slug": "murman",
+  "name": "murman",
+  "generations": [
+    {
+      "slug": "murman-0",
+      "name": "murman 1",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lifan/murman/820-2017-2023.webp"
+      }
+    }
+  ]
+}

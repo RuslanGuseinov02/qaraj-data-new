@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lifan",
+    "name": "LIFAN"
+  },
+  "slug": "650",
+  "name": "650",
+  "generations": [
+    {
+      "slug": "650-0",
+      "name": "650 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lifan/650/2016-2020.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "lifan",
+    "name": "LIFAN"
+  },
+  "slug": "solano",
+  "name": "solano",
+  "generations": [
+    {
+      "slug": "solano-0",
+      "name": "solano 1",
+      "year_start": 2008,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lifan/solano/620-2008-2014.webp"
+      }
+    },
+    {
+      "slug": "solano-1",
+      "name": "solano 2",
+      "year_start": 2014,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lifan/solano/630-2014-2016.webp"
+      }
+    },
+    {
+      "slug": "solano-2",
+      "name": "solano 3",
+      "year_start": 2016,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lifan/solano/650-2016-2023.webp"
+      }
+    }
+  ]
+}

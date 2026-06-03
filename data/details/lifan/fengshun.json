@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lifan",
+    "name": "LIFAN"
+  },
+  "slug": "fengshun",
+  "name": "fengshun",
+  "generations": [
+    {
+      "slug": "fengshun-0",
+      "name": "fengshun 1",
+      "year_start": 2011,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lifan/fengshun/2011-2011.webp"
+      }
+    }
+  ]
+}
