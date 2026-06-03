@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "integra-type-s",
+  "name": "integra-type-s",
+  "generations": [
+    {
+      "slug": "integra-type-s-0",
+      "name": "integra-type-s 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/integra-type-s/de5-2023-now.webp"
+      }
+    }
+  ]
+}

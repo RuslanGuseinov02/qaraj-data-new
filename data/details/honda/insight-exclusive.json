@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "insight-exclusive",
+  "name": "insight-exclusive",
+  "generations": [
+    {
+      "slug": "insight-exclusive-0",
+      "name": "insight-exclusive 1",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/insight-exclusive/2011-2014.webp"
+      }
+    }
+  ]
+}

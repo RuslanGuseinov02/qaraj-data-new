@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "elevate",
+  "name": "elevate",
+  "generations": [
+    {
+      "slug": "elevate-0",
+      "name": "elevate 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/elevate/2023-now.webp"
+      }
+    }
+  ]
+}

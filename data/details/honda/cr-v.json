@@ -1,0 +1,120 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "cr-v",
+  "name": "cr-v",
+  "generations": [
+    {
+      "slug": "cr-v-0",
+      "name": "cr-v 1",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/cr-v/rd1-rd2-rd3-1995-1999.webp"
+      }
+    },
+    {
+      "slug": "cr-v-1",
+      "name": "cr-v 2",
+      "year_start": 1998,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/cr-v/rd1-rd2-rd3-1998-2001.webp"
+      }
+    },
+    {
+      "slug": "cr-v-2",
+      "name": "cr-v 3",
+      "year_start": 2001,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/cr-v/rd4-rd5-rd6-rd7-rd9-2001-2005.webp"
+      }
+    },
+    {
+      "slug": "cr-v-3",
+      "name": "cr-v 4",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/cr-v/rd4-rd5-rd6-rd7-rd9-2004-2006.webp"
+      }
+    },
+    {
+      "slug": "cr-v-4",
+      "name": "cr-v 5",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/cr-v/re1-re2-re3-re4-re5-re7-2006-2010.webp"
+      }
+    },
+    {
+      "slug": "cr-v-5",
+      "name": "cr-v 6",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/cr-v/re1-re2-re3-re4-re5-re7-2009-2012.webp"
+      }
+    },
+    {
+      "slug": "cr-v-6",
+      "name": "cr-v 7",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/cr-v/rm1-rm3-rm4-2011-2016.webp"
+      }
+    },
+    {
+      "slug": "cr-v-7",
+      "name": "cr-v 8",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/cr-v/rm1-rm3-rm4-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "cr-v-8",
+      "name": "cr-v 9",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/cr-v/rs-2022-now.webp"
+      }
+    },
+    {
+      "slug": "cr-v-9",
+      "name": "cr-v 10",
+      "year_start": 2017,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/cr-v/rw-rt-2017-2024.webp"
+      }
+    },
+    {
+      "slug": "cr-v-10",
+      "name": "cr-v 11",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/cr-v/rw-rt-2019-2024.webp"
+      }
+    }
+  ]
+}

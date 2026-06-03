@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "stream",
+  "name": "stream",
+  "generations": [
+    {
+      "slug": "stream-0",
+      "name": "stream 1",
+      "year_start": 2000,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/stream/2000-2004.webp"
+      }
+    },
+    {
+      "slug": "stream-1",
+      "name": "stream 2",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/stream/2003-2006.webp"
+      }
+    },
+    {
+      "slug": "stream-2",
+      "name": "stream 3",
+      "year_start": 2006,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/stream/2006-2009.webp"
+      }
+    },
+    {
+      "slug": "stream-3",
+      "name": "stream 4",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/stream/2009-2014.webp"
+      }
+    }
+  ]
+}

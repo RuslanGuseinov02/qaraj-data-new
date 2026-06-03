@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "amaze",
+  "name": "amaze",
+  "generations": [
+    {
+      "slug": "amaze-0",
+      "name": "amaze 1",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/amaze/2013-2018.webp"
+      }
+    },
+    {
+      "slug": "amaze-1",
+      "name": "amaze 2",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/amaze/2018-now.webp"
+      }
+    },
+    {
+      "slug": "amaze-2",
+      "name": "amaze 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/amaze/2024-now.webp"
+      }
+    }
+  ]
+}

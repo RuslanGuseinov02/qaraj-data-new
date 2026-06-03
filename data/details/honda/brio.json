@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "brio",
+  "name": "brio",
+  "generations": [
+    {
+      "slug": "brio-0",
+      "name": "brio 1",
+      "year_start": 2011,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/brio/2011-2018.webp"
+      }
+    },
+    {
+      "slug": "brio-1",
+      "name": "brio 2",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/brio/2016-2019.webp"
+      }
+    },
+    {
+      "slug": "brio-2",
+      "name": "brio 3",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/brio/2018-2023.webp"
+      }
+    },
+    {
+      "slug": "brio-3",
+      "name": "brio 4",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/brio/2023-now.webp"
+      }
+    }
+  ]
+}

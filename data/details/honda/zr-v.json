@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "zr-v",
+  "name": "zr-v",
+  "generations": [
+    {
+      "slug": "zr-v-0",
+      "name": "zr-v 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/zr-v/rz-2022-now.webp"
+      }
+    }
+  ]
+}

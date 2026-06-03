@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "zest-spark",
+  "name": "zest-spark",
+  "generations": [
+    {
+      "slug": "zest-spark-0",
+      "name": "zest-spark 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/zest-spark/je-2008-2012.webp"
+      }
+    }
+  ]
+}

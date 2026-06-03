@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "vamos-hobio",
+  "name": "vamos-hobio",
+  "generations": [
+    {
+      "slug": "vamos-hobio-0",
+      "name": "vamos-hobio 1",
+      "year_start": 2003,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/vamos-hobio/2003-2018.webp"
+      }
+    }
+  ]
+}

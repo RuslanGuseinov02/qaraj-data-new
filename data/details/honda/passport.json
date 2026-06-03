@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "passport",
+  "name": "passport",
+  "generations": [
+    {
+      "slug": "passport-0",
+      "name": "passport 1",
+      "year_start": 1994,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/passport/1994-1997.webp"
+      }
+    },
+    {
+      "slug": "passport-1",
+      "name": "passport 2",
+      "year_start": 1998,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/passport/1998-1999.webp"
+      }
+    },
+    {
+      "slug": "passport-2",
+      "name": "passport 3",
+      "year_start": 2000,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/passport/2000-2002.webp"
+      }
+    },
+    {
+      "slug": "passport-3",
+      "name": "passport 4",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/passport/2019-2021.webp"
+      }
+    },
+    {
+      "slug": "passport-4",
+      "name": "passport 5",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/passport/2022-2025.webp"
+      }
+    },
+    {
+      "slug": "passport-5",
+      "name": "passport 6",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/passport/yf9-2025-now.webp"
+      }
+    }
+  ]
+}

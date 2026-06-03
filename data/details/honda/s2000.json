@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "s2000",
+  "name": "s2000",
+  "generations": [
+    {
+      "slug": "s2000-0",
+      "name": "s2000 1",
+      "year_start": 1999,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/s2000/ap-1999-2003.webp"
+      }
+    },
+    {
+      "slug": "s2000-1",
+      "name": "s2000 2",
+      "year_start": 2003,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/s2000/ap-2003-2009.webp"
+      }
+    }
+  ]
+}

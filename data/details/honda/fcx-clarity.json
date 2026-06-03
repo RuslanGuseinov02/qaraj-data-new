@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "fcx-clarity",
+  "name": "fcx-clarity",
+  "generations": [
+    {
+      "slug": "fcx-clarity-0",
+      "name": "fcx-clarity 1",
+      "year_start": 2008,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/fcx-clarity/2008-2016.webp"
+      }
+    }
+  ]
+}

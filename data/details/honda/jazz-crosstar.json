@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "jazz-crosstar",
+  "name": "jazz-crosstar",
+  "generations": [
+    {
+      "slug": "jazz-crosstar-0",
+      "name": "jazz-crosstar 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/jazz-crosstar/gr-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "jazz-crosstar-1",
+      "name": "jazz-crosstar 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/jazz-crosstar/gr-2022-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "domani",
+  "name": "domani",
+  "generations": [
+    {
+      "slug": "domani-0",
+      "name": "domani 1",
+      "year_start": 1992,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/domani/1992-1997.webp"
+      }
+    },
+    {
+      "slug": "domani-1",
+      "name": "domani 2",
+      "year_start": 1997,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/domani/1997-2001.webp"
+      }
+    }
+  ]
+}

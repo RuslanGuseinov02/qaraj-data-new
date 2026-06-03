@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "street",
+  "name": "street",
+  "generations": [
+    {
+      "slug": "street-0",
+      "name": "street 1",
+      "year_start": 1988,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/street/1988-1993.webp"
+      }
+    },
+    {
+      "slug": "street-1",
+      "name": "street 2",
+      "year_start": 1993,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/street/1993-1998.webp"
+      }
+    }
+  ]
+}

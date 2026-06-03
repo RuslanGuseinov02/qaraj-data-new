@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "e-ns2",
+  "name": "e-ns2",
+  "generations": [
+    {
+      "slug": "e-ns2-0",
+      "name": "e-ns2 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/e-ns2/2024-now.webp"
+      }
+    }
+  ]
+}

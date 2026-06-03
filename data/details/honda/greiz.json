@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "greiz",
+  "name": "greiz",
+  "generations": [
+    {
+      "slug": "greiz-0",
+      "name": "greiz 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/greiz/2016-2020.webp"
+      }
+    }
+  ]
+}

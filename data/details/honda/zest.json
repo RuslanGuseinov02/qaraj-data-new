@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "zest",
+  "name": "zest",
+  "generations": [
+    {
+      "slug": "zest-0",
+      "name": "zest 1",
+      "year_start": 2006,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/zest/je-2006-2012.webp"
+      }
+    }
+  ]
+}

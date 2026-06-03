@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "cr-x",
+  "name": "cr-x",
+  "generations": [
+    {
+      "slug": "cr-x-0",
+      "name": "cr-x 1",
+      "year_start": 1983,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/cr-x/1983-1987.webp"
+      }
+    },
+    {
+      "slug": "cr-x-1",
+      "name": "cr-x 2",
+      "year_start": 1987,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/cr-x/1987-1992.webp"
+      }
+    },
+    {
+      "slug": "cr-x-2",
+      "name": "cr-x 3",
+      "year_start": 1992,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/cr-x/1992-1998.webp"
+      }
+    }
+  ]
+}

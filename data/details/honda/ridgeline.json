@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "ridgeline",
+  "name": "ridgeline",
+  "generations": [
+    {
+      "slug": "ridgeline-0",
+      "name": "ridgeline 1",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/ridgeline/2005-2008.webp"
+      }
+    },
+    {
+      "slug": "ridgeline-1",
+      "name": "ridgeline 2",
+      "year_start": 2009,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/ridgeline/2009-2011.webp"
+      }
+    },
+    {
+      "slug": "ridgeline-2",
+      "name": "ridgeline 3",
+      "year_start": 2012,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/ridgeline/2012-2014.webp"
+      }
+    },
+    {
+      "slug": "ridgeline-3",
+      "name": "ridgeline 4",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/ridgeline/2016-2020.webp"
+      }
+    },
+    {
+      "slug": "ridgeline-4",
+      "name": "ridgeline 5",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/ridgeline/2021-now.webp"
+      }
+    }
+  ]
+}

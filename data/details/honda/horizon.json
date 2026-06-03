@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "horizon",
+  "name": "horizon",
+  "generations": [
+    {
+      "slug": "horizon-0",
+      "name": "horizon 1",
+      "year_start": 1994,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/horizon/1994-1999.webp"
+      }
+    }
+  ]
+}

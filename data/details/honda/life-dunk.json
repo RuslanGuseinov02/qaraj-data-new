@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "life-dunk",
+  "name": "life-dunk",
+  "generations": [
+    {
+      "slug": "life-dunk-0",
+      "name": "life-dunk 1",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/life-dunk/2000-2003.webp"
+      }
+    }
+  ]
+}

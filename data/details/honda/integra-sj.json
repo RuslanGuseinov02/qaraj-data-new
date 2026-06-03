@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "integra-sj",
+  "name": "integra-sj",
+  "generations": [
+    {
+      "slug": "integra-sj-0",
+      "name": "integra-sj 1",
+      "year_start": 1996,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/integra-sj/1996-2001.webp"
+      }
+    }
+  ]
+}

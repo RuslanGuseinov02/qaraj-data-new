@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "fit-aria",
+  "name": "fit-aria",
+  "generations": [
+    {
+      "slug": "fit-aria-0",
+      "name": "fit-aria 1",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/fit-aria/gd-2002-2005.webp"
+      }
+    },
+    {
+      "slug": "fit-aria-1",
+      "name": "fit-aria 2",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/fit-aria/gd-2005-2009.webp"
+      }
+    }
+  ]
+}

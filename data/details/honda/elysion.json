@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "elysion",
+  "name": "elysion",
+  "generations": [
+    {
+      "slug": "elysion-0",
+      "name": "elysion 1",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/elysion/rc-2016-2021.webp"
+      }
+    },
+    {
+      "slug": "elysion-1",
+      "name": "elysion 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/elysion/rc-2022-now.webp"
+      }
+    },
+    {
+      "slug": "elysion-2",
+      "name": "elysion 3",
+      "year_start": 2004,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/elysion/rr-2004-2013.webp"
+      }
+    },
+    {
+      "slug": "elysion-3",
+      "name": "elysion 4",
+      "year_start": 2012,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/elysion/rr-2012-2015.webp"
+      }
+    }
+  ]
+}

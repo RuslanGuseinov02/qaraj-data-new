@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "elysion-prestige",
+  "name": "elysion-prestige",
+  "generations": [
+    {
+      "slug": "elysion-prestige-0",
+      "name": "elysion-prestige 1",
+      "year_start": 2007,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/elysion-prestige/rr-2007-2013.webp"
+      }
+    }
+  ]
+}

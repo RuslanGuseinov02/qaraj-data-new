@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "hr-v",
+  "name": "hr-v",
+  "generations": [
+    {
+      "slug": "hr-v-0",
+      "name": "hr-v 1",
+      "year_start": 1998,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/hr-v/gh-1998-2001.webp"
+      }
+    },
+    {
+      "slug": "hr-v-1",
+      "name": "hr-v 2",
+      "year_start": 2001,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/hr-v/gh-2001-2006.webp"
+      }
+    },
+    {
+      "slug": "hr-v-2",
+      "name": "hr-v 3",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/hr-v/ru-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "hr-v-3",
+      "name": "hr-v 4",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/hr-v/ru-2018-2023.webp"
+      }
+    },
+    {
+      "slug": "hr-v-4",
+      "name": "hr-v 5",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/hr-v/rv-2021-now.webp"
+      }
+    },
+    {
+      "slug": "hr-v-5",
+      "name": "hr-v 6",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/hr-v/rv-2024-now.webp"
+      }
+    },
+    {
+      "slug": "hr-v-6",
+      "name": "hr-v 7",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/hr-v/rz-2023-now.webp"
+      }
+    },
+    {
+      "slug": "hr-v-7",
+      "name": "hr-v 8",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/hr-v/rz-china-2023-now.webp"
+      }
+    }
+  ]
+}

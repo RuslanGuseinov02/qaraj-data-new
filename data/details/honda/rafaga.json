@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "rafaga",
+  "name": "rafaga",
+  "generations": [
+    {
+      "slug": "rafaga-0",
+      "name": "rafaga 1",
+      "year_start": 1993,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/rafaga/1993-1997.webp"
+      }
+    }
+  ]
+}

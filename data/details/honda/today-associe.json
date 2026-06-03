@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "today-associe",
+  "name": "today-associe",
+  "generations": [
+    {
+      "slug": "today-associe-0",
+      "name": "today-associe 1",
+      "year_start": 1993,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/today-associe/1993-1996.webp"
+      }
+    }
+  ]
+}

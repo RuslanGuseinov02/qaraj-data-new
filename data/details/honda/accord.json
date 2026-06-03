@@ -1,0 +1,190 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "accord",
+  "name": "accord",
+  "generations": [
+    {
+      "slug": "accord-0",
+      "name": "accord 1",
+      "year_start": 1983,
+      "year_end": 1985,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord/ac-ad-1983-1985.webp"
+      }
+    },
+    {
+      "slug": "accord-1",
+      "name": "accord 2",
+      "year_start": 1985,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord/ca-1985-1989.webp"
+      }
+    },
+    {
+      "slug": "accord-2",
+      "name": "accord 3",
+      "year_start": 1989,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord/cb-1989-1994.webp"
+      }
+    },
+    {
+      "slug": "accord-3",
+      "name": "accord 4",
+      "year_start": 1993,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord/cc-ce-1993-1998.webp"
+      }
+    },
+    {
+      "slug": "accord-4",
+      "name": "accord 5",
+      "year_start": 1993,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord/cd-ce-1993-1998.webp"
+      }
+    },
+    {
+      "slug": "accord-5",
+      "name": "accord 6",
+      "year_start": 1997,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord/cf-cl-ch-1997-2002.webp"
+      }
+    },
+    {
+      "slug": "accord-6",
+      "name": "accord 7",
+      "year_start": 1997,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord/cg-1997-2003.webp"
+      }
+    },
+    {
+      "slug": "accord-7",
+      "name": "accord 8",
+      "year_start": 1998,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord/cg-ch-1998-2003.webp"
+      }
+    },
+    {
+      "slug": "accord-8",
+      "name": "accord 9",
+      "year_start": 2002,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord/cl-2002-2008.webp"
+      }
+    },
+    {
+      "slug": "accord-9",
+      "name": "accord 10",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord/cm-2003-2007.webp"
+      }
+    },
+    {
+      "slug": "accord-10",
+      "name": "accord 11",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord/cp-cs-2008-2013.webp"
+      }
+    },
+    {
+      "slug": "accord-11",
+      "name": "accord 12",
+      "year_start": 2013,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord/cr-2013-2020.webp"
+      }
+    },
+    {
+      "slug": "accord-12",
+      "name": "accord 13",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord/cu-cw-2008-2011.webp"
+      }
+    },
+    {
+      "slug": "accord-13",
+      "name": "accord 14",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord/cu-cw-2011-2015.webp"
+      }
+    },
+    {
+      "slug": "accord-14",
+      "name": "accord 15",
+      "year_start": 2018,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord/cv-2018-2024.webp"
+      }
+    },
+    {
+      "slug": "accord-15",
+      "name": "accord 16",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord/cy-2022-now.webp"
+      }
+    },
+    {
+      "slug": "accord-16",
+      "name": "accord 17",
+      "year_start": 1976,
+      "year_end": 1981,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord/sj-sm-1976-1981.webp"
+      }
+    },
+    {
+      "slug": "accord-17",
+      "name": "accord 18",
+      "year_start": 1981,
+      "year_end": 1983,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord/sy-sz-1981-1983.webp"
+      }
+    }
+  ]
+}

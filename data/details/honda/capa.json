@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "capa",
+  "name": "capa",
+  "generations": [
+    {
+      "slug": "capa-0",
+      "name": "capa 1",
+      "year_start": 1998,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/capa/1998-2000.webp"
+      }
+    },
+    {
+      "slug": "capa-1",
+      "name": "capa 2",
+      "year_start": 2000,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/capa/2000-2002.webp"
+      }
+    }
+  ]
+}

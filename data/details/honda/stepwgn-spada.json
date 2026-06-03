@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "stepwgn-spada",
+  "name": "stepwgn-spada",
+  "generations": [
+    {
+      "slug": "stepwgn-spada-0",
+      "name": "stepwgn-spada 1",
+      "year_start": 2003,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/stepwgn-spada/2003-2005.webp"
+      }
+    },
+    {
+      "slug": "stepwgn-spada-1",
+      "name": "stepwgn-spada 2",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/stepwgn-spada/2007-2009.webp"
+      }
+    },
+    {
+      "slug": "stepwgn-spada-2",
+      "name": "stepwgn-spada 3",
+      "year_start": 2009,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/stepwgn-spada/2009-2015.webp"
+      }
+    },
+    {
+      "slug": "stepwgn-spada-3",
+      "name": "stepwgn-spada 4",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/stepwgn-spada/2015-2017.webp"
+      }
+    },
+    {
+      "slug": "stepwgn-spada-4",
+      "name": "stepwgn-spada 5",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/stepwgn-spada/2017-2021.webp"
+      }
+    },
+    {
+      "slug": "stepwgn-spada-5",
+      "name": "stepwgn-spada 6",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/stepwgn-spada/2022-2024.webp"
+      }
+    }
+  ]
+}

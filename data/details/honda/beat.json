@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "beat",
+  "name": "beat",
+  "generations": [
+    {
+      "slug": "beat-0",
+      "name": "beat 1",
+      "year_start": 1991,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/beat/1991-1996.webp"
+      }
+    }
+  ]
+}

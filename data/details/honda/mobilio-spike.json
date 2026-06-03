@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "mobilio-spike",
+  "name": "mobilio-spike",
+  "generations": [
+    {
+      "slug": "mobilio-spike-0",
+      "name": "mobilio-spike 1",
+      "year_start": 2002,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/mobilio-spike/2002-2004.webp"
+      }
+    },
+    {
+      "slug": "mobilio-spike-1",
+      "name": "mobilio-spike 2",
+      "year_start": 2004,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/mobilio-spike/2004-2005.webp"
+      }
+    },
+    {
+      "slug": "mobilio-spike-2",
+      "name": "mobilio-spike 3",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/mobilio-spike/2005-2008.webp"
+      }
+    }
+  ]
+}

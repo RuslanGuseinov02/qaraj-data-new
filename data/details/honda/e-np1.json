@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "e-np1",
+  "name": "e-np1",
+  "generations": [
+    {
+      "slug": "e-np1-0",
+      "name": "e-np1 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/e-np1/rv-2022-now.webp"
+      }
+    }
+  ]
+}

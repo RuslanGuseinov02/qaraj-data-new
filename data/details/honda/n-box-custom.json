@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "n-box-custom",
+  "name": "n-box-custom",
+  "generations": [
+    {
+      "slug": "n-box-custom-0",
+      "name": "n-box-custom 1",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/n-box-custom/2011-2017.webp"
+      }
+    },
+    {
+      "slug": "n-box-custom-1",
+      "name": "n-box-custom 2",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/n-box-custom/2017-2023.webp"
+      }
+    },
+    {
+      "slug": "n-box-custom-2",
+      "name": "n-box-custom 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/n-box-custom/2023-now.webp"
+      }
+    }
+  ]
+}

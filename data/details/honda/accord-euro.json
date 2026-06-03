@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "accord-euro",
+  "name": "accord-euro",
+  "generations": [
+    {
+      "slug": "accord-euro-0",
+      "name": "accord-euro 1",
+      "year_start": 2003,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord-euro/cl9-2003-2005.webp"
+      }
+    },
+    {
+      "slug": "accord-euro-1",
+      "name": "accord-euro 2",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord-euro/cl9-2005-2008.webp"
+      }
+    },
+    {
+      "slug": "accord-euro-2",
+      "name": "accord-euro 3",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord-euro/cu2-2008-2011.webp"
+      }
+    },
+    {
+      "slug": "accord-euro-3",
+      "name": "accord-euro 4",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord-euro/cu2-2011-2015.webp"
+      }
+    }
+  ]
+}

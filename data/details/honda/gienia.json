@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "gienia",
+  "name": "gienia",
+  "generations": [
+    {
+      "slug": "gienia-0",
+      "name": "gienia 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/gienia/2017-2020.webp"
+      }
+    }
+  ]
+}

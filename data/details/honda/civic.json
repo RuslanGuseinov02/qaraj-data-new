@@ -1,0 +1,160 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "civic",
+  "name": "civic",
+  "generations": [
+    {
+      "slug": "civic-0",
+      "name": "civic 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic/2021-2024.webp"
+      }
+    },
+    {
+      "slug": "civic-1",
+      "name": "civic 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic/2024-now.webp"
+      }
+    },
+    {
+      "slug": "civic-2",
+      "name": "civic 3",
+      "year_start": 1983,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic/ag-ah-aj-ak-at-ec-sb-1983-1987.webp"
+      }
+    },
+    {
+      "slug": "civic-3",
+      "name": "civic 4",
+      "year_start": 1987,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic/ed-ee-ef-sh-1987-1991.webp"
+      }
+    },
+    {
+      "slug": "civic-4",
+      "name": "civic 5",
+      "year_start": 1991,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic/eg-eh-ej-1991-1995.webp"
+      }
+    },
+    {
+      "slug": "civic-5",
+      "name": "civic 6",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic/ej-ek-em-1995-2000.webp"
+      }
+    },
+    {
+      "slug": "civic-6",
+      "name": "civic 7",
+      "year_start": 2000,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic/es-ep-em-eu-2000-2004.webp"
+      }
+    },
+    {
+      "slug": "civic-7",
+      "name": "civic 8",
+      "year_start": 2004,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic/es-ep-em-eu-2004-2005.webp"
+      }
+    },
+    {
+      "slug": "civic-8",
+      "name": "civic 9",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic/fa-fg-2006-2011.webp"
+      }
+    },
+    {
+      "slug": "civic-9",
+      "name": "civic 10",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic/fb-fg-2011-2016.webp"
+      }
+    },
+    {
+      "slug": "civic-10",
+      "name": "civic 11",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic/fc-2016-2019.webp"
+      }
+    },
+    {
+      "slug": "civic-11",
+      "name": "civic 12",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic/fc-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "civic-12",
+      "name": "civic 13",
+      "year_start": 2005,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic/fd-2005-2012.webp"
+      }
+    },
+    {
+      "slug": "civic-13",
+      "name": "civic 14",
+      "year_start": 1972,
+      "year_end": 1979,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic/sb1-sg-se-vb-1972-1979.webp"
+      }
+    },
+    {
+      "slug": "civic-14",
+      "name": "civic 15",
+      "year_start": 1979,
+      "year_end": 1983,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic/sl-ss-sr-st-vc-wd-1979-1983.webp"
+      }
+    }
+  ]
+}

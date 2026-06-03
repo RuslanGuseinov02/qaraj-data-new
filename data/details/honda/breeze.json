@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "breeze",
+  "name": "breeze",
+  "generations": [
+    {
+      "slug": "breeze-0",
+      "name": "breeze 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/breeze/2020-2023.webp"
+      }
+    },
+    {
+      "slug": "breeze-1",
+      "name": "breeze 2",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/breeze/2022-now.webp"
+      }
+    }
+  ]
+}

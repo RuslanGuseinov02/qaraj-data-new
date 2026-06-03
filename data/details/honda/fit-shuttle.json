@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "fit-shuttle",
+  "name": "fit-shuttle",
+  "generations": [
+    {
+      "slug": "fit-shuttle-0",
+      "name": "fit-shuttle 1",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/fit-shuttle/2011-2015.webp"
+      }
+    }
+  ]
+}

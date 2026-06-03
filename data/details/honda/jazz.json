@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "jazz",
+  "name": "jazz",
+  "generations": [
+    {
+      "slug": "jazz-0",
+      "name": "jazz 1",
+      "year_start": 1993,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/jazz/1993-1996.webp"
+      }
+    },
+    {
+      "slug": "jazz-1",
+      "name": "jazz 2",
+      "year_start": 2002,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/jazz/gd-ge-2002-2009.webp"
+      }
+    },
+    {
+      "slug": "jazz-2",
+      "name": "jazz 3",
+      "year_start": 2008,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/jazz/ge-gg-gp-2008-2015.webp"
+      }
+    },
+    {
+      "slug": "jazz-3",
+      "name": "jazz 4",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/jazz/gk-2014-2019.webp"
+      }
+    },
+    {
+      "slug": "jazz-4",
+      "name": "jazz 5",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/jazz/gk-2017-2022.webp"
+      }
+    },
+    {
+      "slug": "jazz-5",
+      "name": "jazz 6",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/jazz/gr-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "jazz-6",
+      "name": "jazz 7",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/jazz/gr-2022-now.webp"
+      }
+    }
+  ]
+}

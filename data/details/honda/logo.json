@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "logo",
+  "name": "logo",
+  "generations": [
+    {
+      "slug": "logo-0",
+      "name": "logo 1",
+      "year_start": 1996,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/logo/1996-1998.webp"
+      }
+    },
+    {
+      "slug": "logo-1",
+      "name": "logo 2",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/logo/1998-2002.webp"
+      }
+    }
+  ]
+}

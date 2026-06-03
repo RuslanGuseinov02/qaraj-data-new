@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "e-ny1",
+  "name": "e-ny1",
+  "generations": [
+    {
+      "slug": "e-ny1-0",
+      "name": "e-ny1 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/e-ny1/2023-now.webp"
+      }
+    }
+  ]
+}

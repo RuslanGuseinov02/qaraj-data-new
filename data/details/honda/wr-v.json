@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "wr-v",
+  "name": "wr-v",
+  "generations": [
+    {
+      "slug": "wr-v-0",
+      "name": "wr-v 1",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/wr-v/2017-now.webp"
+      }
+    },
+    {
+      "slug": "wr-v-1",
+      "name": "wr-v 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/wr-v/dg4-2023-now.webp"
+      }
+    },
+    {
+      "slug": "wr-v-2",
+      "name": "wr-v 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/wr-v/dg5-2023-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "today",
+  "name": "today",
+  "generations": [
+    {
+      "slug": "today-0",
+      "name": "today 1",
+      "year_start": 1988,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/today/1988-1997.webp"
+      }
+    },
+    {
+      "slug": "today-1",
+      "name": "today 2",
+      "year_start": 1993,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/today/1993-1998.webp"
+      }
+    }
+  ]
+}

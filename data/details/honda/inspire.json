@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "inspire",
+  "name": "inspire",
+  "generations": [
+    {
+      "slug": "inspire-0",
+      "name": "inspire 1",
+      "year_start": 2022,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/inspire/2022-2023.webp"
+      }
+    },
+    {
+      "slug": "inspire-1",
+      "name": "inspire 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/inspire/2023-now.webp"
+      }
+    },
+    {
+      "slug": "inspire-2",
+      "name": "inspire 3",
+      "year_start": 1992,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/inspire/cc-1992-1995.webp"
+      }
+    },
+    {
+      "slug": "inspire-3",
+      "name": "inspire 4",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/inspire/cp-2007-2012.webp"
+      }
+    },
+    {
+      "slug": "inspire-4",
+      "name": "inspire 5",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/inspire/ua1-ua2-ua3-1995-1998.webp"
+      }
+    },
+    {
+      "slug": "inspire-5",
+      "name": "inspire 6",
+      "year_start": 1998,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/inspire/ua4-ua5-1998-2001.webp"
+      }
+    },
+    {
+      "slug": "inspire-6",
+      "name": "inspire 7",
+      "year_start": 2001,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/inspire/ua4-ua5-2001-2003.webp"
+      }
+    },
+    {
+      "slug": "inspire-7",
+      "name": "inspire 8",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/inspire/uc-2003-2007.webp"
+      }
+    }
+  ]
+}

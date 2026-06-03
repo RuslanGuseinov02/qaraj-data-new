@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "s660",
+  "name": "s660",
+  "generations": [
+    {
+      "slug": "s660-0",
+      "name": "s660 1",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/s660/jw5-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "s660-1",
+      "name": "s660 2",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/s660/jw5-2020-2022.webp"
+      }
+    }
+  ]
+}

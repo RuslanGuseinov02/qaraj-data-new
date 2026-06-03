@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "accord-inspire",
+  "name": "accord-inspire",
+  "generations": [
+    {
+      "slug": "accord-inspire-0",
+      "name": "accord-inspire 1",
+      "year_start": 1989,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord-inspire/cb-1989-1995.webp"
+      }
+    }
+  ]
+}

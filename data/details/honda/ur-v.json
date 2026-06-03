@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "ur-v",
+  "name": "ur-v",
+  "generations": [
+    {
+      "slug": "ur-v-0",
+      "name": "ur-v 1",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/ur-v/2017-2020.webp"
+      }
+    },
+    {
+      "slug": "ur-v-1",
+      "name": "ur-v 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/ur-v/2020-now.webp"
+      }
+    }
+  ]
+}

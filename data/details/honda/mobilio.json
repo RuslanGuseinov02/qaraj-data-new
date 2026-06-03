@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "mobilio",
+  "name": "mobilio",
+  "generations": [
+    {
+      "slug": "mobilio-0",
+      "name": "mobilio 1",
+      "year_start": 2001,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/mobilio/2001-2003.webp"
+      }
+    },
+    {
+      "slug": "mobilio-1",
+      "name": "mobilio 2",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/mobilio/2004-2008.webp"
+      }
+    },
+    {
+      "slug": "mobilio-2",
+      "name": "mobilio 3",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/mobilio/2014-2017.webp"
+      }
+    },
+    {
+      "slug": "mobilio-3",
+      "name": "mobilio 4",
+      "year_start": 2017,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/mobilio/2017-2024.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "saber",
+  "name": "saber",
+  "generations": [
+    {
+      "slug": "saber-0",
+      "name": "saber 1",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/saber/1995-1998.webp"
+      }
+    },
+    {
+      "slug": "saber-1",
+      "name": "saber 2",
+      "year_start": 1998,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/saber/1998-2001.webp"
+      }
+    },
+    {
+      "slug": "saber-2",
+      "name": "saber 3",
+      "year_start": 2001,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/saber/2001-2003.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "n-box-plus-custom",
+  "name": "n-box-plus-custom",
+  "generations": [
+    {
+      "slug": "n-box-plus-custom-0",
+      "name": "n-box-plus-custom 1",
+      "year_start": 2012,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/n-box-plus-custom/2012-2018.webp"
+      }
+    }
+  ]
+}

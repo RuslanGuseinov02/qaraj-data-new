@@ -1,0 +1,110 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "stepwgn",
+  "name": "stepwgn",
+  "generations": [
+    {
+      "slug": "stepwgn-0",
+      "name": "stepwgn 1",
+      "year_start": 1996,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/stepwgn/rf1-rf2-1996-1999.webp"
+      }
+    },
+    {
+      "slug": "stepwgn-1",
+      "name": "stepwgn 2",
+      "year_start": 1999,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/stepwgn/rf1-rf2-1999-2001.webp"
+      }
+    },
+    {
+      "slug": "stepwgn-2",
+      "name": "stepwgn 3",
+      "year_start": 2001,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/stepwgn/rf3-rf4-2001-2003.webp"
+      }
+    },
+    {
+      "slug": "stepwgn-3",
+      "name": "stepwgn 4",
+      "year_start": 2003,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/stepwgn/rf3-rf4-rf7-rf8-2003-2005.webp"
+      }
+    },
+    {
+      "slug": "stepwgn-4",
+      "name": "stepwgn 5",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/stepwgn/rg-2005-2007.webp"
+      }
+    },
+    {
+      "slug": "stepwgn-5",
+      "name": "stepwgn 6",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/stepwgn/rg-2007-2009.webp"
+      }
+    },
+    {
+      "slug": "stepwgn-6",
+      "name": "stepwgn 7",
+      "year_start": 2009,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/stepwgn/rk-2009-2015.webp"
+      }
+    },
+    {
+      "slug": "stepwgn-7",
+      "name": "stepwgn 8",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/stepwgn/rp1-rp2-rp3-rp4-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "stepwgn-8",
+      "name": "stepwgn 9",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/stepwgn/rp1-rp2-rp3-rp4-rp5-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "stepwgn-9",
+      "name": "stepwgn 10",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/stepwgn/rp6-rp7-rp8-2022-now.webp"
+      }
+    }
+  ]
+}

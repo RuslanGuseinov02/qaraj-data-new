@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "civic-ferio",
+  "name": "civic-ferio",
+  "generations": [
+    {
+      "slug": "civic-ferio-0",
+      "name": "civic-ferio 1",
+      "year_start": 1991,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic-ferio/eg-eh-1991-1995.webp"
+      }
+    },
+    {
+      "slug": "civic-ferio-1",
+      "name": "civic-ferio 2",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic-ferio/ek-1995-1998.webp"
+      }
+    },
+    {
+      "slug": "civic-ferio-2",
+      "name": "civic-ferio 3",
+      "year_start": 1998,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic-ferio/ek-1998-2000.webp"
+      }
+    },
+    {
+      "slug": "civic-ferio-3",
+      "name": "civic-ferio 4",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic-ferio/es-2000-2003.webp"
+      }
+    },
+    {
+      "slug": "civic-ferio-4",
+      "name": "civic-ferio 5",
+      "year_start": 2003,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic-ferio/es-2003-2005.webp"
+      }
+    }
+  ]
+}

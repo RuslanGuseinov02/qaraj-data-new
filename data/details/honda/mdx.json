@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "mdx",
+  "name": "mdx",
+  "generations": [
+    {
+      "slug": "mdx-0",
+      "name": "mdx 1",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/mdx/2003-2006.webp"
+      }
+    }
+  ]
+}

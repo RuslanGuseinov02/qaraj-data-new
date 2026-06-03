@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "fit",
+  "name": "fit",
+  "generations": [
+    {
+      "slug": "fit-0",
+      "name": "fit 1",
+      "year_start": 2001,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/fit/gd-2001-2008.webp"
+      }
+    },
+    {
+      "slug": "fit-1",
+      "name": "fit 2",
+      "year_start": 2007,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/fit/ge-gp-2007-2014.webp"
+      }
+    },
+    {
+      "slug": "fit-2",
+      "name": "fit 3",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/fit/gp-gk-2013-2018.webp"
+      }
+    },
+    {
+      "slug": "fit-3",
+      "name": "fit 4",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/fit/gp-gk-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "fit-4",
+      "name": "fit 5",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/fit/gr-2020-2024.webp"
+      }
+    },
+    {
+      "slug": "fit-5",
+      "name": "fit 6",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/fit/gr-2022-now.webp"
+      }
+    }
+  ]
+}

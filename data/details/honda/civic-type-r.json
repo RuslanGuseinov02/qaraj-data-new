@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "civic-type-r",
+  "name": "civic-type-r",
+  "generations": [
+    {
+      "slug": "civic-type-r-0",
+      "name": "civic-type-r 1",
+      "year_start": 1997,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic-type-r/ek9-1997-2001.webp"
+      }
+    },
+    {
+      "slug": "civic-type-r-1",
+      "name": "civic-type-r 2",
+      "year_start": 2001,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic-type-r/ep3-2001-2005.webp"
+      }
+    },
+    {
+      "slug": "civic-type-r-2",
+      "name": "civic-type-r 3",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic-type-r/fd-2007-2010.webp"
+      }
+    },
+    {
+      "slug": "civic-type-r-3",
+      "name": "civic-type-r 4",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic-type-r/fk2-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "civic-type-r-4",
+      "name": "civic-type-r 5",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic-type-r/fk8-2017-2022.webp"
+      }
+    },
+    {
+      "slug": "civic-type-r-5",
+      "name": "civic-type-r 6",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic-type-r/fl5-2022-now.webp"
+      }
+    },
+    {
+      "slug": "civic-type-r-6",
+      "name": "civic-type-r 7",
+      "year_start": 2006,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic-type-r/fn-2006-2012.webp"
+      }
+    }
+  ]
+}

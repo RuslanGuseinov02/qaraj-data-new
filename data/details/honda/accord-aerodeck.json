@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "accord-aerodeck",
+  "name": "accord-aerodeck",
+  "generations": [
+    {
+      "slug": "accord-aerodeck-0",
+      "name": "accord-aerodeck 1",
+      "year_start": 1990,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord-aerodeck/cb-1990-1993.webp"
+      }
+    },
+    {
+      "slug": "accord-aerodeck-1",
+      "name": "accord-aerodeck 2",
+      "year_start": 1993,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/accord-aerodeck/ce-1993-1998.webp"
+      }
+    }
+  ]
+}

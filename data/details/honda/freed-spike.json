@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "freed-spike",
+  "name": "freed-spike",
+  "generations": [
+    {
+      "slug": "freed-spike-0",
+      "name": "freed-spike 1",
+      "year_start": 2010,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/freed-spike/2010-2016.webp"
+      }
+    }
+  ]
+}

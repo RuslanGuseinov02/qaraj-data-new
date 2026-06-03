@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "civic-shuttle",
+  "name": "civic-shuttle",
+  "generations": [
+    {
+      "slug": "civic-shuttle-0",
+      "name": "civic-shuttle 1",
+      "year_start": 1983,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic-shuttle/aj-ak-1983-1987.webp"
+      }
+    },
+    {
+      "slug": "civic-shuttle-1",
+      "name": "civic-shuttle 2",
+      "year_start": 1987,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic-shuttle/ef-1987-1997.webp"
+      }
+    }
+  ]
+}

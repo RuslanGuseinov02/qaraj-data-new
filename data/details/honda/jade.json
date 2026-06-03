@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "jade",
+  "name": "jade",
+  "generations": [
+    {
+      "slug": "jade-0",
+      "name": "jade 1",
+      "year_start": 2013,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/jade/2013-2018.webp"
+      }
+    },
+    {
+      "slug": "jade-1",
+      "name": "jade 2",
+      "year_start": 2018,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/jade/2018-2020.webp"
+      }
+    }
+  ]
+}

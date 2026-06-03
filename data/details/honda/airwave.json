@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "airwave",
+  "name": "airwave",
+  "generations": [
+    {
+      "slug": "airwave-0",
+      "name": "airwave 1",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/airwave/gj-2005-2008.webp"
+      }
+    },
+    {
+      "slug": "airwave-1",
+      "name": "airwave 2",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/airwave/gj-2008-2010.webp"
+      }
+    }
+  ]
+}

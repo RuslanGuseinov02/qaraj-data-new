@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "prelude",
+  "name": "prelude",
+  "generations": [
+    {
+      "slug": "prelude-0",
+      "name": "prelude 1",
+      "year_start": 1982,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/prelude/ab-ba1-bb-1982-1987.webp"
+      }
+    },
+    {
+      "slug": "prelude-1",
+      "name": "prelude 2",
+      "year_start": 1987,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/prelude/ba3-ba4-ba5-ba7-1987-1992.webp"
+      }
+    },
+    {
+      "slug": "prelude-2",
+      "name": "prelude 3",
+      "year_start": 1991,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/prelude/ba8-ba9-bb1-bb2-bb3-bb4-1991-1996.webp"
+      }
+    },
+    {
+      "slug": "prelude-3",
+      "name": "prelude 4",
+      "year_start": 1996,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/prelude/bb5-bb6-bb7-bb8-bb9-1996-2001.webp"
+      }
+    },
+    {
+      "slug": "prelude-4",
+      "name": "prelude 5",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/prelude/bf1-2025-now.webp"
+      }
+    },
+    {
+      "slug": "prelude-5",
+      "name": "prelude 6",
+      "year_start": 1978,
+      "year_end": 1982,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/prelude/sn-1978-1982.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "city",
+  "name": "city",
+  "generations": [
+    {
+      "slug": "city-0",
+      "name": "city 1",
+      "year_start": 1996,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/city/3a-1996-2002.webp"
+      }
+    },
+    {
+      "slug": "city-1",
+      "name": "city 2",
+      "year_start": 1981,
+      "year_end": 1986,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/city/aa-vf-fa-1981-1986.webp"
+      }
+    },
+    {
+      "slug": "city-2",
+      "name": "city 3",
+      "year_start": 1986,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/city/ga-1986-1988.webp"
+      }
+    },
+    {
+      "slug": "city-3",
+      "name": "city 4",
+      "year_start": 1988,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/city/ga-1988-1994.webp"
+      }
+    },
+    {
+      "slug": "city-4",
+      "name": "city 5",
+      "year_start": 2002,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/city/gd-2002-2008.webp"
+      }
+    },
+    {
+      "slug": "city-5",
+      "name": "city 6",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/city/gm2-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "city-6",
+      "name": "city 7",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/city/gm6-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "city-7",
+      "name": "city 8",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/city/gm6-2017-2022.webp"
+      }
+    },
+    {
+      "slug": "city-8",
+      "name": "city 9",
+      "year_start": 2018,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/city/gm6-2018-2019.webp"
+      }
+    },
+    {
+      "slug": "city-9",
+      "name": "city 10",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/city/gn-2019-now.webp"
+      }
+    },
+    {
+      "slug": "city-10",
+      "name": "city 11",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/city/gn-2023-now.webp"
+      }
+    }
+  ]
+}

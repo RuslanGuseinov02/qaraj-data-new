@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "acty-van",
+  "name": "acty-van",
+  "generations": [
+    {
+      "slug": "acty-van-0",
+      "name": "acty-van 1",
+      "year_start": 1977,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/acty-van/1977-1988.webp"
+      }
+    },
+    {
+      "slug": "acty-van-1",
+      "name": "acty-van 2",
+      "year_start": 1988,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/acty-van/1988-1990.webp"
+      }
+    },
+    {
+      "slug": "acty-van-2",
+      "name": "acty-van 3",
+      "year_start": 1990,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/acty-van/1990-1995.webp"
+      }
+    },
+    {
+      "slug": "acty-van-3",
+      "name": "acty-van 4",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/acty-van/1995-1999.webp"
+      }
+    },
+    {
+      "slug": "acty-van-4",
+      "name": "acty-van 5",
+      "year_start": 1999,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/acty-van/1999-2018.webp"
+      }
+    }
+  ]
+}

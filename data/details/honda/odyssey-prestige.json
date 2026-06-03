@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "odyssey-prestige",
+  "name": "odyssey-prestige",
+  "generations": [
+    {
+      "slug": "odyssey-prestige-0",
+      "name": "odyssey-prestige 1",
+      "year_start": 1997,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/odyssey-prestige/1997-1999.webp"
+      }
+    }
+  ]
+}

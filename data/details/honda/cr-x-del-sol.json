@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "cr-x-del-sol",
+  "name": "cr-x-del-sol",
+  "generations": [
+    {
+      "slug": "cr-x-del-sol-0",
+      "name": "cr-x-del-sol 1",
+      "year_start": 1992,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/cr-x-del-sol/1992-1998.webp"
+      }
+    }
+  ]
+}

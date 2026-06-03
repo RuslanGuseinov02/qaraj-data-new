@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "e-np2",
+  "name": "e-np2",
+  "generations": [
+    {
+      "slug": "e-np2-0",
+      "name": "e-np2 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/e-np2/rv-2023-now.webp"
+      }
+    }
+  ]
+}

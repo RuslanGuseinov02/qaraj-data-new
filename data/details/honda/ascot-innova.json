@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "ascot-innova",
+  "name": "ascot-innova",
+  "generations": [
+    {
+      "slug": "ascot-innova-0",
+      "name": "ascot-innova 1",
+      "year_start": 1992,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/ascot-innova/1992-1996.webp"
+      }
+    }
+  ]
+}

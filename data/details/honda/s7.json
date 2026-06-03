@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "s7",
+  "name": "s7",
+  "generations": [
+    {
+      "slug": "s7-0",
+      "name": "s7 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/s7/2025-now.webp"
+      }
+    }
+  ]
+}

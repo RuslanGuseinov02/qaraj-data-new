@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "prelude-inx",
+  "name": "prelude-inx",
+  "generations": [
+    {
+      "slug": "prelude-inx-0",
+      "name": "prelude-inx 1",
+      "year_start": 1989,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/prelude-inx/1989-1991.webp"
+      }
+    }
+  ]
+}

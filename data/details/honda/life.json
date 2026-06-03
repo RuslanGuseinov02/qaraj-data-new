@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "life",
+  "name": "life",
+  "generations": [
+    {
+      "slug": "life-0",
+      "name": "life 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/life/gr-2020-now.webp"
+      }
+    },
+    {
+      "slug": "life-1",
+      "name": "life 2",
+      "year_start": 1997,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/life/ja4-1997-1998.webp"
+      }
+    },
+    {
+      "slug": "life-2",
+      "name": "life 3",
+      "year_start": 1998,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/life/jb1-jb2-1998-2001.webp"
+      }
+    },
+    {
+      "slug": "life-3",
+      "name": "life 4",
+      "year_start": 2001,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/life/jb1-jb2-2001-2003.webp"
+      }
+    },
+    {
+      "slug": "life-4",
+      "name": "life 5",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/life/jb5-jb6-jb7-jb8-2003-2006.webp"
+      }
+    },
+    {
+      "slug": "life-5",
+      "name": "life 6",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/life/jb5-jb6-jb7-jb8-2006-2008.webp"
+      }
+    },
+    {
+      "slug": "life-6",
+      "name": "life 7",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/life/jc1-jc2-2008-2010.webp"
+      }
+    },
+    {
+      "slug": "life-7",
+      "name": "life 8",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/life/jc1-jc2-2010-2014.webp"
+      }
+    },
+    {
+      "slug": "life-8",
+      "name": "life 9",
+      "year_start": 1971,
+      "year_end": 1974,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/life/sa-va-wa-1971-1974.webp"
+      }
+    }
+  ]
+}

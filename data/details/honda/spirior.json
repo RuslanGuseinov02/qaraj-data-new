@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "spirior",
+  "name": "spirior",
+  "generations": [
+    {
+      "slug": "spirior-0",
+      "name": "spirior 1",
+      "year_start": 2009,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/spirior/2009-2011.webp"
+      }
+    },
+    {
+      "slug": "spirior-1",
+      "name": "spirior 2",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/spirior/2011-2017.webp"
+      }
+    },
+    {
+      "slug": "spirior-2",
+      "name": "spirior 3",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/spirior/2015-2018.webp"
+      }
+    }
+  ]
+}

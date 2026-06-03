@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "shuttle",
+  "name": "shuttle",
+  "generations": [
+    {
+      "slug": "shuttle-0",
+      "name": "shuttle 1",
+      "year_start": 1994,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/shuttle/1994-2000.webp"
+      }
+    },
+    {
+      "slug": "shuttle-1",
+      "name": "shuttle 2",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/shuttle/2015-2019.webp"
+      }
+    },
+    {
+      "slug": "shuttle-2",
+      "name": "shuttle 3",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/shuttle/2019-2022.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "brio-amaze",
+  "name": "brio-amaze",
+  "generations": [
+    {
+      "slug": "brio-amaze-0",
+      "name": "brio-amaze 1",
+      "year_start": 2014,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/brio-amaze/2014-2021.webp"
+      }
+    }
+  ]
+}

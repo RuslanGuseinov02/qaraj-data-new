@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "n-box-slash",
+  "name": "n-box-slash",
+  "generations": [
+    {
+      "slug": "n-box-slash-0",
+      "name": "n-box-slash 1",
+      "year_start": 2014,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/n-box-slash/2014-2020.webp"
+      }
+    }
+  ]
+}

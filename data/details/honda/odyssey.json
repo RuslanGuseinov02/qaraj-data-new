@@ -1,0 +1,170 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "odyssey",
+  "name": "odyssey",
+  "generations": [
+    {
+      "slug": "odyssey-0",
+      "name": "odyssey 1",
+      "year_start": 1994,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/odyssey/ra1-ra2-ra3-ra4-ra5-1994-1999.webp"
+      }
+    },
+    {
+      "slug": "odyssey-1",
+      "name": "odyssey 2",
+      "year_start": 1999,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/odyssey/ra6-ra7-ra8-ra9-1999-2003.webp"
+      }
+    },
+    {
+      "slug": "odyssey-2",
+      "name": "odyssey 3",
+      "year_start": 2003,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/odyssey/rb1-rb2-2003-2008.webp"
+      }
+    },
+    {
+      "slug": "odyssey-3",
+      "name": "odyssey 4",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/odyssey/rb3-rb4-2008-2013.webp"
+      }
+    },
+    {
+      "slug": "odyssey-4",
+      "name": "odyssey 5",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/odyssey/rc-2023-now.webp"
+      }
+    },
+    {
+      "slug": "odyssey-5",
+      "name": "odyssey 6",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/odyssey/rc1-rc2-rc4-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "odyssey-6",
+      "name": "odyssey 7",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/odyssey/rc1-rc2-rc4-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "odyssey-7",
+      "name": "odyssey 8",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/odyssey/rc1-rc2-rc4-2020-now.webp"
+      }
+    },
+    {
+      "slug": "odyssey-8",
+      "name": "odyssey 9",
+      "year_start": 1999,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/odyssey/rl1-1999-2004.webp"
+      }
+    },
+    {
+      "slug": "odyssey-9",
+      "name": "odyssey 10",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/odyssey/rl3-rl4-2005-2007.webp"
+      }
+    },
+    {
+      "slug": "odyssey-10",
+      "name": "odyssey 11",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/odyssey/rl3-rl4-2008-2010.webp"
+      }
+    },
+    {
+      "slug": "odyssey-11",
+      "name": "odyssey 12",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/odyssey/rl5-2011-2013.webp"
+      }
+    },
+    {
+      "slug": "odyssey-12",
+      "name": "odyssey 13",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/odyssey/rl5-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "odyssey-13",
+      "name": "odyssey 14",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/odyssey/rl6-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "odyssey-14",
+      "name": "odyssey 15",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/odyssey/rl6-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "odyssey-15",
+      "name": "odyssey 16",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/odyssey/rl6-2025-now.webp"
+      }
+    }
+  ]
+}

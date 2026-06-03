@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "s-mx",
+  "name": "s-mx",
+  "generations": [
+    {
+      "slug": "s-mx-0",
+      "name": "s-mx 1",
+      "year_start": 1996,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/s-mx/1996-1999.webp"
+      }
+    },
+    {
+      "slug": "s-mx-1",
+      "name": "s-mx 2",
+      "year_start": 1999,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/s-mx/1999-2002.webp"
+      }
+    }
+  ]
+}

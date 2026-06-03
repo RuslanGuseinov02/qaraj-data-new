@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "m-nv",
+  "name": "m-nv",
+  "generations": [
+    {
+      "slug": "m-nv-0",
+      "name": "m-nv 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/m-nv/2019-now.webp"
+      }
+    }
+  ]
+}

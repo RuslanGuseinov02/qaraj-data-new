@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "civic-del-sol",
+  "name": "civic-del-sol",
+  "generations": [
+    {
+      "slug": "civic-del-sol-0",
+      "name": "civic-del-sol 1",
+      "year_start": 1993,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/civic-del-sol/1993-1997.webp"
+      }
+    }
+  ]
+}

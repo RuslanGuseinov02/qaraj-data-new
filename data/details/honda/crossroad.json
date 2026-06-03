@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "crossroad",
+  "name": "crossroad",
+  "generations": [
+    {
+      "slug": "crossroad-0",
+      "name": "crossroad 1",
+      "year_start": 1993,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/crossroad/lj-ljj-1993-1998.webp"
+      }
+    },
+    {
+      "slug": "crossroad-1",
+      "name": "crossroad 2",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/crossroad/rt-2007-2010.webp"
+      }
+    }
+  ]
+}

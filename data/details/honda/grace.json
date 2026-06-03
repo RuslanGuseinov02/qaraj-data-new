@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "grace",
+  "name": "grace",
+  "generations": [
+    {
+      "slug": "grace-0",
+      "name": "grace 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/grace/2014-2017.webp"
+      }
+    },
+    {
+      "slug": "grace-1",
+      "name": "grace 2",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/grace/2017-2020.webp"
+      }
+    }
+  ]
+}

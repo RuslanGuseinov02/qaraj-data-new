@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "honda",
+    "name": "HONDA"
+  },
+  "slug": "ascot",
+  "name": "ascot",
+  "generations": [
+    {
+      "slug": "ascot-0",
+      "name": "ascot 1",
+      "year_start": 1989,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/ascot/cb-1989-1993.webp"
+      }
+    },
+    {
+      "slug": "ascot-1",
+      "name": "ascot 2",
+      "year_start": 1993,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/honda/ascot/ce-1993-1997.webp"
+      }
+    }
+  ]
+}
