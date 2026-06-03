@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "skoda",
+    "name": "SKODA"
+  },
+  "slug": "superb",
+  "name": "superb",
+  "generations": [
+    {
+      "slug": "superb-0",
+      "name": "superb 1",
+      "year_start": 2001,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/superb/b5-3u-2001-2007.webp"
+      }
+    },
+    {
+      "slug": "superb-1",
+      "name": "superb 2",
+      "year_start": 2008,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/superb/b6-3t-2008-2015.webp"
+      }
+    },
+    {
+      "slug": "superb-2",
+      "name": "superb 3",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/superb/b8-3v-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "superb-3",
+      "name": "superb 4",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/superb/b8-3v-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "superb-4",
+      "name": "superb 5",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/superb/b9-3y-2023-now.webp"
+      }
+    }
+  ]
+}

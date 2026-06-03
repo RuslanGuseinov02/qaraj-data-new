@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "skoda",
+    "name": "SKODA"
+  },
+  "slug": "enyaq-iv",
+  "name": "enyaq-iv",
+  "generations": [
+    {
+      "slug": "enyaq-iv-0",
+      "name": "enyaq-iv 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/enyaq-iv/ny-2020-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "skoda",
+    "name": "SKODA"
+  },
+  "slug": "yeti",
+  "name": "yeti",
+  "generations": [
+    {
+      "slug": "yeti-0",
+      "name": "yeti 1",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/yeti/5l-2009-2014.webp"
+      }
+    },
+    {
+      "slug": "yeti-1",
+      "name": "yeti 2",
+      "year_start": 2014,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/yeti/5l-2014-2023.webp"
+      }
+    }
+  ]
+}

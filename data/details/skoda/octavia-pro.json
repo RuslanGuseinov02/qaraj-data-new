@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "skoda",
+    "name": "SKODA"
+  },
+  "slug": "octavia-pro",
+  "name": "octavia-pro",
+  "generations": [
+    {
+      "slug": "octavia-pro-0",
+      "name": "octavia-pro 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/octavia-pro/2021-now.webp"
+      }
+    }
+  ]
+}

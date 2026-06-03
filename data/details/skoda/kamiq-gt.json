@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "skoda",
+    "name": "SKODA"
+  },
+  "slug": "kamiq-gt",
+  "name": "kamiq-gt",
+  "generations": [
+    {
+      "slug": "kamiq-gt-0",
+      "name": "kamiq-gt 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/kamiq-gt/2020-now.webp"
+      }
+    }
+  ]
+}

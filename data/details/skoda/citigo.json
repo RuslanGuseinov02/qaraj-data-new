@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "skoda",
+    "name": "SKODA"
+  },
+  "slug": "citigo",
+  "name": "citigo",
+  "generations": [
+    {
+      "slug": "citigo-0",
+      "name": "citigo 1",
+      "year_start": 2011,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/citigo/j2-2011-2020.webp"
+      }
+    }
+  ]
+}

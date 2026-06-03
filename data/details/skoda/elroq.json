@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "skoda",
+    "name": "SKODA"
+  },
+  "slug": "elroq",
+  "name": "elroq",
+  "generations": [
+    {
+      "slug": "elroq-0",
+      "name": "elroq 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/elroq/2024-now.webp"
+      }
+    }
+  ]
+}

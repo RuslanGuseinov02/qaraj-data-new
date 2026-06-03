@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "skoda",
+    "name": "SKODA"
+  },
+  "slug": "100-series",
+  "name": "100-series",
+  "generations": [
+    {
+      "slug": "100-series-0",
+      "name": "100-series 1",
+      "year_start": 1969,
+      "year_end": 1976,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/100-series/type-100-110-1969-1976.webp"
+      }
+    },
+    {
+      "slug": "100-series-1",
+      "name": "100-series 2",
+      "year_start": 1977,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/100-series/type-105-120-1977-1990.webp"
+      }
+    }
+  ]
+}

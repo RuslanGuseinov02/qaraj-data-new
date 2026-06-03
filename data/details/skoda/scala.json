@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "skoda",
+    "name": "SKODA"
+  },
+  "slug": "scala",
+  "name": "scala",
+  "generations": [
+    {
+      "slug": "scala-0",
+      "name": "scala 1",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/scala/nw-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "scala-1",
+      "name": "scala 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/scala/nw-2024-now.webp"
+      }
+    }
+  ]
+}

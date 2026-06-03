@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "skoda",
+    "name": "SKODA"
+  },
+  "slug": "superb-scout",
+  "name": "superb-scout",
+  "generations": [
+    {
+      "slug": "superb-scout-0",
+      "name": "superb-scout 1",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/superb-scout/b8-3v-2019-2024.webp"
+      }
+    }
+  ]
+}

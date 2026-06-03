@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "skoda",
+    "name": "SKODA"
+  },
+  "slug": "praktik",
+  "name": "praktik",
+  "generations": [
+    {
+      "slug": "praktik-0",
+      "name": "praktik 1",
+      "year_start": 2007,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/praktik/5j-2007-2015.webp"
+      }
+    }
+  ]
+}

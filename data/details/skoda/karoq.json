@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "skoda",
+    "name": "SKODA"
+  },
+  "slug": "karoq",
+  "name": "karoq",
+  "generations": [
+    {
+      "slug": "karoq-0",
+      "name": "karoq 1",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/karoq/nu7-2017-2023.webp"
+      }
+    },
+    {
+      "slug": "karoq-1",
+      "name": "karoq 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/karoq/nu7-2021-now.webp"
+      }
+    }
+  ]
+}

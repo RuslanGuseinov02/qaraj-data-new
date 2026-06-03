@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "skoda",
+    "name": "SKODA"
+  },
+  "slug": "octavia",
+  "name": "octavia",
+  "generations": [
+    {
+      "slug": "octavia-0",
+      "name": "octavia 1",
+      "year_start": 1996,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/octavia/mk1-a4-1u-1996-2004.webp"
+      }
+    },
+    {
+      "slug": "octavia-1",
+      "name": "octavia 2",
+      "year_start": 2005,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/octavia/mk2-a5-1z-2005-2012.webp"
+      }
+    },
+    {
+      "slug": "octavia-2",
+      "name": "octavia 3",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/octavia/mk3-a7-5e-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "octavia-3",
+      "name": "octavia 4",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/octavia/mk3-a7-5e-2017-2022.webp"
+      }
+    },
+    {
+      "slug": "octavia-4",
+      "name": "octavia 5",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/octavia/mk4-a8-nx-2020-2024.webp"
+      }
+    },
+    {
+      "slug": "octavia-5",
+      "name": "octavia 6",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/octavia/mk4-a8-nx-2024-now.webp"
+      }
+    },
+    {
+      "slug": "octavia-6",
+      "name": "octavia 7",
+      "year_start": 1959,
+      "year_end": 1971,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/octavia/typ-985-1959-1971.webp"
+      }
+    }
+  ]
+}

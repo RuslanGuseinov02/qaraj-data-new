@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "skoda",
+    "name": "SKODA"
+  },
+  "slug": "kodiaq-gt",
+  "name": "kodiaq-gt",
+  "generations": [
+    {
+      "slug": "kodiaq-gt-0",
+      "name": "kodiaq-gt 1",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/kodiaq-gt/2019-2025.webp"
+      }
+    }
+  ]
+}

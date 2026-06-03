@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "skoda",
+    "name": "SKODA"
+  },
+  "slug": "rapid",
+  "name": "rapid",
+  "generations": [
+    {
+      "slug": "rapid-0",
+      "name": "rapid 1",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/rapid/5j-2011-2017.webp"
+      }
+    },
+    {
+      "slug": "rapid-1",
+      "name": "rapid 2",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/rapid/5j-2017-2022.webp"
+      }
+    },
+    {
+      "slug": "rapid-2",
+      "name": "rapid 3",
+      "year_start": 2012,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/rapid/mk1-nh-2012-2017.webp"
+      }
+    },
+    {
+      "slug": "rapid-3",
+      "name": "rapid 4",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/rapid/mk1-nh-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "rapid-4",
+      "name": "rapid 5",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/rapid/mk2-2019-2024.webp"
+      }
+    },
+    {
+      "slug": "rapid-5",
+      "name": "rapid 6",
+      "year_start": 1984,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/rapid/type-743-1984-1990.webp"
+      }
+    },
+    {
+      "slug": "rapid-6",
+      "name": "rapid 7",
+      "year_start": 1935,
+      "year_end": 1947,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/skoda/rapid/type-900-1935-1947.webp"
+      }
+    }
+  ]
+}
