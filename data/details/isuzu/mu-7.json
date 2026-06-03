@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "isuzu",
+    "name": "ISUZU"
+  },
+  "slug": "mu-7",
+  "name": "mu-7",
+  "generations": [
+    {
+      "slug": "mu-7-0",
+      "name": "mu-7 1",
+      "year_start": 2004,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/mu-7/dh-2004-2013.webp"
+      }
+    }
+  ]
+}

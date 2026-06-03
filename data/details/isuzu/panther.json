@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "isuzu",
+    "name": "ISUZU"
+  },
+  "slug": "panther",
+  "name": "panther",
+  "generations": [
+    {
+      "slug": "panther-0",
+      "name": "panther 1",
+      "year_start": 1991,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/panther/tbr52-tbr54-1991-2000.webp"
+      }
+    },
+    {
+      "slug": "panther-1",
+      "name": "panther 2",
+      "year_start": 2000,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/panther/tbr541-2000-2020.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "isuzu",
+    "name": "ISUZU"
+  },
+  "slug": "d-max",
+  "name": "d-max",
+  "generations": [
+    {
+      "slug": "d-max-0",
+      "name": "d-max 1",
+      "year_start": 2002,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/d-max/ra-rc-2002-2012.webp"
+      }
+    },
+    {
+      "slug": "d-max-1",
+      "name": "d-max 2",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/d-max/rg-2019-now.webp"
+      }
+    },
+    {
+      "slug": "d-max-2",
+      "name": "d-max 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/d-max/rg-2023-now.webp"
+      }
+    },
+    {
+      "slug": "d-max-3",
+      "name": "d-max 4",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/d-max/rt-2011-2017.webp"
+      }
+    },
+    {
+      "slug": "d-max-4",
+      "name": "d-max 5",
+      "year_start": 2015,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/d-max/rt-2015-now.webp"
+      }
+    }
+  ]
+}

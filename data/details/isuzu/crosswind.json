@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "isuzu",
+    "name": "ISUZU"
+  },
+  "slug": "crosswind",
+  "name": "crosswind",
+  "generations": [
+    {
+      "slug": "crosswind-0",
+      "name": "crosswind 1",
+      "year_start": 1991,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/crosswind/tbr52-tbr54-1991-2000.webp"
+      }
+    },
+    {
+      "slug": "crosswind-1",
+      "name": "crosswind 2",
+      "year_start": 2001,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/crosswind/tbr541-2001-2019.webp"
+      }
+    }
+  ]
+}

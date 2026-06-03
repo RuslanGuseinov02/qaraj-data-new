@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "isuzu",
+    "name": "ISUZU"
+  },
+  "slug": "pickup",
+  "name": "pickup",
+  "generations": [
+    {
+      "slug": "pickup-0",
+      "name": "pickup 1",
+      "year_start": 2013,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/pickup/2013-2020.webp"
+      }
+    }
+  ]
+}

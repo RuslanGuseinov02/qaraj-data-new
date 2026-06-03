@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "isuzu",
+    "name": "ISUZU"
+  },
+  "slug": "rodeo",
+  "name": "rodeo",
+  "generations": [
+    {
+      "slug": "rodeo-0",
+      "name": "rodeo 1",
+      "year_start": 1992,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/rodeo/tf-1992-1994.webp"
+      }
+    },
+    {
+      "slug": "rodeo-1",
+      "name": "rodeo 2",
+      "year_start": 1991,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/rodeo/ucs-1991-1997.webp"
+      }
+    },
+    {
+      "slug": "rodeo-2",
+      "name": "rodeo 3",
+      "year_start": 1998,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/rodeo/ues-1998-2004.webp"
+      }
+    }
+  ]
+}

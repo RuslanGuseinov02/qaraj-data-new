@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "isuzu",
+    "name": "ISUZU"
+  },
+  "slug": "ascender",
+  "name": "ascender",
+  "generations": [
+    {
+      "slug": "ascender-0",
+      "name": "ascender 1",
+      "year_start": 2002,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/ascender/gmt300-2002-2008.webp"
+      }
+    }
+  ]
+}

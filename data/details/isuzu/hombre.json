@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "isuzu",
+    "name": "ISUZU"
+  },
+  "slug": "hombre",
+  "name": "hombre",
+  "generations": [
+    {
+      "slug": "hombre-0",
+      "name": "hombre 1",
+      "year_start": 1996,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/hombre/gmt325-1996-2000.webp"
+      }
+    }
+  ]
+}

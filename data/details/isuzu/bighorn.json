@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "isuzu",
+    "name": "ISUZU"
+  },
+  "slug": "bighorn",
+  "name": "bighorn",
+  "generations": [
+    {
+      "slug": "bighorn-0",
+      "name": "bighorn 1",
+      "year_start": 1991,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/bighorn/ubs25-69-1991-1998.webp"
+      }
+    },
+    {
+      "slug": "bighorn-1",
+      "name": "bighorn 2",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/bighorn/ubs26-73-1998-2002.webp"
+      }
+    }
+  ]
+}

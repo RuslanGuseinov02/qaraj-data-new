@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "isuzu",
+    "name": "ISUZU"
+  },
+  "slug": "wizard-alive",
+  "name": "wizard-alive",
+  "generations": [
+    {
+      "slug": "wizard-alive-0",
+      "name": "wizard-alive 1",
+      "year_start": 2000,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/wizard-alive/ues-2000-2002.webp"
+      }
+    }
+  ]
+}

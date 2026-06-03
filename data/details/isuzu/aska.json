@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "isuzu",
+    "name": "ISUZU"
+  },
+  "slug": "aska",
+  "name": "aska",
+  "generations": [
+    {
+      "slug": "aska-0",
+      "name": "aska 1",
+      "year_start": 1985,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/aska/1985-1989.webp"
+      }
+    },
+    {
+      "slug": "aska-1",
+      "name": "aska 2",
+      "year_start": 1990,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/aska/1990-1993.webp"
+      }
+    },
+    {
+      "slug": "aska-2",
+      "name": "aska 3",
+      "year_start": 1994,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/aska/1994-1997.webp"
+      }
+    },
+    {
+      "slug": "aska-3",
+      "name": "aska 4",
+      "year_start": 1997,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/aska/1997-2002.webp"
+      }
+    }
+  ]
+}

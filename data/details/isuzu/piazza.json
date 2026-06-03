@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "isuzu",
+    "name": "ISUZU"
+  },
+  "slug": "piazza",
+  "name": "piazza",
+  "generations": [
+    {
+      "slug": "piazza-0",
+      "name": "piazza 1",
+      "year_start": 1981,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/piazza/jr120-130-1981-1991.webp"
+      }
+    },
+    {
+      "slug": "piazza-1",
+      "name": "piazza 2",
+      "year_start": 1991,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/piazza/jt22-1991-1994.webp"
+      }
+    }
+  ]
+}

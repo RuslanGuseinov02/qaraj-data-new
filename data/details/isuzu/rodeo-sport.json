@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "isuzu",
+    "name": "ISUZU"
+  },
+  "slug": "rodeo-sport",
+  "name": "rodeo-sport",
+  "generations": [
+    {
+      "slug": "rodeo-sport-0",
+      "name": "rodeo-sport 1",
+      "year_start": 2001,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/rodeo-sport/ues-2001-2003.webp"
+      }
+    }
+  ]
+}

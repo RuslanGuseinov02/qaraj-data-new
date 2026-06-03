@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "isuzu",
+    "name": "ISUZU"
+  },
+  "slug": "gemini",
+  "name": "gemini",
+  "generations": [
+    {
+      "slug": "gemini-0",
+      "name": "gemini 1",
+      "year_start": 1974,
+      "year_end": 1984,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/gemini/1974-1984.webp"
+      }
+    },
+    {
+      "slug": "gemini-1",
+      "name": "gemini 2",
+      "year_start": 1985,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/gemini/1985-1989.webp"
+      }
+    },
+    {
+      "slug": "gemini-2",
+      "name": "gemini 3",
+      "year_start": 1990,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/gemini/1990-1993.webp"
+      }
+    },
+    {
+      "slug": "gemini-3",
+      "name": "gemini 4",
+      "year_start": 1993,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/gemini/1993-1996.webp"
+      }
+    },
+    {
+      "slug": "gemini-4",
+      "name": "gemini 5",
+      "year_start": 1997,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/gemini/1997-2000.webp"
+      }
+    }
+  ]
+}

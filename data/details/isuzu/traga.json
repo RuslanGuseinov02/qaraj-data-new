@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "isuzu",
+    "name": "ISUZU"
+  },
+  "slug": "traga",
+  "name": "traga",
+  "generations": [
+    {
+      "slug": "traga-0",
+      "name": "traga 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/traga/2018-now.webp"
+      }
+    }
+  ]
+}

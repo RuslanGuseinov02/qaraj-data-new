@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "isuzu",
+    "name": "ISUZU"
+  },
+  "slug": "kb",
+  "name": "kb",
+  "generations": [
+    {
+      "slug": "kb-0",
+      "name": "kb 1",
+      "year_start": 2002,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/kb/dh-2002-2010.webp"
+      }
+    },
+    {
+      "slug": "kb-1",
+      "name": "kb 2",
+      "year_start": 1972,
+      "year_end": 1979,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/kb/kb-1972-1979.webp"
+      }
+    },
+    {
+      "slug": "kb-2",
+      "name": "kb 3",
+      "year_start": 1980,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/kb/kb-1980-1987.webp"
+      }
+    },
+    {
+      "slug": "kb-3",
+      "name": "kb 4",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/kb/rt50-2011-2015.webp"
+      }
+    },
+    {
+      "slug": "kb-4",
+      "name": "kb 5",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/kb/rt85-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "kb-5",
+      "name": "kb 6",
+      "year_start": 1988,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/kb/tf-1988-2002.webp"
+      }
+    }
+  ]
+}

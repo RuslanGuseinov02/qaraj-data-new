@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "isuzu",
+    "name": "ISUZU"
+  },
+  "slug": "i-series",
+  "name": "i-series",
+  "generations": [
+    {
+      "slug": "i-series-0",
+      "name": "i-series 1",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/i-series/gmt355-2005-2008.webp"
+      }
+    }
+  ]
+}

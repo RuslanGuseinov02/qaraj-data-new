@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "isuzu",
+    "name": "ISUZU"
+  },
+  "slug": "impulse",
+  "name": "impulse",
+  "generations": [
+    {
+      "slug": "impulse-0",
+      "name": "impulse 1",
+      "year_start": 1983,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/impulse/jr1x-1983-1989.webp"
+      }
+    },
+    {
+      "slug": "impulse-1",
+      "name": "impulse 2",
+      "year_start": 1990,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/isuzu/impulse/jt22-1990-1992.webp"
+      }
+    }
+  ]
+}
