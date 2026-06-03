@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jaguar",
+    "name": "JAGUAR"
+  },
+  "slug": "i-pace",
+  "name": "i-pace",
+  "generations": [
+    {
+      "slug": "i-pace-0",
+      "name": "i-pace 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/i-pace/2018-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "jaguar",
+    "name": "JAGUAR"
+  },
+  "slug": "f-type",
+  "name": "f-type",
+  "generations": [
+    {
+      "slug": "f-type-0",
+      "name": "f-type 1",
+      "year_start": 2012,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/f-type/x152-2012-2017.webp"
+      }
+    },
+    {
+      "slug": "f-type-1",
+      "name": "f-type 2",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/f-type/x152-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "f-type-2",
+      "name": "f-type 3",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/f-type/x152-2020-now.webp"
+      }
+    }
+  ]
+}

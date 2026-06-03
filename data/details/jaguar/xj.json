@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "jaguar",
+    "name": "JAGUAR"
+  },
+  "slug": "xj",
+  "name": "xj",
+  "generations": [
+    {
+      "slug": "xj-0",
+      "name": "xj 1",
+      "year_start": 1968,
+      "year_end": 1973,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/xj/series-1-1968-1973.webp"
+      }
+    },
+    {
+      "slug": "xj-1",
+      "name": "xj 2",
+      "year_start": 1973,
+      "year_end": 1979,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/xj/series-2-1973-1979.webp"
+      }
+    },
+    {
+      "slug": "xj-2",
+      "name": "xj 3",
+      "year_start": 1979,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/xj/series-3-1979-1992.webp"
+      }
+    },
+    {
+      "slug": "xj-3",
+      "name": "xj 4",
+      "year_start": 1994,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/xj/x300-1994-1997.webp"
+      }
+    },
+    {
+      "slug": "xj-4",
+      "name": "xj 5",
+      "year_start": 1997,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/xj/x308-1997-2003.webp"
+      }
+    },
+    {
+      "slug": "xj-5",
+      "name": "xj 6",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/xj/x350-2003-2007.webp"
+      }
+    },
+    {
+      "slug": "xj-6",
+      "name": "xj 7",
+      "year_start": 2009,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/xj/x351-2009-2022.webp"
+      }
+    },
+    {
+      "slug": "xj-7",
+      "name": "xj 8",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/xj/x358-2007-2009.webp"
+      }
+    },
+    {
+      "slug": "xj-8",
+      "name": "xj 9",
+      "year_start": 1986,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/xj/xj40-1986-1994.webp"
+      }
+    }
+  ]
+}

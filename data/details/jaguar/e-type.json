@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "jaguar",
+    "name": "JAGUAR"
+  },
+  "slug": "e-type",
+  "name": "e-type",
+  "generations": [
+    {
+      "slug": "e-type-0",
+      "name": "e-type 1",
+      "year_start": 1961,
+      "year_end": 1967,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/e-type/series-1-1961-1967.webp"
+      }
+    },
+    {
+      "slug": "e-type-1",
+      "name": "e-type 2",
+      "year_start": 1968,
+      "year_end": 1971,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/e-type/series-2-1968-1971.webp"
+      }
+    },
+    {
+      "slug": "e-type-2",
+      "name": "e-type 3",
+      "year_start": 1971,
+      "year_end": 1975,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/e-type/series-3-1971-1975.webp"
+      }
+    }
+  ]
+}

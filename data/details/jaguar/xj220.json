@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jaguar",
+    "name": "JAGUAR"
+  },
+  "slug": "xj220",
+  "name": "xj220",
+  "generations": [
+    {
+      "slug": "xj220-0",
+      "name": "xj220 1",
+      "year_start": 1991,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/xj220/series-1-1991-1994.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "jaguar",
+    "name": "JAGUAR"
+  },
+  "slug": "xe",
+  "name": "xe",
+  "generations": [
+    {
+      "slug": "xe-0",
+      "name": "xe 1",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/xe/x760-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "xe-1",
+      "name": "xe 2",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/xe/x760-2019-2024.webp"
+      }
+    }
+  ]
+}

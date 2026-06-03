@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jaguar",
+    "name": "JAGUAR"
+  },
+  "slug": "s-type",
+  "name": "s-type",
+  "generations": [
+    {
+      "slug": "s-type-0",
+      "name": "s-type 1",
+      "year_start": 1999,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/s-type/ccx-1999-2008.webp"
+      }
+    }
+  ]
+}

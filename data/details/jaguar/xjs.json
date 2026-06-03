@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "jaguar",
+    "name": "JAGUAR"
+  },
+  "slug": "xjs",
+  "name": "xjs",
+  "generations": [
+    {
+      "slug": "xjs-0",
+      "name": "xjs 1",
+      "year_start": 1975,
+      "year_end": 1981,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/xjs/series-1-1975-1981.webp"
+      }
+    },
+    {
+      "slug": "xjs-1",
+      "name": "xjs 2",
+      "year_start": 1981,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/xjs/series-2-1981-1991.webp"
+      }
+    },
+    {
+      "slug": "xjs-2",
+      "name": "xjs 3",
+      "year_start": 1992,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/xjs/series-3-1992-1996.webp"
+      }
+    }
+  ]
+}

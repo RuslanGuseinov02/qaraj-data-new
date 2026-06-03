@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "jaguar",
+    "name": "JAGUAR"
+  },
+  "slug": "e-pace",
+  "name": "e-pace",
+  "generations": [
+    {
+      "slug": "e-pace-0",
+      "name": "e-pace 1",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/e-pace/x540-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "e-pace-1",
+      "name": "e-pace 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/e-pace/x540-2021-now.webp"
+      }
+    }
+  ]
+}

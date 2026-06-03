@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "jaguar",
+    "name": "JAGUAR"
+  },
+  "slug": "xk-e",
+  "name": "xk-e",
+  "generations": [
+    {
+      "slug": "xk-e-0",
+      "name": "xk-e 1",
+      "year_start": 1961,
+      "year_end": 1968,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/xk-e/series-1-1961-1968.webp"
+      }
+    },
+    {
+      "slug": "xk-e-1",
+      "name": "xk-e 2",
+      "year_start": 1969,
+      "year_end": 1971,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/xk-e/series-2-1969-1971.webp"
+      }
+    },
+    {
+      "slug": "xk-e-2",
+      "name": "xk-e 3",
+      "year_start": 1971,
+      "year_end": 1974,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaguar/xk-e/series-3-1971-1974.webp"
+      }
+    }
+  ]
+}
