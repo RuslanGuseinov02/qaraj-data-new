@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "dacia",
+    "name": "DACIA"
+  },
+  "slug": "lodgy-stepway",
+  "name": "lodgy-stepway",
+  "generations": [
+    {
+      "slug": "lodgy-stepway-0",
+      "name": "lodgy-stepway 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/lodgy-stepway/2014-2017.webp"
+      }
+    },
+    {
+      "slug": "lodgy-stepway-1",
+      "name": "lodgy-stepway 2",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/lodgy-stepway/2017-2022.webp"
+      }
+    }
+  ]
+}

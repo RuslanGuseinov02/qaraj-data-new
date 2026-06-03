@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "dacia",
+    "name": "DACIA"
+  },
+  "slug": "logan-mcv",
+  "name": "logan-mcv",
+  "generations": [
+    {
+      "slug": "logan-mcv-0",
+      "name": "logan-mcv 1",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/logan-mcv/l52-k52-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "logan-mcv-1",
+      "name": "logan-mcv 2",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/logan-mcv/l52-k52-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "logan-mcv-2",
+      "name": "logan-mcv 3",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/logan-mcv/l90-u90-2006-2008.webp"
+      }
+    },
+    {
+      "slug": "logan-mcv-3",
+      "name": "logan-mcv 4",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/logan-mcv/l90-u90-2008-2013.webp"
+      }
+    }
+  ]
+}

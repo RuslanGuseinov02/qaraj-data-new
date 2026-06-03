@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "dacia",
+    "name": "DACIA"
+  },
+  "slug": "spring",
+  "name": "spring",
+  "generations": [
+    {
+      "slug": "spring-0",
+      "name": "spring 1",
+      "year_start": 2021,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/spring/bbg-2021-2022.webp"
+      }
+    },
+    {
+      "slug": "spring-1",
+      "name": "spring 2",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/spring/bbg-2022-2024.webp"
+      }
+    },
+    {
+      "slug": "spring-2",
+      "name": "spring 3",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/spring/bbg-2024-now.webp"
+      }
+    }
+  ]
+}

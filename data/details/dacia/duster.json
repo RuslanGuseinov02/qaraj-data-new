@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "dacia",
+    "name": "DACIA"
+  },
+  "slug": "duster",
+  "name": "duster",
+  "generations": [
+    {
+      "slug": "duster-0",
+      "name": "duster 1",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/duster/hm-2017-2022.webp"
+      }
+    },
+    {
+      "slug": "duster-1",
+      "name": "duster 2",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/duster/hm-2022-2025.webp"
+      }
+    },
+    {
+      "slug": "duster-2",
+      "name": "duster 3",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/duster/hs-2010-2013.webp"
+      }
+    },
+    {
+      "slug": "duster-3",
+      "name": "duster 4",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/duster/hs-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "duster-4",
+      "name": "duster 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/duster/p1310-2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "dacia",
+    "name": "DACIA"
+  },
+  "slug": "sandero-stepway",
+  "name": "sandero-stepway",
+  "generations": [
+    {
+      "slug": "sandero-stepway-0",
+      "name": "sandero-stepway 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/sandero-stepway/b52-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "sandero-stepway-1",
+      "name": "sandero-stepway 2",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/sandero-stepway/b52-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "sandero-stepway-2",
+      "name": "sandero-stepway 3",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/sandero-stepway/b90-2009-2012.webp"
+      }
+    },
+    {
+      "slug": "sandero-stepway-3",
+      "name": "sandero-stepway 4",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/sandero-stepway/bj1-2020-2022.webp"
+      }
+    },
+    {
+      "slug": "sandero-stepway-4",
+      "name": "sandero-stepway 5",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/sandero-stepway/bj1-2022-2025.webp"
+      }
+    },
+    {
+      "slug": "sandero-stepway-5",
+      "name": "sandero-stepway 6",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/sandero-stepway/bj1-2025-now.webp"
+      }
+    }
+  ]
+}

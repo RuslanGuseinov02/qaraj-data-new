@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dacia",
+    "name": "DACIA"
+  },
+  "slug": "supernova",
+  "name": "supernova",
+  "generations": [
+    {
+      "slug": "supernova-0",
+      "name": "supernova 1",
+      "year_start": 2000,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/supernova/2000-2003.webp"
+      }
+    }
+  ]
+}

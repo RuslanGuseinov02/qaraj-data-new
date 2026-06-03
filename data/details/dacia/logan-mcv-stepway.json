@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "dacia",
+    "name": "DACIA"
+  },
+  "slug": "logan-mcv-stepway",
+  "name": "logan-mcv-stepway",
+  "generations": [
+    {
+      "slug": "logan-mcv-stepway-0",
+      "name": "logan-mcv-stepway 1",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/logan-mcv-stepway/l52-k52-2017-2021.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "dacia",
+    "name": "DACIA"
+  },
+  "slug": "sandero",
+  "name": "sandero",
+  "generations": [
+    {
+      "slug": "sandero-0",
+      "name": "sandero 1",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/sandero/b52-2012-2016.webp"
+      }
+    },
+    {
+      "slug": "sandero-1",
+      "name": "sandero 2",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/sandero/b52-2016-2021.webp"
+      }
+    },
+    {
+      "slug": "sandero-2",
+      "name": "sandero 3",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/sandero/b90-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "sandero-3",
+      "name": "sandero 4",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/sandero/bj1-2020-2022.webp"
+      }
+    },
+    {
+      "slug": "sandero-4",
+      "name": "sandero 5",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/sandero/bj1-2022-2025.webp"
+      }
+    },
+    {
+      "slug": "sandero-5",
+      "name": "sandero 6",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/sandero/bj1-2025-now.webp"
+      }
+    }
+  ]
+}

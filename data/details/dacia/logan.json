@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "dacia",
+    "name": "DACIA"
+  },
+  "slug": "logan",
+  "name": "logan",
+  "generations": [
+    {
+      "slug": "logan-0",
+      "name": "logan 1",
+      "year_start": 2012,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/logan/l52-k52-2012-2017.webp"
+      }
+    },
+    {
+      "slug": "logan-1",
+      "name": "logan 2",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/logan/l52-k52-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "logan-2",
+      "name": "logan 3",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/logan/l90-u90-2004-2008.webp"
+      }
+    },
+    {
+      "slug": "logan-3",
+      "name": "logan 4",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/logan/l90-u90-f90-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "logan-4",
+      "name": "logan 5",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/logan/lji-2020-2022.webp"
+      }
+    },
+    {
+      "slug": "logan-5",
+      "name": "logan 6",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/logan/lji-2022-2025.webp"
+      }
+    },
+    {
+      "slug": "logan-6",
+      "name": "logan 7",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/dacia/logan/lji-2025-now.webp"
+      }
+    }
+  ]
+}
