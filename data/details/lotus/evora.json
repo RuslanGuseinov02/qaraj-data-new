@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lotus",
+    "name": "LOTUS"
+  },
+  "slug": "evora",
+  "name": "evora",
+  "generations": [
+    {
+      "slug": "evora-0",
+      "name": "evora 1",
+      "year_start": 2009,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lotus/evora/2009-2021.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lotus",
+    "name": "LOTUS"
+  },
+  "slug": "esprit",
+  "name": "esprit",
+  "generations": [
+    {
+      "slug": "esprit-0",
+      "name": "esprit 1",
+      "year_start": 1993,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lotus/esprit/1993-2004.webp"
+      }
+    }
+  ]
+}

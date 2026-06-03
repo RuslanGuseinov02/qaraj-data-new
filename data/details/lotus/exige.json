@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "lotus",
+    "name": "LOTUS"
+  },
+  "slug": "exige",
+  "name": "exige",
+  "generations": [
+    {
+      "slug": "exige-0",
+      "name": "exige 1",
+      "year_start": 2000,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lotus/exige/2000-2001.webp"
+      }
+    },
+    {
+      "slug": "exige-1",
+      "name": "exige 2",
+      "year_start": 2004,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lotus/exige/2004-2011.webp"
+      }
+    },
+    {
+      "slug": "exige-2",
+      "name": "exige 3",
+      "year_start": 2011,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lotus/exige/2011-2021.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "lotus",
+    "name": "LOTUS"
+  },
+  "slug": "elise",
+  "name": "elise",
+  "generations": [
+    {
+      "slug": "elise-0",
+      "name": "elise 1",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lotus/elise/1995-2000.webp"
+      }
+    },
+    {
+      "slug": "elise-1",
+      "name": "elise 2",
+      "year_start": 2000,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lotus/elise/2000-2010.webp"
+      }
+    },
+    {
+      "slug": "elise-2",
+      "name": "elise 3",
+      "year_start": 2010,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lotus/elise/2010-2021.webp"
+      }
+    }
+  ]
+}

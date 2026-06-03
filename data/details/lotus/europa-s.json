@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lotus",
+    "name": "LOTUS"
+  },
+  "slug": "europa-s",
+  "name": "europa-s",
+  "generations": [
+    {
+      "slug": "europa-s-0",
+      "name": "europa-s 1",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lotus/europa-s/2006-2010.webp"
+      }
+    }
+  ]
+}

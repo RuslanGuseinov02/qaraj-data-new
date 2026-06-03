@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "lotus",
+    "name": "LOTUS"
+  },
+  "slug": "emira",
+  "name": "emira",
+  "generations": [
+    {
+      "slug": "emira-0",
+      "name": "emira 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/lotus/emira/2022-now.webp"
+      }
+    }
+  ]
+}
