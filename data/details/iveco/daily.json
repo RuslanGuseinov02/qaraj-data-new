@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "iveco",
+    "name": "IVECO"
+  },
+  "slug": "daily",
+  "name": "daily",
+  "generations": [
+    {
+      "slug": "daily-0",
+      "name": "daily 1",
+      "year_start": 1978,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/iveco/daily/1978-1990.webp"
+      }
+    },
+    {
+      "slug": "daily-1",
+      "name": "daily 2",
+      "year_start": 1990,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/iveco/daily/1990-1999.webp"
+      }
+    },
+    {
+      "slug": "daily-2",
+      "name": "daily 3",
+      "year_start": 1999,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/iveco/daily/1999-2006.webp"
+      }
+    },
+    {
+      "slug": "daily-3",
+      "name": "daily 4",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/iveco/daily/2006-2011.webp"
+      }
+    },
+    {
+      "slug": "daily-4",
+      "name": "daily 5",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/iveco/daily/2011-2014.webp"
+      }
+    },
+    {
+      "slug": "daily-5",
+      "name": "daily 6",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/iveco/daily/2014-2019.webp"
+      }
+    },
+    {
+      "slug": "daily-6",
+      "name": "daily 7",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/iveco/daily/2019-now.webp"
+      }
+    }
+  ]
+}
