@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "seres",
+    "name": "SERES"
+  },
+  "slug": "e1",
+  "name": "e1",
+  "generations": [
+    {
+      "slug": "e1-0",
+      "name": "e1 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seres/e1/2023-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "seres",
+    "name": "SERES"
+  },
+  "slug": "5",
+  "name": "5",
+  "generations": [
+    {
+      "slug": "5-0",
+      "name": "5 1",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seres/5/2022-2025.webp"
+      }
+    },
+    {
+      "slug": "5-1",
+      "name": "5 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seres/5/2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "seres",
+    "name": "SERES"
+  },
+  "slug": "7",
+  "name": "7",
+  "generations": [
+    {
+      "slug": "7-0",
+      "name": "7 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/seres/7/2024-now.webp"
+      }
+    }
+  ]
+}
