@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "infiniti",
+    "name": "INFINITI"
+  },
+  "slug": "q45",
+  "name": "q45",
+  "generations": [
+    {
+      "slug": "q45-0",
+      "name": "q45 1",
+      "year_start": 2002,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/q45/f50-2002-2006.webp"
+      }
+    },
+    {
+      "slug": "q45-1",
+      "name": "q45 2",
+      "year_start": 1997,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/q45/fy33-1997-2001.webp"
+      }
+    },
+    {
+      "slug": "q45-2",
+      "name": "q45 3",
+      "year_start": 1989,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/q45/g50-1989-1996.webp"
+      }
+    }
+  ]
+}

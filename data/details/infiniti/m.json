@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "infiniti",
+    "name": "INFINITI"
+  },
+  "slug": "m",
+  "name": "m",
+  "generations": [
+    {
+      "slug": "m-0",
+      "name": "m 1",
+      "year_start": 1989,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/m/f31-1989-1993.webp"
+      }
+    },
+    {
+      "slug": "m-1",
+      "name": "m 2",
+      "year_start": 2002,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/m/y34-2002-2004.webp"
+      }
+    },
+    {
+      "slug": "m-2",
+      "name": "m 3",
+      "year_start": 2005,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/m/y50-2005-2010.webp"
+      }
+    },
+    {
+      "slug": "m-3",
+      "name": "m 4",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/m/y51-2010-2014.webp"
+      }
+    }
+  ]
+}

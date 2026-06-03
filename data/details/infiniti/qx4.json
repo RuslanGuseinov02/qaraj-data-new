@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "infiniti",
+    "name": "INFINITI"
+  },
+  "slug": "qx4",
+  "name": "qx4",
+  "generations": [
+    {
+      "slug": "qx4-0",
+      "name": "qx4 1",
+      "year_start": 1997,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/qx4/jr50-1997-2003.webp"
+      }
+    }
+  ]
+}

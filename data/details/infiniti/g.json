@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "infiniti",
+    "name": "INFINITI"
+  },
+  "slug": "g",
+  "name": "g",
+  "generations": [
+    {
+      "slug": "g-0",
+      "name": "g 1",
+      "year_start": 1991,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/g/p10-1991-1997.webp"
+      }
+    },
+    {
+      "slug": "g-1",
+      "name": "g 2",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/g/p11-1998-2002.webp"
+      }
+    },
+    {
+      "slug": "g-2",
+      "name": "g 3",
+      "year_start": 2002,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/g/v35-2002-2007.webp"
+      }
+    },
+    {
+      "slug": "g-3",
+      "name": "g 4",
+      "year_start": 2007,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/g/v36-2007-2015.webp"
+      }
+    }
+  ]
+}

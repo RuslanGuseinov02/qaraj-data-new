@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "infiniti",
+    "name": "INFINITI"
+  },
+  "slug": "esq",
+  "name": "esq",
+  "generations": [
+    {
+      "slug": "esq-0",
+      "name": "esq 1",
+      "year_start": 2015,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/esq/f15-2015-2022.webp"
+      }
+    }
+  ]
+}

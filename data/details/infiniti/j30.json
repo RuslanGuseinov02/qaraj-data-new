@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "infiniti",
+    "name": "INFINITI"
+  },
+  "slug": "j30",
+  "name": "j30",
+  "generations": [
+    {
+      "slug": "j30-0",
+      "name": "j30 1",
+      "year_start": 1992,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/j30/y32-1992-1997.webp"
+      }
+    }
+  ]
+}

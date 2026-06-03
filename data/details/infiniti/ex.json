@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "infiniti",
+    "name": "INFINITI"
+  },
+  "slug": "ex",
+  "name": "ex",
+  "generations": [
+    {
+      "slug": "ex-0",
+      "name": "ex 1",
+      "year_start": 2007,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/ex/j50-2007-2014.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "infiniti",
+    "name": "INFINITI"
+  },
+  "slug": "qx50",
+  "name": "qx50",
+  "generations": [
+    {
+      "slug": "qx50-0",
+      "name": "qx50 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/qx50/j50-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "qx50-1",
+      "name": "qx50 2",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/qx50/j50-2016-2018.webp"
+      }
+    },
+    {
+      "slug": "qx50-2",
+      "name": "qx50 3",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/qx50/j55-2018-now.webp"
+      }
+    }
+  ]
+}

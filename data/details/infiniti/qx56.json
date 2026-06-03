@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "infiniti",
+    "name": "INFINITI"
+  },
+  "slug": "qx56",
+  "name": "qx56",
+  "generations": [
+    {
+      "slug": "qx56-0",
+      "name": "qx56 1",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/qx56/ja60-2004-2010.webp"
+      }
+    },
+    {
+      "slug": "qx56-1",
+      "name": "qx56 2",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/qx56/z62-2011-2013.webp"
+      }
+    }
+  ]
+}

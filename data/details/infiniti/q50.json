@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "infiniti",
+    "name": "INFINITI"
+  },
+  "slug": "q50",
+  "name": "q50",
+  "generations": [
+    {
+      "slug": "q50-0",
+      "name": "q50 1",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/q50/v37-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "q50-1",
+      "name": "q50 2",
+      "year_start": 2017,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/q50/v37-2017-2024.webp"
+      }
+    }
+  ]
+}

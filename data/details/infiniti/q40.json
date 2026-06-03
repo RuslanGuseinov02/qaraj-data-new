@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "infiniti",
+    "name": "INFINITI"
+  },
+  "slug": "q40",
+  "name": "q40",
+  "generations": [
+    {
+      "slug": "q40-0",
+      "name": "q40 1",
+      "year_start": 2014,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/q40/v36-2014-2015.webp"
+      }
+    }
+  ]
+}

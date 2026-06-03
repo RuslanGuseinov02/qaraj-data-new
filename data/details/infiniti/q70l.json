@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "infiniti",
+    "name": "INFINITI"
+  },
+  "slug": "q70l",
+  "name": "q70l",
+  "generations": [
+    {
+      "slug": "q70l-0",
+      "name": "q70l 1",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/q70l/y51-2015-2020.webp"
+      }
+    }
+  ]
+}

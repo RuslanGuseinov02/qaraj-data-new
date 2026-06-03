@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "infiniti",
+    "name": "INFINITI"
+  },
+  "slug": "fx",
+  "name": "fx",
+  "generations": [
+    {
+      "slug": "fx-0",
+      "name": "fx 1",
+      "year_start": 2003,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/fx/s50-2003-2005.webp"
+      }
+    },
+    {
+      "slug": "fx-1",
+      "name": "fx 2",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/fx/s50-2006-2008.webp"
+      }
+    },
+    {
+      "slug": "fx-2",
+      "name": "fx 3",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/fx/s51-2008-2012.webp"
+      }
+    },
+    {
+      "slug": "fx-3",
+      "name": "fx 4",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/infiniti/fx/s51-2011-2014.webp"
+      }
+    }
+  ]
+}
