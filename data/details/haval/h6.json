@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "haval",
+    "name": "HAVAL"
+  },
+  "slug": "h6",
+  "name": "h6",
+  "generations": [
+    {
+      "slug": "h6-0",
+      "name": "h6 1",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/h6/2013-2017.webp"
+      }
+    },
+    {
+      "slug": "h6-1",
+      "name": "h6 2",
+      "year_start": 2017,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/h6/2017-2019.webp"
+      }
+    },
+    {
+      "slug": "h6-2",
+      "name": "h6 3",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/h6/2019-2021.webp"
+      }
+    },
+    {
+      "slug": "h6-3",
+      "name": "h6 4",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/h6/2020-now.webp"
+      }
+    },
+    {
+      "slug": "h6-4",
+      "name": "h6 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/h6/2024-now.webp"
+      }
+    }
+  ]
+}

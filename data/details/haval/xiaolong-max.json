@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "haval",
+    "name": "HAVAL"
+  },
+  "slug": "xiaolong-max",
+  "name": "xiaolong-max",
+  "generations": [
+    {
+      "slug": "xiaolong-max-0",
+      "name": "xiaolong-max 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/xiaolong-max/2023-now.webp"
+      }
+    },
+    {
+      "slug": "xiaolong-max-1",
+      "name": "xiaolong-max 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/xiaolong-max/2024-now.webp"
+      }
+    }
+  ]
+}

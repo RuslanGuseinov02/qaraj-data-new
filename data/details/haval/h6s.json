@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "haval",
+    "name": "HAVAL"
+  },
+  "slug": "h6s",
+  "name": "h6s",
+  "generations": [
+    {
+      "slug": "h6s-0",
+      "name": "h6s 1",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/h6s/2021-2025.webp"
+      }
+    }
+  ]
+}

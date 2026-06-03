@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "haval",
+    "name": "HAVAL"
+  },
+  "slug": "kugou",
+  "name": "kugou",
+  "generations": [
+    {
+      "slug": "kugou-0",
+      "name": "kugou 1",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/kugou/2022-2025.webp"
+      }
+    }
+  ]
+}

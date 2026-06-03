@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "haval",
+    "name": "HAVAL"
+  },
+  "slug": "jolion-s",
+  "name": "jolion-s",
+  "generations": [
+    {
+      "slug": "jolion-s-0",
+      "name": "jolion-s 1",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/jolion-s/2022-2024.webp"
+      }
+    }
+  ]
+}

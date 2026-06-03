@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "haval",
+    "name": "HAVAL"
+  },
+  "slug": "dargo",
+  "name": "dargo",
+  "generations": [
+    {
+      "slug": "dargo-0",
+      "name": "dargo 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/dargo/2020-now.webp"
+      }
+    },
+    {
+      "slug": "dargo-1",
+      "name": "dargo 2",
+      "year_start": 2011,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/dargo/2023-now-c8.webp"
+      }
+    },
+    {
+      "slug": "dargo-2",
+      "name": "dargo 3",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/dargo/2023-now.webp"
+      }
+    }
+  ]
+}

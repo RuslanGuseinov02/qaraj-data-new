@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "haval",
+    "name": "HAVAL"
+  },
+  "slug": "m6",
+  "name": "m6",
+  "generations": [
+    {
+      "slug": "m6-0",
+      "name": "m6 1",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/m6/2017-2021.webp"
+      }
+    },
+    {
+      "slug": "m6-1",
+      "name": "m6 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/m6/2023-now.webp"
+      }
+    }
+  ]
+}

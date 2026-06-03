@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "haval",
+    "name": "HAVAL"
+  },
+  "slug": "h4",
+  "name": "h4",
+  "generations": [
+    {
+      "slug": "h4-0",
+      "name": "h4 1",
+      "year_start": 2018,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/h4/2018-2019.webp"
+      }
+    },
+    {
+      "slug": "h4-1",
+      "name": "h4 2",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/h4/2019-2021.webp"
+      }
+    }
+  ]
+}

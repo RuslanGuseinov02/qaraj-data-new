@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "haval",
+    "name": "HAVAL"
+  },
+  "slug": "f7x",
+  "name": "f7x",
+  "generations": [
+    {
+      "slug": "f7x-0",
+      "name": "f7x 1",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/f7x/2019-2022.webp"
+      }
+    },
+    {
+      "slug": "f7x-1",
+      "name": "f7x 2",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/f7x/2022-2024.webp"
+      }
+    },
+    {
+      "slug": "f7x-2",
+      "name": "f7x 3",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/f7x/2025-now.webp"
+      }
+    }
+  ]
+}

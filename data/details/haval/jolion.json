@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "haval",
+    "name": "HAVAL"
+  },
+  "slug": "jolion",
+  "name": "jolion",
+  "generations": [
+    {
+      "slug": "jolion-0",
+      "name": "jolion 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/jolion/2021-2024.webp"
+      }
+    },
+    {
+      "slug": "jolion-1",
+      "name": "jolion 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/jolion/2024-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "haval",
+    "name": "HAVAL"
+  },
+  "slug": "h6-sport",
+  "name": "h6-sport",
+  "generations": [
+    {
+      "slug": "h6-sport-0",
+      "name": "h6-sport 1",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/h6-sport/2015-2018.webp"
+      }
+    }
+  ]
+}

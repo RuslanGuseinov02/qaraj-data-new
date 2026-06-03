@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "haval",
+    "name": "HAVAL"
+  },
+  "slug": "dargo-x",
+  "name": "dargo-x",
+  "generations": [
+    {
+      "slug": "dargo-x-0",
+      "name": "dargo-x 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/haval/dargo-x/2023-now.webp"
+      }
+    }
+  ]
+}
