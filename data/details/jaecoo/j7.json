@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "jaecoo",
+    "name": "JAECOO"
+  },
+  "slug": "j7",
+  "name": "j7",
+  "generations": [
+    {
+      "slug": "j7-0",
+      "name": "j7 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/jaecoo/j7/2023-now.webp"
+      }
+    }
+  ]
+}
