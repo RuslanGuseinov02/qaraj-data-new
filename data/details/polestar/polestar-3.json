@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "polestar",
+    "name": "POLESTAR"
+  },
+  "slug": "polestar-3",
+  "name": "polestar-3",
+  "generations": [
+    {
+      "slug": "polestar-3-0",
+      "name": "polestar-3 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/polestar/polestar-3/2024-now.webp"
+      }
+    }
+  ]
+}

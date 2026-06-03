@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "polestar",
+    "name": "POLESTAR"
+  },
+  "slug": "polestar-2",
+  "name": "polestar-2",
+  "generations": [
+    {
+      "slug": "polestar-2-0",
+      "name": "polestar-2 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/polestar/polestar-2/2020-2023.webp"
+      }
+    },
+    {
+      "slug": "polestar-2-1",
+      "name": "polestar-2 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/polestar/polestar-2/2024-now.webp"
+      }
+    }
+  ]
+}
