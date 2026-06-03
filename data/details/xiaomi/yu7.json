@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "xiaomi",
+    "name": "XIAOMI"
+  },
+  "slug": "yu7",
+  "name": "yu7",
+  "generations": [
+    {
+      "slug": "yu7-0",
+      "name": "yu7 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/xiaomi/yu7/2025-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "xiaomi",
+    "name": "XIAOMI"
+  },
+  "slug": "su7-ultra",
+  "name": "su7-ultra",
+  "generations": [
+    {
+      "slug": "su7-ultra-0",
+      "name": "su7-ultra 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/xiaomi/su7-ultra/2025-now.webp"
+      }
+    }
+  ]
+}
