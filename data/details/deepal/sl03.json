@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "deepal",
+    "name": "DEEPAL"
+  },
+  "slug": "sl03",
+  "name": "sl03",
+  "generations": [
+    {
+      "slug": "sl03-0",
+      "name": "sl03 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/deepal/sl03/2022-now.webp"
+      }
+    }
+  ]
+}

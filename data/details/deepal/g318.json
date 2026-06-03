@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "deepal",
+    "name": "DEEPAL"
+  },
+  "slug": "g318",
+  "name": "g318",
+  "generations": [
+    {
+      "slug": "g318-0",
+      "name": "g318 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/deepal/g318/2024-now.webp"
+      }
+    }
+  ]
+}
