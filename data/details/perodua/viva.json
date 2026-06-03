@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "perodua",
+    "name": "PERODUA"
+  },
+  "slug": "viva",
+  "name": "viva",
+  "generations": [
+    {
+      "slug": "viva-0",
+      "name": "viva 1",
+      "year_start": 2007,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/perodua/viva/l251-2007-2014.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "perodua",
+    "name": "PERODUA"
+  },
+  "slug": "myvi",
+  "name": "myvi",
+  "generations": [
+    {
+      "slug": "myvi-0",
+      "name": "myvi 1",
+      "year_start": 2005,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/perodua/myvi/m300-2005-2008.webp"
+      }
+    },
+    {
+      "slug": "myvi-1",
+      "name": "myvi 2",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/perodua/myvi/m300-2008-2011.webp"
+      }
+    },
+    {
+      "slug": "myvi-2",
+      "name": "myvi 3",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/perodua/myvi/m600-2011-2015.webp"
+      }
+    },
+    {
+      "slug": "myvi-3",
+      "name": "myvi 4",
+      "year_start": 2015,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/perodua/myvi/m600-2015-2017.webp"
+      }
+    },
+    {
+      "slug": "myvi-4",
+      "name": "myvi 5",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/perodua/myvi/m800-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "myvi-5",
+      "name": "myvi 6",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/perodua/myvi/m800-2021-now.webp"
+      }
+    }
+  ]
+}

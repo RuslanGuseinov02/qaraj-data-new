@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "perodua",
+    "name": "PERODUA"
+  },
+  "slug": "alza",
+  "name": "alza",
+  "generations": [
+    {
+      "slug": "alza-0",
+      "name": "alza 1",
+      "year_start": 2009,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/perodua/alza/m500-2009-2013.webp"
+      }
+    },
+    {
+      "slug": "alza-1",
+      "name": "alza 2",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/perodua/alza/m500-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "alza-2",
+      "name": "alza 3",
+      "year_start": 2018,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/perodua/alza/m500-2018-2022.webp"
+      }
+    },
+    {
+      "slug": "alza-3",
+      "name": "alza 4",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/perodua/alza/w150-2022-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "perodua",
+    "name": "PERODUA"
+  },
+  "slug": "kenari",
+  "name": "kenari",
+  "generations": [
+    {
+      "slug": "kenari-0",
+      "name": "kenari 1",
+      "year_start": 2000,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/perodua/kenari/l900-2000-2009.webp"
+      }
+    }
+  ]
+}

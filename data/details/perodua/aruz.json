@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "perodua",
+    "name": "PERODUA"
+  },
+  "slug": "aruz",
+  "name": "aruz",
+  "generations": [
+    {
+      "slug": "aruz-0",
+      "name": "aruz 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/perodua/aruz/f800-2019-now.webp"
+      }
+    }
+  ]
+}

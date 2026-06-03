@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "perodua",
+    "name": "PERODUA"
+  },
+  "slug": "nautica",
+  "name": "nautica",
+  "generations": [
+    {
+      "slug": "nautica-0",
+      "name": "nautica 1",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/perodua/nautica/j200-2008-2010.webp"
+      }
+    }
+  ]
+}

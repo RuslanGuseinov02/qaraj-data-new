@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "perodua",
+    "name": "PERODUA"
+  },
+  "slug": "bezza",
+  "name": "bezza",
+  "generations": [
+    {
+      "slug": "bezza-0",
+      "name": "bezza 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/perodua/bezza/b300-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "bezza-1",
+      "name": "bezza 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/perodua/bezza/b300-2020-now.webp"
+      }
+    }
+  ]
+}
