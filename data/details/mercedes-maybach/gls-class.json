@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "mercedes-maybach",
+    "name": "MERCEDES-MAYBACH"
+  },
+  "slug": "gls-class",
+  "name": "gls-class",
+  "generations": [
+    {
+      "slug": "gls-class-0",
+      "name": "gls-class 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes-maybach/gls-class/x167-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "gls-class-1",
+      "name": "gls-class 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes-maybach/gls-class/x167-2023-now.webp"
+      }
+    }
+  ]
+}

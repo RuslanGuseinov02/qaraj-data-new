@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mercedes-maybach",
+    "name": "MERCEDES-MAYBACH"
+  },
+  "slug": "eqs",
+  "name": "eqs",
+  "generations": [
+    {
+      "slug": "eqs-0",
+      "name": "eqs 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes-maybach/eqs/z296-2023-now.webp"
+      }
+    }
+  ]
+}

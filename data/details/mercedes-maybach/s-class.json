@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "mercedes-maybach",
+    "name": "MERCEDES-MAYBACH"
+  },
+  "slug": "s-class",
+  "name": "s-class",
+  "generations": [
+    {
+      "slug": "s-class-0",
+      "name": "s-class 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes-maybach/s-class/x222-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "s-class-1",
+      "name": "s-class 2",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes-maybach/s-class/x222-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "s-class-2",
+      "name": "s-class 3",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes-maybach/s-class/z223-2021-now.webp"
+      }
+    }
+  ]
+}

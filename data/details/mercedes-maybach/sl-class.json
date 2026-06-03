@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "mercedes-maybach",
+    "name": "MERCEDES-MAYBACH"
+  },
+  "slug": "sl-class",
+  "name": "sl-class",
+  "generations": [
+    {
+      "slug": "sl-class-0",
+      "name": "sl-class 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/mercedes-maybach/sl-class/r232-2024-now.webp"
+      }
+    }
+  ]
+}
