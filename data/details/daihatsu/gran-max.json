@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "gran-max",
+  "name": "gran-max",
+  "generations": [
+    {
+      "slug": "gran-max-0",
+      "name": "gran-max 1",
+      "year_start": 2008,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/gran-max/2008-now.webp"
+      }
+    },
+    {
+      "slug": "gran-max-1",
+      "name": "gran-max 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/gran-max/2020-now.webp"
+      }
+    }
+  ]
+}

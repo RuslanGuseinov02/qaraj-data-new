@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "charade",
+  "name": "charade",
+  "generations": [
+    {
+      "slug": "charade-0",
+      "name": "charade 1",
+      "year_start": 1977,
+      "year_end": 1983,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/charade/g10-g20-1977-1983.webp"
+      }
+    },
+    {
+      "slug": "charade-1",
+      "name": "charade 2",
+      "year_start": 1987,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/charade/g100-1987-1993.webp"
+      }
+    },
+    {
+      "slug": "charade-2",
+      "name": "charade 3",
+      "year_start": 1983,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/charade/g11-1983-1987.webp"
+      }
+    },
+    {
+      "slug": "charade-3",
+      "name": "charade 4",
+      "year_start": 1993,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/charade/g200-1993-2000.webp"
+      }
+    },
+    {
+      "slug": "charade-4",
+      "name": "charade 5",
+      "year_start": 2002,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/charade/l250-2002-2009.webp"
+      }
+    },
+    {
+      "slug": "charade-5",
+      "name": "charade 6",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/charade/l275-2006-2010.webp"
+      }
+    },
+    {
+      "slug": "charade-6",
+      "name": "charade 7",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/charade/xp90-2011-2013.webp"
+      }
+    }
+  ]
+}

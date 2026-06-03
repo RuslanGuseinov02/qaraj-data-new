@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "cast-sport",
+  "name": "cast-sport",
+  "generations": [
+    {
+      "slug": "cast-sport-0",
+      "name": "cast-sport 1",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/cast-sport/2015-2020.webp"
+      }
+    }
+  ]
+}

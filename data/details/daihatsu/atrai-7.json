@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "atrai-7",
+  "name": "atrai-7",
+  "generations": [
+    {
+      "slug": "atrai-7-0",
+      "name": "atrai-7 1",
+      "year_start": 2000,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/atrai-7/2000-2004.webp"
+      }
+    }
+  ]
+}

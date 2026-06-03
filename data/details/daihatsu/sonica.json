@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "sonica",
+  "name": "sonica",
+  "generations": [
+    {
+      "slug": "sonica-0",
+      "name": "sonica 1",
+      "year_start": 2006,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/sonica/l405s-l415s-2006-2007.webp"
+      }
+    },
+    {
+      "slug": "sonica-1",
+      "name": "sonica 2",
+      "year_start": 2007,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/sonica/l405s-l415s-2007-2009.webp"
+      }
+    }
+  ]
+}

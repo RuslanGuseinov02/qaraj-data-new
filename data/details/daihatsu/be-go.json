@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "be-go",
+  "name": "be-go",
+  "generations": [
+    {
+      "slug": "be-go-0",
+      "name": "be-go 1",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/be-go/j200-2006-2008.webp"
+      }
+    },
+    {
+      "slug": "be-go-1",
+      "name": "be-go 2",
+      "year_start": 2008,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/be-go/j200-2008-2016.webp"
+      }
+    }
+  ]
+}

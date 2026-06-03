@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "cast-style",
+  "name": "cast-style",
+  "generations": [
+    {
+      "slug": "cast-style-0",
+      "name": "cast-style 1",
+      "year_start": 2015,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/cast-style/2015-2023.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "move-latte",
+  "name": "move-latte",
+  "generations": [
+    {
+      "slug": "move-latte-0",
+      "name": "move-latte 1",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move-latte/2004-2008.webp"
+      }
+    }
+  ]
+}

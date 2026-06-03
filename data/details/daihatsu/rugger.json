@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "rugger",
+  "name": "rugger",
+  "generations": [
+    {
+      "slug": "rugger-0",
+      "name": "rugger 1",
+      "year_start": 1984,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/rugger/f70-f75-f77-1984-1991.webp"
+      }
+    },
+    {
+      "slug": "rugger-1",
+      "name": "rugger 2",
+      "year_start": 1992,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/rugger/f78-1992-2002.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "tanto-custom",
+  "name": "tanto-custom",
+  "generations": [
+    {
+      "slug": "tanto-custom-0",
+      "name": "tanto-custom 1",
+      "year_start": 2013,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/tanto-custom/2013-2015.webp"
+      }
+    },
+    {
+      "slug": "tanto-custom-1",
+      "name": "tanto-custom 2",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/tanto-custom/2015-2019.webp"
+      }
+    },
+    {
+      "slug": "tanto-custom-2",
+      "name": "tanto-custom 3",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/tanto-custom/2019-2022.webp"
+      }
+    },
+    {
+      "slug": "tanto-custom-3",
+      "name": "tanto-custom 4",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/tanto-custom/2022-now.webp"
+      }
+    }
+  ]
+}

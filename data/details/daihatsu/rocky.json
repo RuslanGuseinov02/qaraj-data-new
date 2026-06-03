@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "rocky",
+  "name": "rocky",
+  "generations": [
+    {
+      "slug": "rocky-0",
+      "name": "rocky 1",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/rocky/a200-2019-now.webp"
+      }
+    },
+    {
+      "slug": "rocky-1",
+      "name": "rocky 2",
+      "year_start": 1987,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/rocky/f300-1987-1998.webp"
+      }
+    },
+    {
+      "slug": "rocky-2",
+      "name": "rocky 3",
+      "year_start": 1992,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/rocky/f78-1992-2002.webp"
+      }
+    }
+  ]
+}

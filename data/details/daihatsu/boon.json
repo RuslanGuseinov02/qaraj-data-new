@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "boon",
+  "name": "boon",
+  "generations": [
+    {
+      "slug": "boon-0",
+      "name": "boon 1",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/boon/m300-2004-2006.webp"
+      }
+    },
+    {
+      "slug": "boon-1",
+      "name": "boon 2",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/boon/m300-2006-2010.webp"
+      }
+    },
+    {
+      "slug": "boon-2",
+      "name": "boon 3",
+      "year_start": 2010,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/boon/m600-2010-2014.webp"
+      }
+    },
+    {
+      "slug": "boon-3",
+      "name": "boon 4",
+      "year_start": 2014,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/boon/m600-2014-2016.webp"
+      }
+    },
+    {
+      "slug": "boon-4",
+      "name": "boon 5",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/boon/m700-2016-2018.webp"
+      }
+    },
+    {
+      "slug": "boon-5",
+      "name": "boon 6",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/boon/m700-2018-2023.webp"
+      }
+    }
+  ]
+}

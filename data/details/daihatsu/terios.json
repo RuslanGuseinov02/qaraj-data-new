@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "terios",
+  "name": "terios",
+  "generations": [
+    {
+      "slug": "terios-0",
+      "name": "terios 1",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/terios/f800-2017-2023.webp"
+      }
+    },
+    {
+      "slug": "terios-1",
+      "name": "terios 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/terios/f800-2023-now.webp"
+      }
+    },
+    {
+      "slug": "terios-2",
+      "name": "terios 3",
+      "year_start": 1997,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/terios/j100-1997-2005.webp"
+      }
+    },
+    {
+      "slug": "terios-3",
+      "name": "terios 4",
+      "year_start": 2006,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/terios/j200-2006-2017.webp"
+      }
+    }
+  ]
+}

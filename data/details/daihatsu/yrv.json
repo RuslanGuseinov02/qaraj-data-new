@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "yrv",
+  "name": "yrv",
+  "generations": [
+    {
+      "slug": "yrv-0",
+      "name": "yrv 1",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/yrv/m200-2000-2006.webp"
+      }
+    }
+  ]
+}

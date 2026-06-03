@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "hijet-caddie",
+  "name": "hijet-caddie",
+  "generations": [
+    {
+      "slug": "hijet-caddie-0",
+      "name": "hijet-caddie 1",
+      "year_start": 2016,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/hijet-caddie/2016-2021.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "trevis",
+  "name": "trevis",
+  "generations": [
+    {
+      "slug": "trevis-0",
+      "name": "trevis 1",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/trevis/l650-2006-2011.webp"
+      }
+    }
+  ]
+}

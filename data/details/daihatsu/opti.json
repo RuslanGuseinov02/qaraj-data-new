@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "opti",
+  "name": "opti",
+  "generations": [
+    {
+      "slug": "opti-0",
+      "name": "opti 1",
+      "year_start": 1992,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/opti/l200-1992-1998.webp"
+      }
+    },
+    {
+      "slug": "opti-1",
+      "name": "opti 2",
+      "year_start": 1999,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/opti/l500-1999-2002.webp"
+      }
+    }
+  ]
+}

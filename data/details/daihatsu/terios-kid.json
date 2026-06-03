@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "terios-kid",
+  "name": "terios-kid",
+  "generations": [
+    {
+      "slug": "terios-kid-0",
+      "name": "terios-kid 1",
+      "year_start": 1998,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/terios-kid/1998-2000.webp"
+      }
+    },
+    {
+      "slug": "terios-kid-1",
+      "name": "terios-kid 2",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/terios-kid/2000-2006.webp"
+      }
+    },
+    {
+      "slug": "terios-kid-2",
+      "name": "terios-kid 3",
+      "year_start": 2006,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/terios-kid/2006-2012.webp"
+      }
+    }
+  ]
+}

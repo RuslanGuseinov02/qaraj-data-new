@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "delta-wide",
+  "name": "delta-wide",
+  "generations": [
+    {
+      "slug": "delta-wide-0",
+      "name": "delta-wide 1",
+      "year_start": 1982,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/delta-wide/b20-1982-1988.webp"
+      }
+    },
+    {
+      "slug": "delta-wide-1",
+      "name": "delta-wide 2",
+      "year_start": 1988,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/delta-wide/b20-1988-1991.webp"
+      }
+    },
+    {
+      "slug": "delta-wide-2",
+      "name": "delta-wide 3",
+      "year_start": 1992,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/delta-wide/b20-b30-1992-1996.webp"
+      }
+    }
+  ]
+}

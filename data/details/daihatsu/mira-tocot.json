@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "mira-tocot",
+  "name": "mira-tocot",
+  "generations": [
+    {
+      "slug": "mira-tocot-0",
+      "name": "mira-tocot 1",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/mira-tocot/2018-2023.webp"
+      }
+    }
+  ]
+}

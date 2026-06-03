@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "cast-activa",
+  "name": "cast-activa",
+  "generations": [
+    {
+      "slug": "cast-activa-0",
+      "name": "cast-activa 1",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/cast-activa/2015-2020.webp"
+      }
+    }
+  ]
+}

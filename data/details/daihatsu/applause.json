@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "applause",
+  "name": "applause",
+  "generations": [
+    {
+      "slug": "applause-0",
+      "name": "applause 1",
+      "year_start": 1989,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/applause/a100-1989-1992.webp"
+      }
+    },
+    {
+      "slug": "applause-1",
+      "name": "applause 2",
+      "year_start": 1992,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/applause/a100-1992-1997.webp"
+      }
+    },
+    {
+      "slug": "applause-2",
+      "name": "applause 3",
+      "year_start": 1997,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/applause/a100-1997-2000.webp"
+      }
+    }
+  ]
+}

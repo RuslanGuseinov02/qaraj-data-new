@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "mira-es",
+  "name": "mira-es",
+  "generations": [
+    {
+      "slug": "mira-es-0",
+      "name": "mira-es 1",
+      "year_start": 2011,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/mira-es/2011-2013.webp"
+      }
+    },
+    {
+      "slug": "mira-es-1",
+      "name": "mira-es 2",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/mira-es/2013-2017.webp"
+      }
+    },
+    {
+      "slug": "mira-es-2",
+      "name": "mira-es 3",
+      "year_start": 2017,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/mira-es/2017-now.webp"
+      }
+    }
+  ]
+}

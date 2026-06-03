@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "tanto",
+  "name": "tanto",
+  "generations": [
+    {
+      "slug": "tanto-0",
+      "name": "tanto 1",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/tanto/l350-2003-2007.webp"
+      }
+    },
+    {
+      "slug": "tanto-1",
+      "name": "tanto 2",
+      "year_start": 2007,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/tanto/l375-2007-2013.webp"
+      }
+    },
+    {
+      "slug": "tanto-2",
+      "name": "tanto 3",
+      "year_start": 2013,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/tanto/la600-2013-2019.webp"
+      }
+    },
+    {
+      "slug": "tanto-3",
+      "name": "tanto 4",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/tanto/la650-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "tanto-4",
+      "name": "tanto 5",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/tanto/la650-2022-now.webp"
+      }
+    }
+  ]
+}

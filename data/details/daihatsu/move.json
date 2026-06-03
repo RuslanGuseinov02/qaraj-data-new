@@ -1,0 +1,120 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "move",
+  "name": "move",
+  "generations": [
+    {
+      "slug": "move-0",
+      "name": "move 1",
+      "year_start": 2002,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move/l150s-2002-2006.webp"
+      }
+    },
+    {
+      "slug": "move-1",
+      "name": "move 2",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move/l175s-l185s-2006-2008.webp"
+      }
+    },
+    {
+      "slug": "move-2",
+      "name": "move 3",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move/l175s-l185s-2008-2010.webp"
+      }
+    },
+    {
+      "slug": "move-3",
+      "name": "move 4",
+      "year_start": 1995,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move/l600s-1995-1998.webp"
+      }
+    },
+    {
+      "slug": "move-4",
+      "name": "move 5",
+      "year_start": 1998,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move/l900s-1998-2000.webp"
+      }
+    },
+    {
+      "slug": "move-5",
+      "name": "move 6",
+      "year_start": 2000,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move/l900s-2000-2002.webp"
+      }
+    },
+    {
+      "slug": "move-6",
+      "name": "move 7",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move/la100s-la110s-2010-2012.webp"
+      }
+    },
+    {
+      "slug": "move-7",
+      "name": "move 8",
+      "year_start": 2012,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move/la100s-la110s-2012-2014.webp"
+      }
+    },
+    {
+      "slug": "move-8",
+      "name": "move 9",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move/la150s-la160s-2014-2017.webp"
+      }
+    },
+    {
+      "slug": "move-9",
+      "name": "move 10",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move/la150s-la160s-2017-2023.webp"
+      }
+    },
+    {
+      "slug": "move-10",
+      "name": "move 11",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move/la850s-la860s-2025-now.webp"
+      }
+    }
+  ]
+}

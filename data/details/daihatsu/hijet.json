@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "hijet",
+  "name": "hijet",
+  "generations": [
+    {
+      "slug": "hijet-0",
+      "name": "hijet 1",
+      "year_start": 1994,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/hijet/s100-1994-1998.webp"
+      }
+    },
+    {
+      "slug": "hijet-1",
+      "name": "hijet 2",
+      "year_start": 1999,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/hijet/s200-1999-2004.webp"
+      }
+    },
+    {
+      "slug": "hijet-2",
+      "name": "hijet 3",
+      "year_start": 2004,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/hijet/s320-2004-2017.webp"
+      }
+    },
+    {
+      "slug": "hijet-3",
+      "name": "hijet 4",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/hijet/s320-2017-2021.webp"
+      }
+    },
+    {
+      "slug": "hijet-4",
+      "name": "hijet 5",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/hijet/s700-2021-now.webp"
+      }
+    },
+    {
+      "slug": "hijet-5",
+      "name": "hijet 6",
+      "year_start": 1987,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/hijet/s80-1987-1993.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "thor-custom",
+  "name": "thor-custom",
+  "generations": [
+    {
+      "slug": "thor-custom-0",
+      "name": "thor-custom 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/thor-custom/m900-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "thor-custom-1",
+      "name": "thor-custom 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/thor-custom/m900-2020-now.webp"
+      }
+    }
+  ]
+}

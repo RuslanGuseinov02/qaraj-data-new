@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "boon-luminas",
+  "name": "boon-luminas",
+  "generations": [
+    {
+      "slug": "boon-luminas-0",
+      "name": "boon-luminas 1",
+      "year_start": 2008,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/boon-luminas/2008-2012.webp"
+      }
+    }
+  ]
+}

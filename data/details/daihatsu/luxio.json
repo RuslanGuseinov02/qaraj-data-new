@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "luxio",
+  "name": "luxio",
+  "generations": [
+    {
+      "slug": "luxio-0",
+      "name": "luxio 1",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/luxio/s400-2009-2014.webp"
+      }
+    },
+    {
+      "slug": "luxio-1",
+      "name": "luxio 2",
+      "year_start": 2014,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/luxio/s400-2014-now.webp"
+      }
+    }
+  ]
+}

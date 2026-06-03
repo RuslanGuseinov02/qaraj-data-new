@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "move-custom",
+  "name": "move-custom",
+  "generations": [
+    {
+      "slug": "move-custom-0",
+      "name": "move-custom 1",
+      "year_start": 1997,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move-custom/1997-1998.webp"
+      }
+    },
+    {
+      "slug": "move-custom-1",
+      "name": "move-custom 2",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move-custom/1998-2002.webp"
+      }
+    },
+    {
+      "slug": "move-custom-2",
+      "name": "move-custom 3",
+      "year_start": 2002,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move-custom/2002-2006.webp"
+      }
+    },
+    {
+      "slug": "move-custom-3",
+      "name": "move-custom 4",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move-custom/2006-2008.webp"
+      }
+    },
+    {
+      "slug": "move-custom-4",
+      "name": "move-custom 5",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move-custom/2008-2010.webp"
+      }
+    },
+    {
+      "slug": "move-custom-5",
+      "name": "move-custom 6",
+      "year_start": 2010,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move-custom/2010-2012.webp"
+      }
+    },
+    {
+      "slug": "move-custom-6",
+      "name": "move-custom 7",
+      "year_start": 2012,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move-custom/2012-2014.webp"
+      }
+    },
+    {
+      "slug": "move-custom-7",
+      "name": "move-custom 8",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move-custom/2014-2017.webp"
+      }
+    },
+    {
+      "slug": "move-custom-8",
+      "name": "move-custom 9",
+      "year_start": 2017,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move-custom/2017-2023.webp"
+      }
+    }
+  ]
+}

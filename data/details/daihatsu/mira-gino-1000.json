@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "mira-gino-1000",
+  "name": "mira-gino-1000",
+  "generations": [
+    {
+      "slug": "mira-gino-1000-0",
+      "name": "mira-gino-1000 1",
+      "year_start": 2002,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/mira-gino-1000/2002-2004.webp"
+      }
+    }
+  ]
+}

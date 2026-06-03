@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "ayla",
+  "name": "ayla",
+  "generations": [
+    {
+      "slug": "ayla-0",
+      "name": "ayla 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/ayla/a350-2023-now.webp"
+      }
+    },
+    {
+      "slug": "ayla-1",
+      "name": "ayla 2",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/ayla/b100-2013-2017.webp"
+      }
+    },
+    {
+      "slug": "ayla-2",
+      "name": "ayla 3",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/ayla/b100-2017-2020.webp"
+      }
+    },
+    {
+      "slug": "ayla-3",
+      "name": "ayla 4",
+      "year_start": 2020,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/ayla/b100-2020-2022.webp"
+      }
+    }
+  ]
+}

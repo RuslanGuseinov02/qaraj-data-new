@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "materia",
+  "name": "materia",
+  "generations": [
+    {
+      "slug": "materia-0",
+      "name": "materia 1",
+      "year_start": 2006,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/materia/m400-2006-2012.webp"
+      }
+    }
+  ]
+}

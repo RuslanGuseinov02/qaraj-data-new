@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "mebius",
+  "name": "mebius",
+  "generations": [
+    {
+      "slug": "mebius-0",
+      "name": "mebius 1",
+      "year_start": 2013,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/mebius/2013-2014.webp"
+      }
+    },
+    {
+      "slug": "mebius-1",
+      "name": "mebius 2",
+      "year_start": 2014,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/mebius/2014-2021.webp"
+      }
+    }
+  ]
+}

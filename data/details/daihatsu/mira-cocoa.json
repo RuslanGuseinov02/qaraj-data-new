@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "mira-cocoa",
+  "name": "mira-cocoa",
+  "generations": [
+    {
+      "slug": "mira-cocoa-0",
+      "name": "mira-cocoa 1",
+      "year_start": 2009,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/mira-cocoa/2009-2014.webp"
+      }
+    },
+    {
+      "slug": "mira-cocoa-1",
+      "name": "mira-cocoa 2",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/mira-cocoa/2014-2018.webp"
+      }
+    }
+  ]
+}

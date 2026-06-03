@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "thor",
+  "name": "thor",
+  "generations": [
+    {
+      "slug": "thor-0",
+      "name": "thor 1",
+      "year_start": 2016,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/thor/m900-2016-2020.webp"
+      }
+    },
+    {
+      "slug": "thor-1",
+      "name": "thor 2",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/thor/m900-2020-now.webp"
+      }
+    }
+  ]
+}

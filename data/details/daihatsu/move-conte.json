@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "move-conte",
+  "name": "move-conte",
+  "generations": [
+    {
+      "slug": "move-conte-0",
+      "name": "move-conte 1",
+      "year_start": 2008,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move-conte/2008-2011.webp"
+      }
+    },
+    {
+      "slug": "move-conte-1",
+      "name": "move-conte 2",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/move-conte/2011-2017.webp"
+      }
+    }
+  ]
+}

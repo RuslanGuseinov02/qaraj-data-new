@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "taft",
+  "name": "taft",
+  "generations": [
+    {
+      "slug": "taft-0",
+      "name": "taft 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/taft/la900-2020-now.webp"
+      }
+    }
+  ]
+}

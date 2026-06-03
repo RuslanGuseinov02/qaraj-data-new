@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "esse",
+  "name": "esse",
+  "generations": [
+    {
+      "slug": "esse-0",
+      "name": "esse 1",
+      "year_start": 2005,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/esse/2005-2011.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "tanto-exe",
+  "name": "tanto-exe",
+  "generations": [
+    {
+      "slug": "tanto-exe-0",
+      "name": "tanto-exe 1",
+      "year_start": 2009,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/tanto-exe/2009-2011.webp"
+      }
+    },
+    {
+      "slug": "tanto-exe-1",
+      "name": "tanto-exe 2",
+      "year_start": 2011,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/tanto-exe/2011-2014.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "dario-terios",
+  "name": "dario-terios",
+  "generations": [
+    {
+      "slug": "dario-terios-0",
+      "name": "dario-terios 1",
+      "year_start": 2003,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/dario-terios/j100-2003-2009.webp"
+      }
+    }
+  ]
+}

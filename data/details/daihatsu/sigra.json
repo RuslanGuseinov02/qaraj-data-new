@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "sigra",
+  "name": "sigra",
+  "generations": [
+    {
+      "slug": "sigra-0",
+      "name": "sigra 1",
+      "year_start": 2016,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/sigra/b400-2016-2019.webp"
+      }
+    },
+    {
+      "slug": "sigra-1",
+      "name": "sigra 2",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/sigra/b400-2019-now.webp"
+      }
+    }
+  ]
+}

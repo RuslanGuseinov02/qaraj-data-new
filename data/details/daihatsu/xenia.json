@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "xenia",
+  "name": "xenia",
+  "generations": [
+    {
+      "slug": "xenia-0",
+      "name": "xenia 1",
+      "year_start": 2003,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/xenia/f600-2003-2010.webp"
+      }
+    },
+    {
+      "slug": "xenia-1",
+      "name": "xenia 2",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/xenia/f650-2011-2015.webp"
+      }
+    },
+    {
+      "slug": "xenia-2",
+      "name": "xenia 3",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/xenia/f650-2015-2018.webp"
+      }
+    },
+    {
+      "slug": "xenia-3",
+      "name": "xenia 4",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/xenia/f650-2019-2021.webp"
+      }
+    },
+    {
+      "slug": "xenia-4",
+      "name": "xenia 5",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/xenia/w100-2021-now.webp"
+      }
+    }
+  ]
+}

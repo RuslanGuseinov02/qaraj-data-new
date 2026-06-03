@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "mira",
+  "name": "mira",
+  "generations": [
+    {
+      "slug": "mira-0",
+      "name": "mira 1",
+      "year_start": 1990,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/mira/l200-1990-1994.webp"
+      }
+    },
+    {
+      "slug": "mira-1",
+      "name": "mira 2",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/mira/l250-2002-2005.webp"
+      }
+    },
+    {
+      "slug": "mira-2",
+      "name": "mira 3",
+      "year_start": 2006,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/mira/l275-2006-2018.webp"
+      }
+    },
+    {
+      "slug": "mira-3",
+      "name": "mira 4",
+      "year_start": 1994,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/mira/l500-1994-1997.webp"
+      }
+    },
+    {
+      "slug": "mira-4",
+      "name": "mira 5",
+      "year_start": 1980,
+      "year_end": 1984,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/mira/l55-l60-1980-1984.webp"
+      }
+    },
+    {
+      "slug": "mira-5",
+      "name": "mira 6",
+      "year_start": 1985,
+      "year_end": 1989,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/mira/l70-1985-1989.webp"
+      }
+    },
+    {
+      "slug": "mira-6",
+      "name": "mira 7",
+      "year_start": 1998,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/mira/l700-1998-2001.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "daihatsu",
+    "name": "DAIHATSU"
+  },
+  "slug": "coo",
+  "name": "coo",
+  "generations": [
+    {
+      "slug": "coo-0",
+      "name": "coo 1",
+      "year_start": 2006,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/daihatsu/coo/m400-2006-2013.webp"
+      }
+    }
+  ]
+}
