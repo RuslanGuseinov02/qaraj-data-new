@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "s10-max",
+  "name": "s10-max",
+  "generations": [
+    {
+      "slug": "s10-max-0",
+      "name": "s10-max 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/s10-max/2022-now.webp"
+      }
+    }
+  ]
+}

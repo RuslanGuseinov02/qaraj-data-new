@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "labo",
+  "name": "labo",
+  "generations": [
+    {
+      "slug": "labo-0",
+      "name": "labo 1",
+      "year_start": 2005,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/labo/2005-2023.webp"
+      }
+    }
+  ]
+}

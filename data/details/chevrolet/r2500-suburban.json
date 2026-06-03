@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "r2500-suburban",
+  "name": "r2500-suburban",
+  "generations": [
+    {
+      "slug": "r2500-suburban-0",
+      "name": "r2500-suburban 1",
+      "year_start": 1989,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/r2500-suburban/1989-1991.webp"
+      }
+    }
+  ]
+}

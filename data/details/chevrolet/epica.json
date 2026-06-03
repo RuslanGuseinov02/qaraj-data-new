@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "epica",
+  "name": "epica",
+  "generations": [
+    {
+      "slug": "epica-0",
+      "name": "epica 1",
+      "year_start": 2004,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/epica/v200-2004-2006.webp"
+      }
+    },
+    {
+      "slug": "epica-1",
+      "name": "epica 2",
+      "year_start": 2006,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/epica/v250-2006-2012.webp"
+      }
+    }
+  ]
+}

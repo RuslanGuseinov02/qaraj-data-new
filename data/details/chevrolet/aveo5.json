@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "aveo5",
+  "name": "aveo5",
+  "generations": [
+    {
+      "slug": "aveo5-0",
+      "name": "aveo5 1",
+      "year_start": 2006,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/aveo5/t200-2006-2008.webp"
+      }
+    },
+    {
+      "slug": "aveo5-1",
+      "name": "aveo5 2",
+      "year_start": 2009,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/aveo5/t250-2009-2011.webp"
+      }
+    }
+  ]
+}

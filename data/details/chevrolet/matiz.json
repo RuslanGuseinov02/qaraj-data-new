@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "matiz",
+  "name": "matiz",
+  "generations": [
+    {
+      "slug": "matiz-0",
+      "name": "matiz 1",
+      "year_start": 2004,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/matiz/m150-2004-2005.webp"
+      }
+    },
+    {
+      "slug": "matiz-1",
+      "name": "matiz 2",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/matiz/m200-2005-2007.webp"
+      }
+    },
+    {
+      "slug": "matiz-2",
+      "name": "matiz 3",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/matiz/m200-2011-2015.webp"
+      }
+    },
+    {
+      "slug": "matiz-3",
+      "name": "matiz 4",
+      "year_start": 2007,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/matiz/m250-2007-2010.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "c20",
+  "name": "c20",
+  "generations": [
+    {
+      "slug": "c20-0",
+      "name": "c20 1",
+      "year_start": 1976,
+      "year_end": 1980,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/c20/1976-1980.webp"
+      }
+    },
+    {
+      "slug": "c20-1",
+      "name": "c20 2",
+      "year_start": 1981,
+      "year_end": 1986,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/c20/1981-1986.webp"
+      }
+    }
+  ]
+}

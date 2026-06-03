@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "colorado",
+  "name": "colorado",
+  "generations": [
+    {
+      "slug": "colorado-0",
+      "name": "colorado 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/colorado/gmt-31xx-2-2023-now.webp"
+      }
+    },
+    {
+      "slug": "colorado-1",
+      "name": "colorado 2",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/colorado/gmt-31xx-2012-2016.webp"
+      }
+    },
+    {
+      "slug": "colorado-2",
+      "name": "colorado 3",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/colorado/gmt-31xx-2015-2020.webp"
+      }
+    },
+    {
+      "slug": "colorado-3",
+      "name": "colorado 4",
+      "year_start": 2016,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/colorado/gmt-31xx-2016-2024.webp"
+      }
+    },
+    {
+      "slug": "colorado-4",
+      "name": "colorado 5",
+      "year_start": 2021,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/colorado/gmt-31xx-2021-2023.webp"
+      }
+    },
+    {
+      "slug": "colorado-5",
+      "name": "colorado 6",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/colorado/gmt-31xx-2024-now.webp"
+      }
+    },
+    {
+      "slug": "colorado-6",
+      "name": "colorado 7",
+      "year_start": 2004,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/colorado/gmt355-2004-2012.webp"
+      }
+    }
+  ]
+}

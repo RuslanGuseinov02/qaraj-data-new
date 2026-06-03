@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "agile",
+  "name": "agile",
+  "generations": [
+    {
+      "slug": "agile-0",
+      "name": "agile 1",
+      "year_start": 2009,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/agile/2009-2017.webp"
+      }
+    }
+  ]
+}

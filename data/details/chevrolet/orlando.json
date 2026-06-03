@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "orlando",
+  "name": "orlando",
+  "generations": [
+    {
+      "slug": "orlando-0",
+      "name": "orlando 1",
+      "year_start": 2011,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/orlando/2011-2018.webp"
+      }
+    },
+    {
+      "slug": "orlando-1",
+      "name": "orlando 2",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/orlando/2018-2023.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "groove",
+  "name": "groove",
+  "generations": [
+    {
+      "slug": "groove-0",
+      "name": "groove 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/groove/310s-2025-now.webp"
+      }
+    },
+    {
+      "slug": "groove-1",
+      "name": "groove 2",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/groove/cn180s-2020-2025.webp"
+      }
+    }
+  ]
+}

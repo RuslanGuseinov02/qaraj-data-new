@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "nova",
+  "name": "nova",
+  "generations": [
+    {
+      "slug": "nova-0",
+      "name": "nova 1",
+      "year_start": 1968,
+      "year_end": 1974,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/nova/1968-1974.webp"
+      }
+    },
+    {
+      "slug": "nova-1",
+      "name": "nova 2",
+      "year_start": 1975,
+      "year_end": 1979,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/nova/1975-1979.webp"
+      }
+    }
+  ]
+}

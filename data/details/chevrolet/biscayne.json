@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "biscayne",
+  "name": "biscayne",
+  "generations": [
+    {
+      "slug": "biscayne-0",
+      "name": "biscayne 1",
+      "year_start": 1958,
+      "year_end": 1958,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/biscayne/1958-1958.webp"
+      }
+    },
+    {
+      "slug": "biscayne-1",
+      "name": "biscayne 2",
+      "year_start": 1959,
+      "year_end": 1960,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/biscayne/1959-1960.webp"
+      }
+    },
+    {
+      "slug": "biscayne-2",
+      "name": "biscayne 3",
+      "year_start": 1961,
+      "year_end": 1964,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/biscayne/1961-1964.webp"
+      }
+    }
+  ]
+}

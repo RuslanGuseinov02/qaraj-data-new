@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "tigra",
+  "name": "tigra",
+  "generations": [
+    {
+      "slug": "tigra-0",
+      "name": "tigra 1",
+      "year_start": 1998,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/tigra/1998-1999.webp"
+      }
+    }
+  ]
+}

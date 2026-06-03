@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "bolt-euv",
+  "name": "bolt-euv",
+  "generations": [
+    {
+      "slug": "bolt-euv-0",
+      "name": "bolt-euv 1",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/bolt-euv/2021-2025.webp"
+      }
+    }
+  ]
+}

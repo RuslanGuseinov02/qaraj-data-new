@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "tavera",
+  "name": "tavera",
+  "generations": [
+    {
+      "slug": "tavera-0",
+      "name": "tavera 1",
+      "year_start": 2004,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/tavera/2004-2011.webp"
+      }
+    },
+    {
+      "slug": "tavera-1",
+      "name": "tavera 2",
+      "year_start": 2012,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/tavera/2012-2018.webp"
+      }
+    }
+  ]
+}

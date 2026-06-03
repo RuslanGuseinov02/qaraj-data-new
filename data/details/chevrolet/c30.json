@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "c30",
+  "name": "c30",
+  "generations": [
+    {
+      "slug": "c30-0",
+      "name": "c30 1",
+      "year_start": 1960,
+      "year_end": 1966,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/c30/1960-1966.webp"
+      }
+    }
+  ]
+}

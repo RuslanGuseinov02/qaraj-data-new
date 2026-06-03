@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "onix-plus",
+  "name": "onix-plus",
+  "generations": [
+    {
+      "slug": "onix-plus-0",
+      "name": "onix-plus 1",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/onix-plus/2019-2025.webp"
+      }
+    },
+    {
+      "slug": "onix-plus-1",
+      "name": "onix-plus 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/onix-plus/2025-now.webp"
+      }
+    }
+  ]
+}

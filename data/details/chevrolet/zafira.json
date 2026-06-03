@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "zafira",
+  "name": "zafira",
+  "generations": [
+    {
+      "slug": "zafira-0",
+      "name": "zafira 1",
+      "year_start": 2001,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/zafira/a-2001-2004.webp"
+      }
+    },
+    {
+      "slug": "zafira-1",
+      "name": "zafira 2",
+      "year_start": 2002,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/zafira/a-2002-2005.webp"
+      }
+    },
+    {
+      "slug": "zafira-2",
+      "name": "zafira 3",
+      "year_start": 2005,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/zafira/a-2005-2012.webp"
+      }
+    },
+    {
+      "slug": "zafira-3",
+      "name": "zafira 4",
+      "year_start": 2006,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/zafira/b-2006-2006.webp"
+      }
+    }
+  ]
+}

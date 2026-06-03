@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "chevy",
+  "name": "chevy",
+  "generations": [
+    {
+      "slug": "chevy-0",
+      "name": "chevy 1",
+      "year_start": 1994,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/chevy/1994-2003.webp"
+      }
+    },
+    {
+      "slug": "chevy-1",
+      "name": "chevy 2",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/chevy/2004-2008.webp"
+      }
+    },
+    {
+      "slug": "chevy-2",
+      "name": "chevy 3",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/chevy/2009-2012.webp"
+      }
+    }
+  ]
+}

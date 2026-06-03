@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "blazer",
+  "name": "blazer",
+  "generations": [
+    {
+      "slug": "blazer-0",
+      "name": "blazer 1",
+      "year_start": 1969,
+      "year_end": 1972,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/blazer/1969-1972.webp"
+      }
+    },
+    {
+      "slug": "blazer-1",
+      "name": "blazer 2",
+      "year_start": 1973,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/blazer/1973-1991.webp"
+      }
+    },
+    {
+      "slug": "blazer-2",
+      "name": "blazer 3",
+      "year_start": 1992,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/blazer/1992-1994.webp"
+      }
+    },
+    {
+      "slug": "blazer-3",
+      "name": "blazer 4",
+      "year_start": 1995,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/blazer/1995-1996.webp"
+      }
+    },
+    {
+      "slug": "blazer-4",
+      "name": "blazer 5",
+      "year_start": 1996,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/blazer/1996-2000.webp"
+      }
+    },
+    {
+      "slug": "blazer-5",
+      "name": "blazer 6",
+      "year_start": 1997,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/blazer/1997-2005.webp"
+      }
+    },
+    {
+      "slug": "blazer-6",
+      "name": "blazer 7",
+      "year_start": 2001,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/blazer/2001-2011.webp"
+      }
+    },
+    {
+      "slug": "blazer-7",
+      "name": "blazer 8",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/blazer/c1xx-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "blazer-8",
+      "name": "blazer 9",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/blazer/c1xx-2023-now.webp"
+      }
+    }
+  ]
+}

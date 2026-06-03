@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "k1500",
+  "name": "k1500",
+  "generations": [
+    {
+      "slug": "k1500-0",
+      "name": "k1500 1",
+      "year_start": 1988,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/k1500/gmt400-1988-1999.webp"
+      }
+    }
+  ]
+}

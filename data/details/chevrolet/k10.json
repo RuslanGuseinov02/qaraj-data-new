@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "k10",
+  "name": "k10",
+  "generations": [
+    {
+      "slug": "k10-0",
+      "name": "k10 1",
+      "year_start": 1975,
+      "year_end": 1980,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/k10/1975-1980.webp"
+      }
+    },
+    {
+      "slug": "k10-1",
+      "name": "k10 2",
+      "year_start": 1981,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/k10/1981-1987.webp"
+      }
+    }
+  ]
+}

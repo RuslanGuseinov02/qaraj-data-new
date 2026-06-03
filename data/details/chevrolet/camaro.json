@@ -1,0 +1,100 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "camaro",
+  "name": "camaro",
+  "generations": [
+    {
+      "slug": "camaro-0",
+      "name": "camaro 1",
+      "year_start": 1967,
+      "year_end": 1969,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/camaro/1967-1969.webp"
+      }
+    },
+    {
+      "slug": "camaro-1",
+      "name": "camaro 2",
+      "year_start": 1970,
+      "year_end": 1981,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/camaro/1970-1981.webp"
+      }
+    },
+    {
+      "slug": "camaro-2",
+      "name": "camaro 3",
+      "year_start": 1982,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/camaro/1982-1992.webp"
+      }
+    },
+    {
+      "slug": "camaro-3",
+      "name": "camaro 4",
+      "year_start": 1993,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/camaro/1993-1997.webp"
+      }
+    },
+    {
+      "slug": "camaro-4",
+      "name": "camaro 5",
+      "year_start": 1998,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/camaro/1998-2002.webp"
+      }
+    },
+    {
+      "slug": "camaro-5",
+      "name": "camaro 6",
+      "year_start": 2010,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/camaro/2010-2013.webp"
+      }
+    },
+    {
+      "slug": "camaro-6",
+      "name": "camaro 7",
+      "year_start": 2014,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/camaro/2014-2015.webp"
+      }
+    },
+    {
+      "slug": "camaro-7",
+      "name": "camaro 8",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/camaro/2016-2018.webp"
+      }
+    },
+    {
+      "slug": "camaro-8",
+      "name": "camaro 9",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/camaro/2019-2024.webp"
+      }
+    }
+  ]
+}

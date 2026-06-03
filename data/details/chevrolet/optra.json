@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "optra",
+  "name": "optra",
+  "generations": [
+    {
+      "slug": "optra-0",
+      "name": "optra 1",
+      "year_start": 2014,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/optra/2014-2023.webp"
+      }
+    },
+    {
+      "slug": "optra-1",
+      "name": "optra 2",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/optra/310c-2024-now.webp"
+      }
+    },
+    {
+      "slug": "optra-2",
+      "name": "optra 3",
+      "year_start": 2004,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/optra/j200-2004-2010.webp"
+      }
+    },
+    {
+      "slug": "optra-3",
+      "name": "optra 4",
+      "year_start": 2008,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/optra/j200-2008-2013.webp"
+      }
+    }
+  ]
+}

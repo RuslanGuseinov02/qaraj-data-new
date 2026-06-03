@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "el-camino",
+  "name": "el-camino",
+  "generations": [
+    {
+      "slug": "el-camino-0",
+      "name": "el-camino 1",
+      "year_start": 1964,
+      "year_end": 1967,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/el-camino/1964-1967.webp"
+      }
+    },
+    {
+      "slug": "el-camino-1",
+      "name": "el-camino 2",
+      "year_start": 1968,
+      "year_end": 1972,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/el-camino/1968-1972.webp"
+      }
+    },
+    {
+      "slug": "el-camino-2",
+      "name": "el-camino 3",
+      "year_start": 1973,
+      "year_end": 1977,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/el-camino/1973-1977.webp"
+      }
+    },
+    {
+      "slug": "el-camino-3",
+      "name": "el-camino 4",
+      "year_start": 1978,
+      "year_end": 1981,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/el-camino/1978-1981.webp"
+      }
+    },
+    {
+      "slug": "el-camino-4",
+      "name": "el-camino 5",
+      "year_start": 1982,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/el-camino/1982-1987.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "spark-euv",
+  "name": "spark-euv",
+  "generations": [
+    {
+      "slug": "spark-euv-0",
+      "name": "spark-euv 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/spark-euv/e260s-2025-now.webp"
+      }
+    }
+  ]
+}

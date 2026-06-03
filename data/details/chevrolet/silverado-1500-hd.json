@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "silverado-1500-hd",
+  "name": "silverado-1500-hd",
+  "generations": [
+    {
+      "slug": "silverado-1500-hd-0",
+      "name": "silverado-1500-hd 1",
+      "year_start": 2001,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado-1500-hd/2001-2002.webp"
+      }
+    },
+    {
+      "slug": "silverado-1500-hd-1",
+      "name": "silverado-1500-hd 2",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado-1500-hd/2003-2006.webp"
+      }
+    }
+  ]
+}

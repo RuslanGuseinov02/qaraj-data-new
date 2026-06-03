@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "aveo-family",
+  "name": "aveo-family",
+  "generations": [
+    {
+      "slug": "aveo-family-0",
+      "name": "aveo-family 1",
+      "year_start": 2004,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/aveo-family/t200-2004-2017.webp"
+      }
+    }
+  ]
+}

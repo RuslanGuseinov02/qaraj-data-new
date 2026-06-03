@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "lova",
+  "name": "lova",
+  "generations": [
+    {
+      "slug": "lova-0",
+      "name": "lova 1",
+      "year_start": 2006,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/lova/2006-2010.webp"
+      }
+    }
+  ]
+}

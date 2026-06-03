@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "cavalier",
+  "name": "cavalier",
+  "generations": [
+    {
+      "slug": "cavalier-0",
+      "name": "cavalier 1",
+      "year_start": 1982,
+      "year_end": 1984,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/cavalier/1982-1984.webp"
+      }
+    },
+    {
+      "slug": "cavalier-1",
+      "name": "cavalier 2",
+      "year_start": 1984,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/cavalier/1984-1987.webp"
+      }
+    },
+    {
+      "slug": "cavalier-2",
+      "name": "cavalier 3",
+      "year_start": 1988,
+      "year_end": 1991,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/cavalier/1988-1991.webp"
+      }
+    },
+    {
+      "slug": "cavalier-3",
+      "name": "cavalier 4",
+      "year_start": 1991,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/cavalier/1991-1994.webp"
+      }
+    },
+    {
+      "slug": "cavalier-4",
+      "name": "cavalier 5",
+      "year_start": 1995,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/cavalier/1995-2002.webp"
+      }
+    },
+    {
+      "slug": "cavalier-5",
+      "name": "cavalier 6",
+      "year_start": 2003,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/cavalier/2003-2005.webp"
+      }
+    },
+    {
+      "slug": "cavalier-6",
+      "name": "cavalier 7",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/cavalier/2018-2021.webp"
+      }
+    },
+    {
+      "slug": "cavalier-7",
+      "name": "cavalier 8",
+      "year_start": 2021,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/cavalier/2021-2025.webp"
+      }
+    }
+  ]
+}

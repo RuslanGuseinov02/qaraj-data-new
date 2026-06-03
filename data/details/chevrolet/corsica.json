@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "corsica",
+  "name": "corsica",
+  "generations": [
+    {
+      "slug": "corsica-0",
+      "name": "corsica 1",
+      "year_start": 1987,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/corsica/1987-1996.webp"
+      }
+    }
+  ]
+}

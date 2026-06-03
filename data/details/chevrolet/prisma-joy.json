@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "prisma-joy",
+  "name": "prisma-joy",
+  "generations": [
+    {
+      "slug": "prisma-joy-0",
+      "name": "prisma-joy 1",
+      "year_start": 2017,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/prisma-joy/2017-2019.webp"
+      }
+    }
+  ]
+}

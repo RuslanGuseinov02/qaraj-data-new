@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "captiva-sport",
+  "name": "captiva-sport",
+  "generations": [
+    {
+      "slug": "captiva-sport-0",
+      "name": "captiva-sport 1",
+      "year_start": 2008,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/captiva-sport/2008-2017.webp"
+      }
+    }
+  ]
+}

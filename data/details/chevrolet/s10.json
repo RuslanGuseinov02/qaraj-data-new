@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "s10",
+  "name": "s10",
+  "generations": [
+    {
+      "slug": "s10-0",
+      "name": "s10 1",
+      "year_start": 1982,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/s10/1982-1993.webp"
+      }
+    },
+    {
+      "slug": "s10-1",
+      "name": "s10 2",
+      "year_start": 1994,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/s10/1994-1997.webp"
+      }
+    },
+    {
+      "slug": "s10-2",
+      "name": "s10 3",
+      "year_start": 1998,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/s10/1998-2004.webp"
+      }
+    },
+    {
+      "slug": "s10-3",
+      "name": "s10 4",
+      "year_start": 2001,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/s10/2001-2012.webp"
+      }
+    },
+    {
+      "slug": "s10-4",
+      "name": "s10 5",
+      "year_start": 2012,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/s10/2012-2016.webp"
+      }
+    },
+    {
+      "slug": "s10-5",
+      "name": "s10 6",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/s10/2017-2020.webp"
+      }
+    },
+    {
+      "slug": "s10-6",
+      "name": "s10 7",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/s10/2020-2024.webp"
+      }
+    },
+    {
+      "slug": "s10-7",
+      "name": "s10 8",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/s10/2024-now.webp"
+      }
+    }
+  ]
+}

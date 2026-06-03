@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "tacuma",
+  "name": "tacuma",
+  "generations": [
+    {
+      "slug": "tacuma-0",
+      "name": "tacuma 1",
+      "year_start": 2004,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/tacuma/u100-2004-2008.webp"
+      }
+    }
+  ]
+}

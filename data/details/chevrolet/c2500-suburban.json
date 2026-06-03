@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "c2500-suburban",
+  "name": "c2500-suburban",
+  "generations": [
+    {
+      "slug": "c2500-suburban-0",
+      "name": "c2500-suburban 1",
+      "year_start": 1992,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/c2500-suburban/1992-1999.webp"
+      }
+    }
+  ]
+}

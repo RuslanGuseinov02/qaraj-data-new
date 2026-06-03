@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "silverado-3500-hd",
+  "name": "silverado-3500-hd",
+  "generations": [
+    {
+      "slug": "silverado-3500-hd-0",
+      "name": "silverado-3500-hd 1",
+      "year_start": 2007,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado-3500-hd/gmt900-2007-2014.webp"
+      }
+    },
+    {
+      "slug": "silverado-3500-hd-1",
+      "name": "silverado-3500-hd 2",
+      "year_start": 2015,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado-3500-hd/k2xx-2015-2019.webp"
+      }
+    },
+    {
+      "slug": "silverado-3500-hd-2",
+      "name": "silverado-3500-hd 3",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado-3500-hd/t1xx-2020-2023.webp"
+      }
+    },
+    {
+      "slug": "silverado-3500-hd-3",
+      "name": "silverado-3500-hd 4",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado-3500-hd/t1xx-2024-now.webp"
+      }
+    }
+  ]
+}

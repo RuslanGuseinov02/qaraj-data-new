@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "trax",
+  "name": "trax",
+  "generations": [
+    {
+      "slug": "trax-0",
+      "name": "trax 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/trax/2023-now.webp"
+      }
+    },
+    {
+      "slug": "trax-1",
+      "name": "trax 2",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/trax/u200-2013-2016.webp"
+      }
+    },
+    {
+      "slug": "trax-2",
+      "name": "trax 3",
+      "year_start": 2017,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/trax/u200-2017-2022.webp"
+      }
+    }
+  ]
+}

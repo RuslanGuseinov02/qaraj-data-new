@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "corvair",
+  "name": "corvair",
+  "generations": [
+    {
+      "slug": "corvair-0",
+      "name": "corvair 1",
+      "year_start": 1960,
+      "year_end": 1964,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/corvair/1960-1964.webp"
+      }
+    },
+    {
+      "slug": "corvair-1",
+      "name": "corvair 2",
+      "year_start": 1965,
+      "year_end": 1969,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/corvair/1965-1969.webp"
+      }
+    }
+  ]
+}

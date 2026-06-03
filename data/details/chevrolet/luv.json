@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "luv",
+  "name": "luv",
+  "generations": [
+    {
+      "slug": "luv-0",
+      "name": "luv 1",
+      "year_start": 1997,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/luv/1997-2005.webp"
+      }
+    }
+  ]
+}

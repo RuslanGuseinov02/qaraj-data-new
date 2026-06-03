@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "t-series",
+  "name": "t-series",
+  "generations": [
+    {
+      "slug": "t-series-0",
+      "name": "t-series 1",
+      "year_start": 2018,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/t-series/2018-now.webp"
+      }
+    }
+  ]
+}

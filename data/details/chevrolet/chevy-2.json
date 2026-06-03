@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "chevy-2",
+  "name": "chevy-2",
+  "generations": [
+    {
+      "slug": "chevy-2-0",
+      "name": "chevy-2 1",
+      "year_start": 1962,
+      "year_end": 1965,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/chevy-2/x-body-1962-1965.webp"
+      }
+    },
+    {
+      "slug": "chevy-2-1",
+      "name": "chevy-2 2",
+      "year_start": 1966,
+      "year_end": 1967,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/chevy-2/x-body-1966-1967.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "tahoe",
+  "name": "tahoe",
+  "generations": [
+    {
+      "slug": "tahoe-0",
+      "name": "tahoe 1",
+      "year_start": 2021,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/tahoe/gmt1yc-2021-2024.webp"
+      }
+    },
+    {
+      "slug": "tahoe-1",
+      "name": "tahoe 2",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/tahoe/gmt1yc-2025-now.webp"
+      }
+    },
+    {
+      "slug": "tahoe-2",
+      "name": "tahoe 3",
+      "year_start": 1995,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/tahoe/gmt400-1995-2000.webp"
+      }
+    },
+    {
+      "slug": "tahoe-3",
+      "name": "tahoe 4",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/tahoe/gmt800-2000-2006.webp"
+      }
+    },
+    {
+      "slug": "tahoe-4",
+      "name": "tahoe 5",
+      "year_start": 2007,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/tahoe/gmt900-2007-2014.webp"
+      }
+    },
+    {
+      "slug": "tahoe-5",
+      "name": "tahoe 6",
+      "year_start": 2015,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/tahoe/gmtk2uc-g-2015-2020.webp"
+      }
+    }
+  ]
+}

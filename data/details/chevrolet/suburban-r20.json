@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "suburban-r20",
+  "name": "suburban-r20",
+  "generations": [
+    {
+      "slug": "suburban-r20-0",
+      "name": "suburban-r20 1",
+      "year_start": 1987,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/suburban-r20/1987-1988.webp"
+      }
+    }
+  ]
+}

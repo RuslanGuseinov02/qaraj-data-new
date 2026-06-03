@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "traverse-limited",
+  "name": "traverse-limited",
+  "generations": [
+    {
+      "slug": "traverse-limited-0",
+      "name": "traverse-limited 1",
+      "year_start": 2024,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/traverse-limited/2024-2024.webp"
+      }
+    }
+  ]
+}

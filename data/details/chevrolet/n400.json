@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "n400",
+  "name": "n400",
+  "generations": [
+    {
+      "slug": "n400-0",
+      "name": "n400 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/n400/2020-now.webp"
+      }
+    }
+  ]
+}

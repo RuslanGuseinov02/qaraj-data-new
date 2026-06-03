@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "spark-classic",
+  "name": "spark-classic",
+  "generations": [
+    {
+      "slug": "spark-classic-0",
+      "name": "spark-classic 1",
+      "year_start": 2016,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/spark-classic/m300-2016-2017.webp"
+      }
+    }
+  ]
+}

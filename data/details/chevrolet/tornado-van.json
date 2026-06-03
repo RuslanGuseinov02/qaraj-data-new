@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "tornado-van",
+  "name": "tornado-van",
+  "generations": [
+    {
+      "slug": "tornado-van-0",
+      "name": "tornado-van 1",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/tornado-van/2021-now.webp"
+      }
+    }
+  ]
+}

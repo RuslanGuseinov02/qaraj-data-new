@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "malibu-limited",
+  "name": "malibu-limited",
+  "generations": [
+    {
+      "slug": "malibu-limited-0",
+      "name": "malibu-limited 1",
+      "year_start": 2016,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/malibu-limited/2016-2016.webp"
+      }
+    }
+  ]
+}

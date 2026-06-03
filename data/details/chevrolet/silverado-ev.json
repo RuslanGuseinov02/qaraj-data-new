@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "silverado-ev",
+  "name": "silverado-ev",
+  "generations": [
+    {
+      "slug": "silverado-ev-0",
+      "name": "silverado-ev 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado-ev/2024-now.webp"
+      }
+    }
+  ]
+}

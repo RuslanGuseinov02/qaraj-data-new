@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "lacetti",
+  "name": "lacetti",
+  "generations": [
+    {
+      "slug": "lacetti-0",
+      "name": "lacetti 1",
+      "year_start": 2003,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/lacetti/j200-2003-2013.webp"
+      }
+    },
+    {
+      "slug": "lacetti-1",
+      "name": "lacetti 2",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/lacetti/j200-2020-2023.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "g30",
+  "name": "g30",
+  "generations": [
+    {
+      "slug": "g30-0",
+      "name": "g30 1",
+      "year_start": 1971,
+      "year_end": 1977,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/g30/1971-1977.webp"
+      }
+    },
+    {
+      "slug": "g30-1",
+      "name": "g30 2",
+      "year_start": 1978,
+      "year_end": 1995,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/g30/1978-1995.webp"
+      }
+    }
+  ]
+}

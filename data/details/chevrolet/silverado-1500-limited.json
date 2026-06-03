@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "silverado-1500-limited",
+  "name": "silverado-1500-limited",
+  "generations": [
+    {
+      "slug": "silverado-1500-limited-0",
+      "name": "silverado-1500-limited 1",
+      "year_start": 2022,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado-1500-limited/t1xx-2022-2022.webp"
+      }
+    }
+  ]
+}

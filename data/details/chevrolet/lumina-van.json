@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "lumina-van",
+  "name": "lumina-van",
+  "generations": [
+    {
+      "slug": "lumina-van-0",
+      "name": "lumina-van 1",
+      "year_start": 1995,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/lumina-van/1995-1996.webp"
+      }
+    }
+  ]
+}

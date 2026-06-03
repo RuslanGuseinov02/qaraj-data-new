@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "silverado",
+  "name": "silverado",
+  "generations": [
+    {
+      "slug": "silverado-0",
+      "name": "silverado 1",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado/gmt400-1995-1999.webp"
+      }
+    },
+    {
+      "slug": "silverado-1",
+      "name": "silverado 2",
+      "year_start": 2014,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado/k2xx-2014-2015.webp"
+      }
+    },
+    {
+      "slug": "silverado-2",
+      "name": "silverado 3",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado/k2xx-2016-2018.webp"
+      }
+    },
+    {
+      "slug": "silverado-3",
+      "name": "silverado 4",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado/t1xx-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "silverado-4",
+      "name": "silverado 5",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado/t1xx-2022-now.webp"
+      }
+    }
+  ]
+}

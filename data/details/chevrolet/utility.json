@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "utility",
+  "name": "utility",
+  "generations": [
+    {
+      "slug": "utility-0",
+      "name": "utility 1",
+      "year_start": 2011,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/utility/2011-2019.webp"
+      }
+    }
+  ]
+}

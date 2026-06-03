@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "lumina",
+  "name": "lumina",
+  "generations": [
+    {
+      "slug": "lumina-0",
+      "name": "lumina 1",
+      "year_start": 1990,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/lumina/1990-1994.webp"
+      }
+    },
+    {
+      "slug": "lumina-1",
+      "name": "lumina 2",
+      "year_start": 1995,
+      "year_end": 2001,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/lumina/1995-2001.webp"
+      }
+    }
+  ]
+}

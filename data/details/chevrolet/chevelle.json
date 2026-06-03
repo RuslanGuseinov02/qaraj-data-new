@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "chevelle",
+  "name": "chevelle",
+  "generations": [
+    {
+      "slug": "chevelle-0",
+      "name": "chevelle 1",
+      "year_start": 1964,
+      "year_end": 1967,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/chevelle/1964-1967.webp"
+      }
+    },
+    {
+      "slug": "chevelle-1",
+      "name": "chevelle 2",
+      "year_start": 1968,
+      "year_end": 1972,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/chevelle/1968-1972.webp"
+      }
+    }
+  ]
+}

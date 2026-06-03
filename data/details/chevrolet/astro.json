@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "astro",
+  "name": "astro",
+  "generations": [
+    {
+      "slug": "astro-0",
+      "name": "astro 1",
+      "year_start": 1985,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/astro/1985-1994.webp"
+      }
+    },
+    {
+      "slug": "astro-1",
+      "name": "astro 2",
+      "year_start": 1995,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/astro/1995-2005.webp"
+      }
+    }
+  ]
+}

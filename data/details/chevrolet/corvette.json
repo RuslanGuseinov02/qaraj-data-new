@@ -1,0 +1,110 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "corvette",
+  "name": "corvette",
+  "generations": [
+    {
+      "slug": "corvette-0",
+      "name": "corvette 1",
+      "year_start": 1953,
+      "year_end": 1955,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/corvette/c1-1953-1955.webp"
+      }
+    },
+    {
+      "slug": "corvette-1",
+      "name": "corvette 2",
+      "year_start": 1956,
+      "year_end": 1957,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/corvette/c1-1956-1957.webp"
+      }
+    },
+    {
+      "slug": "corvette-2",
+      "name": "corvette 3",
+      "year_start": 1958,
+      "year_end": 1962,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/corvette/c1-1958-1962.webp"
+      }
+    },
+    {
+      "slug": "corvette-3",
+      "name": "corvette 4",
+      "year_start": 1963,
+      "year_end": 1967,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/corvette/c2-1963-1967.webp"
+      }
+    },
+    {
+      "slug": "corvette-4",
+      "name": "corvette 5",
+      "year_start": 1968,
+      "year_end": 1982,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/corvette/c3-1968-1982.webp"
+      }
+    },
+    {
+      "slug": "corvette-5",
+      "name": "corvette 6",
+      "year_start": 1984,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/corvette/c4-1984-1996.webp"
+      }
+    },
+    {
+      "slug": "corvette-6",
+      "name": "corvette 7",
+      "year_start": 1997,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/corvette/c5-1997-2004.webp"
+      }
+    },
+    {
+      "slug": "corvette-7",
+      "name": "corvette 8",
+      "year_start": 2005,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/corvette/c6-2005-2013.webp"
+      }
+    },
+    {
+      "slug": "corvette-8",
+      "name": "corvette 9",
+      "year_start": 2014,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/corvette/c7-2014-2019.webp"
+      }
+    },
+    {
+      "slug": "corvette-9",
+      "name": "corvette 10",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/corvette/c8-2020-now.webp"
+      }
+    }
+  ]
+}

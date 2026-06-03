@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "monza",
+  "name": "monza",
+  "generations": [
+    {
+      "slug": "monza-0",
+      "name": "monza 1",
+      "year_start": 1991,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/monza/1991-1997.webp"
+      }
+    },
+    {
+      "slug": "monza-1",
+      "name": "monza 2",
+      "year_start": 2019,
+      "year_end": 2022,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/monza/d2xx-2019-2022.webp"
+      }
+    },
+    {
+      "slug": "monza-2",
+      "name": "monza 3",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/monza/d2xx-2022-now.webp"
+      }
+    }
+  ]
+}

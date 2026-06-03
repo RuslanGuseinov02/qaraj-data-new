@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "kadett",
+  "name": "kadett",
+  "generations": [
+    {
+      "slug": "kadett-0",
+      "name": "kadett 1",
+      "year_start": 1989,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/kadett/1989-1998.webp"
+      }
+    }
+  ]
+}

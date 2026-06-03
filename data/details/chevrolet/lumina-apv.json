@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "lumina-apv",
+  "name": "lumina-apv",
+  "generations": [
+    {
+      "slug": "lumina-apv-0",
+      "name": "lumina-apv 1",
+      "year_start": 1990,
+      "year_end": 1993,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/lumina-apv/1990-1993.webp"
+      }
+    },
+    {
+      "slug": "lumina-apv-1",
+      "name": "lumina-apv 2",
+      "year_start": 1994,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/lumina-apv/1994-1996.webp"
+      }
+    }
+  ]
+}

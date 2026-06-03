@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "d-max",
+  "name": "d-max",
+  "generations": [
+    {
+      "slug": "d-max-0",
+      "name": "d-max 1",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/d-max/ra-rc-2005-2009.webp"
+      }
+    },
+    {
+      "slug": "d-max-1",
+      "name": "d-max 2",
+      "year_start": 2008,
+      "year_end": 2014,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/d-max/rt-2008-2014.webp"
+      }
+    },
+    {
+      "slug": "d-max-2",
+      "name": "d-max 3",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/d-max/rt-2014-2018.webp"
+      }
+    },
+    {
+      "slug": "d-max-3",
+      "name": "d-max 4",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/d-max/rt-2018-2021.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "classic",
+  "name": "classic",
+  "generations": [
+    {
+      "slug": "classic-0",
+      "name": "classic 1",
+      "year_start": 2003,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/classic/2003-2010.webp"
+      }
+    },
+    {
+      "slug": "classic-1",
+      "name": "classic 2",
+      "year_start": 2004,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/classic/2004-2005.webp"
+      }
+    },
+    {
+      "slug": "classic-2",
+      "name": "classic 3",
+      "year_start": 2010,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/classic/2010-2016.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "suburban-c20",
+  "name": "suburban-c20",
+  "generations": [
+    {
+      "slug": "suburban-c20-0",
+      "name": "suburban-c20 1",
+      "year_start": 1973,
+      "year_end": 1986,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/suburban-c20/1973-1986.webp"
+      }
+    }
+  ]
+}

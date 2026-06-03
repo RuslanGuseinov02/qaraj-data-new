@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "corsa",
+  "name": "corsa",
+  "generations": [
+    {
+      "slug": "corsa-0",
+      "name": "corsa 1",
+      "year_start": 1994,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/corsa/1994-2002.webp"
+      }
+    },
+    {
+      "slug": "corsa-1",
+      "name": "corsa 2",
+      "year_start": 2002,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/corsa/2002-2012.webp"
+      }
+    }
+  ]
+}

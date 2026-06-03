@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "aveo",
+  "name": "aveo",
+  "generations": [
+    {
+      "slug": "aveo-0",
+      "name": "aveo 1",
+      "year_start": 2018,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/aveo/2018-2023.webp"
+      }
+    },
+    {
+      "slug": "aveo-1",
+      "name": "aveo 2",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/aveo/310c-2023-now.webp"
+      }
+    },
+    {
+      "slug": "aveo-2",
+      "name": "aveo 3",
+      "year_start": 2002,
+      "year_end": 2008,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/aveo/t200-2002-2008.webp"
+      }
+    },
+    {
+      "slug": "aveo-3",
+      "name": "aveo 4",
+      "year_start": 2004,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/aveo/t200-2004-2007.webp"
+      }
+    },
+    {
+      "slug": "aveo-4",
+      "name": "aveo 5",
+      "year_start": 2006,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/aveo/t250-2006-2016.webp"
+      }
+    },
+    {
+      "slug": "aveo-5",
+      "name": "aveo 6",
+      "year_start": 2012,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/aveo/t250-2012-2020.webp"
+      }
+    },
+    {
+      "slug": "aveo-6",
+      "name": "aveo 7",
+      "year_start": 2011,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/aveo/t300-2011-2015.webp"
+      }
+    },
+    {
+      "slug": "aveo-7",
+      "name": "aveo 8",
+      "year_start": 2017,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/aveo/t300-2017-2019.webp"
+      }
+    }
+  ]
+}

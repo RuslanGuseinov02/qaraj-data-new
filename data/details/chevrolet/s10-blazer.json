@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "s10-blazer",
+  "name": "s10-blazer",
+  "generations": [
+    {
+      "slug": "s10-blazer-0",
+      "name": "s10-blazer 1",
+      "year_start": 1983,
+      "year_end": 1994,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/s10-blazer/1983-1994.webp"
+      }
+    }
+  ]
+}

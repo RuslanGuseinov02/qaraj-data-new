@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "onix-activ",
+  "name": "onix-activ",
+  "generations": [
+    {
+      "slug": "onix-activ-0",
+      "name": "onix-activ 1",
+      "year_start": 2017,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/onix-activ/2017-2019.webp"
+      }
+    }
+  ]
+}

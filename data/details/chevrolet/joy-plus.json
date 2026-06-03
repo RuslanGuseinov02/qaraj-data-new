@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "joy-plus",
+  "name": "joy-plus",
+  "generations": [
+    {
+      "slug": "joy-plus-0",
+      "name": "joy-plus 1",
+      "year_start": 2019,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/joy-plus/2019-2024.webp"
+      }
+    }
+  ]
+}

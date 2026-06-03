@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "sail",
+  "name": "sail",
+  "generations": [
+    {
+      "slug": "sail-0",
+      "name": "sail 1",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/sail/2005-2009.webp"
+      }
+    },
+    {
+      "slug": "sail-1",
+      "name": "sail 2",
+      "year_start": 2010,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/sail/2010-2018.webp"
+      }
+    },
+    {
+      "slug": "sail-2",
+      "name": "sail 3",
+      "year_start": 2015,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/sail/2015-2023.webp"
+      }
+    },
+    {
+      "slug": "sail-3",
+      "name": "sail 4",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/sail/310c-2023-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "captiva",
+  "name": "captiva",
+  "generations": [
+    {
+      "slug": "captiva-0",
+      "name": "captiva 1",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/captiva/c100-2006-2011.webp"
+      }
+    },
+    {
+      "slug": "captiva-1",
+      "name": "captiva 2",
+      "year_start": 2011,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/captiva/c140-2011-2016.webp"
+      }
+    },
+    {
+      "slug": "captiva-2",
+      "name": "captiva 3",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/captiva/c140-2016-2018.webp"
+      }
+    },
+    {
+      "slug": "captiva-3",
+      "name": "captiva 4",
+      "year_start": 2019,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/captiva/cn202s-2019-now.webp"
+      }
+    },
+    {
+      "slug": "captiva-4",
+      "name": "captiva 5",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/captiva/f710s-2025-now.webp"
+      }
+    }
+  ]
+}

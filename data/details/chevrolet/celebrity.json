@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "celebrity",
+  "name": "celebrity",
+  "generations": [
+    {
+      "slug": "celebrity-0",
+      "name": "celebrity 1",
+      "year_start": 1982,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/celebrity/1982-1990.webp"
+      }
+    }
+  ]
+}

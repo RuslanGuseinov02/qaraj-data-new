@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "silverado-1500",
+  "name": "silverado-1500",
+  "generations": [
+    {
+      "slug": "silverado-1500-0",
+      "name": "silverado-1500 1",
+      "year_start": 1999,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado-1500/gmt800-1999-2002.webp"
+      }
+    },
+    {
+      "slug": "silverado-1500-1",
+      "name": "silverado-1500 2",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado-1500/gmt800-2003-2006.webp"
+      }
+    },
+    {
+      "slug": "silverado-1500-2",
+      "name": "silverado-1500 3",
+      "year_start": 2007,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado-1500/gmt900-2007-2013.webp"
+      }
+    },
+    {
+      "slug": "silverado-1500-3",
+      "name": "silverado-1500 4",
+      "year_start": 2014,
+      "year_end": 2015,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado-1500/k2xx-2014-2015.webp"
+      }
+    },
+    {
+      "slug": "silverado-1500-4",
+      "name": "silverado-1500 5",
+      "year_start": 2016,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado-1500/k2xx-2016-2018.webp"
+      }
+    },
+    {
+      "slug": "silverado-1500-5",
+      "name": "silverado-1500 6",
+      "year_start": 2019,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado-1500/t1xx-2019-2021.webp"
+      }
+    },
+    {
+      "slug": "silverado-1500-6",
+      "name": "silverado-1500 7",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado-1500/t1xx-2022-now.webp"
+      }
+    }
+  ]
+}

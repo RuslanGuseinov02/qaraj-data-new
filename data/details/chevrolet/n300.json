@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "n300",
+  "name": "n300",
+  "generations": [
+    {
+      "slug": "n300-0",
+      "name": "n300 1",
+      "year_start": 2012,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/n300/2012-2020.webp"
+      }
+    }
+  ]
+}

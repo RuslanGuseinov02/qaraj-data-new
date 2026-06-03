@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "silverado-3500-classic",
+  "name": "silverado-3500-classic",
+  "generations": [
+    {
+      "slug": "silverado-3500-classic-0",
+      "name": "silverado-3500-classic 1",
+      "year_start": 2007,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado-3500-classic/2007-2007.webp"
+      }
+    }
+  ]
+}

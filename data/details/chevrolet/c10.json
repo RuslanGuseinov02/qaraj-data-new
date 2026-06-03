@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "c10",
+  "name": "c10",
+  "generations": [
+    {
+      "slug": "c10-0",
+      "name": "c10 1",
+      "year_start": 1967,
+      "year_end": 1972,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/c10/1967-1972.webp"
+      }
+    },
+    {
+      "slug": "c10-1",
+      "name": "c10 2",
+      "year_start": 1973,
+      "year_end": 1980,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/c10/1973-1980.webp"
+      }
+    },
+    {
+      "slug": "c10-2",
+      "name": "c10 3",
+      "year_start": 1981,
+      "year_end": 1987,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/c10/1981-1987.webp"
+      }
+    }
+  ]
+}

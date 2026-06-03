@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "monte-carlo",
+  "name": "monte-carlo",
+  "generations": [
+    {
+      "slug": "monte-carlo-0",
+      "name": "monte-carlo 1",
+      "year_start": 1970,
+      "year_end": 1972,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/monte-carlo/1970-1972.webp"
+      }
+    },
+    {
+      "slug": "monte-carlo-1",
+      "name": "monte-carlo 2",
+      "year_start": 1973,
+      "year_end": 1975,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/monte-carlo/1973-1975.webp"
+      }
+    },
+    {
+      "slug": "monte-carlo-2",
+      "name": "monte-carlo 3",
+      "year_start": 1976,
+      "year_end": 1977,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/monte-carlo/1976-1977.webp"
+      }
+    },
+    {
+      "slug": "monte-carlo-3",
+      "name": "monte-carlo 4",
+      "year_start": 1978,
+      "year_end": 1980,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/monte-carlo/1978-1980.webp"
+      }
+    },
+    {
+      "slug": "monte-carlo-4",
+      "name": "monte-carlo 5",
+      "year_start": 1981,
+      "year_end": 1988,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/monte-carlo/1981-1988.webp"
+      }
+    },
+    {
+      "slug": "monte-carlo-5",
+      "name": "monte-carlo 6",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/monte-carlo/1995-1999.webp"
+      }
+    },
+    {
+      "slug": "monte-carlo-6",
+      "name": "monte-carlo 7",
+      "year_start": 2000,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/monte-carlo/2000-2005.webp"
+      }
+    },
+    {
+      "slug": "monte-carlo-7",
+      "name": "monte-carlo 8",
+      "year_start": 2006,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/monte-carlo/2006-2007.webp"
+      }
+    }
+  ]
+}

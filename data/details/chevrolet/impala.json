@@ -1,0 +1,90 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "impala",
+  "name": "impala",
+  "generations": [
+    {
+      "slug": "impala-0",
+      "name": "impala 1",
+      "year_start": 1958,
+      "year_end": 1958,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/impala/1958-1958.webp"
+      }
+    },
+    {
+      "slug": "impala-1",
+      "name": "impala 2",
+      "year_start": 1959,
+      "year_end": 1960,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/impala/1959-1960.webp"
+      }
+    },
+    {
+      "slug": "impala-2",
+      "name": "impala 3",
+      "year_start": 1961,
+      "year_end": 1964,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/impala/1961-1964.webp"
+      }
+    },
+    {
+      "slug": "impala-3",
+      "name": "impala 4",
+      "year_start": 1965,
+      "year_end": 1970,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/impala/1965-1970.webp"
+      }
+    },
+    {
+      "slug": "impala-4",
+      "name": "impala 5",
+      "year_start": 1994,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/impala/1994-1996.webp"
+      }
+    },
+    {
+      "slug": "impala-5",
+      "name": "impala 6",
+      "year_start": 2000,
+      "year_end": 2005,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/impala/2000-2005.webp"
+      }
+    },
+    {
+      "slug": "impala-6",
+      "name": "impala 7",
+      "year_start": 2006,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/impala/2006-2013.webp"
+      }
+    },
+    {
+      "slug": "impala-7",
+      "name": "impala 8",
+      "year_start": 2014,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/impala/2014-2020.webp"
+      }
+    }
+  ]
+}

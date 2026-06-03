@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "express-max",
+  "name": "express-max",
+  "generations": [
+    {
+      "slug": "express-max-0",
+      "name": "express-max 1",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/express-max/2025-now.webp"
+      }
+    }
+  ]
+}

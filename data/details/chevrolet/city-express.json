@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "city-express",
+  "name": "city-express",
+  "generations": [
+    {
+      "slug": "city-express-0",
+      "name": "city-express 1",
+      "year_start": 2015,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/city-express/2015-2018.webp"
+      }
+    }
+  ]
+}

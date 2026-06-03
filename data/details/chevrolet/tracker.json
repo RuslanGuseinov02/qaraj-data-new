@@ -1,0 +1,80 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "tracker",
+  "name": "tracker",
+  "generations": [
+    {
+      "slug": "tracker-0",
+      "name": "tracker 1",
+      "year_start": 1989,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/tracker/1989-1998.webp"
+      }
+    },
+    {
+      "slug": "tracker-1",
+      "name": "tracker 2",
+      "year_start": 1999,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/tracker/1999-2004.webp"
+      }
+    },
+    {
+      "slug": "tracker-2",
+      "name": "tracker 3",
+      "year_start": 2001,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/tracker/2001-2009.webp"
+      }
+    },
+    {
+      "slug": "tracker-3",
+      "name": "tracker 4",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/tracker/2013-2016.webp"
+      }
+    },
+    {
+      "slug": "tracker-4",
+      "name": "tracker 5",
+      "year_start": 2017,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/tracker/2017-2019.webp"
+      }
+    },
+    {
+      "slug": "tracker-5",
+      "name": "tracker 6",
+      "year_start": 2019,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/tracker/2019-2025.webp"
+      }
+    },
+    {
+      "slug": "tracker-6",
+      "name": "tracker 7",
+      "year_start": 2025,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/tracker/2025-now.webp"
+      }
+    }
+  ]
+}

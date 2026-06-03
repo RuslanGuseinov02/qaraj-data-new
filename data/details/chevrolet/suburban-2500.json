@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "suburban-2500",
+  "name": "suburban-2500",
+  "generations": [
+    {
+      "slug": "suburban-2500-0",
+      "name": "suburban-2500 1",
+      "year_start": 2000,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/suburban-2500/2000-2006.webp"
+      }
+    },
+    {
+      "slug": "suburban-2500-1",
+      "name": "suburban-2500 2",
+      "year_start": 2007,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/suburban-2500/2007-2013.webp"
+      }
+    }
+  ]
+}

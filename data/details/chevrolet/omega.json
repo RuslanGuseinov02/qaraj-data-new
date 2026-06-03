@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "omega",
+  "name": "omega",
+  "generations": [
+    {
+      "slug": "omega-0",
+      "name": "omega 1",
+      "year_start": 1992,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/omega/a-1992-1998.webp"
+      }
+    },
+    {
+      "slug": "omega-1",
+      "name": "omega 2",
+      "year_start": 1999,
+      "year_end": 2000,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/omega/b-1999-2000.webp"
+      }
+    },
+    {
+      "slug": "omega-2",
+      "name": "omega 3",
+      "year_start": 2001,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/omega/b-2001-2002.webp"
+      }
+    },
+    {
+      "slug": "omega-3",
+      "name": "omega 4",
+      "year_start": 2003,
+      "year_end": 2006,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/omega/b-2003-2006.webp"
+      }
+    },
+    {
+      "slug": "omega-4",
+      "name": "omega 5",
+      "year_start": 2007,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/omega/c-2007-2012.webp"
+      }
+    }
+  ]
+}

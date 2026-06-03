@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "silverado-3500",
+  "name": "silverado-3500",
+  "generations": [
+    {
+      "slug": "silverado-3500-0",
+      "name": "silverado-3500 1",
+      "year_start": 2001,
+      "year_end": 2002,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado-3500/gmt800-2001-2002.webp"
+      }
+    },
+    {
+      "slug": "silverado-3500-1",
+      "name": "silverado-3500 2",
+      "year_start": 2003,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado-3500/gmt800-2003-2007.webp"
+      }
+    },
+    {
+      "slug": "silverado-3500-2",
+      "name": "silverado-3500 3",
+      "year_start": 2007,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado-3500/gmt900-2007-2013.webp"
+      }
+    },
+    {
+      "slug": "silverado-3500-3",
+      "name": "silverado-3500 4",
+      "year_start": 2014,
+      "year_end": 2018,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado-3500/k2xx-2014-2018.webp"
+      }
+    }
+  ]
+}

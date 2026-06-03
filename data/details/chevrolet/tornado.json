@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "tornado",
+  "name": "tornado",
+  "generations": [
+    {
+      "slug": "tornado-0",
+      "name": "tornado 1",
+      "year_start": 2004,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/tornado/2004-2011.webp"
+      }
+    },
+    {
+      "slug": "tornado-1",
+      "name": "tornado 2",
+      "year_start": 2011,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/tornado/2011-2021.webp"
+      }
+    }
+  ]
+}

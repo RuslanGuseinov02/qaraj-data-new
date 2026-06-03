@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "cruze-rs",
+  "name": "cruze-rs",
+  "generations": [
+    {
+      "slug": "cruze-rs-0",
+      "name": "cruze-rs 1",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/cruze-rs/d2lc-2020-2024.webp"
+      }
+    }
+  ]
+}

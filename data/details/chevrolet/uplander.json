@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "uplander",
+  "name": "uplander",
+  "generations": [
+    {
+      "slug": "uplander-0",
+      "name": "uplander 1",
+      "year_start": 2005,
+      "year_end": 2009,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/uplander/2005-2009.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "spark-activ",
+  "name": "spark-activ",
+  "generations": [
+    {
+      "slug": "spark-activ-0",
+      "name": "spark-activ 1",
+      "year_start": 2017,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/spark-activ/m400-2017-2021.webp"
+      }
+    }
+  ]
+}

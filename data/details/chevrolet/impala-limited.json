@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "impala-limited",
+  "name": "impala-limited",
+  "generations": [
+    {
+      "slug": "impala-limited-0",
+      "name": "impala-limited 1",
+      "year_start": 2014,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/impala-limited/2014-2016.webp"
+      }
+    }
+  ]
+}

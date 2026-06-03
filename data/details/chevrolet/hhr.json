@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "hhr",
+  "name": "hhr",
+  "generations": [
+    {
+      "slug": "hhr-0",
+      "name": "hhr 1",
+      "year_start": 2006,
+      "year_end": 2011,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/hhr/2006-2011.webp"
+      }
+    }
+  ]
+}

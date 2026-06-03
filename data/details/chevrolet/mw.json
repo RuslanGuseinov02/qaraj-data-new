@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "mw",
+  "name": "mw",
+  "generations": [
+    {
+      "slug": "mw-0",
+      "name": "mw 1",
+      "year_start": 2000,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/mw/2000-2010.webp"
+      }
+    }
+  ]
+}

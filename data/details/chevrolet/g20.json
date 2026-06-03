@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "g20",
+  "name": "g20",
+  "generations": [
+    {
+      "slug": "g20-0",
+      "name": "g20 1",
+      "year_start": 1971,
+      "year_end": 1977,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/g20/1971-1977.webp"
+      }
+    },
+    {
+      "slug": "g20-1",
+      "name": "g20 2",
+      "year_start": 1978,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/g20/1978-1996.webp"
+      }
+    }
+  ]
+}

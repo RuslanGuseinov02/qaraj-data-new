@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "hhr-ss",
+  "name": "hhr-ss",
+  "generations": [
+    {
+      "slug": "hhr-ss-0",
+      "name": "hhr-ss 1",
+      "year_start": 2008,
+      "year_end": 2010,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/hhr-ss/2008-2010.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "express-pasajeros",
+  "name": "express-pasajeros",
+  "generations": [
+    {
+      "slug": "express-pasajeros-0",
+      "name": "express-pasajeros 1",
+      "year_start": 2010,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/express-pasajeros/gmt610-2010-now.webp"
+      }
+    }
+  ]
+}

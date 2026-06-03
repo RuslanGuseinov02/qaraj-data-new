@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "seeker",
+  "name": "seeker",
+  "generations": [
+    {
+      "slug": "seeker-0",
+      "name": "seeker 1",
+      "year_start": 2022,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/seeker/2022-now.webp"
+      }
+    }
+  ]
+}

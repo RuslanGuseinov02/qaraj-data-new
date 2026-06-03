@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "prisma",
+  "name": "prisma",
+  "generations": [
+    {
+      "slug": "prisma-0",
+      "name": "prisma 1",
+      "year_start": 2006,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/prisma/2006-2012.webp"
+      }
+    },
+    {
+      "slug": "prisma-1",
+      "name": "prisma 2",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/prisma/2013-2016.webp"
+      }
+    },
+    {
+      "slug": "prisma-2",
+      "name": "prisma 3",
+      "year_start": 2017,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/prisma/2017-2019.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "avalanche",
+  "name": "avalanche",
+  "generations": [
+    {
+      "slug": "avalanche-0",
+      "name": "avalanche 1",
+      "year_start": 2007,
+      "year_end": 2013,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/avalanche/2007-2013.webp"
+      }
+    }
+  ]
+}

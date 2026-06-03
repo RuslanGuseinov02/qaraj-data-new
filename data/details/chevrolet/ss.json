@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "ss",
+  "name": "ss",
+  "generations": [
+    {
+      "slug": "ss-0",
+      "name": "ss 1",
+      "year_start": 2014,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/ss/2014-2017.webp"
+      }
+    }
+  ]
+}

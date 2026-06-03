@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "silverado-1500-ld",
+  "name": "silverado-1500-ld",
+  "generations": [
+    {
+      "slug": "silverado-1500-ld-0",
+      "name": "silverado-1500-ld 1",
+      "year_start": 2018,
+      "year_end": 2019,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/silverado-1500-ld/k2xx-2018-2019.webp"
+      }
+    }
+  ]
+}

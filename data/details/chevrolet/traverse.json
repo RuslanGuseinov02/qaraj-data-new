@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "chevrolet",
+    "name": "CHEVROLET"
+  },
+  "slug": "traverse",
+  "name": "traverse",
+  "generations": [
+    {
+      "slug": "traverse-0",
+      "name": "traverse 1",
+      "year_start": 2009,
+      "year_end": 2012,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/traverse/2009-2012.webp"
+      }
+    },
+    {
+      "slug": "traverse-1",
+      "name": "traverse 2",
+      "year_start": 2013,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/traverse/2013-2017.webp"
+      }
+    },
+    {
+      "slug": "traverse-2",
+      "name": "traverse 3",
+      "year_start": 2018,
+      "year_end": 2021,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/traverse/2018-2021.webp"
+      }
+    },
+    {
+      "slug": "traverse-3",
+      "name": "traverse 4",
+      "year_start": 2022,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/traverse/2022-2024.webp"
+      }
+    },
+    {
+      "slug": "traverse-4",
+      "name": "traverse 5",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/chevrolet/traverse/2024-now.webp"
+      }
+    }
+  ]
+}
