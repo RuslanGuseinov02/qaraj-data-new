@@ -1,0 +1,40 @@
+{
+  "make": {
+    "slug": "force",
+    "name": "FORCE"
+  },
+  "slug": "gurkha",
+  "name": "gurkha",
+  "generations": [
+    {
+      "slug": "gurkha-0",
+      "name": "gurkha 1",
+      "year_start": 2013,
+      "year_end": 2016,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/force/gurkha/2013-2016.webp"
+      }
+    },
+    {
+      "slug": "gurkha-1",
+      "name": "gurkha 2",
+      "year_start": 2017,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/force/gurkha/2017-2020.webp"
+      }
+    },
+    {
+      "slug": "gurkha-2",
+      "name": "gurkha 3",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/force/gurkha/2021-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "force",
+    "name": "FORCE"
+  },
+  "slug": "trax",
+  "name": "trax",
+  "generations": [
+    {
+      "slug": "trax-0",
+      "name": "trax 1",
+      "year_start": 2011,
+      "year_end": 2020,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/force/trax/2011-2020.webp"
+      }
+    },
+    {
+      "slug": "trax-1",
+      "name": "trax 2",
+      "year_start": 2021,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/force/trax/2021-now.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "force",
+    "name": "FORCE"
+  },
+  "slug": "traveller",
+  "name": "traveller",
+  "generations": [
+    {
+      "slug": "traveller-0",
+      "name": "traveller 1",
+      "year_start": 2014,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/force/traveller/2014-now.webp"
+      }
+    }
+  ]
+}

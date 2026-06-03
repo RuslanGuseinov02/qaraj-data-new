@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "force",
+    "name": "FORCE"
+  },
+  "slug": "one",
+  "name": "one",
+  "generations": [
+    {
+      "slug": "one-0",
+      "name": "one 1",
+      "year_start": 2011,
+      "year_end": 2017,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/force/one/2011-2017.webp"
+      }
+    }
+  ]
+}
