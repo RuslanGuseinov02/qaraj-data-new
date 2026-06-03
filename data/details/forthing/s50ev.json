@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "forthing",
+    "name": "FORTHING"
+  },
+  "slug": "s50ev",
+  "name": "s50ev",
+  "generations": [
+    {
+      "slug": "s50ev-0",
+      "name": "s50ev 1",
+      "year_start": 2020,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/forthing/s50ev/2020-2025.webp"
+      }
+    }
+  ]
+}

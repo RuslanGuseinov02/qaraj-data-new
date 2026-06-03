@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "forthing",
+    "name": "FORTHING"
+  },
+  "slug": "t5l",
+  "name": "t5l",
+  "generations": [
+    {
+      "slug": "t5l-0",
+      "name": "t5l 1",
+      "year_start": 2020,
+      "year_end": 2024,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/forthing/t5l/2020-2024.webp"
+      }
+    }
+  ]
+}

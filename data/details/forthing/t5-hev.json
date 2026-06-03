@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "forthing",
+    "name": "FORTHING"
+  },
+  "slug": "t5-hev",
+  "name": "t5-hev",
+  "generations": [
+    {
+      "slug": "t5-hev-0",
+      "name": "t5-hev 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/forthing/t5-hev/2024-now.webp"
+      }
+    }
+  ]
+}

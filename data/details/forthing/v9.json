@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "forthing",
+    "name": "FORTHING"
+  },
+  "slug": "v9",
+  "name": "v9",
+  "generations": [
+    {
+      "slug": "v9-0",
+      "name": "v9 1",
+      "year_start": 2024,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/forthing/v9/2024-now.webp"
+      }
+    }
+  ]
+}

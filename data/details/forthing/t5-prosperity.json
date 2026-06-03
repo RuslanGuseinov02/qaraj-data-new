@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "forthing",
+    "name": "FORTHING"
+  },
+  "slug": "t5-prosperity",
+  "name": "t5-prosperity",
+  "generations": [
+    {
+      "slug": "t5-prosperity-0",
+      "name": "t5-prosperity 1",
+      "year_start": 2020,
+      "year_end": 2023,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/forthing/t5-prosperity/2020-2023.webp"
+      }
+    },
+    {
+      "slug": "t5-prosperity-1",
+      "name": "t5-prosperity 2",
+      "year_start": 2023,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/forthing/t5-prosperity/2023-2025.webp"
+      }
+    }
+  ]
+}

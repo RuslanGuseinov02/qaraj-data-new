@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "forthing",
+    "name": "FORTHING"
+  },
+  "slug": "lingzhi-m5",
+  "name": "lingzhi-m5",
+  "generations": [
+    {
+      "slug": "lingzhi-m5-0",
+      "name": "lingzhi-m5 1",
+      "year_start": 2020,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/forthing/lingzhi-m5/2020-now.webp"
+      }
+    }
+  ]
+}

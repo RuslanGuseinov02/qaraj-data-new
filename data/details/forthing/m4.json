@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "forthing",
+    "name": "FORTHING"
+  },
+  "slug": "m4",
+  "name": "m4",
+  "generations": [
+    {
+      "slug": "m4-0",
+      "name": "m4 1",
+      "year_start": 2023,
+      "year_end": 2026,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/forthing/m4/2023-now.webp"
+      }
+    }
+  ]
+}
