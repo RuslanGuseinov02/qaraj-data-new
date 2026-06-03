@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "fisker",
+    "name": "FISKER"
+  },
+  "slug": "ocean",
+  "name": "ocean",
+  "generations": [
+    {
+      "slug": "ocean-0",
+      "name": "ocean 1",
+      "year_start": 2022,
+      "year_end": 2025,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fisker/ocean/2022-2025.webp"
+      }
+    }
+  ]
+}

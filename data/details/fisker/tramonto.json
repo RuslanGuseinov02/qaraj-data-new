@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "fisker",
+    "name": "FISKER"
+  },
+  "slug": "tramonto",
+  "name": "tramonto",
+  "generations": [
+    {
+      "slug": "tramonto-0",
+      "name": "tramonto 1",
+      "year_start": 2005,
+      "year_end": 2007,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/fisker/tramonto/2005-2007.webp"
+      }
+    }
+  ]
+}
