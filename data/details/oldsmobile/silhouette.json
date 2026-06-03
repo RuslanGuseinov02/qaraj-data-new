@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "oldsmobile",
+    "name": "OLDSMOBILE"
+  },
+  "slug": "silhouette",
+  "name": "silhouette",
+  "generations": [
+    {
+      "slug": "silhouette-0",
+      "name": "silhouette 1",
+      "year_start": 1989,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/silhouette/gmt199-1989-1996.webp"
+      }
+    },
+    {
+      "slug": "silhouette-1",
+      "name": "silhouette 2",
+      "year_start": 1996,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/silhouette/gmt200-1996-2004.webp"
+      }
+    }
+  ]
+}

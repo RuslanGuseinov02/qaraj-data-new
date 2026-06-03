@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "oldsmobile",
+    "name": "OLDSMOBILE"
+  },
+  "slug": "lss",
+  "name": "lss",
+  "generations": [
+    {
+      "slug": "lss-0",
+      "name": "lss 1",
+      "year_start": 1997,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/lss/1997-1999.webp"
+      }
+    }
+  ]
+}

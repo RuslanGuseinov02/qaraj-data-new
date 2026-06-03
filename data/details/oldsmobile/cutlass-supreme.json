@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "oldsmobile",
+    "name": "OLDSMOBILE"
+  },
+  "slug": "cutlass-supreme",
+  "name": "cutlass-supreme",
+  "generations": [
+    {
+      "slug": "cutlass-supreme-0",
+      "name": "cutlass-supreme 1",
+      "year_start": 1988,
+      "year_end": 1997,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/cutlass-supreme/1988-1997.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "make": {
+    "slug": "oldsmobile",
+    "name": "OLDSMOBILE"
+  },
+  "slug": "cutlass",
+  "name": "cutlass",
+  "generations": [
+    {
+      "slug": "cutlass-0",
+      "name": "cutlass 1",
+      "year_start": 1964,
+      "year_end": 1967,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/cutlass/a-body-1964-1967.webp"
+      }
+    },
+    {
+      "slug": "cutlass-1",
+      "name": "cutlass 2",
+      "year_start": 1968,
+      "year_end": 1972,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/cutlass/a-body-1968-1972.webp"
+      }
+    },
+    {
+      "slug": "cutlass-2",
+      "name": "cutlass 3",
+      "year_start": 1973,
+      "year_end": 1977,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/cutlass/a-body-1973-1977.webp"
+      }
+    },
+    {
+      "slug": "cutlass-3",
+      "name": "cutlass 4",
+      "year_start": 1978,
+      "year_end": 1981,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/cutlass/a-body-1978-1981.webp"
+      }
+    },
+    {
+      "slug": "cutlass-4",
+      "name": "cutlass 5",
+      "year_start": 1997,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/cutlass/p-90-1997-1999.webp"
+      }
+    },
+    {
+      "slug": "cutlass-5",
+      "name": "cutlass 6",
+      "year_start": 1961,
+      "year_end": 1963,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/cutlass/y-body-1961-1963.webp"
+      }
+    }
+  ]
+}

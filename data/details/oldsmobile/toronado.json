@@ -1,0 +1,50 @@
+{
+  "make": {
+    "slug": "oldsmobile",
+    "name": "OLDSMOBILE"
+  },
+  "slug": "toronado",
+  "name": "toronado",
+  "generations": [
+    {
+      "slug": "toronado-0",
+      "name": "toronado 1",
+      "year_start": 1966,
+      "year_end": 1970,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/toronado/1966-1970.webp"
+      }
+    },
+    {
+      "slug": "toronado-1",
+      "name": "toronado 2",
+      "year_start": 1971,
+      "year_end": 1978,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/toronado/1971-1978.webp"
+      }
+    },
+    {
+      "slug": "toronado-2",
+      "name": "toronado 3",
+      "year_start": 1979,
+      "year_end": 1985,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/toronado/1979-1985.webp"
+      }
+    },
+    {
+      "slug": "toronado-3",
+      "name": "toronado 4",
+      "year_start": 1986,
+      "year_end": 1992,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/toronado/1986-1992.webp"
+      }
+    }
+  ]
+}

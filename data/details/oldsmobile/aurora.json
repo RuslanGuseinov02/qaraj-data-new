@@ -1,0 +1,30 @@
+{
+  "make": {
+    "slug": "oldsmobile",
+    "name": "OLDSMOBILE"
+  },
+  "slug": "aurora",
+  "name": "aurora",
+  "generations": [
+    {
+      "slug": "aurora-0",
+      "name": "aurora 1",
+      "year_start": 1995,
+      "year_end": 1999,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/aurora/1995-1999.webp"
+      }
+    },
+    {
+      "slug": "aurora-1",
+      "name": "aurora 2",
+      "year_start": 2001,
+      "year_end": 2003,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/aurora/2001-2003.webp"
+      }
+    }
+  ]
+}

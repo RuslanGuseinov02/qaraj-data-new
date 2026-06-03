@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "oldsmobile",
+    "name": "OLDSMOBILE"
+  },
+  "slug": "alero",
+  "name": "alero",
+  "generations": [
+    {
+      "slug": "alero-0",
+      "name": "alero 1",
+      "year_start": 1998,
+      "year_end": 2004,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/alero/1998-2004.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "oldsmobile",
+    "name": "OLDSMOBILE"
+  },
+  "slug": "achieva",
+  "name": "achieva",
+  "generations": [
+    {
+      "slug": "achieva-0",
+      "name": "achieva 1",
+      "year_start": 1992,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/achieva/1992-1998.webp"
+      }
+    }
+  ]
+}

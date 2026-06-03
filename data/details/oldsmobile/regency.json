@@ -1,0 +1,20 @@
+{
+  "make": {
+    "slug": "oldsmobile",
+    "name": "OLDSMOBILE"
+  },
+  "slug": "regency",
+  "name": "regency",
+  "generations": [
+    {
+      "slug": "regency-0",
+      "name": "regency 1",
+      "year_start": 1997,
+      "year_end": 1998,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/regency/1997-1998.webp"
+      }
+    }
+  ]
+}

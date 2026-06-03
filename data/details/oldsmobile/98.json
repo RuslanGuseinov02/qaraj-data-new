@@ -1,0 +1,60 @@
+{
+  "make": {
+    "slug": "oldsmobile",
+    "name": "OLDSMOBILE"
+  },
+  "slug": "98",
+  "name": "98",
+  "generations": [
+    {
+      "slug": "98-0",
+      "name": "98 1",
+      "year_start": 1965,
+      "year_end": 1970,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/98/c-body-1965-1970.webp"
+      }
+    },
+    {
+      "slug": "98-1",
+      "name": "98 2",
+      "year_start": 1971,
+      "year_end": 1976,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/98/c-body-1971-1976.webp"
+      }
+    },
+    {
+      "slug": "98-2",
+      "name": "98 3",
+      "year_start": 1977,
+      "year_end": 1984,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/98/c-platform-1977-1984.webp"
+      }
+    },
+    {
+      "slug": "98-3",
+      "name": "98 4",
+      "year_start": 1985,
+      "year_end": 1990,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/98/c-platform-1985-1990.webp"
+      }
+    },
+    {
+      "slug": "98-4",
+      "name": "98 5",
+      "year_start": 1991,
+      "year_end": 1996,
+      "body_type": "unknown",
+      "images": {
+        "webp": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/oldsmobile/98/c-platform-1991-1996.webp"
+      }
+    }
+  ]
+}
