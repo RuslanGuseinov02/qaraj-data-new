@@ -63,7 +63,7 @@
         {
             "slug": "avatr",
             "name": "Avatr",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/avatr.png"
         },
         {
             "slug": "baic",
@@ -73,7 +73,7 @@
         {
             "slug": "baw",
             "name": "BAW",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/baw.png"
         },
         {
             "slug": "bmw",
@@ -93,7 +93,7 @@
         {
             "slug": "bajaj",
             "name": "Bajaj",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/bajaj.png"
         },
         {
             "slug": "bentley",
@@ -133,7 +133,7 @@
         {
             "slug": "changan-qiyuan",
             "name": "Changan Qiyuan Nevo",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/changan.png"
         },
         {
             "slug": "chery",
@@ -163,7 +163,7 @@
         {
             "slug": "dfsk",
             "name": "DFSK",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/dfsk.png"
         },
         {
             "slug": "dr",
@@ -198,12 +198,12 @@
         {
             "slug": "deepal",
             "name": "Deepal",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/deepal.png"
         },
         {
             "slug": "denza",
             "name": "Denza",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/denza.png"
         },
         {
             "slug": "dodge",
@@ -398,7 +398,7 @@
         {
             "slug": "iran-khodro",
             "name": "Iran Khodro",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/iran-khodro.png"
         },
         {
             "slug": "isuzu",
@@ -423,12 +423,12 @@
         {
             "slug": "jmev",
             "name": "JMEV",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/kmev.png"
         },
         {
             "slug": "jaecoo",
             "name": "Jaecoo",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/jaecoo.png"
         },
         {
             "slug": "jaguar",
@@ -448,7 +448,7 @@
         {
             "slug": "jinbei",
             "name": "Jinbei",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/jinbei.png"
         },
         {
             "slug": "kg-mobility",
@@ -458,17 +458,17 @@
         {
             "slug": "kaiyi",
             "name": "Kaiyi",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/kaiyi.png"
         },
         {
             "slug": "karry",
             "name": "Karry",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/karry.png"
         },
         {
             "slug": "keyton",
             "name": "Keyton",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/keyton.png"
         },
         {
             "slug": "kia",
@@ -548,7 +548,7 @@
         {
             "slug": "livan",
             "name": "Livan",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/livan.png"
         },
         {
             "slug": "lotus",
@@ -668,7 +668,7 @@
         {
             "slug": "moskvich",
             "name": "Moskvich",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/moskvich.png"
         },
         {
             "slug": "mosler",
@@ -703,7 +703,7 @@
         {
             "slug": "ora",
             "name": "Ora",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/ora.png"
         },
         {
             "slug": "panoz",
@@ -768,7 +768,7 @@
         {
             "slug": "ravon",
             "name": "Ravon",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/ravon.png"
         },
         {
             "slug": "renault",
@@ -863,7 +863,7 @@
         {
             "slug": "skywell",
             "name": "Skywell",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/skywell.png"
         },
         {
             "slug": "smart",
@@ -918,7 +918,7 @@
         {
             "slug": "togg",
             "name": "Togg",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/togg.png"
         },
         {
             "slug": "toyota",
@@ -973,7 +973,7 @@
         {
             "slug": "voyah",
             "name": "Voyah",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/voyah.png"
         },
         {
             "slug": "wey",
@@ -993,7 +993,7 @@
         {
             "slug": "xiaomi",
             "name": "Xiaomi",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/xiaomi.png"
         },
         {
             "slug": "yangwang",
@@ -1003,7 +1003,7 @@
         {
             "slug": "zx",
             "name": "ZX",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/zx.png"
         },
         {
             "slug": "zedriv",
