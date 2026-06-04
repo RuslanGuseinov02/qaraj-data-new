@@ -158,7 +158,7 @@
         {
             "slug": "cupra",
             "name": "Cupra",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/cupra.png"
         },
         {
             "slug": "dfsk",
@@ -418,7 +418,7 @@
         {
             "slug": "jmc",
             "name": "JMC",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/jmc.png"
         },
         {
             "slug": "jmev",
@@ -443,7 +443,7 @@
         {
             "slug": "jetour",
             "name": "Jetour",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/jetour.png"
         },
         {
             "slug": "jinbei",
@@ -478,7 +478,7 @@
         {
             "slug": "kinglong",
             "name": "King Long",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/king-long.png"
         },
         {
             "slug": "lada",
@@ -493,7 +493,7 @@
         {
             "slug": "levc",
             "name": "LEVC",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/levc.png"
         },
         {
             "slug": "lamborghini",
@@ -528,7 +528,7 @@
         {
             "slug": "li",
             "name": "Li",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/li-auto.png"
         },
         {
             "slug": "lifan",
@@ -573,7 +573,7 @@
         {
             "slug": "lynk-and-co",
             "name": "Lynk&Co",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/lynk-and-co.png"
         },
         {
             "slug": "man",
@@ -693,7 +693,7 @@
         {
             "slug": "omoda",
             "name": "Omoda",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/omoda.png"
         },
         {
             "slug": "opel",
@@ -778,7 +778,7 @@
         {
             "slug": "renault-samsung",
             "name": "Renault Samsung",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/renault-samsung.png"
         },
         {
             "slug": "rising",
@@ -813,7 +813,7 @@
         {
             "slug": "sev",
             "name": "SEV",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/sev.png"
         },
         {
             "slug": "swm",
@@ -938,7 +938,7 @@
         {
             "slug": "vaz",
             "name": "VAZ",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/vaz.png"
         },
         {
             "slug": "vgv",
