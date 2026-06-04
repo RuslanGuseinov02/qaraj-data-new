@@ -278,7 +278,7 @@
         {
             "slug": "forthing",
             "name": "Forthing",
-            "logo": null
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/forthing.png"
         },
         {
             "slug": "foton",
@@ -423,7 +423,7 @@
         {
             "slug": "jmev",
             "name": "JMEV",
-            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/kmev.png"
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/jmev.png"
         },
         {
             "slug": "jaecoo",
@@ -668,7 +668,7 @@
         {
             "slug": "moskvich",
             "name": "Moskvich",
-            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/moskvich.png"
+            "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data-new/main/images/logos/moskvitch.png"
         },
         {
             "slug": "mosler",
